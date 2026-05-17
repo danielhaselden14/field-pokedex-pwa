@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Field PokÃƒÂ©dex</title>
   <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="styles.css?v=20260517-163331" />
+  <link rel="stylesheet" href="styles.css?v=20260517-162612" />
   <meta name="theme-color" content="#1f3d2b" />
   <style>
     .screen {
@@ -185,7 +185,7 @@
           <button type="button" data-jump-target="detail-ecology">Ecology</button>
           <button type="button" data-jump-target="detail-safety">Safety</button>
           <button type="button" data-jump-target="detail-survival">Survival</button>
-          <button type="button" data-jump-target="detail-anatomy-card">Anatomy</button>
+          <button type="button" data-jump-target="detail-media">Media</button>
         </section>
 
         <section class="hero-card detail-card" id="detail-overview">
@@ -433,7 +433,7 @@
             <section class="card-grid related-entry-list" id="detail-related-entries"></section>
           </article>
 
-                    <article class="entry-card hidden" id="detail-media"><h3>Media / Source</h3>
+          <article class="entry-card" id="detail-media"><h3>Media / Source</h3>
             <p id="detail-image-path"></p>
             <p id="detail-audio-path"></p>
             <p id="detail-author"></p>
@@ -441,22 +441,17 @@
           <article class="entry-card anatomy-image-card hidden" id="detail-anatomy-card">
             <h3>Biological Anatomy Plate</h3>
             <p id="detail-anatomy-caption"></p>
-            <a id="detail-anatomy-link" class="anatomy-open-link" href="#" target="_blank" rel="noopener">
-              <img id="detail-anatomy-image" alt="Anatomy reference" />
-            </a>
-            <p class="anatomy-open-note">Tap or click the image to open it full-size.</p>
+            <img id="detail-anatomy-image" alt="Anatomy reference" />
           </article>
         </section>
       </section>
     </main>
   </div>
 
-  <script src="app.js?v=20260517-163331"></script>
+  <script src="app.js?v=20260517-162612"></script>
   <script src="voice-search.js"></script>
 </body>
 </html>
-
-
 
 
 

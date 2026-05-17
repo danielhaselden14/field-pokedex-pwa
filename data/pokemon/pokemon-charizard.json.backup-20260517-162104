@@ -1,0 +1,329 @@
+﻿{
+    "id":  "pokemon-charizard",
+    "entryId":  "PKMN-0006",
+    "pokedexNumber":  "#0006",
+    "name":  "Charizard",
+    "category":  "animals",
+    "type":  "Fire / Flying Creature",
+    "elementType":  "fire",
+    "dangerLevel":  "Extreme",
+    "rarity":  "Very Rare",
+    "region":  "Kanto",
+    "route":  "Mountain nests, volcanic ridges, high cliffs, old fortress ruins, and remote burned valleys",
+    "habitat":  "High warm terrain with strong updrafts, cave roosts, open flight lanes, and limited human access",
+    "classification":  "Flame Pokemon / Winged Fire Dragon",
+    "height":  "5 ft 7 in",
+    "weight":  "199.5 lbs",
+    "behaviorTemperament":  "Independent, proud, and highly territorial. It may ignore small prey while actively challenging strong creatures or intruders near its roost.",
+    "diet":  "Large mammals, birds, fish, carrion, high-fat prey, charred vegetation, and managed high-protein feed",
+    "activityPattern":  "Diurnal flight and dusk hunting. Roosts during storms and extreme cold.",
+    "bestTimeToFind":  "From far away at sunrise near cliff roosts when warm air begins rising",
+    "observationDifficulty":  "High. Easy to spot in flight, hard to survive if too close to a nesting adult.",
+    "conservationStatus":  "Strictly protected apex species with public safety restrictions",
+    "populationStatus":  "Rare. Stable only in remote protected ranges.",
+    "description":  "A large flying fire predator capable of sustained flight, intense flame projection, and territorial attacks. In survival terms, Charizard is not a campfire helper. It is an aerial apex hazard.",
+    "lore":  "Ancient settlements painted Charizard silhouettes over gates to warn travelers which valleys had no law after sunset.",
+    "survivalUse":  "Can provide aerial evacuation, predator deterrence, signal fire, and heat in extreme emergencies. The risk of attracting or causing disaster is severe.",
+    "handlingWarning":  "Never approach a roost, egg, injured wing, or feeding adult. Do not shine lights into its eyes at night.",
+    "encounterAdvice":  "Do not stand in open ground. Move under rock cover, stay low, avoid smoke plumes, and leave the territory without running toward cliffs.",
+    "firstAid":  "For burns, cool immediately and seek emergency care. For bite or claw wounds, control bleeding and treat as contaminated trauma. For smoke exposure, move to clean air.",
+    "companionSuitability":  "Poor for homes. Possible working partnership only with elite handlers and protected range access.",
+    "abilities":  [
+                      "Blaze",
+                      "Solar Power"
+                  ],
+    "fieldBehaviors":  [
+                           "Thermal soaring",
+                           "Cliff roosting",
+                           "Flame marking",
+                           "Challenge roaring",
+                           "Carrion scanning from altitude"
+                       ],
+    "weaknesses":  [
+                       "Rock",
+                       "Water",
+                       "Electric",
+                       "Cold rain",
+                       "Wing injury",
+                       "Fuel exhaustion"
+                   ],
+    "resistances":  [
+                        "Fire",
+                        "Grass",
+                        "Fighting",
+                        "Bug",
+                        "Steel",
+                        "Fairy",
+                        "Ground immunity in game type logic"
+                    ],
+    "signsOfPresence":  [
+                            "Large scorched landing marks",
+                            "Wing-claw scratches",
+                            "Burned carcasses",
+                            "Sulfur-char odor",
+                            "High cliff nests",
+                            "Melted glassy sand patches"
+                        ],
+    "equipment":  [
+                      "Long-distance optics",
+                      "Fire shelter",
+                      "Radio beacon",
+                      "Burn kit",
+                      "Helmet",
+                      "Heat-resistant outer layer",
+                      "Do not carry loose fuel"
+                  ],
+    "stats":  {
+                  "power":  5,
+                  "speed":  5,
+                  "stealth":  2,
+                  "danger":  5,
+                  "usefulness":  4,
+                  "food":  1,
+                  "medicine":  1,
+                  "identificationDifficulty":  1,
+                  "reliability":  1,
+                  "resourceCost":  5,
+                  "speedOfOnset":  5,
+                  "detectability":  2,
+                  "preventability":  1,
+                  "medicalPriority":  5,
+                  "warmth":  5
+              },
+    "fieldNote":  "If a Charizard circles without attacking, it may be measuring wind, escape paths, and whether you are worth the energy.",
+    "visualSymbol":  "ðŸ”¥",
+    "audio":  "audio/pokemon/charizard.mp3",
+    "entryAuthor":  "Ranger Field Survival Office",
+    "originStory":  "The Charizard line appears to have evolved from heat-cave predators that traded camouflage for fire. Its darkest adaptation is psychological: a healthy adult often refuses weak prey, seeking stronger opponents because combat itself selects mates and territory.",
+    "evolutionLine":  [
+                          {
+                              "name":  "None",
+                              "stage":  "Baby",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "Charmander",
+                              "stage":  "Base",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "Charmeleon",
+                              "stage":  "Stage One",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "Charizard",
+                              "stage":  "Stage Two",
+                              "method":  "Final standard form",
+                              "note":  "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+                          },
+                          {
+                              "name":  "Mega Charizard X",
+                              "stage":  "Mega",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "Mega Charizard Y",
+                              "stage":  "Mega",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "Gigantamax Charizard",
+                              "stage":  "Gigantamax",
+                              "method":  "",
+                              "note":  ""
+                          },
+                          {
+                              "name":  "None known",
+                              "stage":  "Regional Variant",
+                              "method":  "",
+                              "note":  ""
+                          }
+                      ],
+    "evolutionTree":  {
+                          "familyName":  "Charmander Evolution Family",
+                          "subtitle":  "Evolution Tree",
+                          "mainLine":  [
+                                           {
+                                               "name":  "None",
+                                               "stage":  "Baby",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           },
+                                           {
+                                               "name":  "Charmander",
+                                               "stage":  "Base",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  "",
+                                               "image":  "./assets/images/pokemon/charmander/charmander-display.png",
+                                               "imagePath":  "./assets/images/pokemon/charmander/charmander-display.png",
+                                               "sprite":  "./assets/images/pokemon/charmander/charmander-display.png"
+                                           },
+                                           {
+                                               "name":  "Charmeleon",
+                                               "stage":  "Stage One",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           },
+                                           {
+                                               "name":  "Charizard",
+                                               "stage":  "Stage Two",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "Final standard form",
+                                               "note":  "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+                                           },
+                                           {
+                                               "name":  "Mega Charizard X",
+                                               "stage":  "Mega",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           },
+                                           {
+                                               "name":  "Mega Charizard Y",
+                                               "stage":  "Mega",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           },
+                                           {
+                                               "name":  "Gigantamax Charizard",
+                                               "stage":  "Gigantamax",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           },
+                                           {
+                                               "name":  "None known",
+                                               "stage":  "Regional Variant",
+                                               "types":  [
+                                                             "Fire"
+                                                         ],
+                                               "symbol":  "ðŸ”¥",
+                                               "methodToNext":  "",
+                                               "note":  ""
+                                           }
+                                       ],
+                          "variants":  [
+                                           {
+                                               "from":  "Charizard",
+                                               "method":  "Special catalyst, battle phenomenon, or Gigantamax factor",
+                                               "target":  {
+                                                              "name":  "Mega Charizard X; Mega Charizard Y; Gigantamax Charizard",
+                                                              "stage":  "Branch Evolution",
+                                                              "types":  [
+                                                                            "Fire"
+                                                                        ],
+                                                              "symbol":  "ðŸ”¥",
+                                                              "note":  "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+                                                          }
+                                           }
+                                       ]
+                      },
+    "tags":  [
+                 "pokemon",
+                 "fire",
+                 "flying",
+                 "dragon-like",
+                 "apex-predator",
+                 "survival-guide",
+                 "kanto"
+             ],
+    "scientificClassification":  {
+                                     "kingdom":  "Animalia",
+                                     "class":  "Reptilia-like Pyrofauna",
+                                     "order":  "Sauria Ignis Volans",
+                                     "family":  "Charmanderidae",
+                                     "genus":  "Lacerta ignis",
+                                     "species":  "Lacerta ignis volante"
+                                 },
+    "humanConflictRisk":  "Extreme",
+    "domesticationStatus":  "Not domesticated. Historical riding and military use required heavy training and high casualty risk.",
+    "prey":  "Large mammals, fish, birds, smaller Pokemon, livestock, and carrion",
+    "temperamentTriggers":  [
+                                "Nest approach",
+                                "Rival roar",
+                                "Injury",
+                                "Hunger",
+                                "Strong challengers",
+                                "Spotlights",
+                                "Drones near roost"
+                            ],
+    "territoryRange":  "20 to 100 square miles depending on prey, cliffs, and thermal lift",
+    "lifeCycle":  "Final standard form of the Charmander line after Charmeleon reaches level 36. May access Mega or Gigantamax forms under rare special conditions.",
+    "containmentRequirements":  "A managed flight range with stone roosts, firebreaks, remote feeding systems, veterinary restraint bay, and aviation hazard coordination",
+    "ecologicalRole":  "Apex aerial predator, carrion remover, fire-cycle driver in adapted scrublands, and population control for large herbivores",
+    "diseaseParasiteRisk":  "Moderate. Burn wounds, respiratory soot, wing mites, salmonella-like reptile bacteria, and carrion-borne pathogens may affect handlers.",
+    "reproductionNesting":  "Nests on cliffs, lava-warmed stone, or high ruins. Eggs require warmth, ventilation, and long guarding periods.",
+    "predators":  "Few natural predators. Rival Charizard, large rock-types, severe wing injury, disease, and humans are primary threats.",
+    "emergencyResponse":  "Treat as wildfire plus large predator incident. Evacuate downwind, notify fire and wildlife teams, and do not attempt capture without aerial support.",
+    "legalStatus":  "Restricted apex fire-flying Pokemon. Private ownership usually prohibited or heavily regulated.",
+    "stressSicknessSigns":  [
+                                "Ragged flame",
+                                "Low wing carriage",
+                                "Excess smoke",
+                                "Uncontrolled ground pacing",
+                                "Refusal to fly",
+                                "Attacking weak targets"
+                            ],
+    "lifespan":  "Wild: 15 to 30 years. Managed sanctuary: 40 years or more.",
+    "socialStructure":  "Usually solitary. May form temporary breeding pair or loose dominance network around rich territory.",
+    "fieldCapabilities":  {
+                              "chargeLevel":  "No electric charge. Fire output is extreme and capable of structural ignition.",
+                              "electricFieldRange":  "Flame hazard 50 ft or more, smoke and wildfire hazard far beyond line of sight",
+                              "burstSpeed":  "Fast ground lunge and high-speed takeoff",
+                              "dodgeSpeed":  "High in air, moderate on ground",
+                              "jumpingHeight":  "Wing-assisted launch from cliffs or open ground",
+                              "balance":  "Excellent in air, tail flame affects tight ground turns"
+                          },
+    "trainingRisk":  "Fatal burns, aerial drops, crushing bites, wing-strike trauma, wildfire, and dominance attacks",
+    "physiology":  "Charizard uses powerful lungs, internal fuel chemistry, and a heat-resistant throat to project flame. Its wings demand high calories, and injured adults can become desperate near livestock, camps, and roads.",
+    "keyFacts":  {
+                     "size":  "Height: 5 ft 7 in",
+                     "weight":  "199.5 lbs",
+                     "tailLength":  "Approx. 4 ft plus flame plume",
+                     "lifestyle":  "Solitary aerial apex predator",
+                     "diet":  "Carnivorous, large prey and carrion",
+                     "habitat":  "Mountains, volcanic cliffs, remote highlands",
+                     "lifespan":  "Wild: 15 to 30 years. Sanctuary: 40 years or more.",
+                     "groupSize":  "Usually solitary, temporary pairs only"
+                 },
+    "domesticationDifficulty":  "Extreme. Requires aviation-scale space, fire control, and specialist handlers.",
+    "physicalCharacteristics":  "Orange dragon-like body, cream underside, broad wings, horned head, heavy tail flame, powerful jaws, large claws, and heat-hardened hide. Wing membranes are vulnerable to tears despite the animal strength.",
+    "dietRestrictions":  "Avoid low-calorie feeding, confinement without flight, wet cold roosts, and overuse of flame in enclosed areas.",
+    "detailPath":  "./data/pokemon/pokemon-charizard.json",
+    "image":  "./assets/images/pokemon/charmander/charmander-display.png",
+    "imagePath":  "./assets/images/pokemon/charmander/charmander-display.png",
+    "sprite":  "./assets/images/pokemon/charmander/charmander-display.png",
+    "anatomyImage":  "./assets/images/pokemon/charmander/charmander-anatomy.png",
+    "anatomyImagePath":  "./assets/images/pokemon/charmander/charmander-anatomy.png"
+}

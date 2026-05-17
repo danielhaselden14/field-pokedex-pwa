@@ -707,15 +707,6 @@ function openTagResults(tag) {
     previousScreenBeforeTag = activeScreen.id.replace("-screen", "");
   }
 
-
-  // CHARMANDER_MAIN_IMAGE_FORCE_FIX
-  if (entry.name === "Charmander") {
-    entry.image = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.imagePath = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.sprite = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.anatomyImage = "assets/images/pokemon/charmander/charmander-anatomy.png";
-    entry.anatomyImagePath = "assets/images/pokemon/charmander/charmander-anatomy.png";
-  }
   clearGlobalSearchResults();
 
   const title = document.querySelector("#tag-results-title");
@@ -883,44 +874,6 @@ function clearGlobalSearchResults() {
   }
 }
 
-
-function renderAnatomyImage(entry) {
-  const anatomySource = entry.anatomyImage || entry.anatomyImagePath || entry.anatomy || "";
-  const anatomyCard = document.querySelector("#detail-anatomy-card");
-  const anatomyImg = document.querySelector("#detail-anatomy-image");
-  const anatomyLink = document.querySelector("#detail-anatomy-link");
-  const anatomyCaption = document.querySelector("#detail-anatomy-caption");
-
-  if (!anatomyCard || !anatomyImg) {
-    return;
-  }
-
-  if (anatomySource) {
-    const cacheSafeSource = anatomySource + (anatomySource.includes("?") ? "&" : "?") + "v=" + Date.now();
-
-    anatomyImg.src = cacheSafeSource;
-    anatomyImg.alt = (entry.name || "Entry") + " anatomy plate";
-
-    if (anatomyLink) {
-      anatomyLink.href = anatomySource;
-      anatomyLink.title = "Open full-size anatomy image";
-    }
-
-    if (anatomyCaption) {
-      anatomyCaption.textContent = (entry.name || "Entry") + " biological anatomy reference. Tap or click the image to open it full-size.";
-    }
-
-    anatomyCard.classList.remove("hidden");
-  } else {
-    anatomyImg.removeAttribute("src");
-
-    if (anatomyLink) {
-      anatomyLink.href = "#";
-    }
-
-    anatomyCard.classList.add("hidden");
-  }
-}
 async function openEntryDetail(entry) {
   entry = await loadFullEntry(entry);
 
@@ -928,15 +881,6 @@ async function openEntryDetail(entry) {
     return;
   }
 
-
-  // CHARMANDER_MAIN_IMAGE_FORCE_FIX
-  if (entry.name === "Charmander") {
-    entry.image = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.imagePath = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.sprite = "assets/images/pokemon/charmander/charmander-display.png";
-    entry.anatomyImage = "assets/images/pokemon/charmander/charmander-anatomy.png";
-    entry.anatomyImagePath = "assets/images/pokemon/charmander/charmander-anatomy.png";
-  }
   clearGlobalSearchResults();
   currentDetailEntryId = entry.id;
   updateFavoriteButton(currentDetailEntryId);
@@ -986,7 +930,6 @@ async function openEntryDetail(entry) {
   setText("#detail-origin-story", "", entry.originStory);
   renderEvolutionTree(entry);
   renderRelatedEntries(entry);
-  renderAnatomyImage(entry);
   setText("#detail-encounter-advice", "", entry.encounterAdvice);
   setText("#detail-warning", "", entry.handlingWarning);
   setText("#detail-containment-requirements", "", entry.containmentRequirements);
@@ -1084,16 +1027,8 @@ async function openEntryDetail(entry) {
 
     if (detailImageSource) {
       const image = document.createElement("img");
-      image.src = detailImageSource + "?v=" + Date.now();
-      image.alt = entry.name || "Entry image";
-
-      image.onerror = () => {
-        detailVisual.innerHTML = "";
-        detailVisual.textContent = entry.visualSymbol || "?";
-        detailVisual.classList.remove("has-image");
-        console.error("Main entry image failed to load:", detailImageSource);
-      };
-
+      image.src = detailImageSource;
+      image.alt = entry.name;
       detailVisual.appendChild(image);
       detailVisual.classList.add("has-image");
     } else {
@@ -1101,6 +1036,7 @@ async function openEntryDetail(entry) {
       detailVisual.classList.remove("has-image");
     }
   }
+
   const detailScreen = document.querySelector("#detail-screen");
 
   if (detailScreen) {
@@ -1404,8 +1340,6 @@ fetch("./data/entries-index.json?v=20260517-145247")
   .catch((error) => {
     console.error("Could not load entries:", error);
   });
-
-
 
 
 

@@ -91,7 +91,8 @@
     "warmth": 5
   },
   "fieldNote": "If a Charizard circles without attacking, it may be measuring wind, escape paths, and whether you are worth the energy.",
-  "visualSymbol": "ðŸ”¥",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/charizard.png",
   "audio": "audio/pokemon/charizard.mp3",
   "entryAuthor": "Ranger Field Survival Office",
   "originStory": "The Charizard line appears to have evolved from heat-cave predators that traded camouflage for fire. Its darkest adaptation is psychological: a healthy adult often refuses weak prey, seeking stronger opponents because combat itself selects mates and territory.",
@@ -155,7 +156,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       },
@@ -165,12 +166,9 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
-        "note": "",
-        "image": "assets/images/pokemon/charmander/charmander-display.png",
-        "imagePath": "assets/images/pokemon/charmander/charmander-display.png",
-        "sprite": "assets/images/pokemon/charmander/charmander-display.png"
+        "note": ""
       },
       {
         "name": "Charmeleon",
@@ -178,7 +176,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       },
@@ -188,7 +186,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "Final standard form",
         "note": "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
       },
@@ -198,7 +196,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       },
@@ -208,7 +206,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       },
@@ -218,7 +216,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       },
@@ -228,7 +226,7 @@
         "types": [
           "Fire"
         ],
-        "symbol": "ðŸ”¥",
+        "symbol": "🔥",
         "methodToNext": "",
         "note": ""
       }
@@ -243,7 +241,7 @@
           "types": [
             "Fire"
           ],
-          "symbol": "ðŸ”¥",
+          "symbol": "🔥",
           "note": "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
         }
       }
@@ -320,10 +318,5 @@
   "domesticationDifficulty": "Extreme. Requires aviation-scale space, fire control, and specialist handlers.",
   "physicalCharacteristics": "Orange dragon-like body, cream underside, broad wings, horned head, heavy tail flame, powerful jaws, large claws, and heat-hardened hide. Wing membranes are vulnerable to tears despite the animal strength.",
   "dietRestrictions": "Avoid low-calorie feeding, confinement without flight, wet cold roosts, and overuse of flame in enclosed areas.",
-  "detailPath": "./data/pokemon/pokemon-charizard.json",
-  "image": "assets/images/pokemon/charmander/charmander-display.png",
-  "imagePath": "assets/images/pokemon/charmander/charmander-display.png",
-  "sprite": "assets/images/pokemon/charmander/charmander-display.png",
-  "anatomyImage": "assets/images/pokemon/charmander/charmander-anatomy.png",
-  "anatomyImagePath": "assets/images/pokemon/charmander/charmander-anatomy.png"
+  "detailPath": "./data/pokemon/pokemon-charizard.json"
 }

@@ -883,44 +883,6 @@ function clearGlobalSearchResults() {
   }
 }
 
-
-function renderAnatomyImage(entry) {
-  const anatomySource = entry.anatomyImage || entry.anatomyImagePath || entry.anatomy || "";
-  const anatomyCard = document.querySelector("#detail-anatomy-card");
-  const anatomyImg = document.querySelector("#detail-anatomy-image");
-  const anatomyLink = document.querySelector("#detail-anatomy-link");
-  const anatomyCaption = document.querySelector("#detail-anatomy-caption");
-
-  if (!anatomyCard || !anatomyImg) {
-    return;
-  }
-
-  if (anatomySource) {
-    const cacheSafeSource = anatomySource + (anatomySource.includes("?") ? "&" : "?") + "v=" + Date.now();
-
-    anatomyImg.src = cacheSafeSource;
-    anatomyImg.alt = (entry.name || "Entry") + " anatomy plate";
-
-    if (anatomyLink) {
-      anatomyLink.href = anatomySource;
-      anatomyLink.title = "Open full-size anatomy image";
-    }
-
-    if (anatomyCaption) {
-      anatomyCaption.textContent = (entry.name || "Entry") + " biological anatomy reference. Tap or click the image to open it full-size.";
-    }
-
-    anatomyCard.classList.remove("hidden");
-  } else {
-    anatomyImg.removeAttribute("src");
-
-    if (anatomyLink) {
-      anatomyLink.href = "#";
-    }
-
-    anatomyCard.classList.add("hidden");
-  }
-}
 async function openEntryDetail(entry) {
   entry = await loadFullEntry(entry);
 
@@ -986,7 +948,6 @@ async function openEntryDetail(entry) {
   setText("#detail-origin-story", "", entry.originStory);
   renderEvolutionTree(entry);
   renderRelatedEntries(entry);
-  renderAnatomyImage(entry);
   setText("#detail-encounter-advice", "", entry.encounterAdvice);
   setText("#detail-warning", "", entry.handlingWarning);
   setText("#detail-containment-requirements", "", entry.containmentRequirements);
@@ -1404,7 +1365,6 @@ fetch("./data/entries-index.json?v=20260517-145247")
   .catch((error) => {
     console.error("Could not load entries:", error);
   });
-
 
 
 

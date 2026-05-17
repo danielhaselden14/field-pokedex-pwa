@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = "field-pokedex-20260517-163331";
+const CACHE_NAME = "field-pokedex-20260517-145247";
 
 const FILES_TO_CACHE = [
   "./",
@@ -26,8 +26,6 @@ const FILES_TO_CACHE = [
   "./data/field-entries/water-boiling.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png"
-  "./assets/images/pokemon/charmander/charmander-display.png",
-  "./assets/images/pokemon/charmander/charmander-anatomy.png",
 ];
 
 self.addEventListener("install", (event) => {
@@ -65,8 +63,3 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
-
-
-
-
-

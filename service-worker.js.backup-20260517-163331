@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = "field-pokedex-20260517-163331";
+﻿const CACHE_NAME = "field-pokedex-20260517-162919";
 
 const FILES_TO_CACHE = [
   "./",
@@ -65,7 +65,6 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
-
 
 
 

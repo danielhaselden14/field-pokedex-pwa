@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Reset Field Pokédex Cache</title>
+</head>
+<body style="font-family: Arial; padding: 30px;">
+  <h1>Resetting Field Pokédex cache...</h1>
+  <p>This clears old Chrome PWA files.</p>
+  <script>
+    async function resetEverything() {
+      if ("serviceWorker" in navigator) {
+        const registrations = await navigator.serviceWorker.getRegistrations();
+        for (const registration of registrations) {
+          await registration.unregister();
+        }
+      }
+
+      if ("caches" in window) {
+        const names = await caches.keys();
+        for (const name of names) {
+          await caches.delete(name);
+        }
+      }
+
+      setTimeout(() => {
+        window.location.href = "./index.html?fresh=20260517-163331";
+      }, 1000);
+    }
+
+    resetEverything();
+  </script>
+</body>
+</html>
