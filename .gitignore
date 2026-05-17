@@ -3,3 +3,8 @@ import-tools/*.xlsx
 import-tools/upload.xlsx
 *.bak
 *.tmp
+*.backup-*
+__pycache__/
+.DS_Store
+Thumbs.db
+*.log
