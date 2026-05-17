@@ -1,4 +1,4 @@
-const CACHE_NAME = "field-pokedex-20260516-235007";
+const CACHE_NAME = "field-pokedex-20260517-005551";
 
 const FILES_TO_CACHE = [
   "./",
@@ -9,11 +9,14 @@ const FILES_TO_CACHE = [
   "./data/entries-index.json",
   "./data/entries.json",
   "./data/pokemon/pokemon-bulbasaur.json",
+  "./data/pokemon/Pokemon-Butterfree.json",
+  "./data/pokemon/Pokemon-Caterpie.json",
   "./data/pokemon/pokemon-charizard.json",
   "./data/pokemon/pokemon-charmander.json",
   "./data/pokemon/pokemon-charmeleon.json",
   "./data/pokemon/Pokemon-Gastly.json",
   "./data/pokemon/pokemon-ivysaur.json",
+  "./data/pokemon/Pokemon-Metapod.json",
   "./data/pokemon/pokemon-pikachu.json",
   "./data/pokemon/pokemon-squirtle.json",
   "./data/pokemon/pokemon-venusaur.json",

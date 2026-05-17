@@ -1,0 +1,311 @@
+{
+  "id": "pokemon-metapod",
+  "entryId": "PKMN-0011",
+  "pokedexNumber": "#0011",
+  "name": "Metapod",
+  "displayName": "Metapod",
+  "commonName": "Metapod",
+  "type": "Bug Creature",
+  "elementType": "bug",
+  "dangerLevel": "Low",
+  "rarity": "Common",
+  "route": "Low forest branches, hanging bark folds, tall grass beside trails, orchard windbreaks, underside of large leaves, and sheltered trunk forks",
+  "habitat": "Still humid cover with stable shade, low wind, no standing water, and enough height to avoid ground scavengers",
+  "classification": "Cocoon Pokémon / Armored Transitional Chrysalis",
+  "height": "2 ft 4 in / 0.7 m",
+  "weight": "21.8 lbs / 9.9 kg",
+  "behaviorTemperament": "Almost motionless. It does not chase, flee, or interact normally, but will tense its shell when disturbed and can drop from branches if handled badly.",
+  "diet": "Does not normally feed. Survives on stored larval reserves while internal tissues are reorganized during metamorphosis.",
+  "activityPattern": "Stationary day and night. Micro-movements occur during shell hardening, internal restructuring, and emergency responses to vibration.",
+  "bestTimeToFind": "After Caterpie outbreaks, on shaded branches with silk anchor marks, especially in groves where leaf damage suddenly stops",
+  "observationDifficulty": "Easy to see when clustered, but easy to mistake for leaves or seed pods when solitary.",
+  "conservationStatus": "Common but vulnerable transitional stage",
+  "populationStatus": "Abundant after strong Caterpie seasons, but mass losses occur during storms, bird raids, human collection, fungal outbreaks, and branch clearing",
+  "description": "A hardened chrysalis that looks simple from the outside while the body inside becomes dangerously soft. Metapod survives by doing almost nothing and hoping its shell holds long enough.",
+  "lore": "Children are warned not to collect fallen Metapod after storms. In old field tales, the ones that rattle softly are still alive, and the silent ones are already empty rooms.",
+  "survivalUse": "Can mark a recent healthy Caterpie population, an upcoming Butterfree emergence, and a pesticide-free food web. The shell should not be used as gear; damaging it may kill the forming adult.",
+  "handlingWarning": "Do not drop, shake, pry open, carve, or test the shell. A heavy impact can rupture the forming body inside even when the exterior looks intact.",
+  "encounterAdvice": "Observe in place. If relocation is unavoidable, move the entire supporting branch or leaf rather than pulling the shell away from silk anchors.",
+  "firstAid": "For cracked shell, place in a padded ventilated container with stable humidity and contact a Bug-type rehabilitator. Do not seal cracks with glue, tape, wax, or resin unless directed by a specialist.",
+  "companionSuitability": "Poor as an active companion but suitable for careful conservation care",
+  "abilities": [
+    "Shed Skin"
+  ],
+  "fieldBehaviors": [
+    "Hardens shell when touched or vibrated",
+    "Remains motionless for long periods",
+    "Anchors itself with silk before full immobility",
+    "Drops from weak branches during storms",
+    "May flex faintly before evolution"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Rock",
+    "Hard impact",
+    "Fungal growth",
+    "Branch clearing"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Ground"
+  ],
+  "signsOfPresence": [
+    "Green chrysalis shapes under leaves",
+    "Dense silk anchors at branch forks",
+    "Old Caterpie feeding damage nearby",
+    "Bird peck marks on empty shells",
+    "Faint clicking or tightening when shaded branches are disturbed"
+  ],
+  "equipment": [
+    "Padded ventilated carrier",
+    "Soft brush",
+    "Branch shears for relocation with support plant intact",
+    "Humidity gauge",
+    "Fine mesh enclosure",
+    "Nitrile gloves",
+    "Magnifier for shell cracks"
+  ],
+  "stats": {
+    "power": 1,
+    "speed": 1,
+    "stealth": 4,
+    "danger": 1,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 1,
+    "speedOfOnset": 1,
+    "detectability": 4,
+    "preventability": 5,
+    "medicalPriority": 2,
+    "warmth": 1
+  },
+  "fieldNote": "A hard shell does not mean a safe body. The more motionless Metapod appears, the more carefully it should be treated.",
+  "visualSymbol": "🛡️",
+  "image": "images/pokemon/metapod.png",
+  "audio": "audio/pokemon/metapod.mp3",
+  "originStory": "Metapod exists because Caterpie solved predation by gambling everything on armor and stillness. The larva seals itself away, digests parts of itself, and rebuilds new organs inside a shell that cannot run from fire, birds, or careless hands. The horror of the stage is not aggression; it is dependence. Every Metapod is a living creature temporarily reduced to a locked room full of soft tissue.",
+  "tags": [
+    "pokemon",
+    "bug",
+    "kanto",
+    "survival-guide",
+    "metapod",
+    "cocoon",
+    "chrysalis",
+    "hard-shell",
+    "fragile-inside",
+    "silk-hunger-lineage"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Pokémon",
+    "order": "Lepidoptera Arcana",
+    "family": "Caterpiidae",
+    "genus": "Vermis",
+    "species": "Vermis durum testa"
+  },
+  "humanConflictRisk": "Low",
+  "domesticationStatus": "Kept mostly for safe evolution monitoring rather than companionship",
+  "prey": "Does not actively hunt or graze in this stage. Internal reserves come from its Caterpie feeding period.",
+  "temperamentTriggers": [
+    "Hard impact",
+    "Repeated vibration",
+    "Sudden dryness",
+    "Direct sun overheating",
+    "Shell prying",
+    "Predator pecking"
+  ],
+  "territoryRange": "Usually fixed to one branch, leaf cluster, or grass stem until evolution. Relocation range is effectively zero without outside movement.",
+  "lifeCycle": "Forms when Pokemon-Caterpie evolves starting at level 7. The chrysalis remains mostly still until it evolves into Pokemon-Butterfree starting at level 10.",
+  "containmentRequirements": "Stable branch support, soft padded base under hanging positions, no hard drops, moderate humidity, clean airflow, no overcrowding, and daily inspection for cracks, mites, and mildew",
+  "ecologicalRole": "Acts as a vulnerable bridge between leaf-grazing larvae and adult pollinators. It also provides food for specialized predators and signals the timing of upcoming Butterfree flights.",
+  "diseaseParasiteRisk": "Moderate to high. Mold, parasitic insects, shell mites, and internal developmental failure are major concerns.",
+  "reproductionNesting": "No reproduction in this stage. Future reproduction depends on successful emergence as Pokemon-Butterfree.",
+  "predators": "Pidgey, Spearow, Fearow, Beedrill, hungry Rattata, parasitic insects, fungus, children collecting specimens, and careless trainers",
+  "emergencyResponse": "If dislodged, place on soft damp leaves in a ventilated container, keep orientation stable, avoid direct sun, and seek specialist care. Do not attempt to force reattachment.",
+  "legalStatus": "Usually legal to observe. Collection from protected forests, trainer nurseries, or conservation groves may be restricted because this stage is easy to overharvest.",
+  "stressSicknessSigns": [
+    "Soft dents",
+    "Leaking fluid",
+    "Black or grey shell patches",
+    "Mildew smell",
+    "Persistent rattling",
+    "Failure to harden",
+    "No response to gentle shade change"
+  ],
+  "lifespan": "Wild: usually brief before evolution or predation. Managed care: 2 to 3 years only under unusual delayed-evolution conditions.",
+  "socialStructure": "Often found in loose clusters formed by earlier Caterpie feeding groups, but individuals do not cooperate once sealed.",
+  "fieldCapabilities": {
+    "armorHardness": "High for its size, but vulnerable to crushing and sharp point impacts",
+    "mobility": "Almost none",
+    "defensiveAction": "Hardens shell and remains still",
+    "camouflage": "Strong among leaves and seed pods",
+    "fallRisk": "High if anchor silk is cut or branch is shaken",
+    "developmentalSensitivity": "High during heat spikes, storms, and fungal exposure"
+  },
+  "trainingRisk": "Very low attack risk but high care risk. A trainer can kill it by treating the shell as stronger than the organism inside.",
+  "physiology": "Metapod is an intermediate form with a rigid silk-based exterior and a soft, reorganizing interior. Its shell reduces stress on developing tissue but cannot fully protect against blunt force. The species appears simple because most of its activity is internal.",
+  "keyFacts": {
+    "size": "Height: 2 ft 4 in / 0.7 m",
+    "weight": "21.8 lbs / 9.9 kg",
+    "lifestyle": "Stationary chrysalis",
+    "diet": "Uses stored larval reserves",
+    "habitat": "Shaded leaves, branches, and protected forest understory",
+    "lifespan": "Usually short before evolution; longer only if development stalls",
+    "groupSize": "Solitary or clustered on nursery plants"
+  },
+  "domesticationDifficulty": "Moderate. It does not need training, but it needs careful environmental control and gentle handling.",
+  "physicalCharacteristics": "Green crescent-shaped chrysalis body with angular shell plates, heavy-lidded eyes, rigid exterior armor, and a hidden soft internal body undergoing rapid change.",
+  "dietRestrictions": "Do not feed unless directed. Avoid soaking, sugary fluids, oils, glue, artificial heat lamps, pesticide-treated branches, and airtight display cases.",
+  "detailPath": "./data/pokemon/Pokemon-Metapod.json",
+  "officialGameData": {
+    "nationalDex": 11,
+    "generationIntroduced": 1,
+    "officialCategory": "Cocoon Pokémon",
+    "officialTypes": [
+      "Bug"
+    ],
+    "officialWeaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "officialAbility": "Shed Skin",
+    "hiddenAbility": null,
+    "officialHeight": "0.7 m / 2 ft 4 in",
+    "officialWeight": "9.9 kg / 21.8 lbs",
+    "evolvesFrom": "Pokemon-Caterpie at level 7",
+    "evolvesTo": "Pokemon-Butterfree at level 10",
+    "baseStats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "specialAttack": 25,
+      "specialDefense": 25,
+      "speed": 30,
+      "total": 205
+    }
+  },
+  "pokenatomyInspiration": {
+    "pages": "Pokemon-Metapod anatomy and profile pages 32-33 of the uploaded Pokenatomy PDF",
+    "usedFor": [
+      "hard exterior shell",
+      "soft vulnerable internal body",
+      "motionless defense",
+      "metamorphic tissue reorganization"
+    ]
+  },
+  "category": "animals",
+  "region": "Kanto",
+  "entryAuthor": "Ranger Field Survival Office",
+  "evolutionLine": [
+    {
+      "name": "Pokemon-Caterpie",
+      "stage": "Base",
+      "method": "Wild hatchling or egg. Evolves into Pokemon-Metapod starting at level 7.",
+      "note": "Soft-bodied larval stage with suction feet, silk production, and a defensive odor organ.",
+      "displayName": "Caterpie",
+      "commonName": "Caterpie"
+    },
+    {
+      "name": "Pokemon-Metapod",
+      "stage": "Stage One",
+      "method": "Evolves from Pokemon-Caterpie starting at level 7. Evolves into Pokemon-Butterfree starting at level 10.",
+      "note": "Immobile chrysalis stage. The shell hardens while the body inside breaks down and rebuilds for flight.",
+      "displayName": "Metapod",
+      "commonName": "Metapod"
+    },
+    {
+      "name": "Pokemon-Butterfree",
+      "stage": "Final",
+      "method": "Evolves from Pokemon-Metapod starting at level 10. Gigantamax form requires the Gigantamax factor.",
+      "note": "Final Bug/Flying pollinator stage with compound eyes, water-repellent toxic wing powder, and honey-seeking behavior.",
+      "displayName": "Butterfree",
+      "commonName": "Butterfree"
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Pokemon-Caterpie Evolution Family",
+    "subtitle": "Evolution Tree - Silk and Powder Line",
+    "mainLine": [
+      {
+        "name": "Pokemon-Caterpie",
+        "stage": "Base",
+        "types": [
+          "Bug"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Level 7",
+        "note": "Soft prey-stage larva that survives by eating constantly, climbing well, making silk, and releasing foul odor from its antenna.",
+        "displayName": "Caterpie",
+        "commonName": "Caterpie"
+      },
+      {
+        "name": "Pokemon-Metapod",
+        "stage": "Stage One",
+        "types": [
+          "Bug"
+        ],
+        "symbol": "🛡️",
+        "methodToNext": "Level 10",
+        "note": "Chrysalis stage with little mobility. The shell is armor, but the forming body inside is dangerously tender.",
+        "displayName": "Metapod",
+        "commonName": "Metapod"
+      },
+      {
+        "name": "Pokemon-Butterfree",
+        "stage": "Final",
+        "types": [
+          "Bug",
+          "Flying"
+        ],
+        "symbol": "🦋",
+        "methodToNext": "Special battle form only",
+        "note": "Winged adult that carries pollen, honey, and toxic defensive powder through forest canopies and rainstorms.",
+        "displayName": "Butterfree",
+        "commonName": "Butterfree"
+      }
+    ],
+    "variants": [
+      {
+        "from": "Pokemon-Butterfree",
+        "method": "Gigantamax factor",
+        "target": {
+          "name": "Pokemon-Gigantamax-Butterfree",
+          "stage": "Gigantamax Form",
+          "types": [
+            "Bug",
+            "Flying"
+          ],
+          "symbol": "🦋",
+          "note": "Rare battle phenomenon. Treat wing scales and powder clouds as area contamination hazards.",
+          "displayName": "Gigantamax Butterfree",
+          "commonName": "Gigantamax Butterfree"
+        }
+      }
+    ]
+  },
+  "originContinuity": {
+    "lineageName": "The Silk-Hunger Lineage",
+    "coreMutation": "A forest caterpillar line developed hyper-efficient gut chambers, defensive scent glands, and silk scaffolding that allowed sudden, energy-heavy metamorphosis into a flying adult.",
+    "sharedDarkTheme": "The line survives by accepting three different kinds of weakness: Caterpie is eaten by nearly everything, Metapod must become helpless while its body rebuilds, and Butterfree survives by filling the air with powder that can save it while harming everything nearby.",
+    "stageProgression": [
+      "Pokemon-Caterpie: hunger is the survival engine. The larva eats until its skin can no longer contain it.",
+      "Pokemon-Metapod: the body becomes a sealed workshop. A living animal dissolves into tissue that can be rebuilt into wings.",
+      "Pokemon-Butterfree: the adult escapes the food chain by becoming airborne, toxic, and useful to forests as a pollinator."
+    ],
+    "fieldMyth": "Old Kanto rangers call mass Metapod clusters 'green graves' because a healthy grove can look like it is full of hanging shells, and only some of them ever open from the inside."
+  },
+  "sourceNotes": [
+    "Official Pokémon Pokédex data used for typing, category, height, weight, weakness, ability, descriptions, and evolution family.",
+    "PokémonDB data used for level-based evolution, hidden abilities, base stats, breeding data, and detailed type defenses.",
+    "Pokenatomy: An Unofficial Guide used as dark anatomical inspiration for Caterpie silk and odor organs, Metapod chrysalis vulnerability, and Butterfree toxic wing powder and pollination behavior.",
+    "Dark origin material is original fiction created for the Field Pokédex and is not official Pokémon canon.",
+    "Naming convention uses Pokemon-XXX for file names, ids, detailPath values, index names, and evolution node names. displayName and commonName keep the readable Pokémon name."
+  ]
+}

@@ -1235,7 +1235,7 @@ if (backButton) {
   });
 }
 
-fetch("./data/entries-index.json?v=20260516-235007")
+fetch("./data/entries-index.json?v=20260517-005551")
   .then((response) => response.json())
   .then((entries) => {
     allEntries = entries;
