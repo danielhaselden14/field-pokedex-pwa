@@ -1,0 +1,2668 @@
+[
+  {
+    "id": "plant-cattail",
+    "entryId": "PLANT-0001",
+    "pokedexNumber": "FIELD-PLANT-0001",
+    "name": "Cattail",
+    "category": "plants",
+    "type": "Plant",
+    "elementType": "nature",
+    "dangerLevel": "Low if correctly identified",
+    "rarity": "Common",
+    "region": "Temperate wetlands",
+    "route": "Ponds, marshes, ditches, lake edges",
+    "habitat": "Wetlands, marshes, slow-moving water, and muddy pond edges.",
+    "classification": "Wetland Plant / Reed-like Edible Resource",
+    "height": "Usually 3 to 10 ft",
+    "weight": "Varies by stalk and root mass",
+    "behaviorTemperament": "Stationary plant. Usually found in dense stands near water.",
+    "diet": "Photosynthetic plant. Requires wet soil or shallow water.",
+    "activityPattern": "Seasonal growth. Most visible during warm months.",
+    "bestTimeToFind": "Spring through fall near wetlands and pond edges.",
+    "observationDifficulty": "Low, but safe use depends on correct identification.",
+    "conservationStatus": "Common in many wetland areas.",
+    "description": "A wetland plant commonly found near ponds, marshes, and slow-moving water.",
+    "lore": "A classic survival plant because it can signal water nearby and has multiple traditional field uses.",
+    "survivalUse": "Can indicate nearby water. Some parts are traditionally used as emergency food when properly identified.",
+    "handlingWarning": "Never eat wild plants unless identification is certain. Avoid plants growing in polluted water.",
+    "encounterAdvice": "Use as a water indicator, but check the water source for pollution, fuel, algae blooms, or runoff.",
+    "firstAid": "If a wild plant causes nausea, burning, swelling, rash, or breathing issues, stop exposure and seek medical help.",
+    "companionSuitability": "Not applicable.",
+    "abilities": [
+      "Water indicator",
+      "Emergency material source"
+    ],
+    "fieldBehaviors": [
+      "Grows in dense wetland stands",
+      "Marks marshy or muddy ground",
+      "May indicate shallow water nearby"
+    ],
+    "weaknesses": [
+      "Polluted water sources",
+      "Look-alike identification mistakes",
+      "Seasonal die-off"
+    ],
+    "resistances": [
+      "Wet soil",
+      "Shallow standing water"
+    ],
+    "signsOfPresence": [
+      "Tall brown seed heads",
+      "Dense green stalks",
+      "Muddy wetland edges",
+      "Standing water nearby"
+    ],
+    "equipment": [
+      "Field guide",
+      "Gloves",
+      "Knife",
+      "Clean container"
+    ],
+    "stats": {
+      "food": 3,
+      "medicine": 1,
+      "danger": 1,
+      "usefulness": 4,
+      "identificationDifficulty": 2
+    },
+    "fieldNote": "Never eat wild plants unless you are fully confident in the identification.",
+    "visualSymbol": "叶",
+    "image": "",
+    "audio": "",
+    "entryAuthor": "Survival Field Notes",
+    "originStory": "",
+    "evolutionLine": [],
+    "evolutionTree": null,
+    "tags": [
+      "plant",
+      "wetland",
+      "water-indicator",
+      "survival-food",
+      "identification-required",
+      "common"
+    ],
+    "scientificClassification": null,
+    "humanConflictRisk": "",
+    "domesticationStatus": "",
+    "prey": "",
+    "temperamentTriggers": [],
+    "territoryRange": "",
+    "lifeCycle": "",
+    "containmentRequirements": "",
+    "ecologicalRole": "",
+    "diseaseParasiteRisk": "",
+    "reproductionNesting": "",
+    "populationStatus": "",
+    "predators": "",
+    "emergencyResponse": "",
+    "legalStatus": "",
+    "stressSicknessSigns": [],
+    "lifespan": "",
+    "socialStructure": "",
+    "fieldCapabilities": null,
+    "trainingRisk": "",
+    "physiology": "",
+    "keyFacts": null,
+    "domesticationDifficulty": "",
+    "physicalCharacteristics": "",
+    "dietRestrictions": ""
+  },
+  {
+    "id": "water-boiling",
+    "entryId": "WATER-0001",
+    "pokedexNumber": "FIELD-WATER-0001",
+    "name": "Boiling Water",
+    "category": "water",
+    "type": "Water Safety",
+    "elementType": "water",
+    "dangerLevel": "Medium",
+    "rarity": "Basic Skill",
+    "region": "Universal",
+    "route": "Any camp with water, heat, and a safe container",
+    "habitat": "Applies to streams, lakes, collected rainwater, and other field water sources.",
+    "classification": "Water Treatment Method",
+    "height": "Not applicable",
+    "weight": "Depends on container volume",
+    "behaviorTemperament": "Requires heat, time, and a safe container.",
+    "diet": "Not applicable.",
+    "activityPattern": "Best performed before drinking or storing questionable water.",
+    "bestTimeToFind": "Any time water must be made safer and fire or heat is available.",
+    "observationDifficulty": "Low skill barrier, but requires supplies.",
+    "conservationStatus": "Not applicable.",
+    "description": "A basic method for making water safer by killing many harmful organisms.",
+    "lore": "One of the oldest and most reliable emergency water safety methods when chemical contamination is not the main concern.",
+    "survivalUse": "Useful when you have a fire-safe container and enough fuel.",
+    "handlingWarning": "Boiling water can still be unsafe if contaminated by fuel, chemicals, salt, or heavy metals.",
+    "encounterAdvice": "Use when biological contamination is suspected and you have a clean, fire-safe container.",
+    "firstAid": "Treat burns with cool clean water when available, protect the area, and seek medical care for serious burns.",
+    "companionSuitability": "Not applicable.",
+    "abilities": [
+      "Reduces biological risk",
+      "Simple emergency water treatment"
+    ],
+    "fieldBehaviors": [
+      "Requires sustained heat",
+      "Creates steam and burn risk",
+      "Does not remove chemical contamination"
+    ],
+    "weaknesses": [
+      "Fuel shortage",
+      "No fire-safe container",
+      "Chemical contamination",
+      "Salt water"
+    ],
+    "resistances": [
+      "Many biological organisms",
+      "Basic field conditions"
+    ],
+    "signsOfPresence": [
+      "Steam",
+      "Rolling bubbles",
+      "Hot container",
+      "Condensation"
+    ],
+    "equipment": [
+      "Fire-safe container",
+      "Heat source",
+      "Fuel",
+      "Clean storage bottle"
+    ],
+    "stats": {
+      "reliability": 4,
+      "speed": 2,
+      "danger": 2,
+      "resourceCost": 3,
+      "usefulness": 5
+    },
+    "fieldNote": "Boiling does not remove chemicals, fuel, salt, or heavy metals.",
+    "visualSymbol": "◈",
+    "image": "",
+    "audio": "",
+    "entryAuthor": "Survival Field Notes",
+    "originStory": "",
+    "evolutionLine": [],
+    "evolutionTree": null,
+    "tags": [
+      "water",
+      "water-safety",
+      "purification",
+      "camp-skill",
+      "heat-required",
+      "does-not-remove-chemicals"
+    ],
+    "scientificClassification": null,
+    "humanConflictRisk": "",
+    "domesticationStatus": "",
+    "prey": "",
+    "temperamentTriggers": [],
+    "territoryRange": "",
+    "lifeCycle": "",
+    "containmentRequirements": "",
+    "ecologicalRole": "",
+    "diseaseParasiteRisk": "",
+    "reproductionNesting": "",
+    "populationStatus": "",
+    "predators": "",
+    "emergencyResponse": "",
+    "legalStatus": "",
+    "stressSicknessSigns": [],
+    "lifespan": "",
+    "socialStructure": "",
+    "fieldCapabilities": null,
+    "trainingRisk": "",
+    "physiology": "",
+    "keyFacts": null,
+    "domesticationDifficulty": "",
+    "physicalCharacteristics": "",
+    "dietRestrictions": ""
+  },
+  {
+    "id": "hazard-hypothermia",
+    "entryId": "HAZARD-0001",
+    "pokedexNumber": "FIELD-HAZARD-0001",
+    "name": "Hypothermia",
+    "category": "hazards",
+    "type": "Environmental Hazard",
+    "elementType": "cold",
+    "dangerLevel": "High",
+    "rarity": "Common in cold or wet exposure",
+    "region": "Cold, wet, windy, or high-altitude areas",
+    "route": "Rainy trails, mountains, rivers, winter roads, exposed camps",
+    "habitat": "Any environment where cold, wind, wet clothing, or exhaustion can drop body temperature.",
+    "classification": "Cold Exposure Medical Hazard",
+    "height": "Not applicable",
+    "weight": "Not applicable",
+    "behaviorTemperament": "Progressive and easy to underestimate. Confusion can make self-rescue harder.",
+    "diet": "Not applicable.",
+    "activityPattern": "Most likely during cold, wet, windy, exhausted, or poorly sheltered conditions.",
+    "bestTimeToFind": "Night, storms, winter travel, river crossings, and wet windy exposure.",
+    "observationDifficulty": "Medium. Early signs can be subtle.",
+    "conservationStatus": "Not applicable.",
+    "description": "A dangerous drop in body temperature caused by cold, wind, wet clothing, or exposure.",
+    "lore": "A quiet hazard that can worsen before the victim realizes how much danger they are in.",
+    "survivalUse": "Recognizing it early helps you prioritize shelter, dry clothing, insulation, and warmth.",
+    "handlingWarning": "Severe symptoms require emergency help. Do not ignore confusion, stumbling, or uncontrollable shivering.",
+    "encounterAdvice": "Stop exposure early. Get dry, block wind, insulate from the ground, and warm the person gradually.",
+    "firstAid": "Call emergency help for severe symptoms. Remove wet clothing when possible, insulate, protect from wind, and avoid rough handling.",
+    "companionSuitability": "Not applicable.",
+    "abilities": [
+      "Rapidly reduces judgment",
+      "Can worsen without obvious pain"
+    ],
+    "fieldBehaviors": [
+      "Shivering",
+      "Confusion",
+      "Slurred speech",
+      "Stumbling",
+      "Loss of coordination"
+    ],
+    "weaknesses": [
+      "Dry insulation",
+      "Wind protection",
+      "Shelter",
+      "External warmth",
+      "Early recognition"
+    ],
+    "resistances": [
+      "Poor decision-making by victim",
+      "Wet clothing",
+      "Wind exposure"
+    ],
+    "signsOfPresence": [
+      "Uncontrollable shivering",
+      "Cold pale skin",
+      "Confusion",
+      "Clumsy movement",
+      "Weakness or exhaustion"
+    ],
+    "equipment": [
+      "Dry layers",
+      "Emergency blanket",
+      "Shelter material",
+      "Warm drinks if safe"
+    ],
+    "stats": {
+      "speedOfOnset": 3,
+      "danger": 5,
+      "detectability": 3,
+      "preventability": 4,
+      "medicalPriority": 5
+    },
+    "fieldNote": "Seek emergency medical help when symptoms are severe or worsening.",
+    "visualSymbol": "❄",
+    "image": "",
+    "audio": "",
+    "entryAuthor": "Medical Field Notes",
+    "originStory": "",
+    "evolutionLine": [],
+    "evolutionTree": null,
+    "tags": [
+      "hazard",
+      "cold-weather",
+      "medical",
+      "high-danger",
+      "exposure",
+      "emergency"
+    ],
+    "scientificClassification": null,
+    "humanConflictRisk": "",
+    "domesticationStatus": "",
+    "prey": "",
+    "temperamentTriggers": [],
+    "territoryRange": "",
+    "lifeCycle": "",
+    "containmentRequirements": "",
+    "ecologicalRole": "",
+    "diseaseParasiteRisk": "",
+    "reproductionNesting": "",
+    "populationStatus": "",
+    "predators": "",
+    "emergencyResponse": "",
+    "legalStatus": "",
+    "stressSicknessSigns": [],
+    "lifespan": "",
+    "socialStructure": "",
+    "fieldCapabilities": null,
+    "trainingRisk": "",
+    "physiology": "",
+    "keyFacts": null,
+    "domesticationDifficulty": "",
+    "physicalCharacteristics": "",
+    "dietRestrictions": ""
+  },
+  {
+    "id": "shelter-windbreak",
+    "entryId": "SHELTER-0001",
+    "pokedexNumber": "FIELD-SHELTER-0001",
+    "name": "Windbreak Shelter",
+    "category": "shelter",
+    "type": "Shelter",
+    "elementType": "shelter",
+    "dangerLevel": "Low",
+    "rarity": "Basic Skill",
+    "region": "Universal",
+    "route": "Open camps, exposed ridges, beaches, cold fields",
+    "habitat": "Useful anywhere wind exposure increases heat loss or makes rest difficult.",
+    "classification": "Emergency Shelter Method",
+    "height": "Varies by build",
+    "weight": "Depends on materials",
+    "behaviorTemperament": "Passive structure. Effectiveness depends on placement and stability.",
+    "diet": "Not applicable.",
+    "activityPattern": "Most useful before rest, storms, cold nights, or wind exposure.",
+    "bestTimeToFind": "Before sunset, before weather worsens, or immediately after identifying wind exposure.",
+    "observationDifficulty": "Low. Placement quality matters more than complexity.",
+    "conservationStatus": "Not applicable.",
+    "description": "A simple barrier that reduces wind exposure using natural cover, gear, branches, or terrain.",
+    "lore": "A low-tech field defense against exposure. Even a small wind reduction can make a camp more survivable.",
+    "survivalUse": "Helps reduce heat loss and makes resting areas more survivable.",
+    "handlingWarning": "Do not build under dead branches, unstable slopes, flood channels, or unsafe trees.",
+    "encounterAdvice": "Build on safe ground with wind direction in mind. Prioritize stability, drainage, and overhead hazards.",
+    "firstAid": "Not a medical treatment, but may help prevent worsening cold exposure.",
+    "companionSuitability": "Not applicable.",
+    "abilities": [
+      "Reduces wind exposure",
+      "Improves rest conditions",
+      "Supports cold-weather survival"
+    ],
+    "fieldBehaviors": [
+      "Blocks wind",
+      "Creates a calmer rest zone",
+      "Can fail if poorly anchored"
+    ],
+    "weaknesses": [
+      "Unstable ground",
+      "Falling branches",
+      "Poor drainage",
+      "Weak anchoring"
+    ],
+    "resistances": [
+      "Wind chill",
+      "Light debris",
+      "Exposure stress"
+    ],
+    "signsOfPresence": [
+      "Tarp wall",
+      "Stacked branches",
+      "Snow or sand barrier",
+      "Gear positioned as a wind block"
+    ],
+    "equipment": [
+      "Tarp",
+      "Cordage",
+      "Branches",
+      "Stakes",
+      "Knife"
+    ],
+    "stats": {
+      "warmth": 3,
+      "speed": 4,
+      "danger": 1,
+      "resourceCost": 2,
+      "usefulness": 4
+    },
+    "fieldNote": "Avoid unsafe trees, flood paths, unstable slopes, and areas under dead branches.",
+    "visualSymbol": "⌂",
+    "image": "",
+    "audio": "",
+    "entryAuthor": "Shelter Field Notes",
+    "originStory": "",
+    "evolutionLine": [],
+    "evolutionTree": null,
+    "tags": [
+      "shelter",
+      "wind",
+      "cold-weather",
+      "camp-skill",
+      "exposure-control",
+      "low-danger"
+    ],
+    "scientificClassification": null,
+    "humanConflictRisk": "",
+    "domesticationStatus": "",
+    "prey": "",
+    "temperamentTriggers": [],
+    "territoryRange": "",
+    "lifeCycle": "",
+    "containmentRequirements": "",
+    "ecologicalRole": "",
+    "diseaseParasiteRisk": "",
+    "reproductionNesting": "",
+    "populationStatus": "",
+    "predators": "",
+    "emergencyResponse": "",
+    "legalStatus": "",
+    "stressSicknessSigns": [],
+    "lifespan": "",
+    "socialStructure": "",
+    "fieldCapabilities": null,
+    "trainingRisk": "",
+    "physiology": "",
+    "keyFacts": null,
+    "domesticationDifficulty": "",
+    "physicalCharacteristics": "",
+    "dietRestrictions": ""
+  },
+  {
+    "id": "pokemon-bulbasaur",
+    "entryId": "PKMN-0001",
+    "pokedexNumber": "#0001",
+    "name": "Bulbasaur",
+    "category": "animals",
+    "type": "Grass / Poison Creature",
+    "elementType": "grass",
+    "dangerLevel": "Medium",
+    "rarity": "Rare",
+    "region": "Kanto",
+    "route": "Shaded forest margins, old orchards, wet meadows, abandoned farms, and protected research preserves",
+    "habitat": "Damp woodland floors with filtered sunlight, rich soil, leaf litter, moss beds, and reliable water",
+    "classification": "Seed Pokemon / Symbiotic Toad-Lizard",
+    "height": "2 ft 4 in",
+    "weight": "15.2 lbs",
+    "behaviorTemperament": "Cautious, watchful, and usually non-aggressive unless cornered or separated from its nest patch. Young Bulbasaur freeze before fleeing and may release powder if handled roughly.",
+    "diet": "Sunlight, mineral-rich water, soft shoots, berries, fungi, insects, and decomposing leaf matter absorbed through the bulb and mouth.",
+    "activityPattern": "Mostly diurnal with crepuscular feeding. Rests during hard midday sun and becomes still during drought.",
+    "bestTimeToFind": "Early morning after rain, near mossy logs or shaded water runoffs where the bulb can photosynthesize without drying out.",
+    "observationDifficulty": "Moderate. The bulb resembles young vegetation and the body blends into fern shadows.",
+    "conservationStatus": "Protected starter-class species in most managed regions",
+    "populationStatus": "Locally stable in preserves, uncommon outside guarded habitat",
+    "description": "A young quadrupedal seed Pokemon carrying a living plant bulb fused into its back. In a survival setting it is useful but unsafe to treat like a normal animal.",
+    "lore": "Old forest accounts describe Bulbasaur appearing after battlefields and burned farms, rooting in soil enriched by ash and bone. Villages once treated them as gentle grave-garden guardians.",
+    "survivalUse": "Can locate clean water, edible roots, damp shelter zones, and chemically damaged soil. Its bulb can shade a small wound but should not be harvested.",
+    "handlingWarning": "Do not pull the bulb or vines. Do not place face near the bud. Powder exposure can inflame eyes, lungs, and skin.",
+    "encounterAdvice": "Crouch low, keep hands visible, avoid fire, and let it smell your gear before moving closer. Back away if the bulb opens.",
+    "firstAid": "Flush powder from eyes and skin with clean water. Treat vine bruising as soft-tissue injury. Seek urgent care for breathing difficulty or spreading rash.",
+    "companionSuitability": "Good for patient handlers who can manage spores and habitat needs",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll"
+    ],
+    "fieldBehaviors": [
+      "Buries feet in damp soil",
+      "Opens bulb toward filtered sun",
+      "Whips vines at ankle height",
+      "Releases powders when trapped"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic",
+      "Strong herbicide exposure",
+      "Drought",
+      "Root rot"
+    ],
+    "resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy",
+      "Grass"
+    ],
+    "signsOfPresence": [
+      "Three-toed tracks",
+      "Freshly turned loam",
+      "Sweet compost odor",
+      "Circular leaf impressions",
+      "Green spore dust on bark"
+    ],
+    "equipment": [
+      "Nitrile gloves",
+      "P100 mask",
+      "Eye wash",
+      "Plant-safe disinfectant",
+      "Soft net",
+      "Moisture meter",
+      "Non-metal field crate"
+    ],
+    "stats": {
+      "power": 2,
+      "speed": 2,
+      "stealth": 3,
+      "danger": 2,
+      "usefulness": 4,
+      "food": 2,
+      "medicine": 3,
+      "identificationDifficulty": 2,
+      "reliability": 3,
+      "resourceCost": 3,
+      "speedOfOnset": 2,
+      "detectability": 3,
+      "preventability": 3,
+      "medicalPriority": 3,
+      "warmth": 1
+    },
+    "fieldNote": "If the bulb tracks your movement while the head stays still, the plant half has noticed you before the animal half has decided whether to run.",
+    "visualSymbol": "🌱",
+    "image": "images/pokemon/bulbasaur.png",
+    "audio": "audio/pokemon/bulbasaur.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "The darkest origin theory claims the bulb symbiosis began when a forest amphibian survived famine by accepting a parasitic seed that fed on its blood. Over generations, the parasite stopped killing the host and became a second body.",
+    "evolutionLine": [
+      {
+        "name": "Bulbasaur",
+        "stage": "Base",
+        "method": "Level 16",
+        "note": "Seed-bearing juvenile. Handle as spore-capable even before the bulb opens."
+      },
+      {
+        "name": "Ivysaur",
+        "stage": "Stage One",
+        "method": "Level 32",
+        "note": "Flowering adolescent. Higher toxin and vine risk than Bulbasaur."
+      },
+      {
+        "name": "Venusaur",
+        "stage": "Final",
+        "method": "Special forms only",
+        "note": "Large keystone adult. Treat groves as respiratory hazard zones."
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Bulbasaur Evolution Family",
+      "subtitle": "Evolution Tree - Grass / Poison Type",
+      "mainLine": [
+        {
+          "name": "Bulbasaur",
+          "stage": "Base",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "symbol": "🌱",
+          "methodToNext": "Level 16",
+          "note": "Seed-bearing juvenile. Handle as spore-capable even before the bulb opens."
+        },
+        {
+          "name": "Ivysaur",
+          "stage": "Stage One",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "Level 32",
+          "note": "Flowering adolescent. Higher toxin and vine risk than Bulbasaur."
+        },
+        {
+          "name": "Venusaur",
+          "stage": "Final",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "Special forms only",
+          "note": "Large keystone adult. Treat groves as respiratory hazard zones."
+        }
+      ],
+      "variants": [
+        {
+          "from": "Venusaur",
+          "method": "Venusaurite / Mega Evolution",
+          "target": {
+            "name": "Mega Venusaur",
+            "stage": "Mega Form",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "symbol": "🌺",
+            "note": "Temporary empowered form with greater bulk and spore density. Not a normal wild life stage."
+          }
+        },
+        {
+          "from": "Venusaur",
+          "method": "Gigantamax factor",
+          "target": {
+            "name": "Gigantamax Venusaur",
+            "stage": "Gigantamax Form",
+            "types": [
+              "Grass",
+              "Poison"
+            ],
+            "symbol": "🌺",
+            "note": "Rare battle phenomenon. Pollen and vine hazard should be treated as area-scale emergency."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "grass",
+      "poison",
+      "starter",
+      "survival-guide",
+      "spores",
+      "symbiosis",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia-Florafauna complex",
+      "class": "Reptilia-like Symbiotic Flora Fauna",
+      "order": "Anura-Sauria Symbiotica",
+      "family": "Bulbasauridae",
+      "genus": "Bufo",
+      "species": "Bufo ornatus"
+    },
+    "humanConflictRisk": "Moderate",
+    "domesticationStatus": "Semi-domesticated only under licensed starter programs",
+    "prey": "Soft-bodied insects, small grubs, berries, fallen fruit, fungal nodules, and nutrient-rich plant matter",
+    "temperamentTriggers": [
+      "Open flame",
+      "Dry air",
+      "Grabbing the bulb",
+      "Loud engines",
+      "Being separated from shade",
+      "Chemical fertilizer smell"
+    ],
+    "territoryRange": "Usually 0.2 to 1 square mile around a water source and shaded feeding lane",
+    "lifeCycle": "Hatches with a dormant seed-bulb, grows through photosynthesis and protein feeding, evolves into Ivysaur at level 16 when the bulb begins flowering.",
+    "containmentRequirements": "Humid terrarium pen with live soil, drainage, filtered sunlight, non-toxic plants, and spore ventilation. Do not use bare concrete.",
+    "ecologicalRole": "Seed disperser, insect regulator, soil aerator, and early warning species for herbicide contamination",
+    "diseaseParasiteRisk": "Moderate. Bulb rot, fungal mites, pollen allergy, and soil-borne bacterial exposure are the main concerns.",
+    "reproductionNesting": "Eggs are laid in warm compost-like nests under leaves. Adults bury nest sites in loam and defend them with powder clouds rather than direct bites.",
+    "predators": "Fearow, Arbok, larger fire-adapted predators, feral dogs, and humans seeking illegal starter specimens",
+    "emergencyResponse": "For spore release, move upwind, rinse eyes for 15 minutes, remove contaminated clothing, and isolate the animal in a dim humid space.",
+    "legalStatus": "Protected grass-poison species. Handling normally requires starter or botanical hazard certification.",
+    "stressSicknessSigns": [
+      "Bulb drooping",
+      "Blue skin paling",
+      "Sour rot smell",
+      "Powder leaking without threat",
+      "Refusal to root at rest"
+    ],
+    "lifespan": "Wild: 1 to 3 years before evolving or being displaced. Managed care: 8 to 12 years if evolution is delayed safely.",
+    "socialStructure": "Small juvenile clusters near an older Ivysaur or Venusaur territory. Individuals recognize scent marks from their own line.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Elemental output is spore, vine, and solar stored energy.",
+      "electricFieldRange": "Powder hazard usually 5 to 15 ft, farther in wind",
+      "burstSpeed": "Short ground burst about 10 to 15 mph",
+      "dodgeSpeed": "Moderate side-hop and vine-assisted bracing",
+      "jumpingHeight": "Low, about 2 ft",
+      "balance": "Very stable due to low body and bulb counterweight"
+    },
+    "trainingRisk": "Powder discharge, vine lash, accidental poisoning, and bulb infection if overtrained",
+    "physiology": "Bulbasaur functions as a paired organism: an animal host and a vascular plant bulb linked by root-like tendrils. The bulb gathers sunlight, stores sugars, and can release irritant spores. The host supplies water, minerals, warmth, and mobility.",
+    "keyFacts": {
+      "size": "Height: 2 ft 4 in",
+      "weight": "15.2 lbs",
+      "tailLength": "No external tail",
+      "lifestyle": "Diurnal, cautious, juvenile cluster or supervised starter",
+      "diet": "Omnivorous photosynthetic forager",
+      "habitat": "Damp forests, shaded meadows, orchards",
+      "lifespan": "Wild: 1 to 3 years. Managed: 8 to 12 years.",
+      "groupSize": "Usually 1 to 4 juveniles near a family territory"
+    },
+    "domesticationDifficulty": "Moderate. Trust is possible but humidity, diet, and stress control matter.",
+    "physicalCharacteristics": "Stocky blue-green body, red eyes, blunt claws, wide mouth, sturdy legs, and a green dorsal bulb with dark mottling. Skin is smooth but tougher than it appears and often smells of wet soil and crushed leaves.",
+    "dietRestrictions": "Avoid dry kibble, salted foods, herbicides, fertilizer salts, and pesticide-treated plants. Copper-based garden products can poison the bulb."
+  },
+  {
+    "id": "pokemon-ivysaur",
+    "entryId": "PKMN-0002",
+    "pokedexNumber": "#0002",
+    "name": "Ivysaur",
+    "category": "animals",
+    "type": "Grass / Poison Creature",
+    "elementType": "grass",
+    "dangerLevel": "High",
+    "rarity": "Rare",
+    "region": "Kanto",
+    "route": "Deep forest clearings, abandoned greenhouses, overgrown ruins, canyon shade, and humid preserve zones",
+    "habitat": "Heavily vegetated areas with enough sunlight for the dorsal flower and enough cover for ambush feeding",
+    "classification": "Seed Pokemon / Flowering Symbiotic Beast",
+    "height": "3 ft 3 in",
+    "weight": "28.7 lbs",
+    "behaviorTemperament": "More territorial than Bulbasaur and less tolerant of handling. It may appear sleepy, then lash out when a person steps inside its root zone.",
+    "diet": "Sunlight, water, berries, woody shoots, insects, small rodents, nutrient-rich soil, and decaying plant matter",
+    "activityPattern": "Crepuscular and morning active. Roots itself during hot afternoons and during heavy bud growth.",
+    "bestTimeToFind": "Morning after rain, at the edges of sunlit clearings where the bud can warm without drying out",
+    "observationDifficulty": "Hard. It hides low among ferns and can remain rooted and motionless for hours.",
+    "conservationStatus": "Protected and monitored due to high illegal capture risk",
+    "populationStatus": "Uncommon in wild areas, mostly found in guarded territories",
+    "description": "The adolescent stage of Bulbasaur. The bulb has opened into a heavy bud that drives the host toward heavier feeding, territorial behavior, and longer periods of rooted rest.",
+    "lore": "Old ranger warnings say an Ivysaur clearing is quiet because everything small has already learned not to breathe there.",
+    "survivalUse": "Can identify fertile soil, locate water, clear thorn brush with vines, and produce shade. Powder risk limits use in enclosed survival shelters.",
+    "handlingWarning": "Never stand behind the head near the bud. Do not cut vines. Do not transport in a sealed car or tent.",
+    "encounterAdvice": "Circle wide, stay upwind, and do not step on root trails. If the bud flexes open, retreat without turning your back.",
+    "firstAid": "Use eye wash and soap-water decontamination. Give clean air for powder exposure. Seek medical help for weakness, wheezing, severe rash, or confusion.",
+    "companionSuitability": "Fair with expert handlers, poor for casual homes",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll"
+    ],
+    "fieldBehaviors": [
+      "Roots in place while sleeping",
+      "Snaps vines at low targets",
+      "Turns bud toward sun",
+      "Guards shaded clearings"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic",
+      "Drought",
+      "Closed rooms"
+    ],
+    "resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy",
+      "Grass"
+    ],
+    "signsOfPresence": [
+      "Heavy four-foot tracks",
+      "Dragged vine marks",
+      "Sweet pollen odor",
+      "Wilted plants around bedding site",
+      "Spore film on leaves"
+    ],
+    "equipment": [
+      "P100 mask",
+      "Eye protection",
+      "Long gloves",
+      "Upwind marker tape",
+      "Vine hook",
+      "Ventilated crate",
+      "Clean water sprayer"
+    ],
+    "stats": {
+      "power": 3,
+      "speed": 2,
+      "stealth": 3,
+      "danger": 4,
+      "usefulness": 4,
+      "food": 2,
+      "medicine": 3,
+      "identificationDifficulty": 2,
+      "reliability": 2,
+      "resourceCost": 4,
+      "speedOfOnset": 3,
+      "detectability": 3,
+      "preventability": 3,
+      "medicalPriority": 4,
+      "warmth": 1
+    },
+    "fieldNote": "A healthy Ivysaur smells green and damp. A sour-sweet smell means the bud is sick, stressed, or about to vent chemicals.",
+    "visualSymbol": "🌿",
+    "image": "images/pokemon/ivysaur.png",
+    "audio": "audio/pokemon/ivysaur.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "Ivysaur likely represents the point where the ancient plant parasite learned to steer its host instead of simply riding it. Some wild specimens act less like animals and more like walking gardens defending a buried root network.",
+    "evolutionLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Bulbasaur",
+        "stage": "Base",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Ivysaur",
+        "stage": "Stage One",
+        "method": "Level up",
+        "note": "Evolution into Venusaur is dangerous in cramped captivity because the flower and root system expand rapidly."
+      },
+      {
+        "name": "Venusaur",
+        "stage": "Stage Two",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Venusaur",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Venusaur",
+        "stage": "Gigantamax",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "method": "",
+        "note": ""
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Bulbasaur Evolution Family",
+      "subtitle": "Evolution Tree",
+      "mainLine": [
+        {
+          "name": "None",
+          "stage": "Baby",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Bulbasaur",
+          "stage": "Base",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Ivysaur",
+          "stage": "Stage One",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "Level up",
+          "note": "Evolution into Venusaur is dangerous in cramped captivity because the flower and root system expand rapidly."
+        },
+        {
+          "name": "Venusaur",
+          "stage": "Stage Two",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Mega Venusaur",
+          "stage": "Mega",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Gigantamax Venusaur",
+          "stage": "Gigantamax",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "None known",
+          "stage": "Regional Variant",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌿",
+          "methodToNext": "",
+          "note": ""
+        }
+      ],
+      "variants": [
+        {
+          "from": "Ivysaur",
+          "method": "Final stage only, special catalyst or Gigantamax factor",
+          "target": {
+            "name": "Mega Venusaur and Gigantamax Venusaur are special battle forms, not normal field evolution",
+            "stage": "Branch Evolution",
+            "types": [
+              "Grass"
+            ],
+            "symbol": "🌿",
+            "note": "Evolution into Venusaur is dangerous in cramped captivity because the flower and root system expand rapidly."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "grass",
+      "poison",
+      "starter",
+      "spores",
+      "survival-guide",
+      "evolution-level-32",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia-Florafauna complex",
+      "class": "Reptilia-like Symbiotic Flora Fauna",
+      "order": "Anura-Sauria Symbiotica",
+      "family": "Bulbasauridae",
+      "genus": "Bufo",
+      "species": "Bufo virens"
+    },
+    "humanConflictRisk": "High",
+    "domesticationStatus": "Captive-trained only under advanced grass-poison license",
+    "prey": "Large insects, small mammals, berries, vines, tender bark, and fallen fruit",
+    "temperamentTriggers": [
+      "Bud touching",
+      "Crowding",
+      "Fire",
+      "Smoke",
+      "Dry soil",
+      "Other Ivysaur scent",
+      "Being forced to move while rooted"
+    ],
+    "territoryRange": "1 to 4 square miles around water, shade, and sun access",
+    "lifeCycle": "Evolves from Bulbasaur at level 16. Evolves into Venusaur at level 32 after the dorsal bud reaches full flowering mass.",
+    "containmentRequirements": "Large humid outdoor pen with filtered sunlight, root barriers, air movement, washable surfaces, and emergency spore extraction.",
+    "ecologicalRole": "Controls insects and small herbivores, spreads seeds, recycles leaf litter, and creates shaded microhabitats",
+    "diseaseParasiteRisk": "High. Flower mites, bud rot, fungal bloom, spore allergy, and soil bacteria may affect handlers and the Pokemon.",
+    "reproductionNesting": "Not normally the primary breeding stage. May guard nests made by Venusaur or defend juvenile Bulbasaur clusters.",
+    "predators": "Charmeleon, Fearow, Arbok, large fire-type predators, and humans seeking rare starter lines",
+    "emergencyResponse": "Evacuate downwind personnel, ventilate the area, rinse exposed skin and eyes, and treat respiratory symptoms as urgent.",
+    "legalStatus": "Restricted due to toxic powder and invasive root risk",
+    "stressSicknessSigns": [
+      "Bud discoloration",
+      "Limp vines",
+      "Powder leakage",
+      "Standing still too long in shade",
+      "Aggressive rooting behavior"
+    ],
+    "lifespan": "Wild: 3 to 7 years. Managed care: 10 to 18 years if evolution is delayed responsibly.",
+    "socialStructure": "Usually solitary or loosely attached to a Bulbasaur family territory. Avoids other Ivysaur unless breeding or competing for clearings.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Elemental output is vine force, sleep powder, poison powder, and solar growth.",
+      "electricFieldRange": "Spore and pollen hazard about 15 to 40 ft in still air, farther with wind",
+      "burstSpeed": "Short ground burst about 15 mph",
+      "dodgeSpeed": "Low to moderate, relies on bracing",
+      "jumpingHeight": "Low, usually less than 3 ft",
+      "balance": "Stable but top-heavy when the bud is wet"
+    },
+    "trainingRisk": "Vine crushing, sleep powder, poison powder, bud strain, and handler sensitization to spores",
+    "physiology": "The plant partner has expanded deeper into the host, drawing more sugars, minerals, and nerve input. The bud can store powders, toxins, and growth chemicals, making Ivysaur more hazardous than its smaller form.",
+    "keyFacts": {
+      "size": "Height: 3 ft 3 in",
+      "weight": "28.7 lbs",
+      "tailLength": "No external tail",
+      "lifestyle": "Crepuscular, territorial, usually solitary",
+      "diet": "Photosynthetic omnivore with higher protein demand",
+      "habitat": "Humid forest clearings and overgrown ruins",
+      "lifespan": "Wild: 3 to 7 years. Managed: 10 to 18 years.",
+      "groupSize": "Usually solitary, sometimes one guardian with juveniles"
+    },
+    "domesticationDifficulty": "High. The plant partner resists restraint and can poison enclosed air.",
+    "physicalCharacteristics": "Larger quadruped with stronger legs, heavier shoulders, pointed ears, red eyes, and a large unopened flower bud on its back. Vines are thicker and more muscular than Bulbasaur vines.",
+    "dietRestrictions": "Avoid dry enclosure conditions, lawn chemicals, animal feed with salt, and forced high-protein diets that outpace bud development."
+  },
+  {
+    "id": "pokemon-venusaur",
+    "entryId": "PKMN-0003",
+    "pokedexNumber": "#0003",
+    "name": "Venusaur",
+    "category": "animals",
+    "type": "Grass / Poison Creature",
+    "elementType": "grass",
+    "dangerLevel": "High",
+    "rarity": "Very Rare",
+    "region": "Kanto",
+    "route": "Ancient forest basins, protected botanical reserves, old battlefields reclaimed by vegetation, and isolated sunlit groves",
+    "habitat": "Large humid clearings with deep soil, stable water, and enough sunlight to support a fully flowering dorsal plant",
+    "classification": "Seed Pokemon / Mature Symbiotic Flower Beast",
+    "height": "6 ft 7 in",
+    "weight": "220.5 lbs",
+    "behaviorTemperament": "Calm until territory or young are threatened. Venusaur prefer stillness, using scent, pollen, and vine pressure before physical pursuit. A threatened adult can turn a clearing into a chemical hazard.",
+    "diet": "Sunlight, large volumes of water, mineral-rich soil, fruits, woody plants, insects, and occasional carrion composted into soil around its resting site",
+    "activityPattern": "Mostly diurnal and sedentary. Most movement occurs at dawn, dusk, or before storms.",
+    "bestTimeToFind": "From a distance at sunrise when the flower opens for light and dew",
+    "observationDifficulty": "Moderate to hard. Large body is visible, but old individuals resemble a mound of vegetation until they move.",
+    "conservationStatus": "Strictly protected keystone species",
+    "populationStatus": "Rare, usually one dominant adult per large territory",
+    "description": "The fully developed Bulbasaur line. A Venusaur is less mobile than its younger stages but far more dangerous because the flower can release dense pollen, spores, and chemical signals over a wide area.",
+    "lore": "Some villages built cemeteries around Venusaur groves because the flowers bloomed brightest over old soil and the adults kept scavengers away.",
+    "survivalUse": "Can create shade, reveal water tables, stabilize damaged soil, deter predators, and support pollinators. Its presence can also make an area unsafe for unmasked humans.",
+    "handlingWarning": "Never enter a Venusaur grove without respiratory protection and permission from the animal. Do not cut flowers or leaves.",
+    "encounterAdvice": "Observe from high ground and upwind. If the flower turns toward you before the head does, leave immediately and quietly.",
+    "firstAid": "For pollen inhalation, move to clean air and seek medical care. For vine crush injuries, immobilize limb and treat for shock. For sap exposure, wash thoroughly.",
+    "companionSuitability": "Poor for private companionship, excellent as a sanctuary guardian when respected",
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll"
+    ],
+    "fieldBehaviors": [
+      "Faces flower toward sun",
+      "Vines patrol ground",
+      "Releases pollen pulses",
+      "Shelters young under leaves"
+    ],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic",
+      "Drought",
+      "Flower parasites"
+    ],
+    "resistances": [
+      "Water",
+      "Electric",
+      "Fighting",
+      "Fairy",
+      "Grass"
+    ],
+    "signsOfPresence": [
+      "Huge four-foot tracks",
+      "Leaf canopy close to ground",
+      "Heavy floral odor",
+      "Pollen film",
+      "Quiet insect gaps around territory"
+    ],
+    "equipment": [
+      "Full-face respirator or P100 mask",
+      "Goggles",
+      "Long sleeves",
+      "Upwind flag",
+      "Radio",
+      "Decontamination water",
+      "Botanical hazard kit"
+    ],
+    "stats": {
+      "power": 4,
+      "speed": 1,
+      "stealth": 2,
+      "danger": 4,
+      "usefulness": 5,
+      "food": 2,
+      "medicine": 4,
+      "identificationDifficulty": 1,
+      "reliability": 3,
+      "resourceCost": 5,
+      "speedOfOnset": 3,
+      "detectability": 2,
+      "preventability": 2,
+      "medicalPriority": 5,
+      "warmth": 2
+    },
+    "fieldNote": "Silence in a Venusaur grove is not peace. It often means the pollen has already driven smaller animals away.",
+    "visualSymbol": "🌺",
+    "image": "images/pokemon/venusaur.png",
+    "audio": "audio/pokemon/venusaur.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "The grim origin is a symbiosis that became inheritance. What began as a seed feeding from a host eventually became a body that could not live without the animal beneath it. A Venusaur is less a beast with a flower than a mobile grave-garden that learned loyalty.",
+    "evolutionLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Bulbasaur",
+        "stage": "Base",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Ivysaur",
+        "stage": "Stage One",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Venusaur",
+        "stage": "Stage Two",
+        "method": "Final standard form",
+        "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+      },
+      {
+        "name": "Mega Venusaur",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Venusaur",
+        "stage": "Gigantamax",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "method": "",
+        "note": ""
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Bulbasaur Evolution Family",
+      "subtitle": "Evolution Tree",
+      "mainLine": [
+        {
+          "name": "None",
+          "stage": "Baby",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Bulbasaur",
+          "stage": "Base",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Ivysaur",
+          "stage": "Stage One",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Venusaur",
+          "stage": "Stage Two",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "Final standard form",
+          "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+        },
+        {
+          "name": "Mega Venusaur",
+          "stage": "Mega",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Gigantamax Venusaur",
+          "stage": "Gigantamax",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "None known",
+          "stage": "Regional Variant",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "methodToNext": "",
+          "note": ""
+        }
+      ],
+      "variants": [
+        {
+          "from": "Venusaur",
+          "method": "Special catalyst, battle phenomenon, or Gigantamax factor",
+          "target": {
+            "name": "Mega Venusaur; Gigantamax Venusaur",
+            "stage": "Branch Evolution",
+            "types": [
+              "Grass"
+            ],
+            "symbol": "🌺",
+            "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "grass",
+      "poison",
+      "starter",
+      "spores",
+      "keystone",
+      "survival-guide",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia-Florafauna complex",
+      "class": "Reptilia-like Symbiotic Flora Fauna",
+      "order": "Anura-Sauria Symbiotica",
+      "family": "Bulbasauridae",
+      "genus": "Bufo",
+      "species": "Bufo florentes"
+    },
+    "humanConflictRisk": "High",
+    "domesticationStatus": "Not domesticated. Sanctuary-managed only.",
+    "prey": "Insects, plant material, fruits, small animals caught by vines, and nutrient compost",
+    "temperamentTriggers": [
+      "Nest approach",
+      "Flower cutting",
+      "Fire",
+      "Chainsaws",
+      "Chemical sprays",
+      "Injured Bulbasaur or Ivysaur nearby"
+    ],
+    "territoryRange": "5 to 20 square miles depending on water and sunlight",
+    "lifeCycle": "Final standard form of the Bulbasaur line after Ivysaur reaches level 32. May access Mega or Gigantamax forms only under special conditions.",
+    "containmentRequirements": "A preserve, not a cage. Requires deep soil, root barriers, drainage, pollinator exclusion zones, spore monitoring, and emergency evacuation lanes.",
+    "ecologicalRole": "Keystone shade maker, soil builder, pollinator signal hub, seed bank protector, and invasive plant suppressor",
+    "diseaseParasiteRisk": "High for allergens, fungal blooms, mites, contaminated pollen, and secondary infections after vine injury",
+    "reproductionNesting": "Females lay guarded eggs in composted plant beds. Adults shade and chemically defend the nesting area until hatchlings disperse.",
+    "predators": "Very few natural predators. Charizard, Arcanine packs, severe drought, disease, and humans are the main threats.",
+    "emergencyResponse": "Treat pollen clouds as hazardous atmosphere. Move upwind, rinse exposed areas, monitor breathing, and call trained grass-poison response handlers.",
+    "legalStatus": "Restricted keystone Pokemon. Capture or transport normally requires environmental authority approval.",
+    "stressSicknessSigns": [
+      "Petal browning",
+      "Slow vine response",
+      "Sour pollen smell",
+      "Leaf collapse",
+      "Fungal spotting"
+    ],
+    "lifespan": "Wild: 7 to 10 years in high-conflict regions. Managed sanctuary: 30 years or more.",
+    "socialStructure": "Solitary matriarch or patriarch with tolerated young and lower-stage relatives on the edge of the territory",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Elemental output is heavy pollen, vines, seed discharge, and solar-stored growth energy.",
+      "electricFieldRange": "Pollen and spore influence can affect a whole grove, often 50 to 150 ft or more with wind",
+      "burstSpeed": "Slow burst, but vine reach is fast at close range",
+      "dodgeSpeed": "Low body dodge, high vine interception",
+      "jumpingHeight": "Very low",
+      "balance": "Extremely stable due to mass and low stance"
+    },
+    "trainingRisk": "Pollen poisoning, vine crushing, sleep powder, territorial aggression, and enclosure overgrowth",
+    "physiology": "The plant and animal portions are deeply integrated. The flower produces pollen, growth hormones, and chemical deterrents. Thick vascular roots inside the body draw water and minerals while the host heart supports both systems.",
+    "keyFacts": {
+      "size": "Height: 6 ft 7 in",
+      "weight": "220.5 lbs",
+      "tailLength": "No external tail",
+      "lifestyle": "Diurnal, sedentary, territorial adult",
+      "diet": "Photosynthetic omnivore and compost feeder",
+      "habitat": "Ancient forest clearings and botanical preserves",
+      "lifespan": "Wild: 7 to 10 years. Sanctuary: 30 years or more.",
+      "groupSize": "Usually solitary adult with tolerated young nearby"
+    },
+    "domesticationDifficulty": "Extreme. Requires land management, botanical hazard plans, and veterinary-botanical care.",
+    "physicalCharacteristics": "Massive quadruped with thick legs, broad head, heavy body, large leaves, and a pink flowering crown. The flower may track sunlight or face threats independently of the head.",
+    "dietRestrictions": "Avoid drought, concrete confinement, road salt, herbicides, heavy metals, and forced movement during flowering season."
+  },
+  {
+    "id": "pokemon-charmander",
+    "entryId": "PKMN-0004",
+    "pokedexNumber": "#0004",
+    "name": "Charmander",
+    "category": "animals",
+    "type": "Fire Creature",
+    "elementType": "fire",
+    "dangerLevel": "Medium",
+    "rarity": "Rare",
+    "region": "Kanto",
+    "route": "Dry foothills, volcanic scrub, sun-warmed caves, rocky badlands, and old charcoal pits",
+    "habitat": "Warm rocky shelters with dry bedding, low humidity, airflow, and access to small prey",
+    "classification": "Lizard Pokemon / Juvenile Fire Saurian",
+    "height": "2 ft 0 in",
+    "weight": "18.7 lbs",
+    "behaviorTemperament": "Social, loyal, and curious when raised young. Wild Charmander are nervous pack juveniles that warn with tail flicks, hisses, and short flame bursts.",
+    "diet": "Insects, small rodents, lizards, eggs, berries, charred plant matter, and high-energy protein meals",
+    "activityPattern": "Diurnal to crepuscular. Basks in morning sun and shelters during cold rain.",
+    "bestTimeToFind": "Warm mornings near cave mouths, ash beds, or sunlit rocks with small claw marks",
+    "observationDifficulty": "Moderate. Tail flame is visible at night but juveniles hide quickly.",
+    "conservationStatus": "Protected starter-class fire species",
+    "populationStatus": "Uncommon and declining near human development due to illegal capture and fire-control conflicts",
+    "description": "A small fire-bearing reptilian Pokemon whose tail flame reflects health, stress, and stored fuel. Cute appearance should not hide the burn risk.",
+    "lore": "Travelers once followed Charmander lights through badlands, but old stories warn that some lights led to dens where hungry adults waited.",
+    "survivalUse": "Can provide heat, ignite emergency fire, deter small predators, and signal at night. Must never be used inside low-ventilation shelter.",
+    "handlingWarning": "Never cover the tail flame with a blanket or water. Never carry near fuel, dry grass, tents, or aerosol cans.",
+    "encounterAdvice": "Approach from the front at low height. Offer space and avoid water spray. If the tail flame flares white-blue, retreat.",
+    "firstAid": "Cool burns for 20 minutes with clean water. Do not apply grease. For smoke inhalation, move to clean air and seek care. Tail flame collapse is veterinary emergency.",
+    "companionSuitability": "Good for careful handlers with fire-safe housing",
+    "abilities": [
+      "Blaze",
+      "Solar Power"
+    ],
+    "fieldBehaviors": [
+      "Basks on rocks",
+      "Shields tail from rain",
+      "Hisses before flaming",
+      "Sleeps curled around tail heat"
+    ],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Cold rain",
+      "Fuel exhaustion"
+    ],
+    "resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "signsOfPresence": [
+      "Tiny scorch marks",
+      "Warm clawed footprints",
+      "Charcoal scent",
+      "Shed orange scales",
+      "Melted frost near den"
+    ],
+    "equipment": [
+      "Fire blanket",
+      "Leather gloves",
+      "Eye protection",
+      "Heat-safe crate",
+      "Burn kit",
+      "ABC extinguisher",
+      "Water for humans, not for tail flame"
+    ],
+    "stats": {
+      "power": 3,
+      "speed": 3,
+      "stealth": 2,
+      "danger": 3,
+      "usefulness": 4,
+      "food": 1,
+      "medicine": 1,
+      "identificationDifficulty": 1,
+      "reliability": 3,
+      "resourceCost": 3,
+      "speedOfOnset": 4,
+      "detectability": 2,
+      "preventability": 3,
+      "medicalPriority": 4,
+      "warmth": 5
+    },
+    "fieldNote": "A steady orange tail flame usually means calm health. A sputtering flame means illness, exhaustion, or wet conditions. A sudden flare means fear.",
+    "visualSymbol": "🔥",
+    "image": "images/pokemon/charmander.png",
+    "audio": "audio/pokemon/charmander.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "The fire line likely began in volcanic cave reptiles that survived cold nights by fermenting plant oils into flammable vapor. The first stable tail-flame mutations made them visible to predators, so only the boldest and most social survived.",
+    "evolutionLine": [
+      {
+        "name": "Charmander",
+        "stage": "Base",
+        "method": "Level 16",
+        "note": "Juvenile fire-bearer. Tail flame is a health indicator and ignition source."
+      },
+      {
+        "name": "Charmeleon",
+        "stage": "Stage One",
+        "method": "Level 36",
+        "note": "Aggressive adolescent predator. Highest handler-conflict stage of the line."
+      },
+      {
+        "name": "Charizard",
+        "stage": "Final",
+        "method": "Special forms only",
+        "note": "Aerial apex predator. Roosts require wildfire and aviation-style safety planning."
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Charmander Evolution Family",
+      "subtitle": "Evolution Tree - Fire Type",
+      "mainLine": [
+        {
+          "name": "Charmander",
+          "stage": "Base",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "Level 16",
+          "note": "Juvenile fire-bearer. Tail flame is a health indicator and ignition source."
+        },
+        {
+          "name": "Charmeleon",
+          "stage": "Stage One",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "Level 36",
+          "note": "Aggressive adolescent predator. Highest handler-conflict stage of the line."
+        },
+        {
+          "name": "Charizard",
+          "stage": "Final",
+          "types": [
+            "Fire",
+            "Flying"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "Special forms only",
+          "note": "Aerial apex predator. Roosts require wildfire and aviation-style safety planning."
+        }
+      ],
+      "variants": [
+        {
+          "from": "Charizard",
+          "method": "Charizardite X / Mega Evolution",
+          "target": {
+            "name": "Mega Charizard X",
+            "stage": "Mega Form",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "symbol": "🔥",
+            "note": "Temporary form with altered heat chemistry and more draconic combat behavior."
+          }
+        },
+        {
+          "from": "Charizard",
+          "method": "Charizardite Y / Mega Evolution",
+          "target": {
+            "name": "Mega Charizard Y",
+            "stage": "Mega Form",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "symbol": "🔥",
+            "note": "Temporary form with intensified aerial heat output and solar response."
+          }
+        },
+        {
+          "from": "Charizard",
+          "method": "Gigantamax factor",
+          "target": {
+            "name": "Gigantamax Charizard",
+            "stage": "Gigantamax Form",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "symbol": "🔥",
+            "note": "Rare battle phenomenon. Treat flame output as disaster-scale hazard."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "fire",
+      "starter",
+      "burn-risk",
+      "survival-guide",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia",
+      "class": "Reptilia-like Pyrofauna",
+      "order": "Sauria Ignis",
+      "family": "Charmanderidae",
+      "genus": "Parvas lacerta",
+      "species": "Parvas lacerta ignis"
+    },
+    "humanConflictRisk": "Medium",
+    "domesticationStatus": "Semi-domesticated under fire-type starter programs",
+    "prey": "Insects, small mammals, carrion scraps, eggs, and roasted plant matter",
+    "temperamentTriggers": [
+      "Water spray",
+      "Tail grabbing",
+      "Cold wind",
+      "Being cornered",
+      "Sudden darkness",
+      "Hunger"
+    ],
+    "territoryRange": "Usually 1 to 3 square miles around den, water, basking rocks, and hunting lanes",
+    "lifeCycle": "Hatches with a weak tail flame, grows by feeding and heat regulation, evolves into Charmeleon at level 16.",
+    "containmentRequirements": "Fireproof den, ceramic or stone flooring, spark screen, dry bedding away from flame, ventilation, and Class ABC fire extinguisher nearby",
+    "ecologicalRole": "Controls small pests, clears dry brush with low flame, and recycles carrion in arid habitats",
+    "diseaseParasiteRisk": "Low to moderate. Smoke irritation, scale mites, fuel-gland infection, and respiratory illness in damp housing are concerns.",
+    "reproductionNesting": "Eggs are kept in warm ash nests or geothermal pockets. Adults or dominant pack members guard eggs from damp and predators.",
+    "predators": "Fearow, larger water-types, Arbok, humans, and stronger fire Pokemon competing for dens",
+    "emergencyResponse": "For uncontrolled flame, remove fuel sources, guide Charmander to bare ground, and cool nearby burns with clean water without soaking the tail flame.",
+    "legalStatus": "Fire-type handling permit recommended or required in many settled areas",
+    "stressSicknessSigns": [
+      "Dim tail flame",
+      "Grey smoke",
+      "Refusing heat",
+      "Wheezing",
+      "Lethargic curling",
+      "Blue-white flare while panicking"
+    ],
+    "lifespan": "Wild: 1 to 3 years before evolution or predation. Managed care: 12 to 20 years if kept healthy.",
+    "socialStructure": "Pack juveniles under a dominant adult or older Charmeleon. Lone juveniles are more fearful and more likely to panic-burn.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Fire output is juvenile but capable of serious burns.",
+      "electricFieldRange": "Flame and heat hazard about 3 to 10 ft, farther if dry grass ignites",
+      "burstSpeed": "Fast short run about 12 to 18 mph",
+      "dodgeSpeed": "Good juvenile agility",
+      "jumpingHeight": "About 3 ft when startled",
+      "balance": "Tail improves balance but becomes liability in brush"
+    },
+    "trainingRisk": "Accidental burns, panic ignition, smoke inhalation, fuel-gland strain, and tail injury",
+    "physiology": "Charmander appears to generate flame using volatile biological fuel, oxygen intake, and a heat-resistant tail structure. The tail flame is not decorative. If it weakens severely, the animal is in medical danger.",
+    "keyFacts": {
+      "size": "Height: 2 ft 0 in",
+      "weight": "18.7 lbs",
+      "tailLength": "Approx. 1.5 ft including flame zone",
+      "lifestyle": "Social pack juvenile, fire-dependent",
+      "diet": "Carnivorous-leaning omnivore",
+      "habitat": "Dry rocky caves and warm badlands",
+      "lifespan": "Wild: 1 to 3 years. Managed: 12 to 20 years.",
+      "groupSize": "Usually small packs or guarded juveniles"
+    },
+    "domesticationDifficulty": "Moderate. Strong bonding potential but constant fire safety management required.",
+    "physicalCharacteristics": "Orange bipedal body, cream underside, blue eyes, blunt claws, long tail, and a persistent open flame at the tail tip. Skin is smooth, warm, and resistant to brief heat exposure.",
+    "dietRestrictions": "Avoid wet bedding, low-calorie diets, alcohol vapors, aerosol sprays, and overfeeding fatty scraps that can foul its fuel glands."
+  },
+  {
+    "id": "pokemon-charmeleon",
+    "entryId": "PKMN-0005",
+    "pokedexNumber": "#0005",
+    "name": "Charmeleon",
+    "category": "animals",
+    "type": "Fire Creature",
+    "elementType": "fire",
+    "dangerLevel": "High",
+    "rarity": "Rare",
+    "region": "Kanto",
+    "route": "Dry canyons, lava-tube caves, burned pine slopes, abandoned mines, and isolated badland ridges",
+    "habitat": "Hot dry terrain with high perches, hunting corridors, and den sites shielded from rain",
+    "classification": "Flame Pokemon / Horned Fire Saurian",
+    "height": "3 ft 7 in",
+    "weight": "41.9 lbs",
+    "behaviorTemperament": "Proud, irritable, territorial, and easily provoked. It may seek fights to establish rank and may ignore a handler it once obeyed as a Charmander.",
+    "diet": "Small mammals, birds, eggs, reptiles, carrion, charred plant matter, and high-protein managed feed",
+    "activityPattern": "Late afternoon, evening, and night hunting with daytime basking",
+    "bestTimeToFind": "At dusk near warm rocks, cave exits, and fresh scorch trails",
+    "observationDifficulty": "Hard and dangerous. Charmeleon often detects observers first and may circle downwind.",
+    "conservationStatus": "Restricted protected species",
+    "populationStatus": "Rare and usually solitary outside breeding season",
+    "description": "An aggressive adolescent fire Pokemon with stronger claws, a cranial horn, and a more intense tail flame. This stage is the most likely in the line to injure handlers.",
+    "lore": "Old mining towns sometimes reported a red lizard in the tunnels before cave fires. Survivors said it did not hunt them at first. It waited until the smoke made them stumble.",
+    "survivalUse": "Strong heat source, predator deterrent, cauterization risk tool in last-resort survival, and camp defense. Use is dangerous and can escalate wildfire risk.",
+    "handlingWarning": "Do not challenge eye contact, grab the tail, block the den exit, or approach while it is feeding.",
+    "encounterAdvice": "Give it an exit path. Do not run unless already behind cover. Place rock, dirt, or water barrier between you and dry vegetation.",
+    "firstAid": "Cool burns, control bleeding, irrigate bites, avoid sealing deep punctures, and seek urgent care for any Charmeleon wound.",
+    "companionSuitability": "Poor to fair. Suitable only for experienced fire-type handlers.",
+    "abilities": [
+      "Blaze",
+      "Solar Power"
+    ],
+    "fieldBehaviors": [
+      "Scratches rocks",
+      "Challenges reflections",
+      "Hoards warm dens",
+      "Hunts at dusk",
+      "Tail flame brightens before lunging"
+    ],
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Cold rain",
+      "Overheating",
+      "Smoke backdraft"
+    ],
+    "resistances": [
+      "Fire",
+      "Grass",
+      "Ice",
+      "Bug",
+      "Steel",
+      "Fairy"
+    ],
+    "signsOfPresence": [
+      "Deep claw gouges",
+      "Taller scorch marks",
+      "Melted sap",
+      "Charred bones",
+      "Strong hot-metal odor near den"
+    ],
+    "equipment": [
+      "Fireproof gloves",
+      "Face shield",
+      "Leather sleeves",
+      "Burn kit",
+      "Remote latch crate",
+      "Extinguisher",
+      "Long-handled barrier pole"
+    ],
+    "stats": {
+      "power": 4,
+      "speed": 3,
+      "stealth": 2,
+      "danger": 4,
+      "usefulness": 3,
+      "food": 1,
+      "medicine": 1,
+      "identificationDifficulty": 1,
+      "reliability": 2,
+      "resourceCost": 4,
+      "speedOfOnset": 4,
+      "detectability": 2,
+      "preventability": 2,
+      "medicalPriority": 5,
+      "warmth": 5
+    },
+    "fieldNote": "If Charmeleon lowers its head and the tail flame narrows, it is choosing a target. Backing away slowly is safer than shouting.",
+    "visualSymbol": "🔥",
+    "image": "images/pokemon/charmeleon.png",
+    "audio": "audio/pokemon/charmeleon.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "Charmeleon is the line at its most unstable: the body is building toward flight while the brain is flooded with hunger, heat, and dominance signals. In real-world terms, this would be a dangerous adolescent predator with a flamethrower attached to its spine.",
+    "evolutionLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Charmander",
+        "stage": "Base",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Charmeleon",
+        "stage": "Stage One",
+        "method": "Level up",
+        "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+      },
+      {
+        "name": "Charizard",
+        "stage": "Stage Two",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Charizard X",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Charizard Y",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Charizard",
+        "stage": "Gigantamax",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "method": "",
+        "note": ""
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Charmander Evolution Family",
+      "subtitle": "Evolution Tree",
+      "mainLine": [
+        {
+          "name": "None",
+          "stage": "Baby",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Charmander",
+          "stage": "Base",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Charmeleon",
+          "stage": "Stage One",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "Level up",
+          "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+        },
+        {
+          "name": "Charizard",
+          "stage": "Stage Two",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Mega Charizard X",
+          "stage": "Mega",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Mega Charizard Y",
+          "stage": "Mega",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Gigantamax Charizard",
+          "stage": "Gigantamax",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "None known",
+          "stage": "Regional Variant",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        }
+      ],
+      "variants": [
+        {
+          "from": "Charmeleon",
+          "method": "Final stage only, special catalyst or Gigantamax factor",
+          "target": {
+            "name": "Mega Charizard X; Mega Charizard Y; Gigantamax Charizard",
+            "stage": "Branch Evolution",
+            "types": [
+              "Fire"
+            ],
+            "symbol": "🔥",
+            "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "fire",
+      "predator",
+      "starter",
+      "burn-risk",
+      "survival-guide",
+      "evolution-level-36",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia",
+      "class": "Reptilia-like Pyrofauna",
+      "order": "Sauria Ignis",
+      "family": "Charmanderidae",
+      "genus": "Lacerta ignis",
+      "species": "Lacerta ignis corniger"
+    },
+    "humanConflictRisk": "High",
+    "domesticationStatus": "Captive-trained only, not fully domesticated",
+    "prey": "Rattata, Pidgey, small reptiles, eggs, rodents, and carrion",
+    "temperamentTriggers": [
+      "Direct staring",
+      "Food theft",
+      "Tail contact",
+      "Rival scent",
+      "Confinement",
+      "Rain",
+      "Loud metallic sounds"
+    ],
+    "territoryRange": "3 to 10 square miles, larger in poor hunting territory",
+    "lifeCycle": "Evolves from Charmander at level 16 and can evolve into Charizard at level 36 after major muscular and respiratory development.",
+    "containmentRequirements": "Stone den with double gates, flameproof walls, heat venting, remote feeding chute, and reinforced observation shield",
+    "ecologicalRole": "Mid-level predator that controls rodents and scavenges carrion but can start brush fires in dry seasons",
+    "diseaseParasiteRisk": "Moderate. Bite infections, smoke exposure, scale parasites, and fuel-gland inflammation are common captive issues.",
+    "reproductionNesting": "Usually not a stable nesting stage. Competes for mates and may scavenge around established Charizard territories.",
+    "predators": "Charizard, larger water-types, rock-types, rival Charmeleon, and humans",
+    "emergencyResponse": "If it ignites brush, prioritize evacuation and fuel breaks. For bites or burns, treat as contaminated trauma and seek emergency care.",
+    "legalStatus": "Restricted fire predator. Transport in settled areas usually requires fire marshal or wildlife approval.",
+    "stressSicknessSigns": [
+      "Constant pacing",
+      "White-hot tail flare",
+      "Refusing den",
+      "Sooty cough",
+      "Overheating",
+      "Biting at own tail base"
+    ],
+    "lifespan": "Wild: 7 to 15 years. Managed care: 20 years or more with expert housing.",
+    "socialStructure": "Mostly solitary. Temporary dominance interactions with packs or breeding groups are volatile.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Fire output is strong enough to ignite brush and cause deep burns.",
+      "electricFieldRange": "Flame hazard commonly 10 to 25 ft, indirect wildfire risk much farther",
+      "burstSpeed": "Fast ground burst about 20 to 25 mph",
+      "dodgeSpeed": "High lunge and side-step speed",
+      "jumpingHeight": "About 5 ft with claw-assisted climbing",
+      "balance": "Good, tail counterbalances lunges"
+    },
+    "trainingRisk": "Deep claw wounds, serious burns, biting, panic fire, and handler challenge behavior",
+    "physiology": "The flame system intensifies after evolution. Internal fuel stores and heat-control tissues expand, raising burn output while also making the animal prone to agitation when overheated or underfed.",
+    "keyFacts": {
+      "size": "Height: 3 ft 7 in",
+      "weight": "41.9 lbs",
+      "tailLength": "Approx. 2 ft plus flame plume",
+      "lifestyle": "Solitary, territorial adolescent predator",
+      "diet": "Carnivorous-leaning omnivore",
+      "habitat": "Dry canyons, lava tubes, burned slopes",
+      "lifespan": "Wild: 7 to 15 years. Managed: 20 years or more.",
+      "groupSize": "Usually solitary except brief breeding contact"
+    },
+    "domesticationDifficulty": "High due to dominance behavior and fire risk",
+    "physicalCharacteristics": "Red-orange biped with sharper claws, narrow eyes, stronger jaws, head crest or horn, long tail, and hotter tail flame. Developing shoulder and back musculature foreshadows Charizard wings.",
+    "dietRestrictions": "Avoid low-protein diets, sugary human food, damp bedding, enclosed smoke exposure, and forced fasting during growth spurts."
+  },
+  {
+    "id": "pokemon-charizard",
+    "entryId": "PKMN-0006",
+    "pokedexNumber": "#0006",
+    "name": "Charizard",
+    "category": "animals",
+    "type": "Fire / Flying Creature",
+    "elementType": "fire",
+    "dangerLevel": "Extreme",
+    "rarity": "Very Rare",
+    "region": "Kanto",
+    "route": "Mountain nests, volcanic ridges, high cliffs, old fortress ruins, and remote burned valleys",
+    "habitat": "High warm terrain with strong updrafts, cave roosts, open flight lanes, and limited human access",
+    "classification": "Flame Pokemon / Winged Fire Dragon",
+    "height": "5 ft 7 in",
+    "weight": "199.5 lbs",
+    "behaviorTemperament": "Independent, proud, and highly territorial. It may ignore small prey while actively challenging strong creatures or intruders near its roost.",
+    "diet": "Large mammals, birds, fish, carrion, high-fat prey, charred vegetation, and managed high-protein feed",
+    "activityPattern": "Diurnal flight and dusk hunting. Roosts during storms and extreme cold.",
+    "bestTimeToFind": "From far away at sunrise near cliff roosts when warm air begins rising",
+    "observationDifficulty": "High. Easy to spot in flight, hard to survive if too close to a nesting adult.",
+    "conservationStatus": "Strictly protected apex species with public safety restrictions",
+    "populationStatus": "Rare. Stable only in remote protected ranges.",
+    "description": "A large flying fire predator capable of sustained flight, intense flame projection, and territorial attacks. In survival terms, Charizard is not a campfire helper. It is an aerial apex hazard.",
+    "lore": "Ancient settlements painted Charizard silhouettes over gates to warn travelers which valleys had no law after sunset.",
+    "survivalUse": "Can provide aerial evacuation, predator deterrence, signal fire, and heat in extreme emergencies. The risk of attracting or causing disaster is severe.",
+    "handlingWarning": "Never approach a roost, egg, injured wing, or feeding adult. Do not shine lights into its eyes at night.",
+    "encounterAdvice": "Do not stand in open ground. Move under rock cover, stay low, avoid smoke plumes, and leave the territory without running toward cliffs.",
+    "firstAid": "For burns, cool immediately and seek emergency care. For bite or claw wounds, control bleeding and treat as contaminated trauma. For smoke exposure, move to clean air.",
+    "companionSuitability": "Poor for homes. Possible working partnership only with elite handlers and protected range access.",
+    "abilities": [
+      "Blaze",
+      "Solar Power"
+    ],
+    "fieldBehaviors": [
+      "Thermal soaring",
+      "Cliff roosting",
+      "Flame marking",
+      "Challenge roaring",
+      "Carrion scanning from altitude"
+    ],
+    "weaknesses": [
+      "Rock",
+      "Water",
+      "Electric",
+      "Cold rain",
+      "Wing injury",
+      "Fuel exhaustion"
+    ],
+    "resistances": [
+      "Fire",
+      "Grass",
+      "Fighting",
+      "Bug",
+      "Steel",
+      "Fairy",
+      "Ground immunity in game type logic"
+    ],
+    "signsOfPresence": [
+      "Large scorched landing marks",
+      "Wing-claw scratches",
+      "Burned carcasses",
+      "Sulfur-char odor",
+      "High cliff nests",
+      "Melted glassy sand patches"
+    ],
+    "equipment": [
+      "Long-distance optics",
+      "Fire shelter",
+      "Radio beacon",
+      "Burn kit",
+      "Helmet",
+      "Heat-resistant outer layer",
+      "Do not carry loose fuel"
+    ],
+    "stats": {
+      "power": 5,
+      "speed": 5,
+      "stealth": 2,
+      "danger": 5,
+      "usefulness": 4,
+      "food": 1,
+      "medicine": 1,
+      "identificationDifficulty": 1,
+      "reliability": 1,
+      "resourceCost": 5,
+      "speedOfOnset": 5,
+      "detectability": 2,
+      "preventability": 1,
+      "medicalPriority": 5,
+      "warmth": 5
+    },
+    "fieldNote": "If a Charizard circles without attacking, it may be measuring wind, escape paths, and whether you are worth the energy.",
+    "visualSymbol": "🔥",
+    "image": "images/pokemon/charizard.png",
+    "audio": "audio/pokemon/charizard.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "The Charizard line appears to have evolved from heat-cave predators that traded camouflage for fire. Its darkest adaptation is psychological: a healthy adult often refuses weak prey, seeking stronger opponents because combat itself selects mates and territory.",
+    "evolutionLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Charmander",
+        "stage": "Base",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Charmeleon",
+        "stage": "Stage One",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Charizard",
+        "stage": "Stage Two",
+        "method": "Final standard form",
+        "note": "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+      },
+      {
+        "name": "Mega Charizard X",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Charizard Y",
+        "stage": "Mega",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Charizard",
+        "stage": "Gigantamax",
+        "method": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "method": "",
+        "note": ""
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Charmander Evolution Family",
+      "subtitle": "Evolution Tree",
+      "mainLine": [
+        {
+          "name": "None",
+          "stage": "Baby",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Charmander",
+          "stage": "Base",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Charmeleon",
+          "stage": "Stage One",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Charizard",
+          "stage": "Stage Two",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "Final standard form",
+          "note": "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+        },
+        {
+          "name": "Mega Charizard X",
+          "stage": "Mega",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Mega Charizard Y",
+          "stage": "Mega",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "Gigantamax Charizard",
+          "stage": "Gigantamax",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        },
+        {
+          "name": "None known",
+          "stage": "Regional Variant",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "methodToNext": "",
+          "note": ""
+        }
+      ],
+      "variants": [
+        {
+          "from": "Charizard",
+          "method": "Special catalyst, battle phenomenon, or Gigantamax factor",
+          "target": {
+            "name": "Mega Charizard X; Mega Charizard Y; Gigantamax Charizard",
+            "stage": "Branch Evolution",
+            "types": [
+              "Fire"
+            ],
+            "symbol": "🔥",
+            "note": "Charizard does not evolve further by level. Mega and Gigantamax forms should be treated as temporary high-risk phenomena."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "fire",
+      "flying",
+      "dragon-like",
+      "apex-predator",
+      "survival-guide",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia",
+      "class": "Reptilia-like Pyrofauna",
+      "order": "Sauria Ignis Volans",
+      "family": "Charmanderidae",
+      "genus": "Lacerta ignis",
+      "species": "Lacerta ignis volante"
+    },
+    "humanConflictRisk": "Extreme",
+    "domesticationStatus": "Not domesticated. Historical riding and military use required heavy training and high casualty risk.",
+    "prey": "Large mammals, fish, birds, smaller Pokemon, livestock, and carrion",
+    "temperamentTriggers": [
+      "Nest approach",
+      "Rival roar",
+      "Injury",
+      "Hunger",
+      "Strong challengers",
+      "Spotlights",
+      "Drones near roost"
+    ],
+    "territoryRange": "20 to 100 square miles depending on prey, cliffs, and thermal lift",
+    "lifeCycle": "Final standard form of the Charmander line after Charmeleon reaches level 36. May access Mega or Gigantamax forms under rare special conditions.",
+    "containmentRequirements": "A managed flight range with stone roosts, firebreaks, remote feeding systems, veterinary restraint bay, and aviation hazard coordination",
+    "ecologicalRole": "Apex aerial predator, carrion remover, fire-cycle driver in adapted scrublands, and population control for large herbivores",
+    "diseaseParasiteRisk": "Moderate. Burn wounds, respiratory soot, wing mites, salmonella-like reptile bacteria, and carrion-borne pathogens may affect handlers.",
+    "reproductionNesting": "Nests on cliffs, lava-warmed stone, or high ruins. Eggs require warmth, ventilation, and long guarding periods.",
+    "predators": "Few natural predators. Rival Charizard, large rock-types, severe wing injury, disease, and humans are primary threats.",
+    "emergencyResponse": "Treat as wildfire plus large predator incident. Evacuate downwind, notify fire and wildlife teams, and do not attempt capture without aerial support.",
+    "legalStatus": "Restricted apex fire-flying Pokemon. Private ownership usually prohibited or heavily regulated.",
+    "stressSicknessSigns": [
+      "Ragged flame",
+      "Low wing carriage",
+      "Excess smoke",
+      "Uncontrolled ground pacing",
+      "Refusal to fly",
+      "Attacking weak targets"
+    ],
+    "lifespan": "Wild: 15 to 30 years. Managed sanctuary: 40 years or more.",
+    "socialStructure": "Usually solitary. May form temporary breeding pair or loose dominance network around rich territory.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Fire output is extreme and capable of structural ignition.",
+      "electricFieldRange": "Flame hazard 50 ft or more, smoke and wildfire hazard far beyond line of sight",
+      "burstSpeed": "Fast ground lunge and high-speed takeoff",
+      "dodgeSpeed": "High in air, moderate on ground",
+      "jumpingHeight": "Wing-assisted launch from cliffs or open ground",
+      "balance": "Excellent in air, tail flame affects tight ground turns"
+    },
+    "trainingRisk": "Fatal burns, aerial drops, crushing bites, wing-strike trauma, wildfire, and dominance attacks",
+    "physiology": "Charizard uses powerful lungs, internal fuel chemistry, and a heat-resistant throat to project flame. Its wings demand high calories, and injured adults can become desperate near livestock, camps, and roads.",
+    "keyFacts": {
+      "size": "Height: 5 ft 7 in",
+      "weight": "199.5 lbs",
+      "tailLength": "Approx. 4 ft plus flame plume",
+      "lifestyle": "Solitary aerial apex predator",
+      "diet": "Carnivorous, large prey and carrion",
+      "habitat": "Mountains, volcanic cliffs, remote highlands",
+      "lifespan": "Wild: 15 to 30 years. Sanctuary: 40 years or more.",
+      "groupSize": "Usually solitary, temporary pairs only"
+    },
+    "domesticationDifficulty": "Extreme. Requires aviation-scale space, fire control, and specialist handlers.",
+    "physicalCharacteristics": "Orange dragon-like body, cream underside, broad wings, horned head, heavy tail flame, powerful jaws, large claws, and heat-hardened hide. Wing membranes are vulnerable to tears despite the animal strength.",
+    "dietRestrictions": "Avoid low-calorie feeding, confinement without flight, wet cold roosts, and overuse of flame in enclosed areas."
+  },
+  {
+    "id": "pokemon-squirtle",
+    "entryId": "PKMN-0007",
+    "pokedexNumber": "#0007",
+    "name": "Squirtle",
+    "category": "animals",
+    "type": "Water Creature",
+    "elementType": "water",
+    "dangerLevel": "Low",
+    "rarity": "Uncommon",
+    "region": "Kanto",
+    "route": "Freshwater ponds, marsh edges, slow rivers, seaweed beaches, rain ditches, and protected coastal coves",
+    "habitat": "Clean freshwater or brackish water with basking stones, sandy banks, submerged plants, and escape tunnels",
+    "classification": "Tiny Turtle Pokemon / Juvenile Water Chelonian",
+    "height": "1 ft 8 in",
+    "weight": "19.8 lbs",
+    "behaviorTemperament": "Curious, social, and playful near water. Wild Squirtle retreat quickly, then spray from cover. Cornered individuals snap at fingers and eyes.",
+    "diet": "Aquatic insects, algae, small fish, mollusks, berries, water plants, mosquito larvae, and prepared aquatic feed",
+    "activityPattern": "Diurnal with strong dawn and afternoon basking. More active during warm rain.",
+    "bestTimeToFind": "Morning on basking rocks, muddy banks, or shallow coves after rain",
+    "observationDifficulty": "Easy to moderate. Tracks and shell slides are common, but it dives quickly.",
+    "conservationStatus": "Protected starter-class water species",
+    "populationStatus": "Stable in protected waters, declining in polluted urban canals",
+    "description": "A small aquatic turtle Pokemon with a hardening shell and pressurized water spray. Usually manageable, but mishandling can cause bites, water-jet injuries, and drowning hazards.",
+    "lore": "Old coastal families considered Squirtle a lucky find until children learned that a scared one could blind a person for minutes with one panicked spray.",
+    "survivalUse": "Can find water, catch small aquatic food, spray fires at close range, clean mud from tools, and warn of polluted water by refusing to enter.",
+    "handlingWarning": "Support the shell with both hands. Do not pick up by the tail or limbs. Keep face away from mouth and spray angle.",
+    "encounterAdvice": "Approach slowly from land, offer an escape route to water, and avoid grabbing a basking group. A calm Squirtle may approach shiny gear.",
+    "firstAid": "Clean bites with soap and water. Rinse eyes after spray impact. Keep an overheated Squirtle in shallow clean water and shade.",
+    "companionSuitability": "Good for beginners who respect water, shell, and hygiene needs",
+    "abilities": [
+      "Torrent",
+      "Rain Dish"
+    ],
+    "fieldBehaviors": [
+      "Basks in groups",
+      "Dives under roots",
+      "Sprays from shell-braced stance",
+      "Tracks water vibration"
+    ],
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Dehydration",
+      "Shell rot",
+      "Polluted water"
+    ],
+    "resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "signsOfPresence": [
+      "Small webbed tracks",
+      "Belly slide marks",
+      "Round shell prints in mud",
+      "Clean bites on water plants",
+      "Splashed bank holes"
+    ],
+    "equipment": [
+      "Aquatic gloves",
+      "Eye protection",
+      "Soft towel",
+      "Water test strips",
+      "Ventilated wet crate",
+      "Bite wash kit"
+    ],
+    "stats": {
+      "power": 2,
+      "speed": 2,
+      "stealth": 3,
+      "danger": 2,
+      "usefulness": 4,
+      "food": 3,
+      "medicine": 1,
+      "identificationDifficulty": 1,
+      "reliability": 4,
+      "resourceCost": 2,
+      "speedOfOnset": 3,
+      "detectability": 3,
+      "preventability": 4,
+      "medicalPriority": 2,
+      "warmth": 1
+    },
+    "fieldNote": "A Squirtle that stops basking and stares at water may have sensed vibration before humans hear anything.",
+    "visualSymbol": "💧",
+    "image": "images/pokemon/squirtle.png",
+    "audio": "audio/pokemon/squirtle.mp3",
+    "entryAuthor": "Ranger Field Survival Office",
+    "originStory": "Squirtle likely descended from small shoreline turtles that survived predation by weaponizing stored water. The shell became more than armor: it became a pressure vessel.",
+    "evolutionLine": [
+      {
+        "name": "Squirtle",
+        "stage": "Base",
+        "method": "Level 16",
+        "note": "Juvenile aquatic turtle. Water spray and bite risk increase when cornered."
+      },
+      {
+        "name": "Wartortle",
+        "stage": "Stage One",
+        "method": "Level 36",
+        "note": "Stronger and more territorial. Tail and ears help water maneuvering."
+      },
+      {
+        "name": "Blastoise",
+        "stage": "Final",
+        "method": "Special forms only",
+        "note": "Heavy armored adult with cannon-like water projection. Treat as pressure hazard."
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Squirtle Evolution Family",
+      "subtitle": "Evolution Tree - Water Type",
+      "mainLine": [
+        {
+          "name": "Squirtle",
+          "stage": "Base",
+          "types": [
+            "Water"
+          ],
+          "symbol": "💧",
+          "methodToNext": "Level 16",
+          "note": "Juvenile aquatic turtle. Water spray and bite risk increase when cornered."
+        },
+        {
+          "name": "Wartortle",
+          "stage": "Stage One",
+          "types": [
+            "Water"
+          ],
+          "symbol": "💧",
+          "methodToNext": "Level 36",
+          "note": "Stronger and more territorial. Tail and ears help water maneuvering."
+        },
+        {
+          "name": "Blastoise",
+          "stage": "Final",
+          "types": [
+            "Water"
+          ],
+          "symbol": "💧",
+          "methodToNext": "Special forms only",
+          "note": "Heavy armored adult with cannon-like water projection. Treat as pressure hazard."
+        }
+      ],
+      "variants": [
+        {
+          "from": "Blastoise",
+          "method": "Blastoisinite / Mega Evolution",
+          "target": {
+            "name": "Mega Blastoise",
+            "stage": "Mega Form",
+            "types": [
+              "Water"
+            ],
+            "symbol": "💧",
+            "note": "Temporary form with concentrated cannon pressure. Risk shifts from drowning to impact trauma."
+          }
+        },
+        {
+          "from": "Blastoise",
+          "method": "Gigantamax factor",
+          "target": {
+            "name": "Gigantamax Blastoise",
+            "stage": "Gigantamax Form",
+            "types": [
+              "Water"
+            ],
+            "symbol": "💧",
+            "note": "Rare battle phenomenon. Water projection can damage structures and flood confined spaces."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "water",
+      "starter",
+      "aquatic",
+      "survival-guide",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia",
+      "class": "Reptilia-like Aquatic Fauna",
+      "order": "Testudines Hydro",
+      "family": "Squirtlidae",
+      "genus": "Testudo",
+      "species": "Testudo parvus"
+    },
+    "humanConflictRisk": "Low to medium",
+    "domesticationStatus": "Semi-domesticated under starter programs",
+    "prey": "Mosquito larvae, aquatic insects, small fish, algae, soft plants, and mollusks",
+    "temperamentTriggers": [
+      "Dry handling",
+      "Being flipped over",
+      "Tail grabbing",
+      "Dirty water",
+      "Loud splashing",
+      "Predators overhead"
+    ],
+    "territoryRange": "A pond, marsh edge, or 0.5 to 2 miles of riverbank",
+    "lifeCycle": "Hatches from soft-shelled eggs near water, grows through juvenile aquatic stages, evolves into Wartortle at level 16.",
+    "containmentRequirements": "Clean filtered water, basking area, dry dock, smooth rocks, secure lid, shell-safe humidity, and no small swallowable plastic",
+    "ecologicalRole": "Mosquito control, algae grazing, small aquatic predator, and indicator of clean shallow water",
+    "diseaseParasiteRisk": "Moderate. Salmonella-like bacteria, shell rot, parasites, and contaminated water exposure are concerns.",
+    "reproductionNesting": "Females bury eggs in warm sand or soft bank soil above flood level. Hatchlings run to water and hide in vegetation.",
+    "predators": "Fearow, Arbok, Golbat, large fish, snapping predators, humans, and polluted waterways",
+    "emergencyResponse": "For water-jet eye injury, rinse and seek care if pain persists. For bites, wash thoroughly. For escaped Squirtle, search drains, tubs, ponds, and damp shade.",
+    "legalStatus": "Protected aquatic starter. Transport may require clean-water documentation.",
+    "stressSicknessSigns": [
+      "Soft shell patches",
+      "Refusing to bask",
+      "Floating crooked",
+      "Cloudy eyes",
+      "Gasping",
+      "Persistent tucked posture"
+    ],
+    "lifespan": "Wild: 1 to 12 years. Managed care: 25 to 40 years with clean water and shell care.",
+    "socialStructure": "Small basking groups and juvenile creches near safe coves. Adults become more independent after evolution.",
+    "fieldCapabilities": {
+      "chargeLevel": "No electric charge. Water output is juvenile but pressurized enough to injure eyes and knock loose objects away.",
+      "electricFieldRange": "Spray range about 15 to 25 ft depending on hydration and stress",
+      "burstSpeed": "Short swim burst around 15 to 20 mph, slower on land",
+      "dodgeSpeed": "Fast dive reflex, moderate land dodge",
+      "jumpingHeight": "Low, about 1 to 2 ft from bank edge",
+      "balance": "Good in water, clumsy on slick hard floors"
+    },
+    "trainingRisk": "Biting, slippery escape, water spray to eyes, and shell stress from dropping",
+    "physiology": "Squirtle can breathe air but stores and expels water with unusual pressure through muscular body compression. Its shell protects organs while also helping control buoyancy and hydrodynamic movement.",
+    "keyFacts": {
+      "size": "Height: 1 ft 8 in",
+      "weight": "19.8 lbs",
+      "tailLength": "Approx. 0.5 ft curled tail",
+      "lifestyle": "Diurnal, social juvenile aquatic turtle",
+      "diet": "Aquatic omnivore",
+      "habitat": "Ponds, marshes, riverbanks, coastal coves",
+      "lifespan": "Wild: 1 to 12 years. Managed: 25 to 40 years.",
+      "groupSize": "Pairs to small basking groups"
+    },
+    "domesticationDifficulty": "Low to moderate, mostly water quality and shell health",
+    "physicalCharacteristics": "Blue skin, curled tail, cream belly plate, brown shell, large eyes, webbed feet, and a short beak-like mouth. The shell is softer in hatchlings and hardens with age.",
+    "dietRestrictions": "Avoid chlorinated pools, salty snacks, dirty aquarium water, bread diets, and dry heat without soaking access."
+  },
+  {
+    "id": "pokemon-pikachu",
+    "entryId": "PKMN-0025",
+    "pokedexNumber": "#0025",
+    "name": "Pikachu",
+    "category": "animals",
+    "type": "Electric Creature",
+    "elementType": "electric",
+    "dangerLevel": "Medium",
+    "rarity": "Uncommon",
+    "region": "Kanto",
+    "route": "Forest edges, grassy routes, storm-prone woodland",
+    "habitat": "Woodlands, open grass, abandoned power areas, and regions with frequent electrical activity.",
+    "classification": "Mouse Pokemon / Electric Rodent",
+    "height": "1 ft 4 in",
+    "weight": "13.2 lbs",
+    "behaviorTemperament": "Alert, social, curious, and skittish when surprised.",
+    "diet": "Berries, fruit, seeds, and small field foods.",
+    "activityPattern": "Mostly diurnal, but activity increases before storms.",
+    "bestTimeToFind": "Early morning, late afternoon, or storm weather.",
+    "observationDifficulty": "Moderate",
+    "conservationStatus": "Stable in known regions",
+    "populationStatus": "Stable",
+    "description": "A small electric creature known for storing electrical charge in its cheek sacs.",
+    "lore": "Pikachu are alert, social, and highly reactive when frightened.",
+    "survivalUse": "Can warn of storms and electrical disturbance.",
+    "handlingWarning": "Do not grab barehanded. Avoid cheeks and tail.",
+    "encounterAdvice": "Keep distance, stay calm, avoid sudden movement.",
+    "firstAid": "Treat shock as serious and seek medical help.",
+    "companionSuitability": "Potential companion with careful trust-building",
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "fieldBehaviors": [
+      "Discharges electricity when startled",
+      "Raises ears when detecting movement"
+    ],
+    "weaknesses": [
+      "Ground-type threats",
+      "Mud",
+      "Exhaustion"
+    ],
+    "resistances": [
+      "Electric shock",
+      "Some flying threats"
+    ],
+    "signsOfPresence": [
+      "Static buildup",
+      "Scorch marks",
+      "High-pitched calls"
+    ],
+    "equipment": [
+      "Insulated gloves",
+      "Nonconductive blanket",
+      "Dry boots"
+    ],
+    "stats": {
+      "power": 4,
+      "speed": 5,
+      "stealth": 3,
+      "danger": 3,
+      "usefulness": 4,
+      "food": 5,
+      "medicine": 5,
+      "identificationDifficulty": 5,
+      "reliability": 5,
+      "resourceCost": 5,
+      "speedOfOnset": 5,
+      "detectability": 5,
+      "preventability": 5,
+      "medicalPriority": 5,
+      "warmth": 5
+    },
+    "fieldNote": "If injured, keep calm, dry, and away from metal tools.",
+    "visualSymbol": "⚡",
+    "image": "193",
+    "audio": "193",
+    "entryAuthor": "Ranger Field Log",
+    "originStory": "Early ranger accounts place the first confirmed Pikachu encounter near storm-charged caves.",
+    "evolutionLine": [
+      {
+        "name": "Pichu",
+        "stage": "Baby",
+        "method": "High Friendship",
+        "note": "Small and unstable. Electrical output is harder to control."
+      },
+      {
+        "name": "Pikachu",
+        "stage": "Base",
+        "method": "Thunder Stone",
+        "note": "Primary field form. Strong companion potential with trained handlers."
+      },
+      {
+        "name": "Raichu",
+        "stage": "Final",
+        "method": "193",
+        "note": "Standard final evolution with stronger electrical output."
+      }
+    ],
+    "evolutionTree": {
+      "familyName": "Pikachu Evolution Family",
+      "subtitle": "Evolution Tree - Electric Type",
+      "mainLine": [
+        {
+          "name": "Pichu",
+          "stage": "Baby",
+          "types": [
+            "Electric"
+          ],
+          "symbol": "⚡",
+          "methodToNext": "High Friendship",
+          "note": "Small and unstable. Electrical output is harder to control."
+        },
+        {
+          "name": "Pikachu",
+          "stage": "Base",
+          "types": [
+            "Electric"
+          ],
+          "symbol": "⚡",
+          "methodToNext": "Thunder Stone",
+          "note": "Primary field form. Strong companion potential with trained handlers."
+        },
+        {
+          "name": "Raichu",
+          "stage": "Final",
+          "types": [
+            "Electric"
+          ],
+          "symbol": "⚡",
+          "methodToNext": "193",
+          "note": "Standard final evolution with stronger electrical output."
+        }
+      ],
+      "variants": [
+        {
+          "from": "Pikachu",
+          "method": "Thunder Stone in Alola",
+          "target": {
+            "name": "Alolan Raichu",
+            "stage": "Regional Variant",
+            "types": [
+              "Electric",
+              "Psychic"
+            ],
+            "symbol": "⚡",
+            "note": "Regional branch connected to Alolan conditions."
+          }
+        }
+      ]
+    },
+    "tags": [
+      "pokemon",
+      "electric",
+      "creature",
+      "storm-active",
+      "shock-risk",
+      "kanto"
+    ],
+    "scientificClassification": {
+      "kingdom": "Animalia",
+      "class": "Mammalia-like Electric Fauna",
+      "order": "Rodentia Fulminis",
+      "family": "Muridae Electrica",
+      "genus": "Pika",
+      "species": "Pika fulmen"
+    },
+    "humanConflictRisk": "Moderate",
+    "domesticationStatus": "Semi-domesticated",
+    "prey": "Small insects, berries, seeds, fruit, and field scraps",
+    "temperamentTriggers": [
+      "Loud thunder",
+      "Sudden grabbing",
+      "Touching cheeks or tail"
+    ],
+    "territoryRange": "Small forest-edge range or colony area",
+    "lifeCycle": "Born as Pichu, matures into Pikachu, may evolve into Raichu with Thunder Stone.",
+    "containmentRequirements": "Grounded enclosure, rubberized flooring, insulated tools.",
+    "ecologicalRole": "Controls small insects and spreads seeds",
+    "diseaseParasiteRisk": "Low to moderate",
+    "reproductionNesting": "Nests in dry burrows, hollow logs, cave pockets, or root systems.",
+    "predators": "Large ground predators and aerial hunters",
+    "emergencyResponse": "Avoid metal and standing water during discharge.",
+    "legalStatus": "Ownership may require electric-type handling certification",
+    "stressSicknessSigns": [
+      "Cheek sacs flickering unevenly",
+      "Tail held low",
+      "Refusing food"
+    ],
+    "lifespan": "Wild: 6 to 8 years. Managed care: 10 to 15 years.",
+    "socialStructure": "Tight-knit colonies with shared warning signals",
+    "fieldCapabilities": {
+      "chargeLevel": "Capable of strong defensive discharge",
+      "electricFieldRange": "Short range, strongest close up",
+      "burstSpeed": "Fast short-distance movement",
+      "dodgeSpeed": "High",
+      "jumpingHeight": "Moderate",
+      "balance": "Tail assists balance and signaling"
+    },
+    "trainingRisk": "Electrical burns and startled discharge",
+    "physiology": "Stores electrical energy in specialized cheek sacs.",
+    "keyFacts": {
+      "size": "Height: 1 ft 4 in",
+      "weight": "13.2 lbs",
+      "tailLength": "Approx. 0.3 m",
+      "lifestyle": "Storm-active, highly social",
+      "diet": "Omnivorous forager",
+      "habitat": "Forest edges and storm-prone woodland",
+      "lifespan": "Wild: 6 to 8 years. Managed care: 10 to 15 years",
+      "groupSize": "Small groups to colonies of up to 30"
+    },
+    "domesticationDifficulty": "High for wild adults, moderate if raised young",
+    "physicalCharacteristics": "Small yellow rodent-like Pokemon with red cheek sacs and a lightning-shaped tail.",
+    "dietRestrictions": "Avoid salty processed foods and exposed wiring."
+  }
+]

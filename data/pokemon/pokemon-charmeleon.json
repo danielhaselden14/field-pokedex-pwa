@@ -1,0 +1,321 @@
+{
+  "id": "pokemon-charmeleon",
+  "entryId": "PKMN-0005",
+  "pokedexNumber": "#0005",
+  "name": "Charmeleon",
+  "category": "animals",
+  "type": "Fire Creature",
+  "elementType": "fire",
+  "dangerLevel": "High",
+  "rarity": "Rare",
+  "region": "Kanto",
+  "route": "Dry canyons, lava-tube caves, burned pine slopes, abandoned mines, and isolated badland ridges",
+  "habitat": "Hot dry terrain with high perches, hunting corridors, and den sites shielded from rain",
+  "classification": "Flame Pokemon / Horned Fire Saurian",
+  "height": "3 ft 7 in",
+  "weight": "41.9 lbs",
+  "behaviorTemperament": "Proud, irritable, territorial, and easily provoked. It may seek fights to establish rank and may ignore a handler it once obeyed as a Charmander.",
+  "diet": "Small mammals, birds, eggs, reptiles, carrion, charred plant matter, and high-protein managed feed",
+  "activityPattern": "Late afternoon, evening, and night hunting with daytime basking",
+  "bestTimeToFind": "At dusk near warm rocks, cave exits, and fresh scorch trails",
+  "observationDifficulty": "Hard and dangerous. Charmeleon often detects observers first and may circle downwind.",
+  "conservationStatus": "Restricted protected species",
+  "populationStatus": "Rare and usually solitary outside breeding season",
+  "description": "An aggressive adolescent fire Pokemon with stronger claws, a cranial horn, and a more intense tail flame. This stage is the most likely in the line to injure handlers.",
+  "lore": "Old mining towns sometimes reported a red lizard in the tunnels before cave fires. Survivors said it did not hunt them at first. It waited until the smoke made them stumble.",
+  "survivalUse": "Strong heat source, predator deterrent, cauterization risk tool in last-resort survival, and camp defense. Use is dangerous and can escalate wildfire risk.",
+  "handlingWarning": "Do not challenge eye contact, grab the tail, block the den exit, or approach while it is feeding.",
+  "encounterAdvice": "Give it an exit path. Do not run unless already behind cover. Place rock, dirt, or water barrier between you and dry vegetation.",
+  "firstAid": "Cool burns, control bleeding, irrigate bites, avoid sealing deep punctures, and seek urgent care for any Charmeleon wound.",
+  "companionSuitability": "Poor to fair. Suitable only for experienced fire-type handlers.",
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "fieldBehaviors": [
+    "Scratches rocks",
+    "Challenges reflections",
+    "Hoards warm dens",
+    "Hunts at dusk",
+    "Tail flame brightens before lunging"
+  ],
+  "weaknesses": [
+    "Water",
+    "Ground",
+    "Rock",
+    "Cold rain",
+    "Overheating",
+    "Smoke backdraft"
+  ],
+  "resistances": [
+    "Fire",
+    "Grass",
+    "Ice",
+    "Bug",
+    "Steel",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Deep claw gouges",
+    "Taller scorch marks",
+    "Melted sap",
+    "Charred bones",
+    "Strong hot-metal odor near den"
+  ],
+  "equipment": [
+    "Fireproof gloves",
+    "Face shield",
+    "Leather sleeves",
+    "Burn kit",
+    "Remote latch crate",
+    "Extinguisher",
+    "Long-handled barrier pole"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 4,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 2,
+    "resourceCost": 4,
+    "speedOfOnset": 4,
+    "detectability": 2,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 5
+  },
+  "fieldNote": "If Charmeleon lowers its head and the tail flame narrows, it is choosing a target. Backing away slowly is safer than shouting.",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/charmeleon.png",
+  "audio": "audio/pokemon/charmeleon.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Charmeleon is the line at its most unstable: the body is building toward flight while the brain is flooded with hunger, heat, and dominance signals. In real-world terms, this would be a dangerous adolescent predator with a flamethrower attached to its spine.",
+  "evolutionLine": [
+    {
+      "name": "None",
+      "stage": "Baby",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Charmander",
+      "stage": "Base",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Charmeleon",
+      "stage": "Stage One",
+      "method": "Level up",
+      "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+    },
+    {
+      "name": "Charizard",
+      "stage": "Stage Two",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Mega Charizard X",
+      "stage": "Mega",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Mega Charizard Y",
+      "stage": "Mega",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Gigantamax Charizard",
+      "stage": "Gigantamax",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "None known",
+      "stage": "Regional Variant",
+      "method": "",
+      "note": ""
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Charmander Evolution Family",
+    "subtitle": "Evolution Tree",
+    "mainLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Charmander",
+        "stage": "Base",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Charmeleon",
+        "stage": "Stage One",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Level up",
+        "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+      },
+      {
+        "name": "Charizard",
+        "stage": "Stage Two",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Charizard X",
+        "stage": "Mega",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Mega Charizard Y",
+        "stage": "Mega",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Charizard",
+        "stage": "Gigantamax",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "",
+        "note": ""
+      }
+    ],
+    "variants": [
+      {
+        "from": "Charmeleon",
+        "method": "Final stage only, special catalyst or Gigantamax factor",
+        "target": {
+          "name": "Mega Charizard X; Mega Charizard Y; Gigantamax Charizard",
+          "stage": "Branch Evolution",
+          "types": [
+            "Fire"
+          ],
+          "symbol": "🔥",
+          "note": "The transition to Charizard is physically extreme. Cramped captivity can deform wings and produce permanently unstable adults."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "fire",
+    "predator",
+    "starter",
+    "burn-risk",
+    "survival-guide",
+    "evolution-level-36",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Reptilia-like Pyrofauna",
+    "order": "Sauria Ignis",
+    "family": "Charmanderidae",
+    "genus": "Lacerta ignis",
+    "species": "Lacerta ignis corniger"
+  },
+  "humanConflictRisk": "High",
+  "domesticationStatus": "Captive-trained only, not fully domesticated",
+  "prey": "Rattata, Pidgey, small reptiles, eggs, rodents, and carrion",
+  "temperamentTriggers": [
+    "Direct staring",
+    "Food theft",
+    "Tail contact",
+    "Rival scent",
+    "Confinement",
+    "Rain",
+    "Loud metallic sounds"
+  ],
+  "territoryRange": "3 to 10 square miles, larger in poor hunting territory",
+  "lifeCycle": "Evolves from Charmander at level 16 and can evolve into Charizard at level 36 after major muscular and respiratory development.",
+  "containmentRequirements": "Stone den with double gates, flameproof walls, heat venting, remote feeding chute, and reinforced observation shield",
+  "ecologicalRole": "Mid-level predator that controls rodents and scavenges carrion but can start brush fires in dry seasons",
+  "diseaseParasiteRisk": "Moderate. Bite infections, smoke exposure, scale parasites, and fuel-gland inflammation are common captive issues.",
+  "reproductionNesting": "Usually not a stable nesting stage. Competes for mates and may scavenge around established Charizard territories.",
+  "predators": "Charizard, larger water-types, rock-types, rival Charmeleon, and humans",
+  "emergencyResponse": "If it ignites brush, prioritize evacuation and fuel breaks. For bites or burns, treat as contaminated trauma and seek emergency care.",
+  "legalStatus": "Restricted fire predator. Transport in settled areas usually requires fire marshal or wildlife approval.",
+  "stressSicknessSigns": [
+    "Constant pacing",
+    "White-hot tail flare",
+    "Refusing den",
+    "Sooty cough",
+    "Overheating",
+    "Biting at own tail base"
+  ],
+  "lifespan": "Wild: 7 to 15 years. Managed care: 20 years or more with expert housing.",
+  "socialStructure": "Mostly solitary. Temporary dominance interactions with packs or breeding groups are volatile.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Fire output is strong enough to ignite brush and cause deep burns.",
+    "electricFieldRange": "Flame hazard commonly 10 to 25 ft, indirect wildfire risk much farther",
+    "burstSpeed": "Fast ground burst about 20 to 25 mph",
+    "dodgeSpeed": "High lunge and side-step speed",
+    "jumpingHeight": "About 5 ft with claw-assisted climbing",
+    "balance": "Good, tail counterbalances lunges"
+  },
+  "trainingRisk": "Deep claw wounds, serious burns, biting, panic fire, and handler challenge behavior",
+  "physiology": "The flame system intensifies after evolution. Internal fuel stores and heat-control tissues expand, raising burn output while also making the animal prone to agitation when overheated or underfed.",
+  "keyFacts": {
+    "size": "Height: 3 ft 7 in",
+    "weight": "41.9 lbs",
+    "tailLength": "Approx. 2 ft plus flame plume",
+    "lifestyle": "Solitary, territorial adolescent predator",
+    "diet": "Carnivorous-leaning omnivore",
+    "habitat": "Dry canyons, lava tubes, burned slopes",
+    "lifespan": "Wild: 7 to 15 years. Managed: 20 years or more.",
+    "groupSize": "Usually solitary except brief breeding contact"
+  },
+  "domesticationDifficulty": "High due to dominance behavior and fire risk",
+  "physicalCharacteristics": "Red-orange biped with sharper claws, narrow eyes, stronger jaws, head crest or horn, long tail, and hotter tail flame. Developing shoulder and back musculature foreshadows Charizard wings.",
+  "dietRestrictions": "Avoid low-protein diets, sugary human food, damp bedding, enclosed smoke exposure, and forced fasting during growth spurts.",
+  "detailPath": "./data/pokemon/pokemon-charmeleon.json"
+}

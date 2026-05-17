@@ -1,0 +1,246 @@
+{
+  "id": "pokemon-squirtle",
+  "entryId": "PKMN-0007",
+  "pokedexNumber": "#0007",
+  "name": "Squirtle",
+  "category": "animals",
+  "type": "Water Creature",
+  "elementType": "water",
+  "dangerLevel": "Low",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Freshwater ponds, marsh edges, slow rivers, seaweed beaches, rain ditches, and protected coastal coves",
+  "habitat": "Clean freshwater or brackish water with basking stones, sandy banks, submerged plants, and escape tunnels",
+  "classification": "Tiny Turtle Pokemon / Juvenile Water Chelonian",
+  "height": "1 ft 8 in",
+  "weight": "19.8 lbs",
+  "behaviorTemperament": "Curious, social, and playful near water. Wild Squirtle retreat quickly, then spray from cover. Cornered individuals snap at fingers and eyes.",
+  "diet": "Aquatic insects, algae, small fish, mollusks, berries, water plants, mosquito larvae, and prepared aquatic feed",
+  "activityPattern": "Diurnal with strong dawn and afternoon basking. More active during warm rain.",
+  "bestTimeToFind": "Morning on basking rocks, muddy banks, or shallow coves after rain",
+  "observationDifficulty": "Easy to moderate. Tracks and shell slides are common, but it dives quickly.",
+  "conservationStatus": "Protected starter-class water species",
+  "populationStatus": "Stable in protected waters, declining in polluted urban canals",
+  "description": "A small aquatic turtle Pokemon with a hardening shell and pressurized water spray. Usually manageable, but mishandling can cause bites, water-jet injuries, and drowning hazards.",
+  "lore": "Old coastal families considered Squirtle a lucky find until children learned that a scared one could blind a person for minutes with one panicked spray.",
+  "survivalUse": "Can find water, catch small aquatic food, spray fires at close range, clean mud from tools, and warn of polluted water by refusing to enter.",
+  "handlingWarning": "Support the shell with both hands. Do not pick up by the tail or limbs. Keep face away from mouth and spray angle.",
+  "encounterAdvice": "Approach slowly from land, offer an escape route to water, and avoid grabbing a basking group. A calm Squirtle may approach shiny gear.",
+  "firstAid": "Clean bites with soap and water. Rinse eyes after spray impact. Keep an overheated Squirtle in shallow clean water and shade.",
+  "companionSuitability": "Good for beginners who respect water, shell, and hygiene needs",
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "fieldBehaviors": [
+    "Basks in groups",
+    "Dives under roots",
+    "Sprays from shell-braced stance",
+    "Tracks water vibration"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Grass",
+    "Dehydration",
+    "Shell rot",
+    "Polluted water"
+  ],
+  "resistances": [
+    "Fire",
+    "Water",
+    "Ice",
+    "Steel"
+  ],
+  "signsOfPresence": [
+    "Small webbed tracks",
+    "Belly slide marks",
+    "Round shell prints in mud",
+    "Clean bites on water plants",
+    "Splashed bank holes"
+  ],
+  "equipment": [
+    "Aquatic gloves",
+    "Eye protection",
+    "Soft towel",
+    "Water test strips",
+    "Ventilated wet crate",
+    "Bite wash kit"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 2,
+    "usefulness": 4,
+    "food": 3,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 4,
+    "resourceCost": 2,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 4,
+    "medicalPriority": 2,
+    "warmth": 1
+  },
+  "fieldNote": "A Squirtle that stops basking and stares at water may have sensed vibration before humans hear anything.",
+  "visualSymbol": "💧",
+  "image": "images/pokemon/squirtle.png",
+  "audio": "audio/pokemon/squirtle.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Squirtle likely descended from small shoreline turtles that survived predation by weaponizing stored water. The shell became more than armor: it became a pressure vessel.",
+  "evolutionLine": [
+    {
+      "name": "Squirtle",
+      "stage": "Base",
+      "method": "Level 16",
+      "note": "Juvenile aquatic turtle. Water spray and bite risk increase when cornered."
+    },
+    {
+      "name": "Wartortle",
+      "stage": "Stage One",
+      "method": "Level 36",
+      "note": "Stronger and more territorial. Tail and ears help water maneuvering."
+    },
+    {
+      "name": "Blastoise",
+      "stage": "Final",
+      "method": "Special forms only",
+      "note": "Heavy armored adult with cannon-like water projection. Treat as pressure hazard."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Squirtle Evolution Family",
+    "subtitle": "Evolution Tree - Water Type",
+    "mainLine": [
+      {
+        "name": "Squirtle",
+        "stage": "Base",
+        "types": [
+          "Water"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Level 16",
+        "note": "Juvenile aquatic turtle. Water spray and bite risk increase when cornered."
+      },
+      {
+        "name": "Wartortle",
+        "stage": "Stage One",
+        "types": [
+          "Water"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Level 36",
+        "note": "Stronger and more territorial. Tail and ears help water maneuvering."
+      },
+      {
+        "name": "Blastoise",
+        "stage": "Final",
+        "types": [
+          "Water"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Special forms only",
+        "note": "Heavy armored adult with cannon-like water projection. Treat as pressure hazard."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Blastoise",
+        "method": "Blastoisinite / Mega Evolution",
+        "target": {
+          "name": "Mega Blastoise",
+          "stage": "Mega Form",
+          "types": [
+            "Water"
+          ],
+          "symbol": "💧",
+          "note": "Temporary form with concentrated cannon pressure. Risk shifts from drowning to impact trauma."
+        }
+      },
+      {
+        "from": "Blastoise",
+        "method": "Gigantamax factor",
+        "target": {
+          "name": "Gigantamax Blastoise",
+          "stage": "Gigantamax Form",
+          "types": [
+            "Water"
+          ],
+          "symbol": "💧",
+          "note": "Rare battle phenomenon. Water projection can damage structures and flood confined spaces."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "water",
+    "starter",
+    "aquatic",
+    "survival-guide",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Reptilia-like Aquatic Fauna",
+    "order": "Testudines Hydro",
+    "family": "Squirtlidae",
+    "genus": "Testudo",
+    "species": "Testudo parvus"
+  },
+  "humanConflictRisk": "Low to medium",
+  "domesticationStatus": "Semi-domesticated under starter programs",
+  "prey": "Mosquito larvae, aquatic insects, small fish, algae, soft plants, and mollusks",
+  "temperamentTriggers": [
+    "Dry handling",
+    "Being flipped over",
+    "Tail grabbing",
+    "Dirty water",
+    "Loud splashing",
+    "Predators overhead"
+  ],
+  "territoryRange": "A pond, marsh edge, or 0.5 to 2 miles of riverbank",
+  "lifeCycle": "Hatches from soft-shelled eggs near water, grows through juvenile aquatic stages, evolves into Wartortle at level 16.",
+  "containmentRequirements": "Clean filtered water, basking area, dry dock, smooth rocks, secure lid, shell-safe humidity, and no small swallowable plastic",
+  "ecologicalRole": "Mosquito control, algae grazing, small aquatic predator, and indicator of clean shallow water",
+  "diseaseParasiteRisk": "Moderate. Salmonella-like bacteria, shell rot, parasites, and contaminated water exposure are concerns.",
+  "reproductionNesting": "Females bury eggs in warm sand or soft bank soil above flood level. Hatchlings run to water and hide in vegetation.",
+  "predators": "Fearow, Arbok, Golbat, large fish, snapping predators, humans, and polluted waterways",
+  "emergencyResponse": "For water-jet eye injury, rinse and seek care if pain persists. For bites, wash thoroughly. For escaped Squirtle, search drains, tubs, ponds, and damp shade.",
+  "legalStatus": "Protected aquatic starter. Transport may require clean-water documentation.",
+  "stressSicknessSigns": [
+    "Soft shell patches",
+    "Refusing to bask",
+    "Floating crooked",
+    "Cloudy eyes",
+    "Gasping",
+    "Persistent tucked posture"
+  ],
+  "lifespan": "Wild: 1 to 12 years. Managed care: 25 to 40 years with clean water and shell care.",
+  "socialStructure": "Small basking groups and juvenile creches near safe coves. Adults become more independent after evolution.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Water output is juvenile but pressurized enough to injure eyes and knock loose objects away.",
+    "electricFieldRange": "Spray range about 15 to 25 ft depending on hydration and stress",
+    "burstSpeed": "Short swim burst around 15 to 20 mph, slower on land",
+    "dodgeSpeed": "Fast dive reflex, moderate land dodge",
+    "jumpingHeight": "Low, about 1 to 2 ft from bank edge",
+    "balance": "Good in water, clumsy on slick hard floors"
+  },
+  "trainingRisk": "Biting, slippery escape, water spray to eyes, and shell stress from dropping",
+  "physiology": "Squirtle can breathe air but stores and expels water with unusual pressure through muscular body compression. Its shell protects organs while also helping control buoyancy and hydrodynamic movement.",
+  "keyFacts": {
+    "size": "Height: 1 ft 8 in",
+    "weight": "19.8 lbs",
+    "tailLength": "Approx. 0.5 ft curled tail",
+    "lifestyle": "Diurnal, social juvenile aquatic turtle",
+    "diet": "Aquatic omnivore",
+    "habitat": "Ponds, marshes, riverbanks, coastal coves",
+    "lifespan": "Wild: 1 to 12 years. Managed: 25 to 40 years.",
+    "groupSize": "Pairs to small basking groups"
+  },
+  "domesticationDifficulty": "Low to moderate, mostly water quality and shell health",
+  "physicalCharacteristics": "Blue skin, curled tail, cream belly plate, brown shell, large eyes, webbed feet, and a short beak-like mouth. The shell is softer in hatchlings and hardens with age.",
+  "dietRestrictions": "Avoid chlorinated pools, salty snacks, dirty aquarium water, bread diets, and dry heat without soaking access.",
+  "detailPath": "./data/pokemon/pokemon-squirtle.json"
+}

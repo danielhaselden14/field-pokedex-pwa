@@ -1,0 +1,5 @@
+﻿_backup*/
+import-tools/*.xlsx
+import-tools/upload.xlsx
+*.bak
+*.tmp

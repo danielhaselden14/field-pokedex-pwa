@@ -1,0 +1,266 @@
+{
+  "id": "pokemon-charmander",
+  "entryId": "PKMN-0004",
+  "pokedexNumber": "#0004",
+  "name": "Charmander",
+  "category": "animals",
+  "type": "Fire Creature",
+  "elementType": "fire",
+  "dangerLevel": "Medium",
+  "rarity": "Rare",
+  "region": "Kanto",
+  "route": "Dry foothills, volcanic scrub, sun-warmed caves, rocky badlands, and old charcoal pits",
+  "habitat": "Warm rocky shelters with dry bedding, low humidity, airflow, and access to small prey",
+  "classification": "Lizard Pokemon / Juvenile Fire Saurian",
+  "height": "2 ft 0 in",
+  "weight": "18.7 lbs",
+  "behaviorTemperament": "Social, loyal, and curious when raised young. Wild Charmander are nervous pack juveniles that warn with tail flicks, hisses, and short flame bursts.",
+  "diet": "Insects, small rodents, lizards, eggs, berries, charred plant matter, and high-energy protein meals",
+  "activityPattern": "Diurnal to crepuscular. Basks in morning sun and shelters during cold rain.",
+  "bestTimeToFind": "Warm mornings near cave mouths, ash beds, or sunlit rocks with small claw marks",
+  "observationDifficulty": "Moderate. Tail flame is visible at night but juveniles hide quickly.",
+  "conservationStatus": "Protected starter-class fire species",
+  "populationStatus": "Uncommon and declining near human development due to illegal capture and fire-control conflicts",
+  "description": "A small fire-bearing reptilian Pokemon whose tail flame reflects health, stress, and stored fuel. Cute appearance should not hide the burn risk.",
+  "lore": "Travelers once followed Charmander lights through badlands, but old stories warn that some lights led to dens where hungry adults waited.",
+  "survivalUse": "Can provide heat, ignite emergency fire, deter small predators, and signal at night. Must never be used inside low-ventilation shelter.",
+  "handlingWarning": "Never cover the tail flame with a blanket or water. Never carry near fuel, dry grass, tents, or aerosol cans.",
+  "encounterAdvice": "Approach from the front at low height. Offer space and avoid water spray. If the tail flame flares white-blue, retreat.",
+  "firstAid": "Cool burns for 20 minutes with clean water. Do not apply grease. For smoke inhalation, move to clean air and seek care. Tail flame collapse is veterinary emergency.",
+  "companionSuitability": "Good for careful handlers with fire-safe housing",
+  "abilities": [
+    "Blaze",
+    "Solar Power"
+  ],
+  "fieldBehaviors": [
+    "Basks on rocks",
+    "Shields tail from rain",
+    "Hisses before flaming",
+    "Sleeps curled around tail heat"
+  ],
+  "weaknesses": [
+    "Water",
+    "Ground",
+    "Rock",
+    "Cold rain",
+    "Fuel exhaustion"
+  ],
+  "resistances": [
+    "Fire",
+    "Grass",
+    "Ice",
+    "Bug",
+    "Steel",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Tiny scorch marks",
+    "Warm clawed footprints",
+    "Charcoal scent",
+    "Shed orange scales",
+    "Melted frost near den"
+  ],
+  "equipment": [
+    "Fire blanket",
+    "Leather gloves",
+    "Eye protection",
+    "Heat-safe crate",
+    "Burn kit",
+    "ABC extinguisher",
+    "Water for humans, not for tail flame"
+  ],
+  "stats": {
+    "power": 3,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 4,
+    "detectability": 2,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 5
+  },
+  "fieldNote": "A steady orange tail flame usually means calm health. A sputtering flame means illness, exhaustion, or wet conditions. A sudden flare means fear.",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/charmander.png",
+  "audio": "audio/pokemon/charmander.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The fire line likely began in volcanic cave reptiles that survived cold nights by fermenting plant oils into flammable vapor. The first stable tail-flame mutations made them visible to predators, so only the boldest and most social survived.",
+  "evolutionLine": [
+    {
+      "name": "Charmander",
+      "stage": "Base",
+      "method": "Level 16",
+      "note": "Juvenile fire-bearer. Tail flame is a health indicator and ignition source."
+    },
+    {
+      "name": "Charmeleon",
+      "stage": "Stage One",
+      "method": "Level 36",
+      "note": "Aggressive adolescent predator. Highest handler-conflict stage of the line."
+    },
+    {
+      "name": "Charizard",
+      "stage": "Final",
+      "method": "Special forms only",
+      "note": "Aerial apex predator. Roosts require wildfire and aviation-style safety planning."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Charmander Evolution Family",
+    "subtitle": "Evolution Tree - Fire Type",
+    "mainLine": [
+      {
+        "name": "Charmander",
+        "stage": "Base",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Level 16",
+        "note": "Juvenile fire-bearer. Tail flame is a health indicator and ignition source."
+      },
+      {
+        "name": "Charmeleon",
+        "stage": "Stage One",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Level 36",
+        "note": "Aggressive adolescent predator. Highest handler-conflict stage of the line."
+      },
+      {
+        "name": "Charizard",
+        "stage": "Final",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Special forms only",
+        "note": "Aerial apex predator. Roosts require wildfire and aviation-style safety planning."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Charizard",
+        "method": "Charizardite X / Mega Evolution",
+        "target": {
+          "name": "Mega Charizard X",
+          "stage": "Mega Form",
+          "types": [
+            "Fire",
+            "Dragon"
+          ],
+          "symbol": "🔥",
+          "note": "Temporary form with altered heat chemistry and more draconic combat behavior."
+        }
+      },
+      {
+        "from": "Charizard",
+        "method": "Charizardite Y / Mega Evolution",
+        "target": {
+          "name": "Mega Charizard Y",
+          "stage": "Mega Form",
+          "types": [
+            "Fire",
+            "Flying"
+          ],
+          "symbol": "🔥",
+          "note": "Temporary form with intensified aerial heat output and solar response."
+        }
+      },
+      {
+        "from": "Charizard",
+        "method": "Gigantamax factor",
+        "target": {
+          "name": "Gigantamax Charizard",
+          "stage": "Gigantamax Form",
+          "types": [
+            "Fire",
+            "Flying"
+          ],
+          "symbol": "🔥",
+          "note": "Rare battle phenomenon. Treat flame output as disaster-scale hazard."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "fire",
+    "starter",
+    "burn-risk",
+    "survival-guide",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Reptilia-like Pyrofauna",
+    "order": "Sauria Ignis",
+    "family": "Charmanderidae",
+    "genus": "Parvas lacerta",
+    "species": "Parvas lacerta ignis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Semi-domesticated under fire-type starter programs",
+  "prey": "Insects, small mammals, carrion scraps, eggs, and roasted plant matter",
+  "temperamentTriggers": [
+    "Water spray",
+    "Tail grabbing",
+    "Cold wind",
+    "Being cornered",
+    "Sudden darkness",
+    "Hunger"
+  ],
+  "territoryRange": "Usually 1 to 3 square miles around den, water, basking rocks, and hunting lanes",
+  "lifeCycle": "Hatches with a weak tail flame, grows by feeding and heat regulation, evolves into Charmeleon at level 16.",
+  "containmentRequirements": "Fireproof den, ceramic or stone flooring, spark screen, dry bedding away from flame, ventilation, and Class ABC fire extinguisher nearby",
+  "ecologicalRole": "Controls small pests, clears dry brush with low flame, and recycles carrion in arid habitats",
+  "diseaseParasiteRisk": "Low to moderate. Smoke irritation, scale mites, fuel-gland infection, and respiratory illness in damp housing are concerns.",
+  "reproductionNesting": "Eggs are kept in warm ash nests or geothermal pockets. Adults or dominant pack members guard eggs from damp and predators.",
+  "predators": "Fearow, larger water-types, Arbok, humans, and stronger fire Pokemon competing for dens",
+  "emergencyResponse": "For uncontrolled flame, remove fuel sources, guide Charmander to bare ground, and cool nearby burns with clean water without soaking the tail flame.",
+  "legalStatus": "Fire-type handling permit recommended or required in many settled areas",
+  "stressSicknessSigns": [
+    "Dim tail flame",
+    "Grey smoke",
+    "Refusing heat",
+    "Wheezing",
+    "Lethargic curling",
+    "Blue-white flare while panicking"
+  ],
+  "lifespan": "Wild: 1 to 3 years before evolution or predation. Managed care: 12 to 20 years if kept healthy.",
+  "socialStructure": "Pack juveniles under a dominant adult or older Charmeleon. Lone juveniles are more fearful and more likely to panic-burn.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Fire output is juvenile but capable of serious burns.",
+    "electricFieldRange": "Flame and heat hazard about 3 to 10 ft, farther if dry grass ignites",
+    "burstSpeed": "Fast short run about 12 to 18 mph",
+    "dodgeSpeed": "Good juvenile agility",
+    "jumpingHeight": "About 3 ft when startled",
+    "balance": "Tail improves balance but becomes liability in brush"
+  },
+  "trainingRisk": "Accidental burns, panic ignition, smoke inhalation, fuel-gland strain, and tail injury",
+  "physiology": "Charmander appears to generate flame using volatile biological fuel, oxygen intake, and a heat-resistant tail structure. The tail flame is not decorative. If it weakens severely, the animal is in medical danger.",
+  "keyFacts": {
+    "size": "Height: 2 ft 0 in",
+    "weight": "18.7 lbs",
+    "tailLength": "Approx. 1.5 ft including flame zone",
+    "lifestyle": "Social pack juvenile, fire-dependent",
+    "diet": "Carnivorous-leaning omnivore",
+    "habitat": "Dry rocky caves and warm badlands",
+    "lifespan": "Wild: 1 to 3 years. Managed: 12 to 20 years.",
+    "groupSize": "Usually small packs or guarded juveniles"
+  },
+  "domesticationDifficulty": "Moderate. Strong bonding potential but constant fire safety management required.",
+  "physicalCharacteristics": "Orange bipedal body, cream underside, blue eyes, blunt claws, long tail, and a persistent open flame at the tail tip. Skin is smooth, warm, and resistant to brief heat exposure.",
+  "dietRestrictions": "Avoid wet bedding, low-calorie diets, alcohol vapors, aerosol sprays, and overfeeding fatty scraps that can foul its fuel glands.",
+  "detailPath": "./data/pokemon/pokemon-charmander.json"
+}

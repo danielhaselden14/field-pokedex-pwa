@@ -1,0 +1,301 @@
+{
+  "id": "pokemon-venusaur",
+  "entryId": "PKMN-0003",
+  "pokedexNumber": "#0003",
+  "name": "Venusaur",
+  "category": "animals",
+  "type": "Grass / Poison Creature",
+  "elementType": "grass",
+  "dangerLevel": "High",
+  "rarity": "Very Rare",
+  "region": "Kanto",
+  "route": "Ancient forest basins, protected botanical reserves, old battlefields reclaimed by vegetation, and isolated sunlit groves",
+  "habitat": "Large humid clearings with deep soil, stable water, and enough sunlight to support a fully flowering dorsal plant",
+  "classification": "Seed Pokemon / Mature Symbiotic Flower Beast",
+  "height": "6 ft 7 in",
+  "weight": "220.5 lbs",
+  "behaviorTemperament": "Calm until territory or young are threatened. Venusaur prefer stillness, using scent, pollen, and vine pressure before physical pursuit. A threatened adult can turn a clearing into a chemical hazard.",
+  "diet": "Sunlight, large volumes of water, mineral-rich soil, fruits, woody plants, insects, and occasional carrion composted into soil around its resting site",
+  "activityPattern": "Mostly diurnal and sedentary. Most movement occurs at dawn, dusk, or before storms.",
+  "bestTimeToFind": "From a distance at sunrise when the flower opens for light and dew",
+  "observationDifficulty": "Moderate to hard. Large body is visible, but old individuals resemble a mound of vegetation until they move.",
+  "conservationStatus": "Strictly protected keystone species",
+  "populationStatus": "Rare, usually one dominant adult per large territory",
+  "description": "The fully developed Bulbasaur line. A Venusaur is less mobile than its younger stages but far more dangerous because the flower can release dense pollen, spores, and chemical signals over a wide area.",
+  "lore": "Some villages built cemeteries around Venusaur groves because the flowers bloomed brightest over old soil and the adults kept scavengers away.",
+  "survivalUse": "Can create shade, reveal water tables, stabilize damaged soil, deter predators, and support pollinators. Its presence can also make an area unsafe for unmasked humans.",
+  "handlingWarning": "Never enter a Venusaur grove without respiratory protection and permission from the animal. Do not cut flowers or leaves.",
+  "encounterAdvice": "Observe from high ground and upwind. If the flower turns toward you before the head does, leave immediately and quietly.",
+  "firstAid": "For pollen inhalation, move to clean air and seek medical care. For vine crush injuries, immobilize limb and treat for shock. For sap exposure, wash thoroughly.",
+  "companionSuitability": "Poor for private companionship, excellent as a sanctuary guardian when respected",
+  "abilities": [
+    "Overgrow",
+    "Chlorophyll"
+  ],
+  "fieldBehaviors": [
+    "Faces flower toward sun",
+    "Vines patrol ground",
+    "Releases pollen pulses",
+    "Shelters young under leaves"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Ice",
+    "Flying",
+    "Psychic",
+    "Drought",
+    "Flower parasites"
+  ],
+  "resistances": [
+    "Water",
+    "Electric",
+    "Fighting",
+    "Fairy",
+    "Grass"
+  ],
+  "signsOfPresence": [
+    "Huge four-foot tracks",
+    "Leaf canopy close to ground",
+    "Heavy floral odor",
+    "Pollen film",
+    "Quiet insect gaps around territory"
+  ],
+  "equipment": [
+    "Full-face respirator or P100 mask",
+    "Goggles",
+    "Long sleeves",
+    "Upwind flag",
+    "Radio",
+    "Decontamination water",
+    "Botanical hazard kit"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 1,
+    "stealth": 2,
+    "danger": 4,
+    "usefulness": 5,
+    "food": 2,
+    "medicine": 4,
+    "identificationDifficulty": 1,
+    "reliability": 3,
+    "resourceCost": 5,
+    "speedOfOnset": 3,
+    "detectability": 2,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 2
+  },
+  "fieldNote": "Silence in a Venusaur grove is not peace. It often means the pollen has already driven smaller animals away.",
+  "visualSymbol": "🌺",
+  "image": "images/pokemon/venusaur.png",
+  "audio": "audio/pokemon/venusaur.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The grim origin is a symbiosis that became inheritance. What began as a seed feeding from a host eventually became a body that could not live without the animal beneath it. A Venusaur is less a beast with a flower than a mobile grave-garden that learned loyalty.",
+  "evolutionLine": [
+    {
+      "name": "None",
+      "stage": "Baby",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Bulbasaur",
+      "stage": "Base",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Ivysaur",
+      "stage": "Stage One",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Venusaur",
+      "stage": "Stage Two",
+      "method": "Final standard form",
+      "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+    },
+    {
+      "name": "Mega Venusaur",
+      "stage": "Mega",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "Gigantamax Venusaur",
+      "stage": "Gigantamax",
+      "method": "",
+      "note": ""
+    },
+    {
+      "name": "None known",
+      "stage": "Regional Variant",
+      "method": "",
+      "note": ""
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Bulbasaur Evolution Family",
+    "subtitle": "Evolution Tree",
+    "mainLine": [
+      {
+        "name": "None",
+        "stage": "Baby",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Bulbasaur",
+        "stage": "Base",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Ivysaur",
+        "stage": "Stage One",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Venusaur",
+        "stage": "Stage Two",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "Final standard form",
+        "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+      },
+      {
+        "name": "Mega Venusaur",
+        "stage": "Mega",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "Gigantamax Venusaur",
+        "stage": "Gigantamax",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      },
+      {
+        "name": "None known",
+        "stage": "Regional Variant",
+        "types": [
+          "Grass"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "",
+        "note": ""
+      }
+    ],
+    "variants": [
+      {
+        "from": "Venusaur",
+        "method": "Special catalyst, battle phenomenon, or Gigantamax factor",
+        "target": {
+          "name": "Mega Venusaur; Gigantamax Venusaur",
+          "stage": "Branch Evolution",
+          "types": [
+            "Grass"
+          ],
+          "symbol": "🌺",
+          "note": "Venusaur does not evolve further by level. Mega and Gigantamax forms are treated as temporary or rare special forms, not normal wild maturity."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "grass",
+    "poison",
+    "starter",
+    "spores",
+    "keystone",
+    "survival-guide",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia-Florafauna complex",
+    "class": "Reptilia-like Symbiotic Flora Fauna",
+    "order": "Anura-Sauria Symbiotica",
+    "family": "Bulbasauridae",
+    "genus": "Bufo",
+    "species": "Bufo florentes"
+  },
+  "humanConflictRisk": "High",
+  "domesticationStatus": "Not domesticated. Sanctuary-managed only.",
+  "prey": "Insects, plant material, fruits, small animals caught by vines, and nutrient compost",
+  "temperamentTriggers": [
+    "Nest approach",
+    "Flower cutting",
+    "Fire",
+    "Chainsaws",
+    "Chemical sprays",
+    "Injured Bulbasaur or Ivysaur nearby"
+  ],
+  "territoryRange": "5 to 20 square miles depending on water and sunlight",
+  "lifeCycle": "Final standard form of the Bulbasaur line after Ivysaur reaches level 32. May access Mega or Gigantamax forms only under special conditions.",
+  "containmentRequirements": "A preserve, not a cage. Requires deep soil, root barriers, drainage, pollinator exclusion zones, spore monitoring, and emergency evacuation lanes.",
+  "ecologicalRole": "Keystone shade maker, soil builder, pollinator signal hub, seed bank protector, and invasive plant suppressor",
+  "diseaseParasiteRisk": "High for allergens, fungal blooms, mites, contaminated pollen, and secondary infections after vine injury",
+  "reproductionNesting": "Females lay guarded eggs in composted plant beds. Adults shade and chemically defend the nesting area until hatchlings disperse.",
+  "predators": "Very few natural predators. Charizard, Arcanine packs, severe drought, disease, and humans are the main threats.",
+  "emergencyResponse": "Treat pollen clouds as hazardous atmosphere. Move upwind, rinse exposed areas, monitor breathing, and call trained grass-poison response handlers.",
+  "legalStatus": "Restricted keystone Pokemon. Capture or transport normally requires environmental authority approval.",
+  "stressSicknessSigns": [
+    "Petal browning",
+    "Slow vine response",
+    "Sour pollen smell",
+    "Leaf collapse",
+    "Fungal spotting"
+  ],
+  "lifespan": "Wild: 7 to 10 years in high-conflict regions. Managed sanctuary: 30 years or more.",
+  "socialStructure": "Solitary matriarch or patriarch with tolerated young and lower-stage relatives on the edge of the territory",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Elemental output is heavy pollen, vines, seed discharge, and solar-stored growth energy.",
+    "electricFieldRange": "Pollen and spore influence can affect a whole grove, often 50 to 150 ft or more with wind",
+    "burstSpeed": "Slow burst, but vine reach is fast at close range",
+    "dodgeSpeed": "Low body dodge, high vine interception",
+    "jumpingHeight": "Very low",
+    "balance": "Extremely stable due to mass and low stance"
+  },
+  "trainingRisk": "Pollen poisoning, vine crushing, sleep powder, territorial aggression, and enclosure overgrowth",
+  "physiology": "The plant and animal portions are deeply integrated. The flower produces pollen, growth hormones, and chemical deterrents. Thick vascular roots inside the body draw water and minerals while the host heart supports both systems.",
+  "keyFacts": {
+    "size": "Height: 6 ft 7 in",
+    "weight": "220.5 lbs",
+    "tailLength": "No external tail",
+    "lifestyle": "Diurnal, sedentary, territorial adult",
+    "diet": "Photosynthetic omnivore and compost feeder",
+    "habitat": "Ancient forest clearings and botanical preserves",
+    "lifespan": "Wild: 7 to 10 years. Sanctuary: 30 years or more.",
+    "groupSize": "Usually solitary adult with tolerated young nearby"
+  },
+  "domesticationDifficulty": "Extreme. Requires land management, botanical hazard plans, and veterinary-botanical care.",
+  "physicalCharacteristics": "Massive quadruped with thick legs, broad head, heavy body, large leaves, and a pink flowering crown. The flower may track sunlight or face threats independently of the head.",
+  "dietRestrictions": "Avoid drought, concrete confinement, road salt, herbicides, heavy metals, and forced movement during flowering season.",
+  "detailPath": "./data/pokemon/pokemon-venusaur.json"
+}

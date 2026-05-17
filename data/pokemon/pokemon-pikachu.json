@@ -1,0 +1,217 @@
+{
+  "id": "pokemon-pikachu",
+  "entryId": "PKMN-0025",
+  "pokedexNumber": "#0025",
+  "name": "Pikachu",
+  "category": "animals",
+  "type": "Electric Creature",
+  "elementType": "electric",
+  "dangerLevel": "Medium",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Forest edges, grassy routes, storm-prone woodland",
+  "habitat": "Woodlands, open grass, abandoned power areas, and regions with frequent electrical activity.",
+  "classification": "Mouse Pokemon / Electric Rodent",
+  "height": "1 ft 4 in",
+  "weight": "13.2 lbs",
+  "behaviorTemperament": "Alert, social, curious, and skittish when surprised.",
+  "diet": "Berries, fruit, seeds, and small field foods.",
+  "activityPattern": "Mostly diurnal, but activity increases before storms.",
+  "bestTimeToFind": "Early morning, late afternoon, or storm weather.",
+  "observationDifficulty": "Moderate",
+  "conservationStatus": "Stable in known regions",
+  "populationStatus": "Stable",
+  "description": "A small electric creature known for storing electrical charge in its cheek sacs.",
+  "lore": "Pikachu are alert, social, and highly reactive when frightened.",
+  "survivalUse": "Can warn of storms and electrical disturbance.",
+  "handlingWarning": "Do not grab barehanded. Avoid cheeks and tail.",
+  "encounterAdvice": "Keep distance, stay calm, avoid sudden movement.",
+  "firstAid": "Treat shock as serious and seek medical help.",
+  "companionSuitability": "Potential companion with careful trust-building",
+  "abilities": [
+    "Static",
+    "Lightning Rod"
+  ],
+  "fieldBehaviors": [
+    "Discharges electricity when startled",
+    "Raises ears when detecting movement"
+  ],
+  "weaknesses": [
+    "Ground-type threats",
+    "Mud",
+    "Exhaustion"
+  ],
+  "resistances": [
+    "Electric shock",
+    "Some flying threats"
+  ],
+  "signsOfPresence": [
+    "Static buildup",
+    "Scorch marks",
+    "High-pitched calls"
+  ],
+  "equipment": [
+    "Insulated gloves",
+    "Nonconductive blanket",
+    "Dry boots"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 5,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 5,
+    "medicine": 5,
+    "identificationDifficulty": 5,
+    "reliability": 5,
+    "resourceCost": 5,
+    "speedOfOnset": 5,
+    "detectability": 5,
+    "preventability": 5,
+    "medicalPriority": 5,
+    "warmth": 5
+  },
+  "fieldNote": "If injured, keep calm, dry, and away from metal tools.",
+  "visualSymbol": "⚡",
+  "image": "193",
+  "audio": "193",
+  "entryAuthor": "Ranger Field Log",
+  "originStory": "Early ranger accounts place the first confirmed Pikachu encounter near storm-charged caves.",
+  "evolutionLine": [
+    {
+      "name": "Pichu",
+      "stage": "Baby",
+      "method": "High Friendship",
+      "note": "Small and unstable. Electrical output is harder to control."
+    },
+    {
+      "name": "Pikachu",
+      "stage": "Base",
+      "method": "Thunder Stone",
+      "note": "Primary field form. Strong companion potential with trained handlers."
+    },
+    {
+      "name": "Raichu",
+      "stage": "Final",
+      "method": "193",
+      "note": "Standard final evolution with stronger electrical output."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Pikachu Evolution Family",
+    "subtitle": "Evolution Tree - Electric Type",
+    "mainLine": [
+      {
+        "name": "Pichu",
+        "stage": "Baby",
+        "types": [
+          "Electric"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "High Friendship",
+        "note": "Small and unstable. Electrical output is harder to control."
+      },
+      {
+        "name": "Pikachu",
+        "stage": "Base",
+        "types": [
+          "Electric"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "Thunder Stone",
+        "note": "Primary field form. Strong companion potential with trained handlers."
+      },
+      {
+        "name": "Raichu",
+        "stage": "Final",
+        "types": [
+          "Electric"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "193",
+        "note": "Standard final evolution with stronger electrical output."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Pikachu",
+        "method": "Thunder Stone in Alola",
+        "target": {
+          "name": "Alolan Raichu",
+          "stage": "Regional Variant",
+          "types": [
+            "Electric",
+            "Psychic"
+          ],
+          "symbol": "⚡",
+          "note": "Regional branch connected to Alolan conditions."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "electric",
+    "creature",
+    "storm-active",
+    "shock-risk",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Mammalia-like Electric Fauna",
+    "order": "Rodentia Fulminis",
+    "family": "Muridae Electrica",
+    "genus": "Pika",
+    "species": "Pika fulmen"
+  },
+  "humanConflictRisk": "Moderate",
+  "domesticationStatus": "Semi-domesticated",
+  "prey": "Small insects, berries, seeds, fruit, and field scraps",
+  "temperamentTriggers": [
+    "Loud thunder",
+    "Sudden grabbing",
+    "Touching cheeks or tail"
+  ],
+  "territoryRange": "Small forest-edge range or colony area",
+  "lifeCycle": "Born as Pichu, matures into Pikachu, may evolve into Raichu with Thunder Stone.",
+  "containmentRequirements": "Grounded enclosure, rubberized flooring, insulated tools.",
+  "ecologicalRole": "Controls small insects and spreads seeds",
+  "diseaseParasiteRisk": "Low to moderate",
+  "reproductionNesting": "Nests in dry burrows, hollow logs, cave pockets, or root systems.",
+  "predators": "Large ground predators and aerial hunters",
+  "emergencyResponse": "Avoid metal and standing water during discharge.",
+  "legalStatus": "Ownership may require electric-type handling certification",
+  "stressSicknessSigns": [
+    "Cheek sacs flickering unevenly",
+    "Tail held low",
+    "Refusing food"
+  ],
+  "lifespan": "Wild: 6 to 8 years. Managed care: 10 to 15 years.",
+  "socialStructure": "Tight-knit colonies with shared warning signals",
+  "fieldCapabilities": {
+    "chargeLevel": "Capable of strong defensive discharge",
+    "electricFieldRange": "Short range, strongest close up",
+    "burstSpeed": "Fast short-distance movement",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Moderate",
+    "balance": "Tail assists balance and signaling"
+  },
+  "trainingRisk": "Electrical burns and startled discharge",
+  "physiology": "Stores electrical energy in specialized cheek sacs.",
+  "keyFacts": {
+    "size": "Height: 1 ft 4 in",
+    "weight": "13.2 lbs",
+    "tailLength": "Approx. 0.3 m",
+    "lifestyle": "Storm-active, highly social",
+    "diet": "Omnivorous forager",
+    "habitat": "Forest edges and storm-prone woodland",
+    "lifespan": "Wild: 6 to 8 years. Managed care: 10 to 15 years",
+    "groupSize": "Small groups to colonies of up to 30"
+  },
+  "domesticationDifficulty": "High for wild adults, moderate if raised young",
+  "physicalCharacteristics": "Small yellow rodent-like Pokemon with red cheek sacs and a lightning-shaped tail.",
+  "dietRestrictions": "Avoid salty processed foods and exposed wiring.",
+  "detailPath": "./data/pokemon/pokemon-pikachu.json"
+}
