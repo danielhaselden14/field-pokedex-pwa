@@ -10,7 +10,7 @@ INDEX = DATA / "entries-index.json"
 APP = PROJECT / "app.js"
 HTML = PROJECT / "index.html"
 SW = PROJECT / "service-worker.js"
-STAMP = "20260517-145148"
+STAMP = "20260517-145247"
 
 def slug(value):
     text = str(value or "").strip().lower()
@@ -251,6 +251,7 @@ print(f"Pokemon files indexed: {len(pokemon_entries)}")
 print(f"Field entry files indexed: {len(field_entries)}")
 print(f"Total entries indexed: {len(index_entries)}")
 print(f"Cached files listed: {len(cache_files)}")
+
 
 
 
