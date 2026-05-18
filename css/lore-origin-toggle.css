@@ -1,0 +1,57 @@
+﻿/* Clean Lore and Origin Story expand buttons */
+
+.lore-origin-collapse-content {
+  position: relative;
+  overflow: hidden;
+  transition: max-height 180ms ease;
+}
+
+.lore-origin-collapse-content.is-collapsed {
+  max-height: 145px;
+}
+
+.lore-origin-collapse-content.is-collapsed::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 42px;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(10, 8, 5, 0.96));
+}
+
+.lore-origin-collapse-content.is-expanded {
+  max-height: none;
+  overflow: visible;
+}
+
+.lore-origin-toggle {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #ffb347;
+  font-weight: 800;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.lore-origin-toggle:hover {
+  color: #ffd08a;
+}
+
+@media (max-width: 700px) {
+  .lore-origin-collapse-content.is-collapsed {
+    max-height: 120px;
+  }
+
+  .lore-origin-toggle {
+    font-size: 0.95rem;
+    padding: 4px 0;
+  }
+}
