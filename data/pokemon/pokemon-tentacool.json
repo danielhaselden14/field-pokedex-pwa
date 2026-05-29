@@ -1,0 +1,301 @@
+{
+  "id": "pokemon-tentacool",
+  "entryId": "PKMN-0072",
+  "pokedexNumber": "#0072",
+  "name": "Tentacool",
+  "category": "animals",
+  "type": "Water / Poison Creature",
+  "elementType": "water-poison",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Kanto coasts, Seafoam approaches, docks, open ocean routes, and tide pools",
+  "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves; also uses marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges. Field anchors: Kanto coasts, Seafoam approaches, docks, open ocean routes, and tide pools",
+  "classification": "Jellyfish Pokemon / Drifting Venom Bell",
+  "height": "2 ft 11 in",
+  "weight": "100.3 lbs",
+  "behaviorTemperament": "Tentacool is best treated as a base field organism with water-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "activityPattern": "Crepuscular around shorelines; active at night in clear water or during rain.",
+  "bestTimeToFind": "Dawn or dusk near quiet water, tide pools, river bends, docks, or rain-fed channels",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Water / Poison Pokemon listed as Jellyfish Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Tentacool was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Kanto coasts, Seafoam approaches, docks, open ocean routes, and tide pools. The species is now handled as a Water / Poison field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Tentacool into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to water activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Tentacool, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are water pressure. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Stay out of the water, watch footing, keep children away from banks, and never reach into dark pools where Tentacool is sheltering.",
+  "firstAid": "For suspected venom or toxin contact, remove contaminated clothing, rinse with clean water, keep the victim calm, mark swelling spread, and seek urgent medical care. For near-drowning, move to safe ground, clear the airway, warm the victim, and seek emergency care.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Clear Body",
+    "Liquid Ooze",
+    "Rain Dish"
+  ],
+  "fieldBehaviors": [
+    "Displays warning colors before venom use",
+    "Marks cover with chemical scent",
+    "Avoids direct sun when toxins dry out",
+    "Shelters below the surface",
+    "Uses water to break pursuit",
+    "Feeds at dawn and dusk"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Ground",
+    "Psychic",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fire",
+    "Water",
+    "Ice",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Steel",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Wet drag marks",
+    "Fish scales",
+    "Foam trails",
+    "Muddy slides",
+    "Unusual ripples",
+    "Shell fragments"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Life vest",
+    "Throw rope",
+    "Waterproof boots",
+    "Clean rinse water",
+    "Nitrile outer gloves",
+    "Antivenom plan",
+    "Wash water",
+    "Seal bags for contaminated gear"
+  ],
+  "stats": {
+    "power": 3,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 2,
+    "identificationDifficulty": 3,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Tentacool usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a water-type response.",
+  "visualSymbol": "💧",
+  "image": "images/pokemon/pokemon-tentacool.png",
+  "audio": "audio/pokemon/pokemon-tentacool.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Tentacool Evolution Family appears to have adapted around Kanto coasts, Seafoam approaches, docks, open ocean routes, and tide pools. Its line favors survival through water pressure, specialized shelter choice, and rapid behavioral changes during maturity. Tentacool becomes Tentacruel by Level 30. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Tentacool",
+      "stage": "Base",
+      "method": "Level 30",
+      "note": "Base-stage Water / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Tentacruel",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Water / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Tentacool Evolution Family",
+    "subtitle": "Evolution Tree - Water / Poison Type",
+    "mainLine": [
+      {
+        "name": "Tentacool",
+        "stage": "Base",
+        "types": [
+          "Water",
+          "Poison"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Level 30",
+        "note": "Base-stage Water / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Tentacruel",
+        "stage": "Final",
+        "types": [
+          "Water",
+          "Poison"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Water / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "water",
+    "poison",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "tentacool"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aquafauna",
+    "order": "Hydriformes",
+    "family": "Aquatidae",
+    "genus": "Tentacoo",
+    "species": "tentacool fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to water-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to ponds, feeds heavily, defends shelter, and follows this first-151 evolution profile: Tentacool evolves into Tentacruel by Level 30.",
+  "containmentRequirements": "Requires clean pools, drainage control, and slip-safe barriers, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a water-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a water hazard area. Do not attempt capture unless trained and equipped for Tentacool.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 17 to 31 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Tentacool's body supports Water / Poison output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 2 ft 11 in",
+    "weight": "100.3 lbs",
+    "types": "Water / Poison",
+    "lifestyle": "Base water-type field organism",
+    "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+    "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as jellyfish pokemon with water / poison adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-tentacool.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "specialAttack": 50,
+    "specialDefense": 100,
+    "speed": 70,
+    "total": 335
+  },
+  "attacks": [
+    {
+      "name": "Water Gun",
+      "type": "Water",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "pressurized water jet"
+    },
+    {
+      "name": "Bubble Beam",
+      "type": "Water",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "foaming jet used to blind and push back"
+    },
+    {
+      "name": "Surf",
+      "type": "Water",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "mass water displacement that can swamp camps"
+    },
+    {
+      "name": "Hydro Pump",
+      "type": "Water",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 80,
+      "fieldUse": "high-pressure water blast from mature specimens"
+    },
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "venom prick or spine jab used to test distance and discourage handling"
+    },
+    {
+      "name": "Acid",
+      "type": "Poison",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "caustic spray used against plants, cloth, and soft tissue"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Kanto coasts, Seafoam approaches, docks, open ocean routes, and tide pools"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Tentacool evolves into Tentacruel by Level 30.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 30"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

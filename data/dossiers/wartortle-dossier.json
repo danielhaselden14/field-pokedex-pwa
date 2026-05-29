@@ -1,0 +1,61 @@
+{
+  "id": "wartortle-dossier",
+  "title": "Wartortle Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "High-risk shoreline guardian. Primary hazard: territorial restraint, water bursts, and memory of boundary violations.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Wartortle is what the river keeps after it stops playing. A Squirtle may splash at a child from the reeds. A Wartortle watches the child’s parents first.\n\nThe young stage is curious, social, and dangerously innocent. Wartortle is not innocent. It remembers in the old animal way: which banks collapse, which boats carry nets, which voices bring food, which footsteps mean hooks. A wild Wartortle can recognize a shoreline it has not visited in years. It can return to the same submerged doorway after floods rearrange the riverbed. It can find the bone pile under silt.\n\nOld fishermen called them blue widowers because they appeared after drownings, sitting half-submerged in reeds while searchers dragged the water. Sometimes after the family gave up, the body would surface. Sometimes it would not. Rangers believe Wartortle recover the drowned and move them away from active nesting sites. Villagers believed they decided which dead were allowed to return.\n\nA Wartortle’s shell is more than armor. It is a pressure vessel, a memory vault, and a warning drum. When threatened, Wartortle can pull water into internal chambers and release sudden bursts powerful enough to break ribs, shatter wooden oars, or knock a grown person into deep current. Before it attacks, it drums: three hollow knocks from beneath a dock, slow tapping against a boat hull, a sound like stones rolling inside an empty well.\n\nUnlike Squirtle, Wartortle do not always retreat from humans. They assess, circle, and position themselves between intruders and exits. A lone Wartortle can herd a person across mud flats with jets at the feet. A pair can flip a canoe without surfacing. A colony guardian can keep a search party away from a nest by striking the underside of the dock until the boards begin to fail.\n\nThe long ears and tail are sensory organs and stabilizers. A resting Wartortle may let the plumes drift on the surface, reading minute changes in current. Footsteps on a dock, fish struggling in a net, a human slipping on mud, a child dragging a stick through shallows: all of it reaches the plumes before the eyes.\n\nIf you can see a Wartortle’s eyes, it is watching you. If you can only see its tail, it already knows where you are.\n\nDivers have found Wartortle dens in flooded offices, kitchens, chapels, and records rooms, built from ledgers, roof tiles, brass nameplates, locks, dolls, prayer beads, belt buckles, and polished stones. One den in Old Harrow Quay’s flooded records office was built from ledger books and the brass nameplates of the dead. At the center was a child’s school slate, scrubbed clean by water.\n\nWartortle rescue behavior is unsettling because it understands humans breathe air. It can lift a drowning person to the surface, push them to shore, and hold their head above water. It may also hold them there and not let them leave. Survivors describe waking on mud banks with a Wartortle’s heavy forelimb resting across their chest like a restraint. When they tried to rise, it pressed harder. When rescuers approached, it hissed and sprayed water at their feet.\n\nIt saved them like property.\n\nDo not enter old flood ruins alone. Do not step over lines of shells, stones, or stolen metal objects. Do not follow tapping under docks. Do not assume a rescued person is free to leave until the Wartortle leaves first. And never strike a Squirtle in sight of a Wartortle. The young may forgive. The guardian stage remembers."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Wartortle was formally documented in **1824**, twelve years after the Squirtle colony at Old Harrow Quay was accepted into the scientific record.\n\nFor years after the 1812 survey, researchers believed the larger blue figures seen near Squirtle nesting grounds were simply old Squirtle. Fishermen insisted they were not. Naturalists insisted fishermen exaggerated. In winter of 1823, three researchers entered the drowned district to collect eggshell fragments from the chapel loft. The first warning was a hollow knock beneath their boat. The second came from the opposite side. The third came from inside the chapel. A Wartortle surfaced between the pews.\n\nIt did not attack immediately. It watched them remove eggshell fragments. Then it struck the boat from below hard enough to split a plank. One researcher drowned in the chapel nave. A second survived by clinging to the bell rope. The third was found at dawn on the roof of the old post office, alive but hypothermic, with bruises around both ankles. He claimed the Wartortle dragged him there after the boat sank and struck him with water every time he tried to climb down. His account was dismissed as shock until shell marks were found in the mud below.\n\nIn 1824, the Crown Natural Society returned with better equipment, shore guards, and one of the original Squirtle handlers from 1812. They waited at the boundary and placed fish on a half-submerged offering stone. At sunset, a Wartortle surfaced. The handler recognized it by a notch in its shell. It had been one of the juvenile Squirtle observed twelve years earlier.\n\nThis proved the larger shoreline guardian was not a separate species and not merely an aged variant. It was the next evolutionary stage. Squirtle behaved like colony children. Wartortle behaved like border guards.\n\nThe species seemed to understand boundaries: nest, bank, ruin, current, young, dead, stranger, threat, claimed. Everything belonged to one of those categories. The hardest part of studying Wartortle was that it changed study sites faster than humans could map them. Flooded rooms were blocked with debris. New channels appeared overnight. Survey flags vanished and were stacked neatly on the offering rock. Once, a researcher’s notebook disappeared from a dock and reappeared three days later inside a Squirtle nest, packed in mud with the pages pressed flat.\n\nAfter 1824, the Squirtle-line chronology became clear: 1812 Squirtle, 1824 Wartortle, and a still-unproven deeper-water final stage. Wartortle was recognized as a post-disaster territorial specialist: not merely surviving in ruined habitats, but organizing them."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1812",
+          "text": "Squirtle formally recorded at Old Harrow Quay."
+        },
+        {
+          "date": "1823",
+          "text": "Researchers entering the drowned chapel encountered a larger guardian and suffered a fatal boat attack."
+        },
+        {
+          "date": "1824",
+          "text": "Wartortle confirmed when a notched juvenile from the 1812 colony was identified as evolved."
+        },
+        {
+          "date": "After 1824",
+          "text": "Wartortle classified as a post-disaster territorial specialist."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not enter old flood ruins alone.",
+        "Do not step over lines of shells, stones, or stolen metal objects.",
+        "Do not follow tapping under docks.",
+        "Do not assume a rescued person is free to leave until the Wartortle leaves first.",
+        "Never strike a Squirtle in sight of a Wartortle."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Fishermen called them blue widowers.",
+        "Doorstep bowls of clean water were used in mourning rituals to request the return of drowned names.",
+        "The drowned chapel bell became disputed territory and was left unrecovered after Wartortle claimed it."
+      ]
+    }
+  ]
+}

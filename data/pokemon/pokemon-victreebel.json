@@ -1,0 +1,315 @@
+{
+  "id": "pokemon-victreebel",
+  "entryId": "PKMN-0071",
+  "pokedexNumber": "#0071",
+  "name": "Victreebel",
+  "category": "animals",
+  "type": "Grass / Poison Creature",
+  "elementType": "grass-poison",
+  "dangerLevel": "Extreme",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Leaf Stone evolution in jungle ravines, old greenhouses, and pitfall forests where prey trails narrow",
+  "habitat": "forests, meadows, wetlands, shaded trails, overgrown farms, and botanical ruins; also uses marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges. Field anchors: Leaf Stone evolution in jungle ravines, old greenhouses, and pitfall forests where prey trails narrow",
+  "classification": "Flycatcher Pokemon / Mature Pitfall Ambusher",
+  "height": "5 ft 7 in",
+  "weight": "34.2 lbs",
+  "behaviorTemperament": "Victreebel is best treated as a final field organism with grass-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "sunlight, water, minerals, soft plant matter, insects, and occasional small prey; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "activityPattern": "Dawn and dusk above ground, with midday sun-basking or rooted feeding depending on species.",
+  "bestTimeToFind": "Dawn after rain, shaded forest edges, damp meadows, and old gardens with disturbed soil",
+  "observationDifficulty": "Moderate to high. It may be obvious in ideal habitat, but safe identification requires distance and attention to warning signs.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Grass / Poison Pokemon listed as Flycatcher Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Victreebel was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Leaf Stone evolution in jungle ravines, old greenhouses, and pitfall forests where prey trails narrow. The species is now handled as a Grass / Poison field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Victreebel into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to grass activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Victreebel, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are pollen, vines, powders, and root growth. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Victreebel changes posture, sound, or breathing pattern.",
+  "firstAid": "For suspected venom or toxin contact, remove contaminated clothing, rinse with clean water, keep the victim calm, mark swelling spread, and seek urgent medical care.",
+  "companionSuitability": "Poor for general companionship; expert permit and specialized containment required",
+  "abilities": [
+    "Chlorophyll",
+    "Gluttony"
+  ],
+  "fieldBehaviors": [
+    "Displays warning colors before venom use",
+    "Marks cover with chemical scent",
+    "Avoids direct sun when toxins dry out",
+    "Roots or rests in damp soil",
+    "Releases powder under stress",
+    "Tracks sunlight through the day"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Ice",
+    "Flying",
+    "Psychic",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Water",
+    "Electric",
+    "Grass",
+    "Fighting",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Fresh root holes",
+    "Pollen film",
+    "Cut leaves",
+    "Sweet or rotten plant odor",
+    "Tangled vines",
+    "Unseasonal blossoms"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Respirator or pollen mask",
+    "Pruners",
+    "Antihistamine",
+    "Long sleeves",
+    "Nitrile outer gloves",
+    "Antivenom plan",
+    "Wash water",
+    "Seal bags for contaminated gear"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 2,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 2,
+    "food": 2,
+    "medicine": 4,
+    "identificationDifficulty": 3,
+    "reliability": 2,
+    "resourceCost": 5,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Victreebel usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a grass-type response.",
+  "visualSymbol": "🌿",
+  "image": "images/pokemon/pokemon-victreebel.png",
+  "audio": "audio/pokemon/pokemon-victreebel.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Bellsprout Evolution Family appears to have adapted around Kanto Routes 5, 6, 24, 25, Bellsprout Tower, wet forest trails, and disturbed garden soil. Its line favors survival through pollen, vines, powders, and root growth, specialized shelter choice, and rapid behavioral changes during maturity. Bellsprout becomes Weepinbell by Level 21; Weepinbell becomes Victreebel by Leaf Stone. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Bellsprout",
+      "stage": "Base",
+      "method": "Level 21",
+      "note": "Base-stage Grass / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Weepinbell",
+      "stage": "Stage One",
+      "method": "Leaf Stone",
+      "note": "Intermediate Grass / Poison stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+    },
+    {
+      "name": "Victreebel",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Grass / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Bellsprout Evolution Family",
+    "subtitle": "Evolution Tree - Grass / Poison Type",
+    "mainLine": [
+      {
+        "name": "Bellsprout",
+        "stage": "Base",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌿",
+        "methodToNext": "Level 21",
+        "note": "Base-stage Grass / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Weepinbell",
+        "stage": "Stage One",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌿",
+        "methodToNext": "Leaf Stone",
+        "note": "Intermediate Grass / Poison stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+      },
+      {
+        "name": "Victreebel",
+        "stage": "Final",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌿",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Grass / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "grass",
+    "poison",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "victreebel"
+  ],
+  "scientificClassification": {
+    "kingdom": "Plantae-Animalia Symbiota",
+    "class": "Phytobiota",
+    "order": "Viridiformes",
+    "family": "Florafaunidae",
+    "genus": "Victreeb",
+    "species": "victreebel fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "sunlight, water, minerals, soft plant matter, insects, and occasional small prey; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to grass-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to forests, feeds heavily, defends shelter, and follows this first-151 evolution profile: Bellsprout evolves into Weepinbell by Level 21. Weepinbell evolves into Victreebel by Leaf Stone.",
+  "containmentRequirements": "Requires soil trays, filtered air, and plant-safe quarantine, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a grass-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to allergic reaction, entanglement, sleep powder, toxic sap, and seed projectiles",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a grass hazard area. Do not attempt capture unless trained and equipped for Victreebel.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "dominant adults with guarded ranges or stable colonies",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 17 to 31 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes allergic reaction, entanglement, sleep powder, toxic sap, and seed projectiles. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Victreebel's body supports Grass / Poison output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 5 ft 7 in",
+    "weight": "34.2 lbs",
+    "types": "Grass / Poison",
+    "lifestyle": "Final grass-type field organism",
+    "diet": "sunlight, water, minerals, soft plant matter, insects, and occasional small prey; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+    "habitat": "forests, meadows, wetlands, shaded trails, overgrown farms, and botanical ruins",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as flycatcher pokemon with grass / poison adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-victreebel.json",
+  "officialBaseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "specialAttack": 100,
+    "specialDefense": 70,
+    "speed": 70,
+    "total": 490
+  },
+  "attacks": [
+    {
+      "name": "Power Whip",
+      "type": "Grass",
+      "category": "Physical",
+      "power": 120,
+      "accuracy": 85,
+      "fieldUse": "heavy vine lash used to drag prey into the mouth"
+    },
+    {
+      "name": "Vine Whip",
+      "type": "Grass",
+      "category": "Physical",
+      "power": 45,
+      "accuracy": 100,
+      "fieldUse": "lashing tendril used to pull or restrain"
+    },
+    {
+      "name": "Razor Leaf",
+      "type": "Grass",
+      "category": "Physical",
+      "power": 55,
+      "accuracy": 95,
+      "fieldUse": "sharp leaf volley"
+    },
+    {
+      "name": "Sleep Powder",
+      "type": "Grass",
+      "category": "Status",
+      "power": null,
+      "accuracy": 75,
+      "fieldUse": "airborne powder that can sedate unprotected observers"
+    },
+    {
+      "name": "Solar Beam",
+      "type": "Grass",
+      "category": "Special",
+      "power": 120,
+      "accuracy": 100,
+      "fieldUse": "stored-sunlight beam from a rooted adult"
+    },
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "venom prick or spine jab used to test distance and discourage handling"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Leaf Stone evolution in jungle ravines, old greenhouses, and pitfall forests where prey trails narrow"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Bellsprout evolves into Weepinbell by Level 21. Weepinbell evolves into Victreebel by Leaf Stone.",
+    "currentStage": "Final",
+    "methodFromPrevious": "Leaf Stone"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

@@ -1,0 +1,315 @@
+{
+  "id": "pokemon-abra",
+  "entryId": "PKMN-0063",
+  "pokedexNumber": "#0063",
+  "name": "Abra",
+  "category": "animals",
+  "type": "Psychic Creature",
+  "elementType": "psychic",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Kanto Routes 24 and 25, urban edges, quiet fields, and abandoned lots where teleport escape paths are open",
+  "habitat": "quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges. Field anchors: Kanto Routes 24 and 25, urban edges, quiet fields, and abandoned lots where teleport escape paths are open",
+  "classification": "Psi Pokemon / Teleporting Juvenile",
+  "height": "2 ft 11 in",
+  "weight": "43.0 lbs",
+  "behaviorTemperament": "Abra is best treated as a base field organism with psychic-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "activityPattern": "Crepuscular and low-noise active. Sudden disappearances or staring episodes occur during stress.",
+  "bestTimeToFind": "Quiet dawn or late evening in low-noise fields, ruins, labs, or old settlement edges",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Psychic Pokemon listed as Psi Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Abra was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Kanto Routes 24 and 25, urban edges, quiet fields, and abandoned lots where teleport escape paths are open. The species is now handled as a Psychic field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Abra into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to psychic activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Abra, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are mind pressure, sleep effects, confusion, and containment failure. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Lower noise, avoid direct staring contests, keep a partner in sight, and leave if headaches, missing time, or sudden drowsiness starts.",
+  "firstAid": "For confusion, fainting, or panic, remove the person from the site, reduce stimuli, and monitor until fully oriented.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Synchronize",
+    "Inner Focus",
+    "Magic Guard"
+  ],
+  "fieldBehaviors": [
+    "Stares before teleporting or attacking",
+    "Avoids loud groups",
+    "Responds to emotional stress nearby"
+  ],
+  "weaknesses": [
+    "Bug",
+    "Ghost",
+    "Dark",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fighting",
+    "Psychic"
+  ],
+  "signsOfPresence": [
+    "Headaches near site",
+    "Bent spoons or tools",
+    "Repeated dreams",
+    "Quiet animal behavior",
+    "Objects moved from shelves",
+    "Missing-time reports"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Partner observer",
+    "Low-noise headset",
+    "Clock check card",
+    "Calming light"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 3,
+    "stealth": 4,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 4,
+    "detectability": 2,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Abra usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a psychic-type response.",
+  "visualSymbol": "🔮",
+  "image": "images/pokemon/pokemon-abra.png",
+  "audio": "audio/pokemon/pokemon-abra.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Abra Evolution Family appears to have adapted around Kanto Routes 24 and 25, urban edges, quiet fields, and abandoned lots where teleport escape paths are open. Its line favors survival through mind pressure, sleep effects, confusion, and containment failure, specialized shelter choice, and rapid behavioral changes during maturity. Abra becomes Kadabra by Level 16; Kadabra becomes Alakazam by Trade. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Abra",
+      "stage": "Base",
+      "method": "Level 16",
+      "note": "Base-stage Psychic species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Kadabra",
+      "stage": "Stage One",
+      "method": "Trade",
+      "note": "Intermediate Psychic stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+    },
+    {
+      "name": "Alakazam",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Psychic species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Abra Evolution Family",
+    "subtitle": "Evolution Tree - Psychic Type",
+    "mainLine": [
+      {
+        "name": "Abra",
+        "stage": "Base",
+        "types": [
+          "Psychic"
+        ],
+        "symbol": "🔮",
+        "methodToNext": "Level 16",
+        "note": "Base-stage Psychic species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Kadabra",
+        "stage": "Stage One",
+        "types": [
+          "Psychic"
+        ],
+        "symbol": "🔮",
+        "methodToNext": "Trade",
+        "note": "Intermediate Psychic stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+      },
+      {
+        "name": "Alakazam",
+        "stage": "Final",
+        "types": [
+          "Psychic"
+        ],
+        "symbol": "🔮",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Psychic species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Alakazam",
+        "method": "Alakazamite / Mega Evolution",
+        "target": {
+          "name": "Mega Alakazam",
+          "stage": "Mega Form",
+          "types": [
+            "Psychic"
+          ],
+          "symbol": "🔮",
+          "note": "Temporary form with extreme psychic output and reduced tolerance for sensory chaos."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "psychic",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "abra"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Neurofauna",
+    "order": "Psyformes",
+    "family": "Mentidae",
+    "genus": "Abra",
+    "species": "abra fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to psychic-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to quiet fields, feeds heavily, defends shelter, and follows this first-151 evolution profile: Abra evolves into Kadabra by Level 16. Kadabra evolves into Alakazam by Trade.",
+  "containmentRequirements": "Requires low-stimulation rooms, observation protocols, and paired handlers, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a psychic-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to confusion, sleep, panic, lost time, memory gaps, and containment failure",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a psychic hazard area. Do not attempt capture unless trained and equipped for Abra.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "dominant adults with guarded ranges or stable colonies",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Psychic pressure can affect perception, balance, and memory.",
+    "electricFieldRange": "Mental-effect range varies from line of sight to room-scale depending on stress and maturity.",
+    "burstSpeed": "Field burst speed roughly 22 to 40 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes confusion, sleep, panic, lost time, memory gaps, and containment failure. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Abra's body supports Psychic output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 2 ft 11 in",
+    "weight": "43.0 lbs",
+    "types": "Psychic",
+    "lifestyle": "Base psychic-type field organism",
+    "diet": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+    "habitat": "quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as psi pokemon with psychic adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-abra.json",
+  "officialBaseStats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "specialAttack": 105,
+    "specialDefense": 55,
+    "speed": 90,
+    "total": 310
+  },
+  "attacks": [
+    {
+      "name": "Confusion",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "minor psychic shock causing dizziness"
+    },
+    {
+      "name": "Psybeam",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "colored mental beam used to disrupt balance"
+    },
+    {
+      "name": "Psychic",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "direct telekinetic pressure against body and mind"
+    },
+    {
+      "name": "Teleport",
+      "type": "Psychic",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "instant relocation that makes containment difficult"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Kanto Routes 24 and 25, urban edges, quiet fields, and abandoned lots where teleport escape paths are open"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Abra evolves into Kadabra by Level 16. Kadabra evolves into Alakazam by Trade.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 16"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

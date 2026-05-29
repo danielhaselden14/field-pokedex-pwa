@@ -1,0 +1,467 @@
+{
+  "id": "pokemon-beedrill",
+  "entryId": "PKMN-0015",
+  "pokedexNumber": "#0015",
+  "name": "Beedrill",
+  "category": "animals",
+  "type": "Bug / Poison Creature",
+  "elementType": "bug-poison",
+  "dangerLevel": "High",
+  "rarity": "Common to Uncommon",
+  "region": "Kanto, Johto, Central Kalos, and selected transfer or park records",
+  "route": "Kanto Viridian Forest through evolution and established colonies, Johto National Park, Ilex Forest, Route 2, Route 47, and headbutt-tree corridors, Unova Route 12 records, Kalos Santalune Forest through evolution, Hoenn Safari Zone records, Alola Ultra Moon Route 4 records, and real-world analogue colonies in damp old-growth forest, orchard shelterbelts, and misty mountain parklands similar to the Olympic Peninsula",
+  "habitat": "Temperate forests, misty wooded areas, hollow trees, tall canopy edges, orchards, park groves, and defended nursery trees with nearby Weedle feeding grounds and Kakuna anchor branches",
+  "classification": "Poison Bee Pokemon / Adult Venomous Swarm Wasp",
+  "height": "3 ft 3 in",
+  "weight": "65.0 lbs",
+  "behaviorTemperament": "Extremely territorial around nests, Kakuna trees, and Weedle feeding beds. Lone scouts may retreat if ignored, but disturbed adults can recruit the group. Attack behavior is direct, fast, and repeated, with foreleg stingers used for rapid jabs and the abdominal stinger reserved for the strongest venom delivery.",
+  "diet": "Nectar, pollen, fruit sugars, tree sap, soft-bodied insects, small prey fluids, and colony-processed food carried back from stunned or poisoned victims",
+  "activityPattern": "Diurnal in warm forest weather, crepuscular around nest defense, and briefly active at night if the colony is disturbed by vibration, smoke, or light",
+  "bestTimeToFind": "Warm late morning near flowering shrubs, canopy gaps, orchard edges, and known Viridian or Ilex-style colony trees. Best observed from protected distance.",
+  "observationDifficulty": "Low when active because wing noise and warning coloration are obvious, but nest boundaries are hard to judge until it is too late.",
+  "conservationStatus": "Protected but controlled near settlements due to venom and swarm risk",
+  "populationStatus": "Locally abundant in healthy forests with old trees, unstable near cities where nests are destroyed, and dangerous where colonies are squeezed into small parks",
+  "description": "A fast adult Bug and Poison Pokemon with three venomous stingers, territorial swarm behavior, and enough speed to strike, withdraw, and strike again before most people can react.",
+  "lore": "The oldest Viridian ranger rule is simple: never run toward silence. Beedrill colonies often quiet themselves before attacking, leaving only the thin scrape of wing cases in the leaves. Early collectors thought the adults were ordinary oversized insects and blamed attacks on bad luck. Then one abandoned Pattern Bush survey found a tree armored in Kakuna shells, Weedle feeding rings below it, and hundreds of adult flight paths carved through the undergrowth. The adults had not been wandering. They had built a defended living machine: larvae below, cocoons on bark, stingers in the air. In Johto, National Park contests eventually created strict distance lines because one excited child with a net could turn a harmless bug hunt into a full colony response. Beedrill is not evil. It is a parent, guard, butcher, scout, and alarm system packed into one yellow body.",
+  "survivalUse": "Can indicate flowering plants, clean forest corridors, pollination zones, and active insect ecosystems. Venom and chitin have research value. Direct survival use is limited because the handling risk is high.",
+  "handlingWarning": "Never approach the nest, never swing at a scout, and never stand between Beedrill and a Kakuna tree. Do not use smoke casually: partial smoke exposure may scatter the colony and make attacks less predictable.",
+  "encounterAdvice": "Freeze first, lower your profile slowly, cover face and neck, and back away without swatting. If several adults begin orbiting you, retreat steadily toward a vehicle, building, or enclosed shelter.",
+  "firstAid": "Multiple stings are a medical emergency. Remove embedded stinger fragments if visible, wash wounds, apply cold packs, keep the victim calm, and seek urgent care. Use epinephrine immediately for known severe allergy or breathing trouble.",
+  "companionSuitability": "Poor for general companionship; possible only for expert bug handlers with colony-safe enclosures",
+  "abilities": [
+    "Swarm",
+    "Sniper"
+  ],
+  "fieldBehaviors": [
+    "Patrols nursery trees",
+    "Attacks in swarms when angered",
+    "Carries prey back to the nest",
+    "Jabs repeatedly with foreleg stingers",
+    "Uses tail stinger for strongest venom delivery",
+    "Buzzes in warning arcs around intruders",
+    "Collects pollen and nectar in calmer conditions",
+    "Guards Weedle and Kakuna aggressively"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Psychic",
+    "Rock",
+    "Smoke displacement",
+    "Nest disturbance"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Loud rising wing-buzz near canopy gaps",
+    "Parallel punctures in bark",
+    "Yellow-black flashes between branches",
+    "Wax-like nest resin on hollow trees",
+    "Dropped chitin plates beneath emergence trees",
+    "Weedle feeding damage below guarded branches",
+    "Kakuna shells clustered in branch nooks",
+    "Dead small prey near nest approach lanes"
+  ],
+  "equipment": [
+    "Full bee suit or bug-resistant field suit",
+    "Face veil",
+    "Thick gloves",
+    "Eye protection",
+    "Epinephrine auto-injector for known severe allergy",
+    "Cold packs",
+    "Radio or whistle for team retreat",
+    "Hard-sided shelter or vehicle nearby",
+    "Long-distance camera",
+    "Do-not-enter marker tape"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 5,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 4,
+    "identificationDifficulty": 1,
+    "reliability": 1,
+    "resourceCost": 4,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 1
+  },
+  "fieldNote": "One Beedrill circling wide is a warning. Three Beedrill tightening the circle is a countdown. The safest victory is leaving before the colony decides the nest has been threatened.",
+  "visualSymbol": "🐝",
+  "image": "images/pokemon/beedrill.png",
+  "audio": "audio/pokemon/beedrill.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Beedrill exists because Weedle and Kakuna cannot survive alone. The line's final evolution at Level 10 turns stored larval mass into flight muscle, compound eyes, armored limbs, and three functional venom systems. In ancient Kanto and Johto forests, birds and mammals learned to raid larvae and cocoons. Colonies that produced faster, more aggressive adults kept more young alive. Over generations, Beedrill became less like a simple insect and more like a mobile defense organ for the entire family line. Mega Evolution pushes that logic to an extreme: more wings, more stingers, faster strikes, and venom separated into fast-acting limb poison and a finishing abdominal dose.",
+  "evolutionLine": [
+    {
+      "name": "Weedle",
+      "stage": "Base",
+      "method": "Level 7",
+      "note": "Larval venom-feeder. Evolves when the body has stored enough leaf matter, venom protein, and silk-chitin material to seal itself into Kakuna."
+    },
+    {
+      "name": "Kakuna",
+      "stage": "Stage One",
+      "method": "Level 10",
+      "note": "Immobile pupal armor stage. Evolves once internal wing muscles, foreleg stingers, compound eyes, and venom reservoirs finish forming."
+    },
+    {
+      "name": "Beedrill",
+      "stage": "Final",
+      "method": "Final stage; Mega Evolution with Beedrillite",
+      "note": "Territorial flying colony defender. Capable of Mega Evolution into Mega Beedrill when bonded to a handler and exposed to Beedrillite."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Weedle Evolution Family",
+    "subtitle": "Evolution Tree - Bug / Poison Type",
+    "mainLine": [
+      {
+        "name": "Weedle",
+        "stage": "Base",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Level 7",
+        "note": "Small larval forest forager. Feeds on leaves, hides in grass and bushes, and relies on its head barb for defense."
+      },
+      {
+        "name": "Kakuna",
+        "stage": "Stage One",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🛡️",
+        "methodToNext": "Level 10",
+        "note": "Pupal armor stage. Nearly motionless outside, but hot and biologically active inside while preparing for final metamorphosis."
+      },
+      {
+        "name": "Beedrill",
+        "stage": "Final",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐝",
+        "methodToNext": "Mega Evolution with Beedrillite",
+        "note": "Final venomous flyer. Swarm defense, high-speed strikes, nest protection, and three-stinger combat define the adult form."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Beedrill",
+        "method": "Beedrillite / Mega Evolution",
+        "target": {
+          "name": "Mega Beedrill",
+          "stage": "Mega Form",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "symbol": "🐝",
+          "note": "Temporary high-speed combat form. Leg structures become stingers, wing count increases, and venom delivery becomes faster and more specialized."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "bug",
+    "poison",
+    "beedrill",
+    "swarm",
+    "venom",
+    "kanto",
+    "johto",
+    "viridian-forest",
+    "ilex-forest",
+    "national-park",
+    "survival-guide",
+    "nest-risk",
+    "mega-evolution"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Toxarthropoda",
+    "order": "Hymenopteroidea Venefica",
+    "family": "Beedrillidae",
+    "genus": "Apium",
+    "species": "Apium terebra"
+  },
+  "humanConflictRisk": "High near nests, Medium for lone scouts",
+  "domesticationStatus": "Rarely domesticated. Managed only by licensed bug-type specialists, pollination teams, and controlled venom research colonies.",
+  "prey": "Soft-bodied insects, small bird Pokemon, weakened rodents, small reptiles, intruding bug-types, and other small forest creatures taken after venom strikes",
+  "temperamentTriggers": [
+    "Nest approach",
+    "Kakuna handling",
+    "Weedle injury",
+    "Swatting motions",
+    "Smoke",
+    "Vibration from vehicles or machinery",
+    "Bright lights at night",
+    "Strong perfume or chemical sprays",
+    "Food scarcity",
+    "Rival Beedrill colony scent"
+  ],
+  "territoryRange": "Usually 0.5 to 3 square miles around colony trees, with scouts ranging farther along flowering routes and forest corridors",
+  "lifeCycle": "Evolves from Kakuna starting at Level 10. Adults defend Weedle and Kakuna, forage for nectar and prey, maintain colony scent routes, and may Mega Evolve temporarily with Beedrillite under trainer bond conditions.",
+  "containmentRequirements": "Large flight enclosure, double-door airlock, colony-safe nesting tree or artificial hive structure, visual barriers, remote feeding ports, emergency sting protocol, negative-pressure handling room for venom work, and trained staff only",
+  "ecologicalRole": "Pollinates flowering plants, controls small insect populations, defends old tree nurseries, recycles prey into colony food, and shapes predator behavior through strong swarm deterrence.",
+  "diseaseParasiteRisk": "Moderate to high. Venom exposure, allergic shock, puncture infection, chitin mites, wing fungus, colony collapse from pesticide exposure, and stress aggression are concerns.",
+  "reproductionNesting": "Adults create guarded nursery zones in hollow trees, bark pockets, and branch structures. Eggs and larvae are tended communally, with Kakuna placed in protected anchor zones until emergence.",
+  "predators": "Fearow, larger bird Pokemon, fire-types, psychic-types, humans destroying nests, rival Beedrill colonies, parasitic fungi, and large armored predators that resist venom",
+  "emergencyResponse": "Do not fight the swarm in the open. Cover face, retreat to enclosed shelter, use medical response for stings, and call licensed pest or ranger control. If a nest is in a public path, close the area rather than attempting removal.",
+  "legalStatus": "Nest removal, venom extraction, and colony transport usually require permits because disturbed colonies can endanger entire trails or neighborhoods",
+  "stressSicknessSigns": [
+    "Ragged wings",
+    "Dragging stingers",
+    "Weak buzzing",
+    "Disoriented circling",
+    "Failure to respond to colony scent",
+    "Dull abdominal banding",
+    "Excessive aggression away from nest",
+    "Dead larvae near entrance"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild adults often live 2 to 4 years depending on colony stress; managed adults may reach 5 to 8 years if not overworked or repeatedly forced into combat.",
+  "socialStructure": "Cooperative colony groups without a simple real-world queen model. Adults defend Weedle and Kakuna collectively, share food routes, and coordinate by scent, wing vibration, and visual threat displays.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Primary hazard is venom, speed, and swarm coordination.",
+    "electricFieldRange": "No electric field. Sting threat range is immediate contact, but pursuit and swarm response can extend hundreds of yards from the nest.",
+    "burstSpeed": "Very fast flight strike, roughly 30 to 50 mph in short pursuit conditions",
+    "dodgeSpeed": "Excellent aerial agility around trees and brush",
+    "jumpingHeight": "Flight-capable; vertical launch from ground or branch",
+    "balance": "Stable in flight, poor in high winds or heavy rain",
+    "signatureMoves": [
+      "Pin Missile",
+      "Poison Jab",
+      "X-Scissor",
+      "Bug Buzz",
+      "Toxic Spikes",
+      "Drill Run",
+      "Sludge Bomb",
+      "Aerial Ace",
+      "U-turn"
+    ]
+  },
+  "trainingRisk": "Severe stings, allergic shock, swarm bonding to wrong nest site, escape during feeding, aggression after Kakuna disturbance, and dangerous overfocus during Mega Evolution training",
+  "physiology": "Beedrill is a large venomous arthropod Pokemon with two pairs of wings, large compound eyes, foreleg stingers, and an abdominal stinger containing the most dangerous poison. It relies on high-speed flight, repeated punctures, and colony coordination rather than brute strength.",
+  "keyFacts": {
+    "size": "Height: 3 ft 3 in",
+    "weight": "65.0 lbs",
+    "stingerCount": "Three primary poisonous stingers: two foreleg stingers and one abdominal stinger",
+    "lifestyle": "Territorial colony defender and fast aerial predator",
+    "diet": "Nectar, pollen, fruit sugars, sap, insects, and prey fluids",
+    "habitat": "Temperate forests, misty wooded areas, old trees, and orchard edges",
+    "lifespan": "Official not stated. Field estimate: wild adults 2 to 4 years; managed adults 5 to 8 years.",
+    "groupSize": "Small patrols to large colony swarms"
+  },
+  "domesticationDifficulty": "Very high. Beedrill can learn routines with expert handlers but remains nest-centered, fast, venomous, and dangerous under stress.",
+  "physicalCharacteristics": "Yellow wasp-like body, black abdominal bands, red eyes, black antennae, two pairs of wings, long conical stingers on both forelegs, pointed abdominal stinger, and narrow insectoid legs.",
+  "dietRestrictions": "Avoid pesticide-contaminated nectar, fermented fruit, artificial sugar-only feeding, strong perfumes, smoke-heavy environments, and low-protein colony diets.",
+  "detailPath": "./data/pokemon/pokemon-beedrill.json",
+  "officialBaseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "specialAttack": 45,
+    "specialDefense": 80,
+    "speed": 75,
+    "total": 395
+  },
+  "megaBaseStats": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 40,
+    "specialAttack": 15,
+    "specialDefense": 80,
+    "speed": 145,
+    "total": 495
+  },
+  "attacks": [
+    {
+      "name": "Pin Missile",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 25,
+      "accuracy": 95,
+      "fieldUse": "Learned on evolution. Rapid stinger thrusts or launched chitin splinters at close range."
+    },
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "Basic venom jab from foreleg or abdominal stinger."
+    },
+    {
+      "name": "String Shot",
+      "type": "Bug",
+      "category": "Status",
+      "power": null,
+      "accuracy": 95,
+      "fieldUse": "Used less than Weedle, but adults can produce binding silk for nest work and capture."
+    },
+    {
+      "name": "Harden",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Temporary chitin bracing before impact or during nest defense."
+    },
+    {
+      "name": "Focus Energy",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Threat posture and wing-vibration focus before a strike run."
+    },
+    {
+      "name": "Brutal Swing",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Wide sweeping stinger strike used in dense brush or swarm fighting."
+    },
+    {
+      "name": "X-Scissor",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Crossing fore-stinger slash that can open fabric, hide, and light protective gear."
+    },
+    {
+      "name": "Bug Buzz",
+      "type": "Bug",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "High-intensity wing resonance that disorients prey and warns the colony."
+    },
+    {
+      "name": "Toxic Spikes",
+      "type": "Poison",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Deposits venomous barbs around nest entries and travel lanes."
+    },
+    {
+      "name": "Lunge",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Fast darting attack that impairs the target's ability to fight back."
+    },
+    {
+      "name": "Poison Jab",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Primary dangerous adult attack. Deep puncture plus fast venom delivery."
+    },
+    {
+      "name": "Drill Run",
+      "type": "Ground",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 95,
+      "fieldUse": "Rotating thrust using the abdominal stinger or fore-stingers, capable of penetrating packed soil and bark."
+    },
+    {
+      "name": "Toxic",
+      "type": "Poison",
+      "category": "Status",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "Concentrated venom exposure with delayed systemic effects."
+    },
+    {
+      "name": "Sludge Bomb",
+      "type": "Poison",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "Expelled toxic fluid under stress or trained combat conditions."
+    },
+    {
+      "name": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": "Never misses in game terms",
+      "fieldUse": "Sharp midair pursuit strike."
+    },
+    {
+      "name": "U-turn",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 70,
+      "accuracy": 100,
+      "fieldUse": "Hit-and-retreat strike pattern common to scouting adults."
+    }
+  ],
+  "gameLocations": {
+    "kanto": [
+      "Viridian Forest",
+      "Route 2",
+      "Route 24",
+      "Route 25",
+      "Pattern Bush"
+    ],
+    "johto": [
+      "Ilex Forest",
+      "National Park",
+      "Routes 30 and 31",
+      "Azalea Town",
+      "Lake of Rage",
+      "Headbutt trees"
+    ],
+    "kalos": [
+      "Santalune Forest",
+      "Route 2"
+    ],
+    "sinnoh": [
+      "Eterna Forest",
+      "Route 204",
+      "Grand Underground caves in Shining Pearl after National Pokedex"
+    ],
+    "unova": [
+      "Route 12 through evolved forms or breeding"
+    ],
+    "alola": [
+      "Limited transfer or Route 4 for Beedrill in Ultra Moon"
+    ],
+    "lumiose": [
+      "Legends: Z-A Vert District, Bleu District, Magenta District, Rouge District, Jaune District, Wild Zone 1, and bug-type wild zones where available"
+    ],
+    "realWorldAnalogues": [
+      "Olympic Peninsula cedar-hemlock rainforest edges",
+      "damp mountain foothills",
+      "old orchards",
+      "temperate park understory",
+      "misty woodland trails"
+    ]
+  },
+  "officialEvolutionSummary": "Weedle evolves into Kakuna starting at Level 7. Kakuna evolves into Beedrill starting at Level 10. Beedrill can Mega Evolve into Mega Beedrill using Beedrillite.",
+  "sourceUseNote": "Core type, height, weight, abilities, base stats, evolution levels, moves, and game-location anchors were checked against current online Pokemon database sources. Lifespan and real-world survival ecology are field-guide extrapolations because official lifespan is not stated."
+}

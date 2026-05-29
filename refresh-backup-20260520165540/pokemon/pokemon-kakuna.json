@@ -1,0 +1,350 @@
+{
+  "id": "pokemon-kakuna",
+  "entryId": "PKMN-0014",
+  "pokedexNumber": "#0014",
+  "name": "Kakuna",
+  "category": "animals",
+  "type": "Bug / Poison Creature",
+  "elementType": "bug-poison",
+  "dangerLevel": "Medium",
+  "rarity": "Common to Uncommon",
+  "region": "Kanto, Johto, and Central Kalos",
+  "route": "Kanto Route 24, Route 25, Viridian Forest, and Pattern Bush; Johto Ilex Forest, National Park, Route 2, Routes 30 and 31, Route 47, and headbutt-tree corridors; Central Kalos Santalune Forest; Hoenn Safari Zone records; Sinnoh Eterna Forest; real-world analogue: hanging pupae in mossy Olympic Peninsula forests, orchard windbreaks, and damp national park groves",
+  "habitat": "Tree trunks, branch nooks, underside of large leaves, hollow bark seams, thorny thickets, damp forest edges, and protected nursery trees guarded by Beedrill patrols",
+  "classification": "Cocoon Pokemon / Armored Venom Pupa",
+  "height": "2 ft 0 in",
+  "weight": "22.0 lbs",
+  "behaviorTemperament": "Nearly motionless, but not passive. Kakuna hardens when disturbed, heats noticeably during internal development, and may extend a poison barb if bitten or grabbed. Wild specimens rely on camouflage, shell toughness, and adult Beedrill response rather than escape.",
+  "diet": "Does not normally feed in the field. Lives on stored larval reserves while reworking tissues into the adult body.",
+  "activityPattern": "Stationary. Internal activity peaks during warm daylight and humid evenings. Shell hardening is most obvious when shaken, handled, or exposed to predator scent.",
+  "bestTimeToFind": "Morning or late afternoon on shaded tree trunks, under large leaves, and in branch nooks near Weedle feeding damage",
+  "observationDifficulty": "Hard. Its color and rigid posture resemble leaves, seed pods, or hardened sap masses. Colonies are easier to detect by Weedle feeding signs and Beedrill patrol loops.",
+  "conservationStatus": "Protected in colony nurseries and old-growth forest corridors",
+  "populationStatus": "Stable in protected forests, vulnerable in parks where people remove suspicious cocoons, spray insecticide, or clear hollow nesting trees",
+  "description": "A Bug and Poison pupal Pokemon that appears almost immobile while its body reorganizes for evolution. Its hard shell, internal heat, and emergency barb make it dangerous to handle even before it becomes Beedrill.",
+  "lore": "For centuries, Johto foresters called Kakuna 'hanging thorns' because the shells appeared overnight after Weedle feeding surges. Superstition said that if a child counted the cocoons on an Ilex tree, the number would double by morning and the forest would remember the child's voice. The truth is less magical and more dangerous. A mature Kakuna tree is never empty. Each shell is a living alarm bell, each warm casing a Beedrill not yet born. In old Viridian records, the worst swarm attacks began when collectors pried Kakuna from bark and carried them in sacks. The shells did not scream. They only clicked, warmed, and released scent. The adults did the screaming for them.",
+  "survivalUse": "A Kakuna cluster indicates a nearby Weedle nursery and adult Beedrill patrol zone. Shed shell fragments can be studied for toxin research and lightweight chitin composites, but field collection should be avoided without permits.",
+  "handlingWarning": "Do not pry Kakuna from bark, do not warm them artificially, and do not store them in sealed bags. Heat stress, vibration, and separation from colony scent can trigger emergency evolution or adult swarm response.",
+  "encounterAdvice": "Observe from several yards away. Avoid standing directly under cocoon branches. If one falls, do not catch it bare-handed. Mark the location, retreat, and notify a ranger or licensed bug handler.",
+  "firstAid": "Treat punctures like venom stings: wash, cool, immobilize the area, and monitor for allergic reaction. Shell abrasions can carry irritant dust, so rinse eyes or open cuts immediately.",
+  "companionSuitability": "Poor as a companion; suitable only as a managed metamorphosis stage in licensed colony programs",
+  "abilities": [
+    "Shed Skin"
+  ],
+  "fieldBehaviors": [
+    "Clings to trees for long periods",
+    "Hardens shell when threatened",
+    "Extends poison barb if attacked",
+    "Warms during internal development",
+    "Leans into bark grooves for camouflage",
+    "Releases colony scent when disturbed",
+    "May undergo rapid emergency evolution under severe stress"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Psychic",
+    "Rock",
+    "Smoke displacement",
+    "Nest disturbance"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Hard yellow shell shapes tucked under leaves",
+    "Warm casing when viewed with thermal optics",
+    "Clusters above stripped Weedle feeding zones",
+    "Fine silk anchor bands around branch forks",
+    "Shed larval skins below trunks",
+    "Beedrill patrol loops around specific trees",
+    "Faint clicking from bark during warm afternoons"
+  ],
+  "equipment": [
+    "Face veil",
+    "Thick gloves",
+    "Eye protection",
+    "Long sleeves",
+    "Thermal viewer",
+    "Rigid ventilated transport box",
+    "Soft branch clamp",
+    "Cold pack",
+    "Epinephrine auto-injector for known severe allergy",
+    "Permit tag and field marker tape"
+  ],
+  "stats": {
+    "power": 1,
+    "speed": 1,
+    "stealth": 4,
+    "danger": 2,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 3,
+    "identificationDifficulty": 3,
+    "reliability": 4,
+    "resourceCost": 2,
+    "speedOfOnset": 2,
+    "detectability": 2,
+    "preventability": 4,
+    "medicalPriority": 3,
+    "warmth": 2
+  },
+  "fieldNote": "A warm Kakuna is not dying. It is building the adult. If the shell becomes hot and the Beedrill patrol noise stops, leave immediately.",
+  "visualSymbol": "🛡️",
+  "image": "images/pokemon/kakuna.png",
+  "audio": "audio/pokemon/kakuna.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Kakuna is the line's answer to the problem of becoming something more dangerous while still alive in a forest full of predators. Weedle reaches Level 7 after storing enough leaf protein, venom precursors, and silk-chitin material. Its outer tissues stiffen into a hanging shell while the internal body softens, rearranges, and grows compound eyes, wing bases, foreleg stingers, venom sacs, and flight muscles. The heat felt through the shell is the cost of that transformation. The stage is short but critical. Without Beedrill adults, most Kakuna would be eaten before emergence. With Beedrill adults, the whole tree becomes a defended nursery.",
+  "evolutionLine": [
+    {
+      "name": "Weedle",
+      "stage": "Base",
+      "method": "Level 7",
+      "note": "Larval venom-feeder. Evolves when the body has stored enough leaf matter, venom protein, and silk-chitin material to seal itself into Kakuna."
+    },
+    {
+      "name": "Kakuna",
+      "stage": "Stage One",
+      "method": "Level 10",
+      "note": "Immobile pupal armor stage. Evolves once internal wing muscles, foreleg stingers, compound eyes, and venom reservoirs finish forming."
+    },
+    {
+      "name": "Beedrill",
+      "stage": "Final",
+      "method": "Final stage; Mega Evolution with Beedrillite",
+      "note": "Territorial flying colony defender. Capable of Mega Evolution into Mega Beedrill when bonded to a handler and exposed to Beedrillite."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Weedle Evolution Family",
+    "subtitle": "Evolution Tree - Bug / Poison Type",
+    "mainLine": [
+      {
+        "name": "Weedle",
+        "stage": "Base",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Level 7",
+        "note": "Small larval forest forager. Feeds on leaves, hides in grass and bushes, and relies on its head barb for defense."
+      },
+      {
+        "name": "Kakuna",
+        "stage": "Stage One",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🛡️",
+        "methodToNext": "Level 10",
+        "note": "Pupal armor stage. Nearly motionless outside, but hot and biologically active inside while preparing for final metamorphosis."
+      },
+      {
+        "name": "Beedrill",
+        "stage": "Final",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐝",
+        "methodToNext": "Mega Evolution with Beedrillite",
+        "note": "Final venomous flyer. Swarm defense, high-speed strikes, nest protection, and three-stinger combat define the adult form."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Beedrill",
+        "method": "Beedrillite / Mega Evolution",
+        "target": {
+          "name": "Mega Beedrill",
+          "stage": "Mega Form",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "symbol": "🐝",
+          "note": "Temporary high-speed combat form. Leg structures become stingers, wing count increases, and venom delivery becomes faster and more specialized."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "bug",
+    "poison",
+    "kakuna",
+    "cocoon",
+    "pupa",
+    "venom",
+    "kanto",
+    "johto",
+    "viridian-forest",
+    "ilex-forest",
+    "survival-guide",
+    "metamorphosis"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Toxarthropoda",
+    "order": "Pupiformes Venefica",
+    "family": "Beedrillidae",
+    "genus": "Vermis",
+    "species": "Vermis tegmine"
+  },
+  "humanConflictRisk": "Medium near colony trees, Low if left undisturbed",
+  "domesticationStatus": "Managed metamorphosis stage, not a normal companion stage",
+  "prey": "Does not hunt. Vulnerable to birds, bats, small mammals, and parasitic insects while immobile.",
+  "temperamentTriggers": [
+    "Being pried from bark",
+    "Shaking or tapping the shell",
+    "Hot dry air",
+    "Smoke",
+    "Predator scent",
+    "Collector handling",
+    "Isolation from colony scent",
+    "Direct sunlight after removal"
+  ],
+  "territoryRange": "Stationary on an anchor tree, usually inside a Beedrill patrol zone of 100 yards to 1 mile depending on colony size",
+  "lifeCycle": "Evolves from Weedle starting at Level 7, anchors to bark or leaf cover, reorganizes internally, heats during metamorphosis, and evolves into Beedrill starting at Level 10.",
+  "containmentRequirements": "Anchored branch section, stable humidity, airflow, low vibration, no sealed containers, sting-safe viewing distance, emergency Beedrill containment plan, and isolation from household pets",
+  "ecologicalRole": "Stores larval biomass through metamorphosis, provides a defended prey source for specialist predators, and anchors Beedrill colony reproduction around stable trees.",
+  "diseaseParasiteRisk": "Moderate. Fungal shell rot, mites in silk anchors, failed shedding, heat stress, and venom-barb punctures are the main risks.",
+  "reproductionNesting": "Kakuna itself does not reproduce. It is attached near larval feeding sites and future Beedrill patrol routes. Colonies often place many Kakuna on the same protected trees.",
+  "predators": "Pidgey, Spearow, Fearow, Zubat, Noctowl, parasitic wasps, fungus, rodents, humans collecting illegally, and hungry bug-types",
+  "emergencyResponse": "If a Kakuna is damaged, do not carry it through the forest. Back away, cover exposed skin, and leave the colony path. If shell cracking and intense buzzing begin together, expect adult emergence or swarm response.",
+  "legalStatus": "Protected in many parks because removing Kakuna can collapse local Beedrill colony structure and cause swarm events",
+  "stressSicknessSigns": [
+    "Soft or leaking shell",
+    "Cold shell during warm development periods",
+    "Mold around anchor silk",
+    "Uneven clicking",
+    "Barb stuck extended",
+    "Failure to harden when touched with a probe",
+    "Bad odor from shell seams"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: Kakuna stage lasts days to weeks before Beedrill emergence in healthy conditions; unevolved managed specimens may persist several months, but long-term suppression is unhealthy.",
+  "socialStructure": "Stationary colony nursery stage. Kakuna communicate mostly through scent, vibration, and Beedrill response rather than visible behavior.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Defensive capacity is shell hardening and venom barb extension.",
+    "electricFieldRange": "No electric field. Barb contact range is short, but colony alarm scent can affect Beedrill behavior across the tree.",
+    "burstSpeed": "Almost none",
+    "dodgeSpeed": "None; relies on armor",
+    "jumpingHeight": "None",
+    "balance": "Excellent anchored stability if silk and bark remain intact",
+    "signatureMoves": [
+      "Harden",
+      "Poison Sting",
+      "String Shot",
+      "Iron Defense"
+    ]
+  },
+  "trainingRisk": "Failed metamorphosis, premature Beedrill emergence, handler punctures, colony aggression, fungal shell rot, and stress death from rough transport",
+  "physiology": "Kakuna is an armored pupal organism. The rigid outer casing protects a soft internal body that is rapidly forming adult Beedrill structures. Heat is a normal sign of intense internal activity, but excessive heat, odor, or leakage indicates danger.",
+  "keyFacts": {
+    "size": "Height: 2 ft 0 in",
+    "weight": "22.0 lbs",
+    "shellFunction": "Hard armor plus metamorphosis chamber",
+    "lifestyle": "Stationary colony nursery stage",
+    "diet": "Does not normally feed during this stage",
+    "habitat": "Tree trunks, branch nooks, leaves, and guarded forest nurseries",
+    "lifespan": "Official not stated. Field estimate: days to weeks before evolution; several months if prevented from evolving under managed conditions.",
+    "groupSize": "Often clustered on defended trees"
+  },
+  "domesticationDifficulty": "High for normal owners. The animal appears easy because it barely moves, but the risks are hidden in temperature control, shell damage, and the adult form that follows.",
+  "physicalCharacteristics": "Yellow segmented cocoon body with narrow dark eyes, rigid shell plates, pointed lower body, limited movement, hidden developing adult tissues, and a small poison barb used only under threat.",
+  "dietRestrictions": "Do not feed unless directed by a specialist. Avoid sealed humid containers, dry heat lamps, insecticides, moldy bark, vibration, and forced shell cleaning.",
+  "detailPath": "./data/pokemon/pokemon-kakuna.json",
+  "officialBaseStats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "specialAttack": 25,
+    "specialDefense": 25,
+    "speed": 35,
+    "total": 205
+  },
+  "attacks": [
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "Emergency barb extension from the shell when handled or bitten."
+    },
+    {
+      "name": "String Shot",
+      "type": "Bug",
+      "category": "Status",
+      "power": null,
+      "accuracy": 95,
+      "fieldUse": "Residual silk discharge used around its anchor point."
+    },
+    {
+      "name": "Harden",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Rapid shell tensioning that makes the outer casing harder and more difficult to crush."
+    },
+    {
+      "name": "Iron Defense",
+      "type": "Steel",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Advanced defensive training response that reinforces the shell beyond normal hardening."
+    }
+  ],
+  "gameLocations": {
+    "kanto": [
+      "Viridian Forest",
+      "Route 2",
+      "Route 24",
+      "Route 25",
+      "Pattern Bush"
+    ],
+    "johto": [
+      "Ilex Forest",
+      "National Park",
+      "Routes 30 and 31",
+      "Azalea Town",
+      "Lake of Rage",
+      "Headbutt trees"
+    ],
+    "kalos": [
+      "Santalune Forest",
+      "Route 2"
+    ],
+    "sinnoh": [
+      "Eterna Forest",
+      "Route 204",
+      "Grand Underground caves in Shining Pearl after National Pokedex"
+    ],
+    "unova": [
+      "Route 12 through evolved forms or breeding"
+    ],
+    "alola": [
+      "Limited transfer or Route 4 for Beedrill in Ultra Moon"
+    ],
+    "lumiose": [
+      "Legends: Z-A Vert District, Bleu District, Magenta District, Rouge District, Jaune District, Wild Zone 1, and bug-type wild zones where available"
+    ],
+    "realWorldAnalogues": [
+      "Olympic Peninsula cedar-hemlock rainforest edges",
+      "damp mountain foothills",
+      "old orchards",
+      "temperate park understory",
+      "misty woodland trails"
+    ]
+  },
+  "officialEvolutionSummary": "Weedle evolves into Kakuna starting at Level 7. Kakuna evolves into Beedrill starting at Level 10. Beedrill can Mega Evolve into Mega Beedrill using Beedrillite.",
+  "sourceUseNote": "Core type, height, weight, abilities, base stats, evolution levels, moves, and game-location anchors were checked against current online Pokemon database sources. Lifespan and real-world survival ecology are field-guide extrapolations because official lifespan is not stated."
+}

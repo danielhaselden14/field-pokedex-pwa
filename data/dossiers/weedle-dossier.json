@@ -1,0 +1,57 @@
+{
+  "id": "weedle-dossier",
+  "title": "Weedle Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Venomous larval hazard. Primary hazard: hidden contact stings, alarm response, and disturbed-soil swarms.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Weedle is the reason old forest paths were swept before weddings, funerals, and war marches. Not cleared. Swept.\n\nA Weedle is small enough to hide beneath a curled leaf, under bark, inside boot prints, under baskets, in berry brambles, between fence rails, and along the underside of fallen branches where a careless hand naturally grips. Its body is soft and striped, easy to underestimate, but both ends carry warning. The horn at the head is not ornament. The rear stinger is not decoration. Weedle is born with two ways to punish touch.\n\nMost people are not attacked by Weedle. They make contact. That distinction matters only to Weedle.\n\nIt waits where the forest is busy with human hands: berry patches, firewood stacks, mushroom rings, grave flowers, children’s hiding places, and soldiers’ supply trails. Anywhere fingers reach before eyes look, Weedle survives.\n\nThe first sting is hot. The second becomes cold. Mild stings cause swelling, rash, dizziness, and bitterness in the mouth. Deep stings bring fever, shaking, confusion, muscle weakness, and a crawling pain that moves away from the wound before discoloration follows. Old healers said the venom had feet and walked through the blood looking for the heart.\n\nWild Weedle are nervous, hungry, and constantly eaten. Birds take them. Larger insects take them. Fire drives them open. Rain drowns them in low burrows. Their early life is a desperate attempt to feed quickly enough to harden into Kakuna. That fear makes them dangerous.\n\nA Caterpie swarm changes a place slowly with silk and chewing. A Weedle swarm changes a place instantly with pain. One startled Weedle releases chemical alarm. Others raise their horns. The leaf litter begins to move. Brown and cream bodies lift from the ground like the forest has grown teeth. Old Kanto called this needle grass.\n\nTravelers who stepped into Weedle nurseries came out with dozens of punctures. They rarely died quickly. They walked for hours insisting they were fine, then became weak, feverish, thirsty, and confused. Some returned toward the same patch of woods where they were stung. Rangers believe venom may affect orientation and fear response. Villagers believed Weedle wanted the body to come back.\n\nWeedle grounds are feared in abandoned orchards and battlefield hedges. After battles, populations rise around camps and burial pits. They are drawn not to blood supernaturally, but to plants fertilized by decay. Weedle does not seek funerals. Funerals walk through Weedle habitat.\n\nDo not walk barefoot in Weedle territory. Do not reach into low brush without gloves. Do not sit on logs until you inspect the underside. Do not crush one in a swarm unless ready for the rest. If many raise their horns at once, freeze, then step backward slowly. If the forest floor ripples, do not run through it."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Weedle was formally recorded in **1798**, two years after Caterpie entered the scientific record.\n\nVillagers knew it by many names long before naturalists cared: needleworm, grave grub, thornback, venom thread, and priest-biter. The last name came from funeral incidents. Rural communities reported venom injuries around overgrown churchyards, orchard walls, and old military roads. Physicians blamed thorns, dirty tools, snakelets, bad air, or hysteria. The poor blamed Weedle. The poor were correct.\n\nThe formal record began after the Bramble Wake Incident of 1798. A funeral procession in the north Kanto lowlands took an old road through a neglected berry hedge. The path had not been swept. Halfway through the hedge, the front pallbearer stumbled and a child screamed that the road was moving. By the time the coffin reached the churchyard, nine mourners had been stung. Three collapsed before burial. One elderly man died that night from fever complications. The coffin cloth was covered in striped larvae that had fallen from the hedge.\n\nNaturalist Iven Carrow examined the specimens with caution learned from Caterpie. He recorded the horn, rear stinger, and venom. Tests showed swelling, lethargy, tremors, and sometimes paralysis. Birds avoided marked Weedle after one attempt. Rattata learned to flip them with debris before biting.\n\nCarrow formally entered Weedle into the Kanto natural record in 1798 as a venomous larval Bug-type associated with low vegetation, disturbed soil, and bramble habitat. At first researchers did not know what it became. Some believed it remained larval. Others connected it to hard yellow forms later named Kakuna. The line chronology later became Weedle in 1798, Kakuna in 1800, and Beedrill in 1805.\n\nWeedle and Caterpie represent divergent answers to the same problem: how does a soft larva survive a forest that wants to eat it? Caterpie chose concealment, silk, and mass transformation. Weedle chose venom."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1798",
+          "text": "Weedle formally recorded after the Bramble Wake Incident."
+        },
+        {
+          "date": "1800",
+          "text": "Kakuna confirmed after marked Weedle hardened into defensive pupal forms."
+        },
+        {
+          "date": "1805",
+          "text": "Beedrill formally linked after emergence from observed Kakuna clusters."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not walk barefoot in Weedle territory.",
+        "Do not reach into low brush without gloves.",
+        "Do not sit on logs before inspecting the underside.",
+        "If stung, leave the area before treating the wound.",
+        "If many raise their horns, freeze and step backward slowly."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Old paths were swept before weddings, funerals, and marches.",
+        "Weedle was called priest-biter after funeral stings.",
+        "The Bramble Wake Incident forced formal recognition."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "pokemon-venonat",
+  "entryId": "PKMN-0048",
+  "pokedexNumber": "#0048",
+  "name": "Venonat",
+  "category": "animals",
+  "type": "Bug / Poison Creature",
+  "elementType": "bug-poison",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Kanto Routes 12, 13, 14, 15, Safari Zone, damp undergrowth, and night meadows",
+  "habitat": "forests, tall grass, rotting wood, hive sites, orchards, and damp undergrowth; also uses marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges. Field anchors: Kanto Routes 12, 13, 14, 15, Safari Zone, damp undergrowth, and night meadows",
+  "classification": "Insect Pokemon / Fuzzy Venom Midge",
+  "height": "3 ft 3 in",
+  "weight": "66.1 lbs",
+  "behaviorTemperament": "Venonat is best treated as a base field organism with bug-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Bug / Poison Pokemon listed as Insect Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Venonat was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Kanto Routes 12, 13, 14, 15, Safari Zone, damp undergrowth, and night meadows. The species is now handled as a Bug / Poison field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Venonat into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to bug activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Venonat, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are stings, bites, silk, shed chitin, and colony panic. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Venonat changes posture, sound, or breathing pattern.",
+  "firstAid": "For suspected venom or toxin contact, remove contaminated clothing, rinse with clean water, keep the victim calm, mark swelling spread, and seek urgent medical care.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Compound Eyes",
+    "Tinted Lens",
+    "Run Away"
+  ],
+  "fieldBehaviors": [
+    "Displays warning colors before venom use",
+    "Marks cover with chemical scent",
+    "Avoids direct sun when toxins dry out",
+    "Follows scent trails",
+    "Sheds chitin after growth spurts",
+    "Startles easily during molting"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Psychic",
+    "Rock",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Shed chitin",
+    "Silk threads",
+    "Chewed leaves",
+    "Small punctures in fruit",
+    "Hive scent",
+    "Clustered tracks"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Fine mesh veil",
+    "Sting kit",
+    "Tape for cuffs",
+    "Seal container",
+    "Nitrile outer gloves",
+    "Antivenom plan",
+    "Wash water",
+    "Seal bags for contaminated gear"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 2,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 3,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Venonat usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a bug-type response.",
+  "visualSymbol": "🐛",
+  "image": "images/pokemon/pokemon-venonat.png",
+  "audio": "audio/pokemon/pokemon-venonat.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Venonat Evolution Family appears to have adapted around Kanto Routes 12, 13, 14, 15, Safari Zone, damp undergrowth, and night meadows. Its line favors survival through stings, bites, silk, shed chitin, and colony panic, specialized shelter choice, and rapid behavioral changes during maturity. Venonat becomes Venomoth by Level 31. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Venonat",
+      "stage": "Base",
+      "method": "Level 31",
+      "note": "Base-stage Bug / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Venomoth",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Bug / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Venonat Evolution Family",
+    "subtitle": "Evolution Tree - Bug / Poison Type",
+    "mainLine": [
+      {
+        "name": "Venonat",
+        "stage": "Base",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Level 31",
+        "note": "Base-stage Bug / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Venomoth",
+        "stage": "Final",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Bug / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "bug",
+    "poison",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "venonat"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Arthrofauna",
+    "order": "Arthropoda Mirabilis",
+    "family": "Chitinidae",
+    "genus": "Venonat",
+    "species": "venonat fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to bug-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to forests, feeds heavily, defends shelter, and follows this first-151 evolution profile: Venonat evolves into Venomoth by Level 31.",
+  "containmentRequirements": "Requires mesh enclosures, humidity control, and escape screening, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a bug-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to stings, bites, silk entrapment, allergic response, and swarm panic",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a bug hazard area. Do not attempt capture unless trained and equipped for Venonat.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 11 to 20 mph depending on terrain and age",
+    "dodgeSpeed": "Low to moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes stings, bites, silk entrapment, allergic response, and swarm panic. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Venonat's body supports Bug / Poison output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 3 ft 3 in",
+    "weight": "66.1 lbs",
+    "types": "Bug / Poison",
+    "lifestyle": "Base bug-type field organism",
+    "diet": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+    "habitat": "forests, tall grass, rotting wood, hive sites, orchards, and damp undergrowth",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as insect pokemon with bug / poison adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-venonat.json",
+  "officialBaseStats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 55,
+    "speed": 45,
+    "total": 305
+  },
+  "attacks": [
+    {
+      "name": "String Shot",
+      "type": "Bug",
+      "category": "Status",
+      "power": null,
+      "accuracy": 95,
+      "fieldUse": "sticky thread used to slow boots, wings, and tools"
+    },
+    {
+      "name": "Bug Bite",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "mandible bite that can damage food stores"
+    },
+    {
+      "name": "Twineedle",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 25,
+      "accuracy": 100,
+      "fieldUse": "paired stinger strike with poison risk"
+    },
+    {
+      "name": "X-Scissor",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "crossing blade or claw strike"
+    },
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "venom prick or spine jab used to test distance and discourage handling"
+    },
+    {
+      "name": "Acid",
+      "type": "Poison",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "caustic spray used against plants, cloth, and soft tissue"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Kanto Routes 12, 13, 14, 15, Safari Zone, damp undergrowth, and night meadows"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Venonat evolves into Venomoth by Level 31.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 31"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

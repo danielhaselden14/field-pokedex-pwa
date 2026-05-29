@@ -1,0 +1,287 @@
+{
+  "id": "pokemon-grimer",
+  "entryId": "PKMN-0088",
+  "pokedexNumber": "#0088",
+  "name": "Grimer",
+  "category": "animals",
+  "type": "Poison Creature",
+  "elementType": "poison",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Pokemon Mansion, Celadon pollution records, industrial drains, landfills, and chemical runoff channels",
+  "habitat": "marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges. Field anchors: Pokemon Mansion, Celadon pollution records, industrial drains, landfills, and chemical runoff channels",
+  "classification": "Sludge Pokemon / Toxic Waste Amorph",
+  "height": "2 ft 11 in",
+  "weight": "66.1 lbs",
+  "behaviorTemperament": "Grimer is best treated as a base field organism with poison-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Poison Pokemon listed as Sludge Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Grimer was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Pokemon Mansion, Celadon pollution records, industrial drains, landfills, and chemical runoff channels. The species is now handled as a Poison field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Grimer into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to poison activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Grimer, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are venom, irritant fluid, and contaminated surfaces. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Stay upwind of Grimer, keep skin covered, avoid touching shed material, and withdraw if it displays venom, hooding, barbs, colored fluid, or warning posture.",
+  "firstAid": "For suspected venom or toxin contact, remove contaminated clothing, rinse with clean water, keep the victim calm, mark swelling spread, and seek urgent medical care.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Stench",
+    "Sticky Hold",
+    "Poison Touch"
+  ],
+  "fieldBehaviors": [
+    "Displays warning colors before venom use",
+    "Marks cover with chemical scent",
+    "Avoids direct sun when toxins dry out"
+  ],
+  "weaknesses": [
+    "Ground",
+    "Psychic",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Sharp chemical scent",
+    "Discolored soil",
+    "Shed scales or slime",
+    "Small prey carcasses",
+    "Warning tracks near cover",
+    "Purple or green staining"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Nitrile outer gloves",
+    "Antivenom plan",
+    "Wash water",
+    "Seal bags for contaminated gear"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 1,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 4,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Grimer usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a poison-type response.",
+  "visualSymbol": "☠️",
+  "image": "images/pokemon/pokemon-grimer.png",
+  "audio": "audio/pokemon/pokemon-grimer.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Grimer Evolution Family appears to have adapted around Pokemon Mansion, Celadon pollution records, industrial drains, landfills, and chemical runoff channels. Its line favors survival through venom, irritant fluid, and contaminated surfaces, specialized shelter choice, and rapid behavioral changes during maturity. Grimer becomes Muk by Level 38. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Grimer",
+      "stage": "Base",
+      "method": "Level 38",
+      "note": "Base-stage Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Muk",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Grimer Evolution Family",
+    "subtitle": "Evolution Tree - Poison Type",
+    "mainLine": [
+      {
+        "name": "Grimer",
+        "stage": "Base",
+        "types": [
+          "Poison"
+        ],
+        "symbol": "☠️",
+        "methodToNext": "Level 38",
+        "note": "Base-stage Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Muk",
+        "stage": "Final",
+        "types": [
+          "Poison"
+        ],
+        "symbol": "☠️",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "poison",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "grimer"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Venomfauna",
+    "order": "Toxiciformes",
+    "family": "Venomidae",
+    "genus": "Grimer",
+    "species": "grimer fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to poison-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to marshes, feeds heavily, defends shelter, and follows this first-151 evolution profile: Grimer evolves into Muk by Level 38.",
+  "containmentRequirements": "Requires negative-pressure space, washable flooring, and antidote planning, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a poison-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to envenomation, swelling, numbness, contaminated clothing, and delayed systemic symptoms",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a poison hazard area. Do not attempt capture unless trained and equipped for Grimer.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 6 to 11 mph depending on terrain and age",
+    "dodgeSpeed": "Low to moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes envenomation, swelling, numbness, contaminated clothing, and delayed systemic symptoms. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Grimer's body supports Poison output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 2 ft 11 in",
+    "weight": "66.1 lbs",
+    "types": "Poison",
+    "lifestyle": "Base poison-type field organism",
+    "diet": "small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+    "habitat": "marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as sludge pokemon with poison adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-grimer.json",
+  "officialBaseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 40,
+    "specialDefense": 50,
+    "speed": 25,
+    "total": 325
+  },
+  "attacks": [
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "venom prick or spine jab used to test distance and discourage handling"
+    },
+    {
+      "name": "Acid",
+      "type": "Poison",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "caustic spray used against plants, cloth, and soft tissue"
+    },
+    {
+      "name": "Toxic",
+      "type": "Poison",
+      "category": "Status",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "persistent venom contamination used to make predators back away"
+    },
+    {
+      "name": "Sludge Bomb",
+      "type": "Poison",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "thick toxic projectile that contaminates soil and gear"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Pokemon Mansion, Celadon pollution records, industrial drains, landfills, and chemical runoff channels"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Grimer evolves into Muk by Level 38.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 38"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

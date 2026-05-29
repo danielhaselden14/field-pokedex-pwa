@@ -1,0 +1,280 @@
+{
+  "id": "pokemon-articuno",
+  "entryId": "PKMN-0144",
+  "pokedexNumber": "#0144",
+  "name": "Articuno",
+  "category": "animals",
+  "type": "Ice / Flying Creature",
+  "elementType": "ice-flying",
+  "dangerLevel": "Extreme",
+  "rarity": "Legendary",
+  "region": "Kanto restricted legendary records",
+  "route": "Seafoam Islands, ice peaks, blizzard valleys, and high frozen roosts",
+  "habitat": "ice caves, cold seas, glaciers, snowfields, and winter mountain passes; also uses open fields, cliffs, route corridors, tall trees, rooftops, and thermal ridges. Field anchors: Seafoam Islands, ice peaks, blizzard valleys, and high frozen roosts",
+  "classification": "Freeze Pokemon / Legendary Ice Bird",
+  "height": "5 ft 7 in",
+  "weight": "122.1 lbs",
+  "behaviorTemperament": "Articuno is best treated as a single stage field organism with ice-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "activityPattern": "Crepuscular to nocturnal in cold seasons, with daytime activity inside caves or cold surf.",
+  "bestTimeToFind": "Morning thermals, high perches, route signs, cliffs, rooftops, or fields with prey movement",
+  "observationDifficulty": "High. Record from cover and avoid pursuit.",
+  "conservationStatus": "Strictly protected mythic or legendary species",
+  "populationStatus": "Unknown. Records are rare, restricted, or disputed. Do not treat sightings as ordinary wildlife encounters.",
+  "description": "A Ice / Flying Pokemon listed as Freeze Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Field records for Articuno are fragmentary because every credible encounter became a restricted incident. Rangers describe the first reliable reports as less like animal sightings and more like weather, power, fire, or psychic events that happened to have a living center. The locations most often tied to Articuno include Seafoam Islands, ice peaks, blizzard valleys, and high frozen roosts. Local stories grew around missing tools, strange lights, sudden silence, and terrain altered after the creature passed. Modern protocol is simple: log the sighting, protect civilians, do not pursue, and never assume a legendary or mythic Pokemon is behaving according to ordinary predator logic.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to ice activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Articuno, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are freezing injury, slick ground, and cold fog. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Articuno changes posture, sound, or breathing pattern.",
+  "firstAid": "For frostbite or cold shock, warm gradually and do not rub frozen skin.",
+  "companionSuitability": "Not suitable for private companionship; observation only under elite research or ranger authority",
+  "abilities": [
+    "Pressure",
+    "Snow Cloak"
+  ],
+  "fieldBehaviors": [
+    "Uses high perches",
+    "Watches open routes",
+    "Retreats upward when threatened",
+    "Seeks cold surfaces",
+    "Coats shelter with frost",
+    "Becomes sluggish in heat"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Electric",
+    "Rock",
+    "Steel",
+    "Restricted knowledge",
+    "Provocation",
+    "Crowd panic"
+  ],
+  "resistances": [
+    "Grass",
+    "Bug",
+    "Ground immunity"
+  ],
+  "signsOfPresence": [
+    "Frost where it should not be",
+    "Slick stone",
+    "Cold fog",
+    "Frozen droplets",
+    "Fish flash-frozen near shore",
+    "Cracked ice patterns"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Cold-weather gloves",
+    "Traction cleats",
+    "Thermal blanket",
+    "Warm fluids",
+    "Helmet",
+    "Arm guard",
+    "Covered food container",
+    "Whistle deterrent"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 1,
+    "resourceCost": 5,
+    "speedOfOnset": 4,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Articuno usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a ice-type response.",
+  "visualSymbol": "❄️",
+  "image": "images/pokemon/pokemon-articuno.png",
+  "audio": "audio/pokemon/pokemon-articuno.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Articuno sits outside ordinary field evolution. Records connect it to Seafoam Islands, ice peaks, blizzard valleys, and high frozen roosts. In a real-world survival context, its biology is treated as a living disaster profile rather than a normal animal profile. The current theory is that its Ice / Flying traits were stabilized by rare energy conditions, extreme isolation, or direct genetic history. Sightings are therefore logged as restricted events, not routine wildlife observations.",
+  "evolutionLine": [
+    {
+      "name": "Articuno",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Ice / Flying species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Articuno Evolution Family",
+    "subtitle": "Evolution Tree - Ice / Flying Type",
+    "mainLine": [
+      {
+        "name": "Articuno",
+        "stage": "Single Stage",
+        "types": [
+          "Ice",
+          "Flying"
+        ],
+        "symbol": "❄️",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Ice / Flying species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "ice",
+    "flying",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "articuno"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Cryofauna",
+    "order": "Glaciformes",
+    "family": "Frigidae",
+    "genus": "Articuno",
+    "species": "articuno fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Not domesticated; restricted legendary observation only",
+  "prey": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to ice-type warning signs"
+  ],
+  "territoryRange": "Unknown and not safely measurable",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to ice caves, feeds heavily, defends shelter, and follows this first-151 evolution profile: Articuno has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires cold-rated PPE, traction mats, and temperature controls, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a ice-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to frostbite, hypothermia, slick ground, frozen gear, and cold shock",
+  "reproductionNesting": "Breeding details are restricted, unknown, or mythic; do not disturb suspected nests or lairs.",
+  "predators": "Few known predators. Main threats are humans, habitat damage, rival apex Pokemon, and containment errors.",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a ice hazard area. Do not attempt capture unless trained and equipped for Articuno.",
+  "legalStatus": "Restricted or prohibited to capture without high-level authority",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: legendary or mythic longevity may be decades to centuries or biologically abnormal.",
+  "socialStructure": "Unknown; treat as solitary unless clear evidence says otherwise.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 21 to 38 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes frostbite, hypothermia, slick ground, frozen gear, and cold shock. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Articuno's body supports Ice / Flying output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 5 ft 7 in",
+    "weight": "122.1 lbs",
+    "types": "Ice / Flying",
+    "lifestyle": "Single Stage ice-type field organism",
+    "diet": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+    "habitat": "ice caves, cold seas, glaciers, snowfields, and winter mountain passes",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "Unknown or solitary"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as freeze pokemon with ice / flying adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-articuno.json",
+  "officialBaseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "specialAttack": 95,
+    "specialDefense": 125,
+    "speed": 85,
+    "total": 580
+  },
+  "attacks": [
+    {
+      "name": "Ice Beam",
+      "type": "Ice",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "freezing legendary beam"
+    },
+    {
+      "name": "Ice Shard",
+      "type": "Ice",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "fast shard flick used to stop approach"
+    },
+    {
+      "name": "Aurora Beam",
+      "type": "Ice",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "cold light beam that chills tissue"
+    },
+    {
+      "name": "Mist",
+      "type": "Ice",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "cold fog used to obscure movement"
+    },
+    {
+      "name": "Gust",
+      "type": "Flying",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "wing-driven dust and wind burst"
+    },
+    {
+      "name": "Wing Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "close-range wing strike"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Seafoam Islands, ice peaks, blizzard valleys, and high frozen roosts"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Articuno has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

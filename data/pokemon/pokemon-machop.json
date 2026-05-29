@@ -1,0 +1,302 @@
+{
+  "id": "pokemon-machop",
+  "entryId": "PKMN-0066",
+  "pokedexNumber": "#0066",
+  "name": "Machop",
+  "category": "animals",
+  "type": "Fighting Creature",
+  "elementType": "fighting",
+  "dangerLevel": "Low",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Rock Tunnel, Mt. Moon approaches, construction camps, mountain gyms, and quarry paths",
+  "habitat": "mountain paths, dojos, quarries, training yards, and high-conflict troop territories. Field anchors: Rock Tunnel, Mt. Moon approaches, construction camps, mountain gyms, and quarry paths",
+  "classification": "Superpower Pokemon / Training Juvenile",
+  "height": "2 ft 7 in",
+  "weight": "43.0 lbs",
+  "behaviorTemperament": "Machop is best treated as a base field organism with fighting-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Fighting Pokemon listed as Superpower Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Machop was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Rock Tunnel, Mt. Moon approaches, construction camps, mountain gyms, and quarry paths. The species is now handled as a Fighting field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Machop into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to fighting activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Machop, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are blunt trauma, grappling, and training escalation. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Do not mimic combat poses. Back away slowly, avoid applause or challenge gestures, and put a solid object between yourself and Machop.",
+  "firstAid": "For blunt trauma, immobilize suspected fractures and check for head injury.",
+  "companionSuitability": "Good for trained caretakers if diet, housing, and enrichment are maintained",
+  "abilities": [
+    "Guts",
+    "No Guard",
+    "Steadfast"
+  ],
+  "fieldBehaviors": [
+    "Practices strikes repeatedly",
+    "Challenges rivals with posture",
+    "Escalates when copied"
+  ],
+  "weaknesses": [
+    "Flying",
+    "Psychic",
+    "Fairy",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Bug",
+    "Rock",
+    "Dark"
+  ],
+  "signsOfPresence": [
+    "Broken branches",
+    "Footprints around training circles",
+    "Impact marks",
+    "Thrown stones",
+    "Challenge calls",
+    "Flattened grass"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Padded barrier",
+    "Mouth guard for handlers",
+    "Training baton",
+    "Clear command plan"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 1,
+    "stealth": 2,
+    "danger": 2,
+    "usefulness": 3,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Machop usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a fighting-type response.",
+  "visualSymbol": "🥊",
+  "image": "images/pokemon/pokemon-machop.png",
+  "audio": "audio/pokemon/pokemon-machop.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Machop Evolution Family appears to have adapted around Rock Tunnel, Mt. Moon approaches, construction camps, mountain gyms, and quarry paths. Its line favors survival through blunt trauma, grappling, and training escalation, specialized shelter choice, and rapid behavioral changes during maturity. Machop becomes Machoke by Level 28; Machoke becomes Machamp by Trade. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Machop",
+      "stage": "Base",
+      "method": "Level 28",
+      "note": "Base-stage Fighting species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Machoke",
+      "stage": "Stage One",
+      "method": "Trade",
+      "note": "Intermediate Fighting stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+    },
+    {
+      "name": "Machamp",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Fighting species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Machop Evolution Family",
+    "subtitle": "Evolution Tree - Fighting Type",
+    "mainLine": [
+      {
+        "name": "Machop",
+        "stage": "Base",
+        "types": [
+          "Fighting"
+        ],
+        "symbol": "🥊",
+        "methodToNext": "Level 28",
+        "note": "Base-stage Fighting species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Machoke",
+        "stage": "Stage One",
+        "types": [
+          "Fighting"
+        ],
+        "symbol": "🥊",
+        "methodToNext": "Trade",
+        "note": "Intermediate Fighting stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+      },
+      {
+        "name": "Machamp",
+        "stage": "Final",
+        "types": [
+          "Fighting"
+        ],
+        "symbol": "🥊",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Fighting species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "fighting",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "machop"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Mammalia-like Pugilfauna",
+    "order": "Pugnatoriformes",
+    "family": "Combatividae",
+    "genus": "Machop",
+    "species": "machop fieldensis"
+  },
+  "humanConflictRisk": "Low",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to fighting-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to mountain paths, feeds heavily, defends shelter, and follows this first-151 evolution profile: Machop evolves into Machoke by Level 28. Machoke evolves into Machamp by Trade.",
+  "containmentRequirements": "Requires sparring-rated barriers, padded rooms, and strict command discipline, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a fighting-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to fractures, dislocations, concussions, grip injuries, and escalation during training",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a fighting hazard area. Do not attempt capture unless trained and equipped for Machop.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "dominant adults with guarded ranges or stable colonies",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 8 to 15 mph depending on terrain and age",
+    "dodgeSpeed": "Low to moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes fractures, dislocations, concussions, grip injuries, and escalation during training. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Machop's body supports Fighting output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 2 ft 7 in",
+    "weight": "43.0 lbs",
+    "types": "Fighting",
+    "lifestyle": "Base fighting-type field organism",
+    "diet": "high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+    "habitat": "mountain paths, dojos, quarries, training yards, and high-conflict troop territories",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Low to moderate",
+  "physicalCharacteristics": "Recognizable as superpower pokemon with fighting adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-machop.json",
+  "officialBaseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 35,
+    "total": 305
+  },
+  "attacks": [
+    {
+      "name": "Karate Chop",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "focused chopping strike"
+    },
+    {
+      "name": "Low Kick",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "leg sweep that drops heavy targets"
+    },
+    {
+      "name": "Submission",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 80,
+      "fieldUse": "grappling body throw with recoil risk"
+    },
+    {
+      "name": "Dynamic Punch",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": 100,
+      "accuracy": 50,
+      "fieldUse": "powerful but unreliable stunning punch"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Rock Tunnel, Mt. Moon approaches, construction camps, mountain gyms, and quarry paths"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Machop evolves into Machoke by Level 28. Machoke evolves into Machamp by Trade.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 28"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

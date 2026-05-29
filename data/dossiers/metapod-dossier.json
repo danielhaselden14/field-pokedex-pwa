@@ -1,0 +1,57 @@
+{
+  "id": "metapod-dossier",
+  "title": "Metapod Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Vulnerable but high-consequence chrysalis stage. Primary hazard: mishandling damage, predator attraction, and mass emergence sites.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Metapod does not sleep. That was the first thing early naturalists got wrong.\n\nThey saw the still body, sealed shell, blank eyes, and lack of limbs, and assumed it was dormant. Farmers called them husks. Children stacked them like stones. Trainers carried them in sacks. Everyone thought Metapod was waiting peacefully to become Butterfree.\n\nIt is not peaceful. It is trapped in the loudest silence a living thing can endure.\n\nInside the shell, the Caterpie body breaks itself down. Muscles soften. Organs shift. Nerves detach and reconnect. The mouth becomes useless. The gut empties. Wings form as folded wet sheets pressed against a body that can no longer run. A Metapod can feel vibration, pressure, temperature, and light through its shell. It knows when something touches it, moves it, or tests the casing. It simply cannot do much about it.\n\nIts hardening response is panic made anatomical. When threatened, Metapod contracts specialized tissues beneath the shell, increasing rigidity until the outer casing is difficult to crack. This works against small predators and falls. It does not work against hunger. Pidgey drop them onto rocks. Rattata chew around seams. Beedrill wedge them into bark until shells weaken. Humans historically used them as bait, weights, toys, and emergency food. In famine records, boiled Metapod shells appear as “green pods” or “forest eggs.” People ate them because they did not scream.\n\nA Metapod may remain aware for days while trapped in a predator cache, a child’s jar, or a trainer pack. Captured Metapod must be secured upright, shaded, and undisturbed unless movement is necessary. Older trainers tossed them into bags and wondered why many emerged malformed or never emerged at all.\n\nThe shell remembers pressure. If strapped too tightly, wings may form twisted. If kept too dry, internal tissue adheres to the casing. If rolled, shaken, or dropped repeatedly, the nervous system may miswire. Such individuals sometimes emerge as Butterfree with unstable flight, damaged eyes, incomplete antennae, or strange behavioral dullness.\n\nWild Metapod choose hardening sites carefully: high enough to avoid ground predators, shaded enough to prevent drying, hidden enough to escape birds. But mass seasons force them into bridges, barns, chapel eaves, attic rafters, shutters, wagon seats, and schoolhouses. One schoolhouse cloakroom became infamous after thirty-seven Metapod hardened onto coats, satchels, and scarves. Only nine emerged healthy.\n\nA barn full of Metapod sounds abandoned until one shell clicks, then another. A cluster may answer vibration with a wave of faint ticking like fingernails tapping from inside walls. Old houses with Metapod in the rafters were said to be thinking. They were not haunted. They were waiting.\n\nDo not shake it. Do not peel it from a surface unless necessary. Do not store it loose in a pack. Do not assume stillness means death. If the shell clicks when touched, back away. If a cluster begins clicking all at once, something larger than you is moving nearby."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Metapod was formally recognized in **1797**, one year after Caterpie was documented during the Green Veil Summer.\n\nBefore that, Metapod was known but misunderstood as hardworms, forest stones, lightning seeds, or failed Caterpie. The idea that Metapod was a living evolutionary stage came from Iven Carrow’s Green Veil markings. Caterpie marked with harmless mineral dye climbed into rafters, tree forks, fence corners, and roof thatch. They stopped eating, anchored themselves, tightened, and hardened.\n\nCarrow first assumed the marked Caterpie had died and been encased by resin. When he cut one open, he discovered living tissue rearranging itself in a state he called “neither larva nor corpse, but an argument between both.” That line was removed from the official report.\n\nThe formal record entered in 1797 after multiple marked Caterpie completed the transformation. Early research killed many specimens because they were moved too often, stored indoors, exposed to lamp heat, rotated for sketching, and cut open. The first successful observation came from a Metapod Carrow did not touch, attached under a broken fence rail. On the twelfth morning, the casing split and a wet, folded Butterfree emerged.\n\nMetapod’s origin is tied to predator pressure. Ancient Caterpie ancestors developed a hard transitional form to survive long enough to reach winged maturity. The shell came with a tradeoff: armor prevented escape. Stillness required camouflage, numbers, and taboo. Metapod became helplessness weaponized into armor."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1796",
+          "text": "Caterpie formally recorded."
+        },
+        {
+          "date": "1797",
+          "text": "Metapod confirmed as Caterpie’s living chrysalis."
+        },
+        {
+          "date": "1802",
+          "text": "Butterfree formally linked after emergence observation."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not shake Metapod.",
+        "Do not peel it from a surface unless necessary.",
+        "Do not store it loose in a pack.",
+        "Do not assume stillness means death.",
+        "If a cluster clicks all at once, leave the area."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Metapod became associated with unfinished mourning.",
+        "Carrow kept an empty shell from the first successful fence-rail specimen.",
+        "Old villages buried failed shells and kept empty shells as charms."
+      ]
+    }
+  ]
+}

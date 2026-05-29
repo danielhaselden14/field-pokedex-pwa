@@ -1,0 +1,385 @@
+{
+  "id": "pokemon-blastoise",
+  "entryId": "PKMN-0009",
+  "pokedexNumber": "#0009",
+  "name": "Blastoise",
+  "category": "animals",
+  "type": "Water Creature",
+  "elementType": "water",
+  "dangerLevel": "Extreme",
+  "rarity": "Very Rare",
+  "region": "Kanto",
+  "route": "Deep harbors, old river mouths, submerged channels, sea caves, naval ruins, reservoir walls, and claimed water near mature Squirtle colonies",
+  "habitat": "Large connected water bodies with depth, submerged cover, old stonework, strong current routes, and protected shell-ground boundaries",
+  "classification": "Shellfish Pokemon / Heavy Pressure-Cannon Chelonian",
+  "height": "5 ft 3 in",
+  "weight": "188.5 lbs",
+  "behaviorTemperament": "Strategic, territorial, patient, and extremely forceful. A bonded Blastoise can protect a town, but a wild one may treat docks, boats, engines, and dredges as threats.",
+  "diet": "Large fish, aquatic plants, shellfish, carrion, shoreline vegetation, stored fat reserves, and high-mineral foods needed for shell maintenance",
+  "activityPattern": "Mostly crepuscular and nocturnal surface activity, with long submerged rest periods and storm-triggered patrol behavior",
+  "bestTimeToFind": "Dawn after storms, calm harbors with sudden pressure changes, or near old dredging scars and shell boundary markers",
+  "observationDifficulty": "Extreme. Blastoise may resemble a submerged rock or wreck until it raises its cannons.",
+  "conservationStatus": "Protected final-stage Water species and living infrastructure hazard",
+  "populationStatus": "Very rare. Mature individuals are usually solitary or tied to old colonies, protected harbors, or former military lines.",
+  "description": "A large armored Water-type Pokemon with a reinforced shell and two high-pressure cannons. In realistic field terms, it is a living siege animal with complex memory and strong place-based behavior.",
+  "lore": "Blastoise is why old sailors never trusted a calm harbor.\n\nStorms announce themselves. Sharp rocks wait where maps place them. Gyarados thrash, roar, and leave wreckage where even fools can understand the warning.\n\nBlastoise is quieter.\n\nA Blastoise can sit beneath black water for hours without breaking the surface. Its shell collects silt. Barnacles gather on the upper plates. Seaweed catches along the cannon housings and drifts in the current. From above, it looks like stone, wreckage, or a reef that was not there yesterday.\n\nThen the reef exhales.\n\nThe first sign is not a roar. It is pressure.\n\nWooden hulls groan. Dock chains tighten. Fish scatter from beneath the pier. The water dips inward as if something has drawn a breath through the harbor itself. By the time the cannons rise, the target has usually already lost.\n\nBlastoise does not spray water like Squirtle. It does not strike like Wartortle. It fires.\n\nThe blast is not merely water. It is compressed force shaped through reinforced biological channels, shell reservoirs, and muscular pressure organs. A trained Blastoise can knock down stone walls, disable ships, break harbor gates, and punch holes through weaker hulls below the waterline. A wild Blastoise does not need to aim well. Against boats, bridges, docks, or people standing too close to shore, force alone is enough.\n\nOld Kanto ports called them harbor guns before science settled on the modern name.\n\nThe name did not begin as respect. It began as fear.\n\nMost people never see a Blastoise on land. That is lucky. A beached Blastoise is one of the most dangerous sights in coastal field work. Its weight makes it slow, but not helpless. It digs into mud with heavy claws, anchors its shell, and turns its body into a living siege engine. If frightened, it does not flee first. It braces. Then it clears everything in front of it.\n\nA frightened Squirtle pulls you into water because it thinks water is safe.\n\nA frightened Wartortle restrains you because it thinks territory must be controlled.\n\nA frightened Blastoise removes the shape of the threat.\n\nThat threat may be a predator.\n\nIt may be a boat.\n\nIt may be a building.\n\nIt may be the dock your rescue team is standing on.\n\nThe oldest Blastoise stories are full of missing piers. Fishermen spoke of entire wharves cracking in the night. Warehouses facing the water collapsed inward with no fire, no storm, and no human attacker. Harbor walls developed round, wet impact scars at the height of a manâ€™s chest. Sometimes the only witness was a low blue shell sliding back below the surface before sunrise.\n\nPeople thought they were describing monsters.\n\nThey were describing artillery.\n\nBlastoise colonies are rare, but when one claims a harbor, it changes the cityâ€™s behavior. Boats stop anchoring in certain channels. Children are forbidden from throwing stones off the quay. Bells are rung before dredging. Bodies lost to the water are not dragged for near old shell grounds without offerings, permits, or trained Water-type handlers.\n\nThis is not superstition. It is memory turned into procedure.\n\nA Blastoise may tolerate humans for years if boundaries are respected. Some old ports even survived because of them. Blastoise have broken pirate ships, held floodgates closed with their bodies, carried drowning sailors to breakwaters, and defended coastal towns from larger sea predators. A bonded Blastoise is one of the most reliable protectors in the PokÃ©mon world.\n\nBut it does not protect gently.\n\nA Blastoise protecting a harbor may sink an unknown boat before anyone aboard understands they have crossed into protected water. It may destroy illegal nets with the fishermen still holding them. It may fire on a bridge if explosives, fire, or poison are being transported above a nesting channel. It does not understand paperwork. It understands load, threat, angle, current, and consequence.\n\nModern trainers like to say Blastoise are disciplined.\n\nRangers prefer a colder word: strategic.\n\nThey choose positions. They wait for better angles. They herd enemies into open water. They use low pressure bursts to unbalance groups before using full force on the largest threat. They remember the sound of engines, the smell of oil, the vibration of nets, and the shape of weapons.\n\nThis memory is what makes old Blastoise terrifying.\n\nA young Blastoise may defend a place.\n\nAn old Blastoise defends history.\n\nThere are records of Blastoise attacking boats built from wood salvaged from ships that once raided their nesting grounds. There are reports of specimens firing on uniforms matching old harbor militias, even decades after the original conflict ended. One coastal family claimed their dock was struck every spring for forty years because their ancestor had once stolen a Wartortle egg.\n\nNo one proved the story.\n\nNo one rebuilt the dock in the same place after the third strike.\n\nThe cannons are the center of most legends, but the shell may be worse. Blastoise shells are covered with scars, mineral deposits, dents, old burns, and sometimes embedded metal. In militarized populations, the cannon ports may show signs of human modification: fitted rings, old reinforcement collars, pressure scars from overuse, or healed tissue around artificial braces.\n\nThis is where the darker history begins.\n\nNot every Blastoise was born with the cannon systems people now recognize.\n\nEarly accounts describe ancient Blastoise with powerful natural siphons, bony pressure vents, or shorter water jets along the shell. Human handlers, armies, and harbor authorities wanted more. They bred for pressure. They reinforced shell ports. They selected the loudest, strongest, most destructive individuals. They turned a shoreline guardian into a weapon and then acted surprised when the weapon remembered.\n\nThe result was the modern Blastoise: loyal enough to be trained, intelligent enough to be used, powerful enough to win wars, and old enough as a species to resent none of it in human language, but perhaps all of it in behavior.\n\nA Blastoise that has known battle sleeps differently.\n\nIt faces the water with its shell toward land, or land with its shell toward water, depending on which direction betrayal came from. It wakes at cannon fire, thunder, fireworks, engine backfire, and hammering on metal. It may place itself between sleeping humans and doors. It may block exits during storms. It may refuse to enter shallow water where wreckage remains buried.\n\nSome handlers call this loyalty.\n\nSome call it trauma.\n\nThe old harbor rule is still taught in serious Water-type training schools:\n\nIf a Squirtle steals from you, let it keep the thing.\n\nIf a Wartortle blocks your path, find another path.\n\nIf a Blastoise turns its shell toward you, stop moving.\n\nIf the cannons rise, you are no longer negotiating with an animal.\n\nYou are standing in front of a decision.",
+  "darkLore": "Blastoise is why old sailors never trusted a calm harbor.\n\nStorms announce themselves. Sharp rocks wait where maps place them. Gyarados thrash, roar, and leave wreckage where even fools can understand the warning.\n\nBlastoise is quieter.\n\nA Blastoise can sit beneath black water for hours without breaking the surface. Its shell collects silt. Barnacles gather on the upper plates. Seaweed catches along the cannon housings and drifts in the current. From above, it looks like stone, wreckage, or a reef that was not there yesterday.\n\nThen the reef exhales.\n\nThe first sign is not a roar. It is pressure.\n\nWooden hulls groan. Dock chains tighten. Fish scatter from beneath the pier. The water dips inward as if something has drawn a breath through the harbor itself. By the time the cannons rise, the target has usually already lost.\n\nBlastoise does not spray water like Squirtle. It does not strike like Wartortle. It fires.\n\nThe blast is not merely water. It is compressed force shaped through reinforced biological channels, shell reservoirs, and muscular pressure organs. A trained Blastoise can knock down stone walls, disable ships, break harbor gates, and punch holes through weaker hulls below the waterline. A wild Blastoise does not need to aim well. Against boats, bridges, docks, or people standing too close to shore, force alone is enough.\n\nOld Kanto ports called them harbor guns before science settled on the modern name.\n\nThe name did not begin as respect. It began as fear.\n\nMost people never see a Blastoise on land. That is lucky. A beached Blastoise is one of the most dangerous sights in coastal field work. Its weight makes it slow, but not helpless. It digs into mud with heavy claws, anchors its shell, and turns its body into a living siege engine. If frightened, it does not flee first. It braces. Then it clears everything in front of it.\n\nA frightened Squirtle pulls you into water because it thinks water is safe.\n\nA frightened Wartortle restrains you because it thinks territory must be controlled.\n\nA frightened Blastoise removes the shape of the threat.\n\nThat threat may be a predator.\n\nIt may be a boat.\n\nIt may be a building.\n\nIt may be the dock your rescue team is standing on.\n\nThe oldest Blastoise stories are full of missing piers. Fishermen spoke of entire wharves cracking in the night. Warehouses facing the water collapsed inward with no fire, no storm, and no human attacker. Harbor walls developed round, wet impact scars at the height of a manâ€™s chest. Sometimes the only witness was a low blue shell sliding back below the surface before sunrise.\n\nPeople thought they were describing monsters.\n\nThey were describing artillery.\n\nBlastoise colonies are rare, but when one claims a harbor, it changes the cityâ€™s behavior. Boats stop anchoring in certain channels. Children are forbidden from throwing stones off the quay. Bells are rung before dredging. Bodies lost to the water are not dragged for near old shell grounds without offerings, permits, or trained Water-type handlers.\n\nThis is not superstition. It is memory turned into procedure.\n\nA Blastoise may tolerate humans for years if boundaries are respected. Some old ports even survived because of them. Blastoise have broken pirate ships, held floodgates closed with their bodies, carried drowning sailors to breakwaters, and defended coastal towns from larger sea predators. A bonded Blastoise is one of the most reliable protectors in the PokÃ©mon world.\n\nBut it does not protect gently.\n\nA Blastoise protecting a harbor may sink an unknown boat before anyone aboard understands they have crossed into protected water. It may destroy illegal nets with the fishermen still holding them. It may fire on a bridge if explosives, fire, or poison are being transported above a nesting channel. It does not understand paperwork. It understands load, threat, angle, current, and consequence.\n\nModern trainers like to say Blastoise are disciplined.\n\nRangers prefer a colder word: strategic.\n\nThey choose positions. They wait for better angles. They herd enemies into open water. They use low pressure bursts to unbalance groups before using full force on the largest threat. They remember the sound of engines, the smell of oil, the vibration of nets, and the shape of weapons.\n\nThis memory is what makes old Blastoise terrifying.\n\nA young Blastoise may defend a place.\n\nAn old Blastoise defends history.\n\nThere are records of Blastoise attacking boats built from wood salvaged from ships that once raided their nesting grounds. There are reports of specimens firing on uniforms matching old harbor militias, even decades after the original conflict ended. One coastal family claimed their dock was struck every spring for forty years because their ancestor had once stolen a Wartortle egg.\n\nNo one proved the story.\n\nNo one rebuilt the dock in the same place after the third strike.\n\nThe cannons are the center of most legends, but the shell may be worse. Blastoise shells are covered with scars, mineral deposits, dents, old burns, and sometimes embedded metal. In militarized populations, the cannon ports may show signs of human modification: fitted rings, old reinforcement collars, pressure scars from overuse, or healed tissue around artificial braces.\n\nThis is where the darker history begins.\n\nNot every Blastoise was born with the cannon systems people now recognize.\n\nEarly accounts describe ancient Blastoise with powerful natural siphons, bony pressure vents, or shorter water jets along the shell. Human handlers, armies, and harbor authorities wanted more. They bred for pressure. They reinforced shell ports. They selected the loudest, strongest, most destructive individuals. They turned a shoreline guardian into a weapon and then acted surprised when the weapon remembered.\n\nThe result was the modern Blastoise: loyal enough to be trained, intelligent enough to be used, powerful enough to win wars, and old enough as a species to resent none of it in human language, but perhaps all of it in behavior.\n\nA Blastoise that has known battle sleeps differently.\n\nIt faces the water with its shell toward land, or land with its shell toward water, depending on which direction betrayal came from. It wakes at cannon fire, thunder, fireworks, engine backfire, and hammering on metal. It may place itself between sleeping humans and doors. It may block exits during storms. It may refuse to enter shallow water where wreckage remains buried.\n\nSome handlers call this loyalty.\n\nSome call it trauma.\n\nThe old harbor rule is still taught in serious Water-type training schools:\n\nIf a Squirtle steals from you, let it keep the thing.\n\nIf a Wartortle blocks your path, find another path.\n\nIf a Blastoise turns its shell toward you, stop moving.\n\nIf the cannons rise, you are no longer negotiating with an animal.\n\nYou are standing in front of a decision.",
+  "loreSummary": "A harbor-beast and drowned-warship stage tied to old bells, dredging disasters, military breeding, shell trauma, and claimed water.",
+  "survivalUse": "Can defend a settlement from flood debris, break barriers, tow heavy loads, deter large aquatic predators, and act as a disaster-scale water engine when properly trained.",
+  "handlingWarning": "Never approach from behind, hammer metal nearby, start engines inside claimed water, or stand in front of raised cannons.",
+  "encounterAdvice": "Stop moving if the shell turns toward you. Leave slowly if the cannons remain lowered. If they rise, drop equipment, get low behind solid cover, and evacuate the shoreline.",
+  "firstAid": "Treat blast trauma, fractures, crush injuries, drowning, lacerations from debris, and hypothermia. Assume secondary structural collapse near docks or boats.",
+  "companionSuitability": "Only for expert handlers with heavy Water-type permits and secure aquatic territory",
+  "abilities": [
+    "Torrent",
+    "Rain Dish"
+  ],
+  "fieldBehaviors": [
+    "Sits submerged like a reef or wreckage",
+    "Raises cannons only after positioning",
+    "Fires pressure blasts at boats, gates, and dock supports",
+    "Turns shell toward perceived threats",
+    "Sleeps facing past danger routes",
+    "Defends old channels from dredging",
+    "Allows Squirtle to nest in dead shells or protected shell grounds"
+  ],
+  "weaknesses": [
+    "Grass",
+    "Electric",
+    "Dehydration",
+    "Water pollution",
+    "Shell disease"
+  ],
+  "resistances": [
+    "Fire",
+    "Water",
+    "Ice",
+    "Steel"
+  ],
+  "signsOfPresence": [
+    "Round wet impact scars on wood or stone",
+    "Sudden inward dip of harbor water",
+    "Fish scattering from a calm channel",
+    "Barnacle-covered shell plates surfacing at dawn",
+    "Broken dredging equipment",
+    "Deep shell gouges in silt",
+    "Large blue silhouette with twin dark cannon openings"
+  ],
+  "equipment": [
+    "Long-range observation optics",
+    "Harbor evacuation plan",
+    "Structural safety team",
+    "Personal flotation devices",
+    "Rescue rope and boat hook",
+    "Waterproof radio",
+    "Hard cover plan",
+    "Heavy Water-type handler support",
+    "Noisemaker restrictions near claimed water"
+  ],
+  "stats": {
+    "power": 5,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 5,
+    "usefulness": 5,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 3,
+    "resourceCost": 5,
+    "speedOfOnset": 5,
+    "detectability": 2,
+    "preventability": 1,
+    "medicalPriority": 5,
+    "waterUtility": 5
+  },
+  "fieldNote": "A calm harbor with tightening chains and scattering fish may be a warning that a submerged Blastoise has already braced and drawn pressure.",
+  "visualSymbol": "ðŸ’§",
+  "image": "images/pokemon/blastoise.png",
+  "audio": "audio/pokemon/blastoise.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Blastoise was formally documented in 1841, seventeen years after Wartortle was confirmed and twenty-nine years after Squirtle was first recorded at Old Harrow Quay.\n\nAs with Venusaur, the late scientific date does not mean people had never seen one. Sailors, smugglers, harbor guards, and coastal families had described cannon-backed shell beasts for generations. The problem was that most encounters left little useful evidence. Ships sank. Docks broke. Witnesses saw a shape in rough water, heard a pressure boom, and then spent the rest of the night trying not to drown.\n\nEarly naturalists resisted the idea that Blastoise belonged to the Squirtle line. Squirtle was small, social, and almost charming. Wartortle was territorial but still recognizable as a shoreline guardian. Blastoise seemed like something else entirely: heavier, older, more militarized, and far more destructive.\n\nThe event that forced recognition became known as the Blackwake Sound Harbor-Pressure Incident.\n\nBlackwake Sound was a deep coastal harbor built over an older flooded river mouth. It had everything Squirtle colonies favored: ruined lower structures, submerged stonework, quiet side channels, and a history of flooding. After the Old Harrow discoveries, several researchers suspected the Squirtle line used connected waterways to move between inland nurseries and coastal territories.\n\nThe harbor authorities did not care.\n\nBlackwake was expanding its naval yards in 1841. Dredging crews were hired to clear old stone, silt, and submerged ruins from the southern basin. Local fishermen warned that the lower channel belonged to â€œthe shell guns.â€ The harbor master dismissed this as dockside superstition and ordered work to continue.\n\nOn the fourth morning of dredging, the first barge split.\n\nNot sank. Split.\n\nThe bottom buckled upward, then burst outward as if struck by a submerged ram. Workers reported a sound like a cannon fired underwater. A second barge lost its rudder. A third was shoved sideways into the quay hard enough to crush two mooring posts. No storm was present. No explosive residue was found.\n\nThen, near noon, the water between the dredging barges began to boil.\n\nA large blue PokÃ©mon surfaced in the center of the basin. Its shell was broad, scarred, and partly plated with old mineral growth. Two cannon-like structures protruded from the upper shell. The creature rotated slowly in the water, placed itself between the dredges and the old flooded channel, and fired a pressure blast that destroyed the main winch tower.\n\nThat was the first accepted modern sighting of Blastoise.\n\nThe harbor guard opened fire.\n\nThis was remembered as a poor decision by everyone who survived it.\n\nThe Blastoise submerged, circled beneath the pier, and fired upward through the support pilings. Half the military dock collapsed. Two cannons fell into the harbor. The dredging crews abandoned their barges. The harbor master ordered the town bells rung for evacuation, not because of fire or invasion, but because a single PokÃ©mon had made the waterfront structurally unsafe.\n\nThe standoff lasted six hours.\n\nIt ended only when a Water-type handler named Sella Morcant entered the basin with three Wartortle from a protected inland colony. According to her report, the Blastoise did not attack the Wartortle. It surfaced, lowered its cannons, and allowed them to approach. One of the Wartortle circled the larger PokÃ©mon and touched its shell near a crescent-shaped scar.\n\nMorcant recognized the scar from an 1824 sketch taken at Old Harrow Quay.\n\nThe Blastoise had once been part of the same known line.\n\nThis established the full early chronology:\n\n1812: Squirtle formally recorded at Old Harrow Quay after the chapel-bell colony survey.\n\n1824: Wartortle confirmed after a marked juvenile from the original colony was identified as an evolved guardian.\n\n1841: Blastoise formally documented at Blackwake Sound after a scarred Wartortle-line specimen defended a submerged channel from dredging crews.\n\nThe discovery should have ended the debate.\n\nInstead, it opened a worse one.\n\nWhen researchers examined the damaged dock and recovered shell fragments from the basin, they found evidence that the Blastoiseâ€™s cannon structures were not entirely natural in the way Squirtleâ€™s mouth pressure or Wartortleâ€™s reservoir bursts were natural. Some tissue showed reinforcement patterns. Some shell growth appeared shaped around old injury sites. The pressure channels were biological, but not untouched by human selection.\n\nBlackwakeâ€™s archives later revealed that decades before the incident, private harbor militias had captured Wartortle and attempted to breed heavier defensive forms for use against pirates. The project failed publicly. Privately, several specimens were released, escaped, or were abandoned when they became too difficult to control.\n\nThe 1841 Blastoise may have been descended from those experiments.\n\nOr worse, it may have been one of them.\n\nThis changed how scholars interpreted older Blastoise legends. Perhaps ancient Blastoise had always existed as rare coastal guardians with natural pressure vents. Perhaps human interference intensified the cannon systems into the devastating form now known. The current consensus in darker field circles is uncomfortable:\n\nNature made the shell.\n\nThe river made the guardian.\n\nHumans made the artillery.\n\nThat is why modern Blastoise populations are treated as both protected species and living historical hazards. Some wild lines retain more natural shell-jet structures. Some domesticated lines show generations of selective reinforcement. Some military-descended individuals cannot reproduce safely without intervention because their shells, reservoirs, and cannon systems place enormous strain on the body.\n\nThis is the hidden tragedy of Blastoise. It is often described as powerful, but power is not always health.\n\nA Blastoise may suffer from shell pressure fractures, reservoir infections, cannon misalignment, internal scarring, and chronic pain from overdeveloped pressure organs. Older specimens sometimes refuse to fire unless defending young, not because they cannot, but because each blast hurts. Others become unstable if trained too aggressively, firing under stress until their own internal systems tear.\n\nIn the worst historical programs, Blastoise were not companions.\n\nThey were harbor weapons with names.\n\nSome names still appear in coastal memorials: Breakwater, Saint Shell, Old Blue, Morcantâ€™s Gun, Chapelback, Flood-Toll, and Blackwake Father. Each name belongs to a Blastoise credited with saving human lives. Each is also tied to a record of destroyed ships, collapsed docks, or vanished enemies.\n\nThe species carries both truths.\n\nA Blastoise may save a city from flood.\n\nA Blastoise may sink a cityâ€™s fleet.\n\nA Blastoise may carry a drowning child to shore with impossible gentleness, then turn and break the rescue boat because its engine sounds too much like the dredges that once came for its nest.\n\nAfter 1841, Blackwake Sound changed its laws. No dredging was allowed in old flooded channels without Water-type survey teams. Bells were installed along the harbor wall, each rung before major construction. Offerings were officially discouraged and unofficially tolerated. The southern basin was marked on maps not as reef, ruin, or hazard, but as claimed water.\n\nThe old Blastoise remained there for another twenty-two years.\n\nIt was seen rarely. Sometimes at dawn. Sometimes during storms. Sometimes beside the wreckage of illegal dredging equipment that no one admitted owning. When it finally died, its shell was found half-buried in silt near the old channel mouth. Squirtle nested inside it the following spring.\n\nThe harbor did not remove the shell.\n\nThey built the boundary marker around it.\n\nThat is where the Squirtle line becomes complete.\n\nSquirtle is what survives when water takes a home.\n\nWartortle is what guards the drowned doorway.\n\nBlastoise is what happens when the doorway grows cannons and remembers who tried to force it open.",
+  "originSummary": "Formally documented in 1841 during the Blackwake Sound Harbor-Pressure Incident, after a scarred Wartortle-line specimen defended a submerged channel from dredging crews.",
+  "evolutionLine": [
+    {
+      "name": "Squirtle",
+      "stage": "Base",
+      "method": "Level 16",
+      "note": "Tiny Turtle Water-type. Juvenile shoreline colony member with shell withdrawal and pressurized mouth-spray behavior."
+    },
+    {
+      "name": "Wartortle",
+      "stage": "Stage One",
+      "method": "Level 36",
+      "note": "Turtle Water-type. Territorial guardian stage with stronger limbs, longer tail, ear plumes, and heavier water-pressure biology."
+    },
+    {
+      "name": "Blastoise",
+      "stage": "Final",
+      "method": "Special forms only",
+      "note": "Shellfish Water-type. Final armored pressure-cannon stage with Mega and Gigantamax battle phenomena."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Squirtle Evolution Family",
+    "subtitle": "Evolution Tree - Water Type",
+    "mainLine": [
+      {
+        "name": "Squirtle",
+        "stage": "Base",
+        "types": [
+          "Water"
+        ],
+        "symbol": "ðŸ’§",
+        "methodToNext": "Level 16",
+        "note": "Juvenile shoreline survivor. Shell hardens after hatching and water projection begins early."
+      },
+      {
+        "name": "Wartortle",
+        "stage": "Stage One",
+        "types": [
+          "Water"
+        ],
+        "symbol": "ðŸ’§",
+        "methodToNext": "Level 36",
+        "note": "Guardian stage. Ear and tail plumes help balance and current-sensing during fast swimming."
+      },
+      {
+        "name": "Blastoise",
+        "stage": "Final",
+        "types": [
+          "Water"
+        ],
+        "symbol": "ðŸ’§",
+        "methodToNext": "Special forms only",
+        "note": "Final heavy-shell stage. Carries high-pressure shell cannons and functions as a living harbor weapon."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Blastoise",
+        "method": "Blastoisinite / Mega Evolution",
+        "target": {
+          "name": "Mega Blastoise",
+          "stage": "Mega Form",
+          "types": [
+            "Water"
+          ],
+          "symbol": "ðŸ’§",
+          "note": "Temporary form with intensified cannon output, Mega Launcher ability, and increased shell mass."
+        }
+      },
+      {
+        "from": "Blastoise",
+        "method": "Gigantamax factor",
+        "target": {
+          "name": "Gigantamax Blastoise",
+          "stage": "Gigantamax Form",
+          "types": [
+            "Water"
+          ],
+          "symbol": "ðŸ’§",
+          "note": "Rare battle phenomenon. Treat water output and recoil forces as disaster-scale hazards."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "water",
+    "starter",
+    "drowning-risk",
+    "survival-guide",
+    "kanto",
+    "squirtle-line"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Reptilia-like Hydrofauna",
+    "order": "Chelonia Aqualis",
+    "family": "Squirtlidae",
+    "genus": "Testudo armis",
+    "species": "Testudo armis bellum"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Rarely domesticated. Better described as partnered, licensed, and territory-managed.",
+  "prey": "Large fish, aquatic Pokemon, carrion, shellfish, and shoreline animals caught near claimed water",
+  "temperamentTriggers": [
+    "Dredging",
+    "Cannon fire",
+    "Thunderous metal impact",
+    "Boat engines in claimed water",
+    "Harbor construction",
+    "Threats to Squirtle or Wartortle",
+    "Old military uniforms or equipment in some traumatized lines"
+  ],
+  "territoryRange": "Usually a whole harbor basin, river mouth, reservoir section, sea cave system, or connected channel network",
+  "lifeCycle": "Evolves from Wartortle at level 36 and does not naturally evolve further, though Mega Evolution and Gigantamax are temporary battle phenomena.",
+  "containmentRequirements": "Deep reinforced aquatic habitat, shell-safe haul-out ramp, engine exclusion zone, blast-rated barriers, emergency harbor closure protocol, and expert Water-type handler supervision.",
+  "ecologicalRole": "Apex shoreline defender, flood debris mover, large aquatic predator deterrent, and long-term creator of shell-ground nursery habitat after death.",
+  "diseaseParasiteRisk": "High if mismanaged. Shell pressure fractures, reservoir infections, cannon misalignment, chronic joint strain, and contaminated harbor water are major concerns.",
+  "reproductionNesting": "Final-stage individuals defend nursery routes and may become central colony anchors. Dead shells may be used by Squirtle as protected nest structures.",
+  "predators": "Few natural predators. Greatest risks are humans, disease, internal pressure injuries, other apex Water-types, and structural trapping in polluted harbors.",
+  "emergencyResponse": "Clear docks, stop engines, evacuate low piers, avoid sonar or hammering, contact certified Water-type response teams, and do not fire unless no civilian option remains.",
+  "legalStatus": "Extreme-risk Water-type registration required in settled areas. Harbor authorities may classify claimed water as restricted habitat.",
+  "stressSicknessSigns": [
+    "Refusing to fire even defensively",
+    "Cannons failing to retract",
+    "Uneven shell bracing",
+    "Foam or blood in expelled water",
+    "Grinding shell plates",
+    "Facing one direction during sleep",
+    "Repeated attacks on harmless engine noise"
+  ],
+  "lifespan": "Wild: decades possible in protected harbor territory. Managed care depends on shell health, pressure-organ condition, and stress history.",
+  "socialStructure": "Usually solitary final-stage guardian. May tolerate Wartortle and Squirtle colonies and may defend a claimed harbor as if it were a living nest.",
+  "fieldCapabilities": {
+    "waterPressureLevel": "Extreme, capable of structural damage",
+    "effectiveSprayRange": "Short to medium range for full-force cannon blasts, longer for warning jets",
+    "burstSpeed": "Slow on land but forceful in water",
+    "dodgeSpeed": "Low on land, moderate in deep water",
+    "jumpingHeight": "Very low due to mass",
+    "balance": "Excellent when braced; poor on unstable dry slopes",
+    "breathHolding": "Long submerged endurance with surface breathing cycles"
+  },
+  "trainingRisk": "Blast injury, infrastructure damage, recoil injury, shell fracture, cannon infection, traumatic response to engines or thunder, and catastrophic boundary aggression",
+  "physiology": "Blastoise uses reinforced biological reservoirs, muscular pressure organs, and shell-mounted cannons to fire compressed water. Its shell mass helps absorb recoil, but overuse can damage reservoirs and cannon tissue.",
+  "keyFacts": {
+    "size": "Height: 5 ft 3 in",
+    "weight": "188.5 lbs",
+    "tailLength": "Short tail partly shielded by shell mass",
+    "lifestyle": "Solitary heavy-shell harbor guardian",
+    "diet": "Omnivorous aquatic apex forager",
+    "habitat": "Harbors, deep channels, old river mouths, reservoirs, and sea caves",
+    "lifespan": "Decades possible when protected from shell injury and polluted water.",
+    "groupSize": "Usually solitary, but can anchor a Squirtle-line colony"
+  },
+  "domesticationDifficulty": "Extreme. Requires expert handling, legal clearance, and safe territory more than normal training.",
+  "physicalCharacteristics": "Large blue bipedal turtle body, cream belly, massive brown shell, thick limbs, three claws on each hand and foot, stubby tail, and twin retractable water cannons over the shoulders.",
+  "dietRestrictions": "Avoid polluted harbor sediment, low-mineral diets, confined shallow pools, aggressive pressure training, and high-stress noise exposure.",
+  "realPokemonData": {
+    "nationalDexNumber": "#0009",
+    "officialCategory": "Shellfish PokÃ©mon",
+    "types": [
+      "Water"
+    ],
+    "heightImperial": "5 ft 3 in",
+    "heightMetric": "1.6 m",
+    "weightImperial": "188.5 lbs",
+    "weightMetric": "85.5 kg",
+    "standardAbility": "Torrent",
+    "hiddenAbility": "Rain Dish",
+    "weaknesses": [
+      "Grass",
+      "Electric"
+    ],
+    "resistances": [
+      "Fire",
+      "Water",
+      "Ice",
+      "Steel"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "growthRate": "Medium Slow",
+    "genderRatio": "87.5% male, 12.5% female",
+    "evolutionRequirement": "Evolves from Wartortle at level 36 and is the final natural stage",
+    "coreMoveCapabilities": [
+      "Tackle",
+      "Tail Whip",
+      "Water Gun",
+      "Withdraw",
+      "Rapid Spin",
+      "Bite",
+      "Water Pulse",
+      "Protect",
+      "Rain Dance",
+      "Aqua Tail",
+      "Shell Smash",
+      "Iron Defense",
+      "Hydro Pump",
+      "Wave Crash",
+      "Flash Cannon",
+      "Dark Pulse",
+      "Dragon Pulse",
+      "Surf",
+      "Water Pledge"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "specialAttack": 85,
+      "specialDefense": 105,
+      "speed": 78,
+      "total": 530
+    }
+  },
+  "realismNotes": {
+    "interpretation": "Game powers are treated as biological pressure, shell, swimming, and weather-response systems that could plausibly exist in a field-guide version of the real world.",
+    "keptGameRequirements": "Water type, Torrent, Rain Dish as hidden ability, Squirtle to Wartortle at level 16, Wartortle to Blastoise at level 36, and Blastoise special forms.",
+    "safetyFraming": "Water projection and shell impact are treated as physical hazards, with drowning and structural damage handled as the primary real-world risks."
+  },
+  "researchSources": [
+    {
+      "name": "Pokemon.com PokÃ©dex",
+      "usedFor": "Official species category, height, weight, type, and listed standard ability.",
+      "urls": [
+        "https://www.pokemon.com/us/pokedex/squirtle",
+        "https://www.pokemon.com/us/pokedex/wartortle",
+        "https://www.pokemon.com/us/pokedex/blastoise"
+      ]
+    },
+    {
+      "name": "PokÃ©mon Database",
+      "usedFor": "National numbers, hidden ability, base stats, type defenses, move references, and evolution levels.",
+      "urls": [
+        "https://pokemondb.net/pokedex/squirtle",
+        "https://pokemondb.net/pokedex/wartortle",
+        "https://pokemondb.net/pokedex/blastoise"
+      ]
+    },
+    {
+      "name": "User provided lore",
+      "usedFor": "Dark lore, origin stories, historical discovery chronology, and real-life field-guide tone.",
+      "file": "Pasted text.txt"
+    },
+    {
+      "name": "User provided sample JSON",
+      "usedFor": "Required structure, field names, and Field PokÃ©dex style.",
+      "file": "pokemon-charmander.json"
+    }
+  ],
+  "createdAt": "2026-05-18",
+  "detailPath": "./data/pokemon/pokemon-blastoise.json",
+  "specialForms": {
+    "megaBlastoise": {
+      "method": "Blastoisinite / Mega Evolution",
+      "type": [
+        "Water"
+      ],
+      "ability": "Mega Launcher",
+      "height": "5 ft 3 in",
+      "weight": "222.9 lbs",
+      "baseStats": {
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "specialAttack": 135,
+        "specialDefense": 115,
+        "speed": 78,
+        "total": 630
+      }
+    },
+    "gigantamaxBlastoise": {
+      "method": "Gigantamax factor",
+      "type": [
+        "Water"
+      ],
+      "exclusiveMove": "G-Max Cannonade",
+      "fieldWarning": "Treat as temporary disaster-scale water artillery."
+    }
+  }
+}

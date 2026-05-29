@@ -1,0 +1,301 @@
+{
+  "id": "pokemon-rhydon",
+  "entryId": "PKMN-0112",
+  "pokedexNumber": "#0112",
+  "name": "Rhydon",
+  "category": "animals",
+  "type": "Ground / Rock Creature",
+  "elementType": "ground-rock",
+  "dangerLevel": "Medium",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Safari Zone, Victory Road, mountain corridors, and impact-scarred boulder fields",
+  "habitat": "burrows, dry scrub, deserts, caves, farms, and loose soil route cuts; also uses mountains, caves, quarries, cliffs, tunnels, and seismic boulder fields. Field anchors: Safari Zone, Victory Road, mountain corridors, and impact-scarred boulder fields",
+  "classification": "Drill Pokemon / Bipedal Rock Rhino",
+  "height": "6 ft 3 in",
+  "weight": "264.6 lbs",
+  "behaviorTemperament": "Rhydon is best treated as a final field organism with ground-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "roots, insects, small burrowing prey, mineral grit, and dry seeds; secondary needs include mineral grit, moss, lichens, roots, small prey, and stone-borne nutrients",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Ground / Rock Pokemon listed as Drill Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Rhydon was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Safari Zone, Victory Road, mountain corridors, and impact-scarred boulder fields. The species is now handled as a Ground / Rock field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Rhydon into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to ground activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Rhydon, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are burrowing, dust, collapse, and ground vibration. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Watch the ground for cracks, holes, and loose stones. Do not stand downhill or in tunnel mouths when Rhydon is moving.",
+  "firstAid": "For blunt trauma, immobilize suspected fractures and check for head injury.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Lightning Rod",
+    "Rock Head",
+    "Reckless"
+  ],
+  "fieldBehaviors": [
+    "Digs escape tunnels",
+    "Listens through soil",
+    "Avoids soaked ground",
+    "Rests motionless among stones",
+    "Rolls or braces during threat",
+    "Sheds mineral flakes"
+  ],
+  "weaknesses": [
+    "Water",
+    "Grass",
+    "Ice",
+    "Fighting",
+    "Ground",
+    "Steel",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Normal",
+    "Fire",
+    "Poison",
+    "Flying",
+    "Rock",
+    "Electric immunity"
+  ],
+  "signsOfPresence": [
+    "Fresh burrow mounds",
+    "Collapsed tunnels",
+    "Dust clouds",
+    "Vibration underfoot",
+    "Claw grooves",
+    "Dry soil fans"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Probe pole",
+    "Dust mask",
+    "Rope",
+    "Marked footing path",
+    "Hard hat",
+    "Steel-toe boots",
+    "Rockfall stand-off"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 1,
+    "stealth": 4,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 3,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 3,
+    "detectability": 2,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Rhydon usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a ground-type response.",
+  "visualSymbol": "⛰️",
+  "image": "images/pokemon/pokemon-rhydon.png",
+  "audio": "audio/pokemon/pokemon-rhydon.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Rhyhorn Evolution Family appears to have adapted around Safari Zone, rocky plains, Victory Road approaches, quarry lanes, and dry badlands. Its line favors survival through burrowing, dust, collapse, and ground vibration, specialized shelter choice, and rapid behavioral changes during maturity. Rhyhorn becomes Rhydon by Level 42. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Rhyhorn",
+      "stage": "Base",
+      "method": "Level 42",
+      "note": "Base-stage Ground / Rock species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Rhydon",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Ground / Rock species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Rhyhorn Evolution Family",
+    "subtitle": "Evolution Tree - Ground / Rock Type",
+    "mainLine": [
+      {
+        "name": "Rhyhorn",
+        "stage": "Base",
+        "types": [
+          "Ground",
+          "Rock"
+        ],
+        "symbol": "⛰️",
+        "methodToNext": "Level 42",
+        "note": "Base-stage Ground / Rock species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Rhydon",
+        "stage": "Final",
+        "types": [
+          "Ground",
+          "Rock"
+        ],
+        "symbol": "⛰️",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Ground / Rock species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "ground",
+    "rock",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "rhydon"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Subterrafauna",
+    "order": "Fossoriformes",
+    "family": "Burrowidae",
+    "genus": "Rhydon",
+    "species": "rhydon fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "roots, insects, small burrowing prey, mineral grit, and dry seeds; secondary needs include mineral grit, moss, lichens, roots, small prey, and stone-borne nutrients",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to ground-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to burrows, feeds heavily, defends shelter, and follows this first-151 evolution profile: Rhyhorn evolves into Rhydon by Level 42.",
+  "containmentRequirements": "Requires deep floor barriers, loose soil zones, and tunnel monitoring, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a ground-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to burrow collapse, dust inhalation, trapped feet, seismic shock, and hidden holes",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a ground hazard area. Do not attempt capture unless trained and equipped for Rhydon.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 10 to 18 mph depending on terrain and age",
+    "dodgeSpeed": "Low to moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes burrow collapse, dust inhalation, trapped feet, seismic shock, and hidden holes. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Rhydon's body supports Ground / Rock output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 6 ft 3 in",
+    "weight": "264.6 lbs",
+    "types": "Ground / Rock",
+    "lifestyle": "Final ground-type field organism",
+    "diet": "roots, insects, small burrowing prey, mineral grit, and dry seeds; secondary needs include mineral grit, moss, lichens, roots, small prey, and stone-borne nutrients",
+    "habitat": "burrows, dry scrub, deserts, caves, farms, and loose soil route cuts",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as drill pokemon with ground / rock adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-rhydon.json",
+  "officialBaseStats": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "specialAttack": 45,
+    "specialDefense": 45,
+    "speed": 40,
+    "total": 485
+  },
+  "attacks": [
+    {
+      "name": "Horn Drill",
+      "type": "Normal",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 30,
+      "fieldUse": "one-hit drill attempt, extremely unsafe at close range"
+    },
+    {
+      "name": "Sand Attack",
+      "type": "Ground",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "blinding dust kick used to break contact"
+    },
+    {
+      "name": "Dig",
+      "type": "Ground",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "burrowing attack that doubles as emergency sheltering"
+    },
+    {
+      "name": "Earthquake",
+      "type": "Ground",
+      "category": "Physical",
+      "power": 100,
+      "accuracy": 100,
+      "fieldUse": "seismic body-slam or ground shock used by heavy adults"
+    },
+    {
+      "name": "Mud-Slap",
+      "type": "Ground",
+      "category": "Special",
+      "power": 20,
+      "accuracy": 100,
+      "fieldUse": "mud burst used to impair eyes and sensors"
+    },
+    {
+      "name": "Rock Throw",
+      "type": "Rock",
+      "category": "Physical",
+      "power": 50,
+      "accuracy": 90,
+      "fieldUse": "thrown stone or body fragment"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Safari Zone, Victory Road, mountain corridors, and impact-scarred boulder fields"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Rhyhorn evolves into Rhydon by Level 42.",
+    "currentStage": "Final",
+    "methodFromPrevious": "Level 42"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

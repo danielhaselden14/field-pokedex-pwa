@@ -1,0 +1,285 @@
+{
+  "id": "pokemon-pinsir",
+  "entryId": "PKMN-0127",
+  "pokedexNumber": "#0127",
+  "name": "Pinsir",
+  "category": "animals",
+  "type": "Bug Creature",
+  "elementType": "bug",
+  "dangerLevel": "High",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Safari Zone, beetle forests, sap trees, and thick-barked woodland",
+  "habitat": "forests, tall grass, rotting wood, hive sites, orchards, and damp undergrowth. Field anchors: Safari Zone, beetle forests, sap trees, and thick-barked woodland",
+  "classification": "Stag Beetle Pokemon / Horned Grappler",
+  "height": "4 ft 11 in",
+  "weight": "121.3 lbs",
+  "behaviorTemperament": "Pinsir is best treated as a single stage field organism with bug-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate to high. It may be obvious in ideal habitat, but safe identification requires distance and attention to warning signs.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Bug Pokemon listed as Stag Beetle Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Pinsir was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Safari Zone, beetle forests, sap trees, and thick-barked woodland. The species is now handled as a Bug field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Pinsir into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to bug activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Pinsir, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are stings, bites, silk, shed chitin, and colony panic. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Pinsir changes posture, sound, or breathing pattern.",
+  "firstAid": "Clean bites or scratches, control bleeding, and seek care for deep wounds, infection signs, or eye injuries.",
+  "companionSuitability": "Possible only for experienced handlers with species-specific housing",
+  "abilities": [
+    "Hyper Cutter",
+    "Mold Breaker",
+    "Moxie"
+  ],
+  "fieldBehaviors": [
+    "Follows scent trails",
+    "Sheds chitin after growth spurts",
+    "Startles easily during molting"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Rock",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Ground"
+  ],
+  "signsOfPresence": [
+    "Shed chitin",
+    "Silk threads",
+    "Chewed leaves",
+    "Small punctures in fruit",
+    "Hive scent",
+    "Clustered tracks"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Fine mesh veil",
+    "Sting kit",
+    "Tape for cuffs",
+    "Seal container"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 3,
+    "danger": 4,
+    "usefulness": 3,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 2,
+    "resourceCost": 4,
+    "speedOfOnset": 4,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Pinsir usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a bug-type response.",
+  "visualSymbol": "🐛",
+  "image": "images/pokemon/pokemon-pinsir.png",
+  "audio": "audio/pokemon/pokemon-pinsir.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Pinsir Evolution Family appears to have adapted around Safari Zone, beetle forests, sap trees, and thick-barked woodland. Its line favors survival through stings, bites, silk, shed chitin, and colony panic, specialized shelter choice, and rapid behavioral changes during maturity. Pinsir does not evolve within the first-151 field scope. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Pinsir",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Bug species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Pinsir Evolution Family",
+    "subtitle": "Evolution Tree - Bug Type",
+    "mainLine": [
+      {
+        "name": "Pinsir",
+        "stage": "Single Stage",
+        "types": [
+          "Bug"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Bug species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Pinsir",
+        "method": "Pinsirite / Mega Evolution",
+        "target": {
+          "name": "Mega Pinsir",
+          "stage": "Mega Form",
+          "types": [
+            "Bug",
+            "Flying"
+          ],
+          "symbol": "🐛",
+          "note": "Temporary winged form with intense aerial grappling behavior."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "bug",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "pinsir"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Arthrofauna",
+    "order": "Arthropoda Mirabilis",
+    "family": "Chitinidae",
+    "genus": "Pinsir",
+    "species": "pinsir fieldensis"
+  },
+  "humanConflictRisk": "High",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to bug-type warning signs"
+  ],
+  "territoryRange": "5 to 30 square miles or more for strong adults and apex forms",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to forests, feeds heavily, defends shelter, and follows this first-151 evolution profile: Pinsir has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires mesh enclosures, humidity control, and escape screening, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a bug-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to stings, bites, silk entrapment, allergic response, and swarm panic",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a bug hazard area. Do not attempt capture unless trained and equipped for Pinsir.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "solitary or small family groups",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 21 to 38 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes stings, bites, silk entrapment, allergic response, and swarm panic. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Pinsir's body supports Bug output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 4 ft 11 in",
+    "weight": "121.3 lbs",
+    "types": "Bug",
+    "lifestyle": "Single Stage bug-type field organism",
+    "diet": "leaves, sap, fruit, nectar, fungi, carrion, and small prey depending on life stage",
+    "habitat": "forests, tall grass, rotting wood, hive sites, orchards, and damp undergrowth",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "1 to 3"
+  },
+  "domesticationDifficulty": "High",
+  "physicalCharacteristics": "Recognizable as stag beetle pokemon with bug adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-pinsir.json",
+  "officialBaseStats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "specialAttack": 55,
+    "specialDefense": 70,
+    "speed": 85,
+    "total": 500
+  },
+  "attacks": [
+    {
+      "name": "Guillotine",
+      "type": "Normal",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 30,
+      "fieldUse": "pincer execution attempt, rare but lethal"
+    },
+    {
+      "name": "String Shot",
+      "type": "Bug",
+      "category": "Status",
+      "power": null,
+      "accuracy": 95,
+      "fieldUse": "sticky thread used to slow boots, wings, and tools"
+    },
+    {
+      "name": "Bug Bite",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "mandible bite that can damage food stores"
+    },
+    {
+      "name": "Twineedle",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 25,
+      "accuracy": 100,
+      "fieldUse": "paired stinger strike with poison risk"
+    },
+    {
+      "name": "X-Scissor",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "crossing blade or claw strike"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Safari Zone, beetle forests, sap trees, and thick-barked woodland"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Pinsir has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

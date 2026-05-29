@@ -1,0 +1,270 @@
+{
+  "id": "pokemon-meowth",
+  "entryId": "PKMN-0052",
+  "pokedexNumber": "#0052",
+  "name": "Meowth",
+  "category": "animals",
+  "type": "Normal Creature",
+  "elementType": "normal",
+  "dangerLevel": "Low",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Kanto Routes 5, 6, 7, 8, Celadon alleys, ports, warehouses, and market districts",
+  "habitat": "grasslands, roadsides, towns, farms, forests, and settlement edges. Field anchors: Kanto Routes 5, 6, 7, 8, Celadon alleys, ports, warehouses, and market districts",
+  "classification": "Scratch Cat Pokemon / Urban Coin Cat",
+  "height": "1 ft 4 in",
+  "weight": "9.3 lbs",
+  "behaviorTemperament": "Meowth is best treated as a base field organism with normal-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "opportunistic omnivore diet including seeds, fruit, small prey, eggs, and human food if allowed",
+  "activityPattern": "Diurnal to crepuscular, with local variation based on food, weather, and human pressure.",
+  "bestTimeToFind": "Early morning or late afternoon near known tracks, feeding signs, shelter edges, or route crossings",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Normal Pokemon listed as Scratch Cat Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Meowth was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Kanto Routes 5, 6, 7, 8, Celadon alleys, ports, warehouses, and market districts. The species is now handled as a Normal field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Meowth into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to normal activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Meowth, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are bites, charges, sound, claws, and blunt-force contact. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Meowth changes posture, sound, or breathing pattern.",
+  "firstAid": "Clean bites or scratches, control bleeding, and seek care for deep wounds, infection signs, or eye injuries.",
+  "companionSuitability": "Good for trained caretakers if diet, housing, and enrichment are maintained",
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Unnerve"
+  ],
+  "fieldBehaviors": [
+    "Forages near cover",
+    "Retreats from loud groups",
+    "Defends food and nest sites"
+  ],
+  "weaknesses": [
+    "Fighting",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Ghost immunity"
+  ],
+  "signsOfPresence": [
+    "Gnaw marks",
+    "Nest bedding",
+    "Food scraps",
+    "Paw prints",
+    "Fur or shed hair",
+    "Burrows or dens"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 2,
+    "usefulness": 3,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 4,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Meowth usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a normal-type response.",
+  "visualSymbol": "⬜",
+  "image": "images/pokemon/pokemon-meowth.png",
+  "audio": "audio/pokemon/pokemon-meowth.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Meowth Evolution Family appears to have adapted around Kanto Routes 5, 6, 7, 8, Celadon alleys, ports, warehouses, and market districts. Its line favors survival through bites, charges, sound, claws, and blunt-force contact, specialized shelter choice, and rapid behavioral changes during maturity. Meowth becomes Persian by Level 28. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Meowth",
+      "stage": "Base",
+      "method": "Level 28",
+      "note": "Base-stage Normal species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Persian",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Normal species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Meowth Evolution Family",
+    "subtitle": "Evolution Tree - Normal Type",
+    "mainLine": [
+      {
+        "name": "Meowth",
+        "stage": "Base",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "⬜",
+        "methodToNext": "Level 28",
+        "note": "Base-stage Normal species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Persian",
+        "stage": "Final",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "⬜",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Normal species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "meowth"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Mammalia-like Fieldfauna",
+    "order": "Terrabiota",
+    "family": "Communidae",
+    "genus": "Meowth",
+    "species": "meowth fieldensis"
+  },
+  "humanConflictRisk": "Low",
+  "domesticationStatus": "Semi-domesticated in specialized programs",
+  "prey": "opportunistic omnivore diet including seeds, fruit, small prey, eggs, and human food if allowed",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to normal-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to grasslands, feeds heavily, defends shelter, and follows this first-151 evolution profile: Meowth evolves into Persian by Level 28.",
+  "containmentRequirements": "Requires reinforced holding space, quiet handling, and food security, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a normal-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to bites, scratches, charges, food aggression, disease exposure, and blunt impact",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a normal hazard area. Do not attempt capture unless trained and equipped for Meowth.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 22 to 40 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes bites, scratches, charges, food aggression, disease exposure, and blunt impact. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Meowth's body supports Normal output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 1 ft 4 in",
+    "weight": "9.3 lbs",
+    "types": "Normal",
+    "lifestyle": "Base normal-type field organism",
+    "diet": "opportunistic omnivore diet including seeds, fruit, small prey, eggs, and human food if allowed",
+    "habitat": "grasslands, roadsides, towns, farms, forests, and settlement edges",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Low to moderate",
+  "physicalCharacteristics": "Recognizable as scratch cat pokemon with normal adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-meowth.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 90,
+    "total": 290
+  },
+  "attacks": [
+    {
+      "name": "Pay Day",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "coin-like projectile strike that doubles as territorial display"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    },
+    {
+      "name": "Hyper Voice",
+      "type": "Normal",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "loud sonic burst used to scatter threats"
+    },
+    {
+      "name": "Take Down",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 90,
+      "accuracy": 85,
+      "fieldUse": "committed charge with recoil risk"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Kanto Routes 5, 6, 7, 8, Celadon alleys, ports, warehouses, and market districts"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Meowth evolves into Persian by Level 28.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 28"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

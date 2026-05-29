@@ -5,115 +5,125 @@
   "name": "Gastly",
   "category": "animals",
   "type": "Ghost / Poison Creature",
-  "elementType": "ghost",
-  "dangerLevel": "High",
-  "rarity": "Uncommon",
+  "elementType": "ghost-poison",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
   "region": "Kanto",
-  "route": "Abandoned towers, graveyards, old buildings, cave mouths, fog-heavy ruins, and quiet places with low airflow",
-  "habitat": "Dark enclosed spaces, abandoned structures, caves, ruined towers, cemeteries, sealed basements, and stagnant rooms where its gas body will not be scattered by wind.",
-  "classification": "Gas Pokémon / Toxic Spectral Colony",
+  "route": "Pokemon Tower, abandoned mansions, haunted forests, graveyards, and low-oxygen ruins",
+  "habitat": "graveyards, old towers, abandoned houses, deep caves, and low-light ruins; also uses marshes, scrub, waste sites, damp caves, rotting logs, and contaminated urban edges. Field anchors: Pokemon Tower, abandoned mansions, haunted forests, graveyards, and low-oxygen ruins",
+  "classification": "Gas Pokemon / Graveyard Vapor Mass",
   "height": "4 ft 3 in",
   "weight": "0.2 lbs",
-  "behaviorTemperament": "Mischievous, elusive, territorial around nesting vapor pockets, and dangerous when approached in enclosed spaces. It often watches silently before testing intruders with cold spots, whispers, or mild hallucinations.",
-  "diet": "Feeds on trace life energy, fear response chemicals, decaying organic vapors, fungal gases, and small insects stunned inside its vapor cloud.",
-  "activityPattern": "Nocturnal and fog-active. Most active after sunset, during cold damp weather, and in sealed spaces where air movement is weak.",
-  "bestTimeToFind": "Late night, pre-dawn, or during heavy fog near old buildings, burial grounds, caves, and abandoned towers.",
-  "observationDifficulty": "High. Its body can thin out, drift through cracks, hide in shadows, and blend into ordinary mist or smoke.",
-  "conservationStatus": "Locally stable in historic ruins and cave systems. Populations decline quickly when abandoned habitats are ventilated, demolished, or heavily cleansed with industrial air systems.",
-  "description": "A Ghost and Poison-type gaseous creature made from a dark core surrounded by toxic purple vapor.",
-  "lore": "Gastly is often mistaken for a wandering spirit because its body has almost no solid mass. In reality, it behaves more like a living toxic vapor colony with intelligence, memory, and a predatory sense for fear.",
-  "survivalUse": "Can warn of sealed rooms, hidden crypts, dead air pockets, and chemically unstable areas. Trained ghost-type specialists may use Gastly to scout through cracks or detect hidden movement, but this is unsafe for ordinary travelers.",
-  "handlingWarning": "Do not inhale its vapor. Do not enter sealed rooms where a Gastly has been seen without ventilation, respiratory protection, and a clear exit path.",
-  "encounterAdvice": "Stay calm, move toward fresh air, avoid running through its gas cloud, and do not swing weapons or throw objects through it. Use airflow, bright light, and open space to force distance.",
-  "firstAid": "For suspected exposure, leave the area immediately, breathe fresh air, remove contaminated outer clothing, rinse irritated eyes or skin with clean water, and seek emergency medical help if dizziness, numbness, confusion, fainting, or breathing trouble occurs.",
-  "companionSuitability": "Poor for most people. Possible only for experienced ghost-type handlers with controlled ventilation, protective equipment, and strict containment practices.",
+  "behaviorTemperament": "Gastly is best treated as a base field organism with ghost-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "ambient life energy, fear response, small prey, fruit offerings, and unknown trace nutrients; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+  "activityPattern": "Nocturnal and strongest after sunset, especially in fog, abandoned buildings, and emotionally charged locations.",
+  "bestTimeToFind": "Late night near old towers, graveyards, abandoned rooms, and places with sudden temperature drops",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Ghost / Poison Pokemon listed as Gas Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Gastly was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Pokemon Tower, abandoned mansions, haunted forests, graveyards, and low-oxygen ruins. The species is now handled as a Ghost / Poison field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Gastly into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to ghost activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Gastly, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are fear response, sleep disruption, possession-like behavior, and visibility loss. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Use bright light, stay with a partner, avoid sleeping near the site, and leave if voices, paralysis, or temperature drops occur around Gastly.",
+  "firstAid": "For suspected venom or toxin contact, remove contaminated clothing, rinse with clean water, keep the victim calm, mark swelling spread, and seek urgent medical care. For confusion, fainting, or panic, remove the person from the site, reduce stimuli, and monitor until fully oriented.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
   "abilities": [
-    "Levitate",
-    "Gas Body",
-    "Toxic Vapor",
-    "Shadow Concealment",
-    "Fear Response Tracking"
+    "Levitate"
   ],
   "fieldBehaviors": [
-    "Drifts silently through cracks, vents, and broken walls",
-    "Condenses around warm breath, candle flames, and frightened prey",
-    "May create cold spots before becoming visible",
-    "Can dim lanterns or make flames gutter by displacing air",
-    "Avoids strong wind, fans, open fields, and heavy airflow",
-    "Uses sleep-inducing gas or hypnotic motion to weaken targets"
+    "Displays warning colors before venom use",
+    "Marks cover with chemical scent",
+    "Avoids direct sun when toxins dry out",
+    "Appears in low light",
+    "Follows fear response",
+    "Avoids bright direct light"
   ],
   "weaknesses": [
-    "Strong wind",
-    "Industrial ventilation",
-    "Psychic-type threats",
-    "Ghost-type predators",
-    "Dark-type attacks",
-    "Purified open-air environments",
-    "Bright moving light that disrupts concealment"
+    "Ground",
+    "Psychic",
+    "Ghost",
+    "Dark",
+    "Habitat loss",
+    "Human overconfidence"
   ],
   "resistances": [
-    "Normal physical strikes",
-    "Fighting-type contact",
-    "Poison exposure",
-    "Bug-type harassment",
-    "Low-light environments",
-    "Small openings and barriers that stop solid creatures"
+    "Grass",
+    "Poison",
+    "Bug",
+    "Fairy",
+    "Normal immunity",
+    "Fighting immunity"
   ],
   "signsOfPresence": [
-    "Purple or black vapor moving against normal airflow",
-    "Sudden sweet-chemical smell in stale air",
-    "Lantern flames shrinking or turning unstable",
-    "Condensation forming on walls without clear cause",
-    "Whispering sounds from empty corners",
-    "Small insects found unconscious or dead near cracks",
-    "Unexplained dizziness, numb lips, or pressure behind the eyes"
+    "Cold spots",
+    "Faint voices",
+    "Lights dimming",
+    "Unexplained footsteps",
+    "Animals refusing entry",
+    "Sleep disturbances"
   ],
   "equipment": [
-    "Respirator or gas-rated mask",
-    "Portable fan",
-    "Bright flashlight",
-    "Ventilation blower",
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
     "Eye protection",
-    "Gloves",
+    "Bright flashlight",
     "Buddy line",
-    "Exit marker tape"
+    "Sleep monitor",
+    "Exit markers",
+    "Nitrile outer gloves",
+    "Antivenom plan",
+    "Wash water",
+    "Seal bags for contaminated gear"
   ],
   "stats": {
-    "power": 3,
-    "speed": 4,
-    "stealth": 5,
-    "danger": 4,
-    "usefulness": 2
+    "power": 2,
+    "speed": 3,
+    "stealth": 4,
+    "danger": 3,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 5,
+    "detectability": 2,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
   },
-  "fieldNote": "A quiet room with no wind is Gastly's advantage. If the air starts to taste sweet or metallic, leave before investigating.",
-  "visualSymbol": "☠",
-  "image": "",
-  "audio": "",
-  "entryAuthor": "Ranger Field Log",
-  "originStory": "Early field accounts describe Gastly appearing after mass illness events in sealed monasteries, plague houses, and forgotten burial tunnels. The oldest stories claim they were spirits of the dead, but later ranger dissections of abandoned nests suggested something stranger: a living vapor organism born where decaying matter, mineral gas, and psychic residue collected in airless spaces. The first confirmed capture ended badly when the specimen escaped its jar, seeped under a barracks door, and left twelve guards unconscious before sunrise. Since then, most regions classify wild Gastly as a confined-space hazard rather than a normal animal.",
+  "fieldNote": "A calm Gastly usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a ghost-type response.",
+  "visualSymbol": "👻",
+  "image": "images/pokemon/pokemon-gastly.png",
+  "audio": "audio/pokemon/pokemon-gastly.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Gastly Evolution Family appears to have adapted around Pokemon Tower, abandoned mansions, haunted forests, graveyards, and low-oxygen ruins. Its line favors survival through fear response, sleep disruption, possession-like behavior, and visibility loss, specialized shelter choice, and rapid behavioral changes during maturity. Gastly becomes Haunter by Level 25; Haunter becomes Gengar by Trade. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
   "evolutionLine": [
     {
       "name": "Gastly",
       "stage": "Base",
-      "method": "Evolves into Haunter starting at level 25",
-      "note": "Mostly gaseous body. High inhalation and fear-response risk."
+      "method": "Level 25",
+      "note": "Base-stage Ghost / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
     },
     {
       "name": "Haunter",
-      "stage": "First Evolution",
-      "method": "Evolves into Gengar when traded; some regions report Linking Cord evolution conditions",
-      "note": "More defined hands and predatory behavior. Higher direct-contact danger."
+      "stage": "Stage One",
+      "method": "Trade",
+      "note": "Intermediate Ghost / Poison stage. Body systems are reorganizing toward the final form and behavior may be unstable."
     },
     {
       "name": "Gengar",
       "stage": "Final",
-      "method": "Final standard evolution",
-      "note": "Dense shadow body, advanced ambush behavior, and extreme haunting risk."
+      "method": "Final stage",
+      "note": "Final-stage Ghost / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
     }
   ],
   "evolutionTree": {
     "familyName": "Gastly Evolution Family",
-    "subtitle": "Evolution Tree • Ghost / Poison Type",
+    "subtitle": "Evolution Tree - Ghost / Poison Type",
     "mainLine": [
       {
         "name": "Gastly",
@@ -122,20 +132,20 @@
           "Ghost",
           "Poison"
         ],
-        "symbol": "☠",
+        "symbol": "👻",
         "methodToNext": "Level 25",
-        "note": "Gaseous, evasive, and dangerous in enclosed areas."
+        "note": "Base-stage Ghost / Poison species. Growth, training, survival stress, and the listed method lead toward the next form."
       },
       {
         "name": "Haunter",
-        "stage": "First Evolution",
+        "stage": "Stage One",
         "types": [
           "Ghost",
           "Poison"
         ],
-        "symbol": "☠",
+        "symbol": "👻",
         "methodToNext": "Trade",
-        "note": "More aggressive and able to interact with victims directly."
+        "note": "Intermediate Ghost / Poison stage. Body systems are reorganizing toward the final form and behavior may be unstable."
       },
       {
         "name": "Gengar",
@@ -144,24 +154,24 @@
           "Ghost",
           "Poison"
         ],
-        "symbol": "☠",
-        "methodToNext": "",
-        "note": "Fully developed shadow predator with high intelligence."
+        "symbol": "👻",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Ghost / Poison species within the first-151 field scope. Manage as a mature adult, not a juvenile."
       }
     ],
     "variants": [
       {
-        "from": "Haunter",
-        "method": "Linking Cord in some regional records",
+        "from": "Gengar",
+        "method": "Gengarite / Mega Evolution",
         "target": {
-          "name": "Gengar",
-          "stage": "Final Alternative Method",
+          "name": "Mega Gengar",
+          "stage": "Mega Form",
           "types": [
             "Ghost",
             "Poison"
           ],
-          "symbol": "☠",
-          "note": "Observed in special regional evolution systems rather than standard trade handling."
+          "symbol": "👻",
+          "note": "Temporary form with stronger shadow anchoring and containment risk."
         }
       }
     ]
@@ -170,77 +180,151 @@
     "pokemon",
     "ghost",
     "poison",
-    "gas-creature",
-    "toxic-vapor",
-    "night-active",
-    "confined-space-risk",
     "kanto",
-    "level-25-evolution",
-    "haunted-location"
+    "first-151",
+    "survival-guide",
+    "gastly"
   ],
   "scientificClassification": {
-    "kingdom": "Anima Umbrae",
-    "class": "Spectrotoxia",
-    "order": "Vaporiformes",
-    "family": "Gastlydae",
-    "genus": "Nebulogaster",
-    "species": "Nebulogaster veneficus"
+    "kingdom": "Ectobiota",
+    "class": "Ectofauna",
+    "order": "Umbriformes",
+    "family": "Phantomidae",
+    "genus": "Gastly",
+    "species": "gastly fieldensis"
   },
-  "humanConflictRisk": "High in enclosed spaces. Gastly can cause panic, poisoning symptoms, fainting, accidents during flight, and false haunting reports that lead people deeper into unsafe structures.",
-  "domesticationStatus": "Not domesticated. Captive specimens are maintained only by licensed ghost-type researchers, occult hazard units, and specialized battle handlers.",
-  "prey": "Small insects, cave rodents, weakened birds, sleeping animals, and occasionally larger creatures overcome by vapor exposure or fear paralysis.",
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "ambient life energy, fear response, small prey, fruit offerings, and unknown trace nutrients; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
   "temperamentTriggers": [
-    "Strong fans or sudden airflow",
-    "Bright lights aimed directly into its core",
-    "Fire waved through its vapor body",
-    "Entering its nesting room",
-    "Removing old bones, relics, or decayed organic matter from its territory",
-    "Loud chanting, bells, or high-frequency sound",
-    "Psychic-type detection"
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to ghost-type warning signs"
   ],
-  "territoryRange": "A single Gastly may haunt one room, tunnel section, or ruin chamber. A colony can occupy an entire abandoned structure if airflow is low and prey traffic is steady.",
-  "lifeCycle": "Begins as a loose toxic vapor knot around a dark spectral core. As it feeds and stabilizes, it develops stronger cohesion, better memory, and more controlled movement. Mature Gastly may evolve into Haunter after reaching sufficient density and predatory skill.",
-  "containmentRequirements": "A sealed ghost-rated containment vessel with controlled negative pressure, filtered exhaust, backup airflow control, low-light monitoring, and no open cracks wider than a few millimeters.",
-  "ecologicalRole": "Breaks down carrion vapors, controls insect populations in caves and ruins, and discourages larger predators from nesting in contaminated dead-air spaces.",
-  "diseaseParasiteRisk": "Moderate to high. Main risks are toxic inhalation, eye irritation, fainting, panic injury, respiratory distress, and possible contamination of clothing or masks after exposure.",
-  "reproductionNesting": "Poorly understood. Field reports suggest Gastly colonies form vapor nurseries in sealed rooms rich in decay gases, mineral seepage, and psychic residue. No normal egg-laying behavior is confirmed in the field guide record.",
-  "populationStatus": "Uncommon but persistent. Populations are easiest to miss because many sightings are dismissed as fog, smoke, mold exposure, or ghost stories.",
-  "predators": "Stronger ghost-types, psychic hunters, dark-type scavengers, specialized exorcist Pokémon, and trained containment teams using forced ventilation.",
-  "emergencyResponse": "Evacuate upwind or toward moving air, ventilate the space if safe, keep exposed people awake and breathing fresh air, avoid entering alone, and call a ghost-type hazard team for enclosed infestations.",
-  "legalStatus": "Wild capture restricted in most managed regions. Entry into known Gastly structures may require ranger clearance because ordinary masks and flashlights may not be enough.",
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to graveyards, feeds heavily, defends shelter, and follows this first-151 evolution profile: Gastly evolves into Haunter by Level 25. Haunter evolves into Gengar by Trade.",
+  "containmentRequirements": "Requires bright lighting, partner checks, and sleep protection, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a ghost-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to night terrors, sleep disruption, paralysis-like fear, sudden appearance, and panic flight",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a ghost hazard area. Do not attempt capture unless trained and equipped for Gastly.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
   "stressSicknessSigns": [
-    "Vapor thinning into ragged strands",
-    "Core flickering or shrinking",
-    "Uncontrolled leaking through cracks",
-    "Failure to hold a spherical form",
-    "Avoidance of shadows it normally uses",
-    "Erratic whispers or repeated loops of sound",
-    "Overreaction to weak airflow"
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
   ],
-  "lifespan": "Unknown. Individual field specimens may persist for decades if undisturbed, but unstable young vapor forms can disperse quickly in open air.",
-  "socialStructure": "Usually solitary in small spaces, but multiple Gastly may gather in large ruins or cave systems. Colonies do not show a clear hierarchy, though denser individuals control the darkest and least ventilated chambers.",
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "dominant adults with guarded ranges or stable colonies",
   "fieldCapabilities": {
-    "chargeLevel": "Not electrical; uses spectral and toxic vapor pressure",
-    "electricFieldRange": "Not applicable",
-    "burstSpeed": "Fast drifting movement over short distances",
-    "dodgeSpeed": "Very high in low airflow",
-    "jumpingHeight": "Not applicable; levitates",
-    "balance": "Maintains cohesion through its central spectral core"
+    "chargeLevel": "No electric charge. Apparitional contact and fear response are primary hazards.",
+    "electricFieldRange": "Haunting influence can extend through a room, corridor, or sleeping area.",
+    "burstSpeed": "Field burst speed roughly 20 to 36 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
   },
-  "trainingRisk": "Primary training risks include inhalation injury, sleep exposure, panic accidents, containment failure, and the handler mistaking playful haunting behavior for obedience.",
-  "physiology": "Gastly appears to be a semi-coherent toxic gas mass held together by a dark spectral core. Its vapor can irritate skin, eyes, and lungs, while the core seems to coordinate movement, perception, and predatory response. Because its body lacks normal organs, cutting, striking, or grabbing it is usually ineffective.",
+  "trainingRisk": "Training risk includes night terrors, sleep disruption, paralysis-like fear, sudden appearance, and panic flight. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Gastly's body supports Ghost / Poison output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
   "keyFacts": {
     "size": "Height: 4 ft 3 in",
     "weight": "0.2 lbs",
-    "tailLength": "Not applicable",
-    "lifestyle": "Nocturnal, solitary to loose colonies",
-    "diet": "Fear response energy, decay gases, trace life energy, insects, and stunned small prey",
-    "habitat": "Abandoned buildings, caves, towers, graveyards, and stagnant enclosed spaces",
-    "lifespan": "Unknown; possibly decades in stable enclosed habitats",
-    "groupSize": "Usually solitary; colonies possible in large haunted structures"
+    "types": "Ghost / Poison",
+    "lifestyle": "Base ghost-type field organism",
+    "diet": "ambient life energy, fear response, small prey, fruit offerings, and unknown trace nutrients; secondary needs include small prey, carrion, insects, contaminated plant matter, and toxin-rich foods handled through specialized organs",
+    "habitat": "graveyards, old towers, abandoned houses, deep caves, and low-light ruins",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
   },
-  "domesticationDifficulty": "Extreme. Gastly cannot be handled like a normal companion animal and may drift through barriers, contaminate rooms, or unintentionally poison its handler.",
-  "physicalCharacteristics": "Gastly has a dark floating spherical core surrounded by a shifting purple vapor cloud. It has large white eyes, a wide mouth, small fangs, and no stable limbs. Its outline changes constantly, making size estimates difficult in poor light.",
-  "dietRestrictions": "Avoid exposing Gastly to strong chemical cleaners, high-speed fans, open flames, and purified airflow systems except during emergency containment. In managed care, feeding should never involve live human fear exposure.",
-  "detailPath": "./data/pokemon/Pokemon-Gastly.json"
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as gas pokemon with ghost / poison adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-gastly.json",
+  "officialBaseStats": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 100,
+    "specialDefense": 35,
+    "speed": 80,
+    "total": 310
+  },
+  "attacks": [
+    {
+      "name": "Lick",
+      "type": "Ghost",
+      "category": "Physical",
+      "power": 30,
+      "accuracy": 100,
+      "fieldUse": "contact attack that may paralyze through nerve shock"
+    },
+    {
+      "name": "Night Shade",
+      "type": "Ghost",
+      "category": "Special",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "fear-image projection with variable harm"
+    },
+    {
+      "name": "Shadow Ball",
+      "type": "Ghost",
+      "category": "Special",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "compressed shadow impact"
+    },
+    {
+      "name": "Hypnosis",
+      "type": "Psychic",
+      "category": "Status",
+      "power": null,
+      "accuracy": 60,
+      "fieldUse": "sleep induction through gaze, sound, or psychic pressure"
+    },
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "venom prick or spine jab used to test distance and discourage handling"
+    },
+    {
+      "name": "Acid",
+      "type": "Poison",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "caustic spray used against plants, cloth, and soft tissue"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Pokemon Tower, abandoned mansions, haunted forests, graveyards, and low-oxygen ruins"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Gastly evolves into Haunter by Level 25. Haunter evolves into Gengar by Trade.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 25"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
 }

@@ -1,0 +1,67 @@
+{
+  "id": "squirtle-dossier",
+  "title": "Squirtle Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "High-risk aquatic starter species. Primary hazard: rescue-drowning confusion, colony defense, and water-boundary behavior.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Squirtle is the reason old river villages kept bells beside their wells. Not for fire, raiders, or storms. For splashing.\n\nA single splash in the night meant a child had wandered too close to the bank. Two splashes meant something had come out of the water. Three meant the village was already counting its missing.\n\nModern starter programs describe Squirtle as loyal, playful, social, and easier to handle than most young Water-types. That is true, and it is also the safest lie ever printed in a beginner field guide. Squirtle is friendly because it is young. It is curious because it has not yet learned fear. It follows humans because humans are warm, noisy, and careless around shorelines.\n\nWild Squirtle often approach camps at dusk, eyes wide, shell wet, little hands raised as if asking for food. Many are harmless. Some are hand-fed by fishermen for generations. But Squirtle live in colonies, and colonies have rules older than kindness.\n\nThe first rule is that anything near the water belongs partly to the water.\n\nFood dropped near a bank is taken. Nets left overnight are cut or dragged under. Boots, knives, toys, bones, and wedding rings vanish into reeds. Rangers believe these objects are boundary markers arranged beneath the surface in half-circles around nesting zones. A person may cross those markers without knowing they have entered protected ground.\n\nSquirtle rarely kill by biting. Their danger is patience, water, and numbers. A lone Squirtle will retreat from an adult human. A group will not. They circle silently beneath the surface, shells as shields and small bodies as moving stones. One surfaces close enough to be seen. The mistake is looking at that one. The others take the ankles.\n\nSurvivors describe it as weeds tightening around the legs. Then the bank gives way. Then water closes over the ears and everything becomes muffled except the tapping of shells against rocks.\n\nSquirtle do not understand drowning as murder. To them, water is safety. If a creature thrashes, it must be frightened. If it breathes badly, it must be held still. If it screams, it must be taken deeper where the colony can surround and calm it. This instinct makes trained Squirtle excellent rescuers and wild Squirtle terrible hazards.\n\nThe darkest reports involve children, not because Squirtle hunt them, but because Squirtle mistake them for vulnerable colony members. They splash, herd, and may attempt to teach submersion. Some missing children were found alive in reed beds, hypothermic and surrounded by Squirtle that refused to let adults approach. In worse cases, only the toys came back.\n\nSquirtle carry their first home on their back. Old coastal families believed the sea had stolen the place they were born. Squirtle often appear after floods, tsunamis, dam failures, and shipwrecks. They gather where human structures break and water enters places it was never meant to reach. To Squirtle, a flooded cellar is a cave. A sunken chapel is shelter. A drowned town is a reef.\n\nDivers exploring abandoned settlements have found Squirtle nests inside upstairs bedrooms, schoolhouses, and collapsed kitchens, decorated with buttons, marbles, spoons, coins, medals, and teeth polished smooth by current. One nursery colony lived inside the second floor of a submerged farmhouse. The nest was lined with children’s shoes.\n\nDo not camp below the flood mark. Do not follow splashing after dark. Do not let children feed wild specimens. If a Squirtle gives you something from the water, accept it and leave. If it takes something from you, do not reach in after it. If the water goes quiet, step back before you look down."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Squirtle was formally recorded in **1812**, five years after Bulbasaur entered the scientific record and seven years before Ivysaur was confirmed.\n\nUnlike Bulbasaur, Squirtle was documented in a place humans had already ruined: the drowned lower district of Old Harrow Quay, a Kanto river settlement abandoned after spring floods destroyed its levees. For years fishermen claimed small blue shell children lived in the upper windows of submerged houses and knocked on glass from below the waterline. Naturalists dismissed the stories as grief folklore until the chapel bell began ringing.\n\nThe chapel tower still stood above floodwater. Its bell rope hung into the drowned nave, unreachable from outside. On windless nights, the bell rang anyway. In 1812, a survey crew entered by boat and found the rope pulled through a broken side window and tied around a nest. Beneath floating hymn boards and rotted pews lived a colony of small shelled Pokémon. Eggs were hidden in the bell loft above the floodwater. Young Squirtle slept in pockets of air beneath rafters. Older guardians blocked lower levels with debris.\n\nThe bell had not been rung by ghosts. It had been rung by Squirtle whenever predators entered the chapel.\n\nThe first captured specimen was calm, blue, and solemn. When a sailor coughed and leaned over the rail, it sprayed water in his face and chirped until he stepped back from the edge. The crew interpreted this as play. The next day, the same Squirtle dragged a sleeping deckhand by the sleeve toward a rain barrel during a storm. That was the first recorded hint of rescue-drowning confusion.\n\nEarly anatomy work revealed lungs, strong swimming muscles, webbed hands and feet, and a shell that hardened with age. The shell functioned as armor, buoyancy support, water-storage support, and social identity. Squirtle recognize each other by shell marks, scratches, mineral stains, and growth patterns. This is why captive Squirtle often attach to packs, crates, helmets, shields, and curved furniture.\n\nThe Old Harrow specimens were called Quay-shells, river turtles, or water imps before the modern name emerged from dockworkers who described young ones as squirting turtles. By 1815, colonies had been found in river mouths, marshlands, and coastal ruins. Mara Vell proposed that Squirtle spread because human settlements created perfect artificial reefs: walls to block current, upper floors for eggs, cellars for cool water, chimneys for air pockets, and debris fields full of hiding places.\n\nHumans called these places ruins. Squirtle called them nurseries.\n\nThe 1812 Old Harrow record became the beginning of the Squirtle-line chronology. Later evolutions withdrew into deeper water, older canals, sea caves, and protected nesting routes. Wartortle would be recognized later, and Blastoise later still, but the line’s history begins with the drowned chapel bell and the creatures that mistook human loss for shelter."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        [
+          "Before 1812",
+          "Fishermen reported shell children knocking from flooded windows at Old Harrow Quay."
+        ],
+        [
+          "1812",
+          "Squirtle formally recorded after the chapel-bell colony survey."
+        ],
+        [
+          "1815",
+          "Additional colonies identified in river mouths, marshlands, and coastal ruins."
+        ],
+        [
+          "1824",
+          "Wartortle confirmed as the evolved guardian stage."
+        ],
+        [
+          "1841",
+          "Blastoise formally documented at Blackwake Sound."
+        ]
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not camp below the flood mark.",
+        "Do not follow splashing after dark.",
+        "Do not let children feed wild specimens.",
+        "If a Squirtle gives you something from the water, accept it and leave.",
+        "If it takes something from you, do not reach in after it.",
+        "If the water goes quiet, step back before you look down."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Old river villages kept bells beside wells because of night splashing.",
+        "Wooden shell charms over doors meant a house had already paid the river.",
+        "Squirtle nests often include human objects from drowned spaces.",
+        "Old Harrow Quay’s chapel bell became the founding symbol of the line."
+      ]
+    }
+  ]
+}

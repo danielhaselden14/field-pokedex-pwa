@@ -1,0 +1,350 @@
+{
+  "id": "pokemon-weedle",
+  "entryId": "PKMN-0013",
+  "pokedexNumber": "#0013",
+  "name": "Weedle",
+  "category": "animals",
+  "type": "Bug / Poison Creature",
+  "elementType": "bug-poison",
+  "dangerLevel": "Low to Medium",
+  "rarity": "Common",
+  "region": "Kanto, Johto, and Central Kalos",
+  "route": "Kanto Route 2, Route 24, Route 25, Viridian Forest, Pattern Bush; Johto Route 30, Route 31, Ilex Forest, National Park, Azalea Town headbutt trees, and Lake of Rage headbutt trees; Central Kalos Route 2 and Santalune Forest; Sinnoh Eterna Forest and Grand Underground forest caves in compatible records; real-world analogue: damp Olympic Peninsula forest understory, old orchards, and leaf-heavy mountain park trails",
+  "habitat": "Leaf-heavy forest floors, tall grass, bushes, rotting logs, low branch tangles, orchard margins, damp cedar-hemlock understory, and the outer nursery zones of Beedrill colony trees",
+  "classification": "Hairy Bug Pokemon / Larval Venom Forest Insect",
+  "height": "1 ft 0 in",
+  "weight": "7.1 lbs",
+  "behaviorTemperament": "Usually avoids direct conflict, but is not harmless. Weedle hides under leaves, feeds constantly, and freezes when stepped near. If touched, squeezed, or lifted, it may jab with the head barb before a handler realizes contact was made. Groups near Kakuna trees are more reactive because Beedrill adults often patrol nearby.",
+  "diet": "Fresh leaves, tender shoots, bitter foliage, berry skins, rotting plant matter, soft fungus, nectar residue, and occasionally carrion fluids supplied by adult Beedrill colonies",
+  "activityPattern": "Diurnal to crepuscular in cool forests. Most active in morning moisture and after light rain when leaves are soft. Shelters under leaf litter during dry heat and heavy wind.",
+  "bestTimeToFind": "Early morning on low leaves in Viridian-style forest, Ilex-style damp woods, National Park grass edges, or Santalune-style understory after rain",
+  "observationDifficulty": "Moderate. Common where established, but small size, brown-yellow body color, and leaf-cover behavior make it easy to miss until the head barb is close to skin.",
+  "conservationStatus": "Locally protected where Beedrill colony trees stabilize forest insect communities",
+  "populationStatus": "Common in undisturbed forest corridors, declining near heavy pesticide use, illegal bug-catching, and removal of old hollow trees used by Kakuna and Beedrill",
+  "description": "A small Bug and Poison larval Pokemon with a sharp venomous head stinger, leaf-eating diet, strong sense of smell, and bright warning coloration. It is the vulnerable base stage of one of the fastest and most aggressive early-evolving swarm lines.",
+  "lore": "Old Kanto trail guides warned children not to kick leaf piles that trembled against the wind. The movement was often Weedle feeding under cover. The first confirmed ranger incidents in Viridian Forest were not caused by adult Beedrill at all, but by hikers stepping barefoot into leaf beds full of Weedle and then running toward Kakuna trees while panicking. The poison stings drew blood, the shouting shook the branches, and the adults arrived in a black-yellow cloud. In Johto, Azalea and Ilex wardens learned to read the forest differently: a strip of leaves eaten clean at knee height, a sour resin smell, silk threads on twig forks, and the sudden absence of birds usually meant a nursery route was close. Modern field rules treat Weedle as a warning stage. One larva is rarely the real danger. The real danger is what is listening above it.",
+  "survivalUse": "Can indicate edible broadleaf growth, wet forest corridors, and nearby colony structures. Shed silk can be used as weak binding fiber in an emergency. Venom compounds are medically valuable only under controlled processing and should never be self-applied.",
+  "handlingWarning": "Do not pick up by hand, do not brush from clothing with bare skin, and do not crush one near a colony tree. A crushed Weedle can release alarm scent that may draw Kakuna guardians and Beedrill adults.",
+  "encounterAdvice": "Stop walking, look for more larvae, and back out along your own footprints. Use a stick to move leaves only if necessary. If one is on clothing, let it crawl off onto a branch or use a rigid card, not fingers.",
+  "firstAid": "Wash puncture with clean water, remove visible barb fragments with clean tweezers, apply a cold pack, and monitor for swelling, dizziness, breathing trouble, or spreading numbness. Seek urgent care for facial stings, multiple stings, allergic reaction, or signs of systemic poisoning.",
+  "companionSuitability": "Poor for casual handling, acceptable for licensed bug specialists raising full colony lines",
+  "abilities": [
+    "Shield Dust",
+    "Run Away"
+  ],
+  "fieldBehaviors": [
+    "Eats its weight in leaves during heavy growth periods",
+    "Hides under the leaves it eats",
+    "Raises head barb when shadowed",
+    "Follows chemical trails left by adults",
+    "Freezes when exposed to sunlight",
+    "Releases sour alarm scent when crushed",
+    "Moves toward Kakuna anchor trees before evolution"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Flying",
+    "Psychic",
+    "Rock",
+    "Smoke displacement",
+    "Nest disturbance"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Poison",
+    "Bug",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Crescent bites along leaf edges",
+    "Two-inch scratch-like punctures on fallen leaves",
+    "Fine silk threads between low twigs",
+    "Tiny brown droppings under feeding leaves",
+    "Sour green venom scent near disturbed leaf beds",
+    "Bird silence around nursery trees",
+    "Shed larval skin near bark forks"
+  ],
+  "equipment": [
+    "Thick nitrile or leather gloves",
+    "Long sleeves",
+    "Eye protection",
+    "Fine forceps",
+    "Cold pack",
+    "Antihistamine per medical guidance",
+    "Epinephrine auto-injector for known severe allergy",
+    "Rigid collection card",
+    "Ventilated insect carrier"
+  ],
+  "stats": {
+    "power": 1,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 2,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 3,
+    "identificationDifficulty": 2,
+    "reliability": 2,
+    "resourceCost": 1,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 4,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "A single Weedle is a puncture hazard. A cluster of Weedle is a colony warning. If the leaves are stripped clean and the branches above are quiet, leave before the adults locate you.",
+  "visualSymbol": "🐛",
+  "image": "images/pokemon/weedle.png",
+  "audio": "audio/pokemon/weedle.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Weedle line likely began as toxic leaf-eating larvae in the old mixed forests of Kanto and Johto. Early Weedle survived by turning bitter plant compounds into venom and warning pigments, then hiding under the same leaves they consumed. This made them hard for birds to eat but easy for larger forest predators to crush. Evolution solved the problem in stages. At Level 7, a larva that has fed enough seals itself into Kakuna, trading movement for armor while its organs reorganize. At Level 10, the completed adult tears free as Beedrill, fast enough to patrol canopy lanes and dangerous enough to defend the helpless young. The whole line is built around one brutal bargain: the young feed the colony, the cocoon waits, and the adult punishes anything that disturbs either.",
+  "evolutionLine": [
+    {
+      "name": "Weedle",
+      "stage": "Base",
+      "method": "Level 7",
+      "note": "Larval venom-feeder. Evolves when the body has stored enough leaf matter, venom protein, and silk-chitin material to seal itself into Kakuna."
+    },
+    {
+      "name": "Kakuna",
+      "stage": "Stage One",
+      "method": "Level 10",
+      "note": "Immobile pupal armor stage. Evolves once internal wing muscles, foreleg stingers, compound eyes, and venom reservoirs finish forming."
+    },
+    {
+      "name": "Beedrill",
+      "stage": "Final",
+      "method": "Final stage; Mega Evolution with Beedrillite",
+      "note": "Territorial flying colony defender. Capable of Mega Evolution into Mega Beedrill when bonded to a handler and exposed to Beedrillite."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Weedle Evolution Family",
+    "subtitle": "Evolution Tree - Bug / Poison Type",
+    "mainLine": [
+      {
+        "name": "Weedle",
+        "stage": "Base",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐛",
+        "methodToNext": "Level 7",
+        "note": "Small larval forest forager. Feeds on leaves, hides in grass and bushes, and relies on its head barb for defense."
+      },
+      {
+        "name": "Kakuna",
+        "stage": "Stage One",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🛡️",
+        "methodToNext": "Level 10",
+        "note": "Pupal armor stage. Nearly motionless outside, but hot and biologically active inside while preparing for final metamorphosis."
+      },
+      {
+        "name": "Beedrill",
+        "stage": "Final",
+        "types": [
+          "Bug",
+          "Poison"
+        ],
+        "symbol": "🐝",
+        "methodToNext": "Mega Evolution with Beedrillite",
+        "note": "Final venomous flyer. Swarm defense, high-speed strikes, nest protection, and three-stinger combat define the adult form."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Beedrill",
+        "method": "Beedrillite / Mega Evolution",
+        "target": {
+          "name": "Mega Beedrill",
+          "stage": "Mega Form",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "symbol": "🐝",
+          "note": "Temporary high-speed combat form. Leg structures become stingers, wing count increases, and venom delivery becomes faster and more specialized."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "bug",
+    "poison",
+    "weedle",
+    "forest",
+    "venom",
+    "larva",
+    "kanto",
+    "johto",
+    "viridian-forest",
+    "ilex-forest",
+    "survival-guide",
+    "swarm-risk"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Insecta-like Toxarthropoda",
+    "order": "Larviformes Venefica",
+    "family": "Beedrillidae",
+    "genus": "Vermis",
+    "species": "Vermis aculeatus"
+  },
+  "humanConflictRisk": "Low alone, Medium near colony trees",
+  "domesticationStatus": "Semi-domesticated only as part of licensed bug-rearing and starter bug research programs",
+  "prey": "Not a true predator at this stage. Feeds mostly on leaves, soft plant tissue, fungus, and colony-supplied carrion fluids.",
+  "temperamentTriggers": [
+    "Being stepped on",
+    "Bare-hand contact",
+    "Sudden shadows",
+    "Vibration near leaf beds",
+    "Crushing alarm scent",
+    "Smoke near colony trees",
+    "Separation from chemical trail",
+    "Bird attacks"
+  ],
+  "territoryRange": "Usually within 50 to 300 yards of a Kakuna anchor tree or Beedrill nest corridor",
+  "lifeCycle": "Hatches as a small leaf-feeding larva, feeds heavily, develops venom glands and silk production, then evolves into Kakuna starting at Level 7. In warm, food-rich forests this stage may last only days or weeks before pupation.",
+  "containmentRequirements": "Fine-mesh ventilated terrarium, fresh pesticide-free host leaves, low climbing branches, escape-proof lid, humidity control, sting-safe handling tools, and isolation from birds, rodents, and curious pets",
+  "ecologicalRole": "Prunes young forest leaves, recycles bitter plant compounds into venom, feeds larger predators that tolerate toxins, and supplies the juvenile stage for Beedrill colony defense systems.",
+  "diseaseParasiteRisk": "Moderate. Larval mites, fungal bloom in damp enclosures, bacterial infection at sting sites, and allergic venom reactions are the main concerns.",
+  "reproductionNesting": "Eggs are laid in clusters near protected leaves, low bark pockets, or colony nursery trees. Weedle move toward anchor branches before becoming Kakuna.",
+  "predators": "Pidgey, Spearow, Fearow, Zubat, small reptiles, parasitic fungi, humans collecting without permits, and larger bug-types competing for foliage",
+  "emergencyResponse": "Move away from the colony tree first, then treat the sting. Do not swat wildly near branches. If buzzing intensifies overhead, cover face and neck and retreat indoors or into a vehicle.",
+  "legalStatus": "Collection permits recommended in parks and required near protected colony trees in many managed regions",
+  "stressSicknessSigns": [
+    "Weak grip",
+    "Dull body color",
+    "Collapsed head barb",
+    "Refusing fresh leaves",
+    "Excess mucus",
+    "Failure to follow chemical trails",
+    "Black spots around spiracles"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: Weedle stage lasts days to weeks before evolution in healthy conditions; unevolved wild individuals rarely survive beyond 1 year, while managed non-evolving specimens may reach 1 to 2 years.",
+  "socialStructure": "Loose larval clusters tied to Beedrill colony scent. Weedle do not lead the colony, but their alarm scent can mobilize adults quickly.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Venom output is juvenile but medically relevant.",
+    "electricFieldRange": "No electric field. Sting contact range is about 2 to 6 inches, with alarm-scent effects carrying several yards in still forest air.",
+    "burstSpeed": "Slow crawl with short panic bursts across leaves",
+    "dodgeSpeed": "Poor on open ground, better under leaf cover",
+    "jumpingHeight": "Minimal; can rear and jab upward from leaves",
+    "balance": "Strong grip on leaves and twigs, poor balance on smooth human-made surfaces",
+    "signatureMoves": [
+      "Poison Sting",
+      "String Shot",
+      "Electroweb",
+      "Facade"
+    ]
+  },
+  "trainingRisk": "Venom punctures, allergic reaction, escaped larvae in food plants, alarm scent drawing adults, and accidental evolution into Kakuna in unsuitable housing",
+  "physiology": "Weedle is a larval arthropod Pokemon with a venomous head barb, red sensory proboscis, silk-producing tissues, and warning coloration. Its sense of smell is strong enough to sort favored leaves from disliked ones. Venom appears derived from plant toxins concentrated in specialized glands.",
+  "keyFacts": {
+    "size": "Height: 1 ft 0 in",
+    "weight": "7.1 lbs",
+    "stingerLength": "Approx. 2 inches at the head barb",
+    "lifestyle": "Leaf-feeding larva tied to colony scent trails",
+    "diet": "Herbivorous with opportunistic soft fungus and carrion fluids",
+    "habitat": "Forests, grasslands, bushes, and damp park understory",
+    "lifespan": "Official not stated. Field estimate: days to weeks before evolution; 1 to 2 years if prevented from evolving under managed care.",
+    "groupSize": "Small leaf clusters near Kakuna trees, with adult Beedrill patrols nearby"
+  },
+  "domesticationDifficulty": "Moderate. Easy to feed but difficult to contain safely because the line evolves quickly and attracts adult colony behavior.",
+  "physicalCharacteristics": "Small brown segmented larva with a pink nose-like proboscis, many small feet, a rear spine, a sharp head barb, and bright warning coloration.",
+  "dietRestrictions": "Avoid pesticide-treated leaves, tobacco plants, ornamental toxic sprays, moldy produce, sugar-only diets, and damp stagnant bedding.",
+  "detailPath": "./data/pokemon/pokemon-weedle.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "specialAttack": 20,
+    "specialDefense": 20,
+    "speed": 50,
+    "total": 195
+  },
+  "attacks": [
+    {
+      "name": "Poison Sting",
+      "type": "Poison",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 100,
+      "fieldUse": "Short barb jab that injects venom. Treat as puncture wound plus toxin exposure."
+    },
+    {
+      "name": "String Shot",
+      "type": "Bug",
+      "category": "Status",
+      "power": null,
+      "accuracy": 95,
+      "fieldUse": "Adhesive silk spray used to slow predators, bind leaves, or mark shelter surfaces."
+    },
+    {
+      "name": "Electroweb",
+      "type": "Electric",
+      "category": "Special",
+      "power": 55,
+      "accuracy": 95,
+      "fieldUse": "Uncommon trained technique where conductive silk creates a stunning mesh."
+    },
+    {
+      "name": "Facade",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 70,
+      "accuracy": 100,
+      "fieldUse": "Stress-driven body slam or thrash. More likely when injured or cornered."
+    }
+  ],
+  "gameLocations": {
+    "kanto": [
+      "Viridian Forest",
+      "Route 2",
+      "Route 24",
+      "Route 25",
+      "Pattern Bush"
+    ],
+    "johto": [
+      "Ilex Forest",
+      "National Park",
+      "Routes 30 and 31",
+      "Azalea Town",
+      "Lake of Rage",
+      "Headbutt trees"
+    ],
+    "kalos": [
+      "Santalune Forest",
+      "Route 2"
+    ],
+    "sinnoh": [
+      "Eterna Forest",
+      "Route 204",
+      "Grand Underground caves in Shining Pearl after National Pokedex"
+    ],
+    "unova": [
+      "Route 12 through evolved forms or breeding"
+    ],
+    "alola": [
+      "Limited transfer or Route 4 for Beedrill in Ultra Moon"
+    ],
+    "lumiose": [
+      "Legends: Z-A Vert District, Bleu District, Magenta District, Rouge District, Jaune District, Wild Zone 1, and bug-type wild zones where available"
+    ],
+    "realWorldAnalogues": [
+      "Olympic Peninsula cedar-hemlock rainforest edges",
+      "damp mountain foothills",
+      "old orchards",
+      "temperate park understory",
+      "misty woodland trails"
+    ]
+  },
+  "officialEvolutionSummary": "Weedle evolves into Kakuna starting at Level 7. Kakuna evolves into Beedrill starting at Level 10. Beedrill can Mega Evolve into Mega Beedrill using Beedrillite.",
+  "sourceUseNote": "Core type, height, weight, abilities, base stats, evolution levels, moves, and game-location anchors were checked against current online Pokemon database sources. Lifespan and real-world survival ecology are field-guide extrapolations because official lifespan is not stated."
+}

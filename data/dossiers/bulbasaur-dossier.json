@@ -1,0 +1,62 @@
+{
+  "id": "bulbasaur-dossier",
+  "title": "Bulbasaur Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "High-risk symbiotic starter species. Primary hazard: sedative spores, rooting behavior, and host-plant hunger.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Bulbasaur is not a plant growing on an animal. It is a living compromise between two organisms that should not be able to share one body.\n\nThe creature beneath is warm, breathing, curious, and afraid. The bulb above is patient, hungry, and older in instinct than the animal carrying it. In young specimens the partnership appears peaceful. The Bulbasaur walks, eats, sleeps, and plays while the bulb quietly drinks sunlight and feeds from the host’s blood. Most handlers never notice the tiny root fibers moving beneath the skin.\n\nThe danger is not that Bulbasaur attacks often. The danger is that it does not always know when it is attacking.\n\nWhen frightened, the bulb releases sedative spores before the animal body shows obvious aggression. Campers have reported waking hours later with missing time, strange sweetness in their mouth, and a Bulbasaur sitting nearby as if it had been guarding them. In older reports, victims were found half-buried beneath leaf litter, still breathing, with the bulb’s vines wrapped loosely around wrists and ankles. Rangers believe young Bulbasaur sometimes attempt to “plant” injured humans the same way they nestle sick members of their own kind into warm soil.\n\nThe first mistake people make is assuming Bulbasaur’s affection belongs entirely to the animal. A bonded Bulbasaur may rub against a handler’s leg, follow them through forests, or sleep beside them for warmth. Yet when the bulb is hungry, the creature’s behavior changes. It becomes still. Its eyes remain soft, but unfocused. It stares toward open ground, damp earth, compost piles, or recently buried remains. Handlers describe the sensation as being watched by two minds at once.\n\nOld Kanto farmers once called Bulbasaur “grave seedlings.” They believed the creatures appeared in places where bodies had been buried without proper rites. The superstition came from a real pattern. Wild Bulbasaur are often found near abandoned homesteads, battlefield edges, plague cemeteries, and burned orchards. The bulb grows strongest in soil rich with decay, and the animal body seems instinctively drawn to places where life has already ended.\n\nDespite this, Bulbasaur is not evil. That may be the worst part. It comforts the dying. It curls beside the sick. It lowers its body so children can touch the cool leaves on its back. Its vines can pull a person from a ditch, bind a wound, or drag an unconscious trainer away from smoke. Many survivors owe their lives to a Bulbasaur.\n\nBut the old ranger rule remains unchanged:\n\nIf a Bulbasaur brings you flowers, accept them.\n\nIf it brings you roots, leave before sunset.\n\nIf it begins digging, do not sleep near it."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Bulbasaur was formally recorded in **1807**, after a series of disappearances near abandoned medicinal gardens outside Celadon’s older forest settlements. Local villagers had spoken of “walking bulbs” for generations, but early naturalists dismissed the accounts as folklore until a young specimen was captured near a ruined greenhouse, curled around a cracked human skull filled with sprouting vines.\n\nEarly researchers believed the plant was a parasite. Later studies proved the truth was stranger. Bulbasaur is born already fused to its seed. The animal and plant develop together before hatching, sharing nerves, blood flow, and chemical signals. Neither half survives long without the other. Remove the bulb, and the animal body declines rapidly. Remove the animal body, and the bulb becomes inert, waiting in a dormant state that can last decades.\n\nThe most accepted theory is that Bulbasaur descended from small forest reptiles that nested in compost-rich soil. These reptiles likely sheltered near medicinal plants because the roots deterred insects and predators. Over time, certain seeds began clinging to hatchlings. Most died. A few seedlings penetrated the skin and tapped into the animal’s circulation. In normal nature, this would have been fatal. In Bulbasaur’s ancestors, a rare mutation allowed the host to tolerate the invasion.\n\nWhat began as infection became inheritance.\n\nBy the early 1800s, the symbiosis had stabilized into a true species. The plant gave the animal camouflage, stored energy, defensive spores, and eventually vines. The animal gave the plant movement, warmth, protection, and access to new soil. The result was a creature that could flee drought, seek sunlight, hunt for nutrients, and carry its own garden on its back.\n\nThe original 1807 specimen never evolved. It died in captivity after six months, not from violence, but from refusal to root. Researchers at the time did not understand that young Bulbasaur require seasonal contact with living forest soil. They kept it in a tiled enclosure, fed it cut greens, and wiped the dirt from its feet each morning. Its bulb slowly collapsed inward. Its final recorded behavior was pressing its face against a clay pot filled with weeds.\n\nModern starter programs exist partly because of that failure.\n\nBulbasaur can now be raised safely, but only if handlers understand the central truth of the species: the creature is not carrying a plant.\n\nIt is carrying its future.\n\nAt the Bulbasaur stage, the animal body is still dominant. It runs, bonds, plays, and resists the deeper instincts of the bulb. As it matures into Ivysaur, that balance begins to shift. The plant grows heavier, the roots deepen, and the creature becomes less willing to be held, moved, or commanded. By Venusaur, old naturalists believed the animal no longer “owns” the body in the way humans understand ownership.\n\nBulbasaur is therefore considered the merciful stage. It still looks at you like a companion. It still comes when called. It still dreams with an animal’s mind. But under the skin, the garden is already awake."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "Before 1807",
+          "text": "Local folklore described walking bulbs and grave seedlings near abandoned homesteads, plague cemeteries, and burned orchards."
+        },
+        {
+          "date": "1807",
+          "text": "Bulbasaur was formally recorded after disappearances near abandoned medicinal gardens outside older Celadon forest settlements."
+        },
+        {
+          "date": "1819",
+          "text": "Ivysaur was confirmed after a marked Bulbasaur evolved in the wild."
+        },
+        {
+          "date": "1836",
+          "text": "Venusaur was formally documented during the Mosswell Basin Survey."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not sleep near a Bulbasaur that has begun digging.",
+        "Do not breathe spore clouds in enclosed spaces.",
+        "Do not remove one from living soil for long periods.",
+        "If vines wrap around you, stay calm and do not struggle violently.",
+        "If it brings flowers, accept them; if it brings roots, leave before sunset."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Old Kanto farmers called Bulbasaur grave seedlings.",
+        "The species became tied to abandoned homesteads, battlefield edges, plague cemeteries, and burned orchards.",
+        "Modern starter programs partly exist because the original 1807 specimen died after being kept away from living soil.",
+        "Bulbasaur is considered the merciful stage because the animal mind is still dominant."
+      ]
+    }
+  ]
+}

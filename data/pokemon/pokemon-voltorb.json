@@ -1,0 +1,284 @@
+{
+  "id": "pokemon-voltorb",
+  "entryId": "PKMN-0100",
+  "pokedexNumber": "#0100",
+  "name": "Voltorb",
+  "category": "animals",
+  "type": "Electric Creature",
+  "elementType": "electric",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Power Plant, abandoned storage rooms, factory belts, and old Pokeball disposal sites",
+  "habitat": "forests during storms, power plants, substations, magnetic ridges, and dry grass near wires. Field anchors: Power Plant, abandoned storage rooms, factory belts, and old Pokeball disposal sites",
+  "classification": "Ball Pokemon / Volatile Electric Sphere",
+  "height": "1 ft 8 in",
+  "weight": "22.9 lbs",
+  "behaviorTemperament": "Voltorb is best treated as a base field organism with electric-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs",
+  "activityPattern": "Diurnal to crepuscular, with increased movement before storms or near power surges.",
+  "bestTimeToFind": "Before storms, near substations, power-plant edges, charged trees, or dry grass with static buildup",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Electric Pokemon listed as Ball Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Voltorb was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Power Plant, abandoned storage rooms, factory belts, and old Pokeball disposal sites. The species is now handled as a Electric field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Voltorb into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to electric activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Voltorb, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are electric discharge. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Keep metal tools low, avoid wet ground, step back from arcing fur or glowing organs, and do not form a hand-to-hand chain near Voltorb.",
+  "firstAid": "For electric shock, break contact safely, check breathing, treat burns, and monitor for heart rhythm symptoms.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "fieldBehaviors": [
+    "Stores charge before storms",
+    "Discharges when startled",
+    "Chews mineral-rich food after heavy output"
+  ],
+  "weaknesses": [
+    "Ground",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Electric",
+    "Flying",
+    "Steel"
+  ],
+  "signsOfPresence": [
+    "Static-crackling air",
+    "Scorched grass tips",
+    "Magnetized small metal",
+    "Flickering lights",
+    "Burned berry husks",
+    "Hair rising on arms"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Insulated gloves",
+    "Nonconductive pole",
+    "Rubber boots",
+    "Ground-fault awareness"
+  ],
+  "stats": {
+    "power": 3,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Voltorb usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a electric-type response.",
+  "visualSymbol": "⚡",
+  "image": "images/pokemon/pokemon-voltorb.png",
+  "audio": "audio/pokemon/pokemon-voltorb.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Voltorb Evolution Family appears to have adapted around Power Plant, abandoned storage rooms, factory belts, and old Pokeball disposal sites. Its line favors survival through electric discharge, specialized shelter choice, and rapid behavioral changes during maturity. Voltorb becomes Electrode by Level 30. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Voltorb",
+      "stage": "Base",
+      "method": "Level 30",
+      "note": "Base-stage Electric species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Electrode",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Electric species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Voltorb Evolution Family",
+    "subtitle": "Evolution Tree - Electric Type",
+    "mainLine": [
+      {
+        "name": "Voltorb",
+        "stage": "Base",
+        "types": [
+          "Electric"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "Level 30",
+        "note": "Base-stage Electric species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Electrode",
+        "stage": "Final",
+        "types": [
+          "Electric"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Electric species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "electric",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "voltorb"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Electrofauna",
+    "order": "Fulguriformes",
+    "family": "Voltidae",
+    "genus": "Voltorb",
+    "species": "voltorb fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to electric-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to forests during storms, feeds heavily, defends shelter, and follows this first-151 evolution profile: Voltorb evolves into Electrode by Level 30.",
+  "containmentRequirements": "Requires insulated rooms, grounded metal control, and dry approach paths, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a electric-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to shock, burns, involuntary muscle lock, equipment failure, and secondary falls",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a electric hazard area. Do not attempt capture unless trained and equipped for Voltorb.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "Stores bioelectric charge capable of stunning humans and damaging electronics.",
+    "electricFieldRange": "Contact hazard at arm's length; arcing or ground-current risk expands in rain or around metal.",
+    "burstSpeed": "Field burst speed roughly 25 to 45 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes shock, burns, involuntary muscle lock, equipment failure, and secondary falls. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Voltorb's body supports Electric output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 1 ft 8 in",
+    "weight": "22.9 lbs",
+    "types": "Electric",
+    "lifestyle": "Base electric-type field organism",
+    "diet": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs",
+    "habitat": "forests during storms, power plants, substations, magnetic ridges, and dry grass near wires",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as ball pokemon with electric adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-voltorb.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "specialAttack": 55,
+    "specialDefense": 55,
+    "speed": 100,
+    "total": 330
+  },
+  "attacks": [
+    {
+      "name": "Thunder Shock",
+      "type": "Electric",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short-range stunning pulse"
+    },
+    {
+      "name": "Thunder Wave",
+      "type": "Electric",
+      "category": "Status",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "paralyzing electrical field used for escape or capture"
+    },
+    {
+      "name": "Thunderbolt",
+      "type": "Electric",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "focused discharge that can arc through wet ground and metal"
+    },
+    {
+      "name": "Electro Ball",
+      "type": "Electric",
+      "category": "Special",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "speed-based electric burst used by fast individuals"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Power Plant, abandoned storage rooms, factory belts, and old Pokeball disposal sites"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Voltorb evolves into Electrode by Level 30.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 30"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

@@ -1,0 +1,317 @@
+{
+  "id": "pokemon-poliwrath",
+  "entryId": "PKMN-0062",
+  "pokedexNumber": "#0062",
+  "name": "Poliwrath",
+  "category": "animals",
+  "type": "Water / Fighting Creature",
+  "elementType": "water-fighting",
+  "dangerLevel": "High",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Water Stone evolution in lakes, old martial wetlands, river mouths, and training pools built for amphibious combat",
+  "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves; also uses mountain paths, dojos, quarries, training yards, and high-conflict troop territories. Field anchors: Water Stone evolution in lakes, old martial wetlands, river mouths, and training pools built for amphibious combat",
+  "classification": "Tadpole Pokemon / Amphibious Combat Adult",
+  "height": "4 ft 3 in",
+  "weight": "119.0 lbs",
+  "behaviorTemperament": "Poliwrath is best treated as a final field organism with water-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+  "activityPattern": "Crepuscular around shorelines; active at night in clear water or during rain.",
+  "bestTimeToFind": "Dawn or dusk near quiet water, tide pools, river bends, docks, or rain-fed channels",
+  "observationDifficulty": "Moderate to high. It may be obvious in ideal habitat, but safe identification requires distance and attention to warning signs.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Water / Fighting Pokemon listed as Tadpole Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Poliwrath was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Water Stone evolution in lakes, old martial wetlands, river mouths, and training pools built for amphibious combat. The species is now handled as a Water / Fighting field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Poliwrath into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to water activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Poliwrath, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are water pressure. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Stay out of the water, watch footing, keep children away from banks, and never reach into dark pools where Poliwrath is sheltering.",
+  "firstAid": "For near-drowning, move to safe ground, clear the airway, warm the victim, and seek emergency care. For blunt trauma, immobilize suspected fractures and check for head injury.",
+  "companionSuitability": "Possible only for experienced handlers with species-specific housing",
+  "abilities": [
+    "Water Absorb",
+    "Damp",
+    "Swift Swim"
+  ],
+  "fieldBehaviors": [
+    "Shelters below the surface",
+    "Uses water to break pursuit",
+    "Feeds at dawn and dusk",
+    "Practices strikes repeatedly",
+    "Challenges rivals with posture",
+    "Escalates when copied"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Grass",
+    "Flying",
+    "Psychic",
+    "Fairy",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fire",
+    "Water",
+    "Ice",
+    "Bug",
+    "Rock",
+    "Dark",
+    "Steel"
+  ],
+  "signsOfPresence": [
+    "Wet drag marks",
+    "Fish scales",
+    "Foam trails",
+    "Muddy slides",
+    "Unusual ripples",
+    "Shell fragments"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Life vest",
+    "Throw rope",
+    "Waterproof boots",
+    "Clean rinse water",
+    "Padded barrier",
+    "Mouth guard for handlers",
+    "Training baton",
+    "Clear command plan"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 4,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 2,
+    "identificationDifficulty": 3,
+    "reliability": 2,
+    "resourceCost": 4,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Poliwrath usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a water-type response.",
+  "visualSymbol": "💧",
+  "image": "images/pokemon/pokemon-poliwrath.png",
+  "audio": "audio/pokemon/pokemon-poliwrath.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Poliwag Evolution Family appears to have adapted around Kanto ponds, rivers, Route 22 water, Johto rain ponds, marshes, and quiet roadside ditches. Its line favors survival through water pressure, specialized shelter choice, and rapid behavioral changes during maturity. Poliwag becomes Poliwhirl by Level 25; Poliwhirl becomes Poliwrath by Water Stone. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Poliwag",
+      "stage": "Base",
+      "method": "Level 25",
+      "note": "Base-stage Water species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Poliwhirl",
+      "stage": "Stage One",
+      "method": "Water Stone",
+      "note": "Intermediate Water stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+    },
+    {
+      "name": "Poliwrath",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Water / Fighting species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Poliwag Evolution Family",
+    "subtitle": "Evolution Tree - Water / Fighting Type",
+    "mainLine": [
+      {
+        "name": "Poliwag",
+        "stage": "Base",
+        "types": [
+          "Water"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Level 25",
+        "note": "Base-stage Water species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Poliwhirl",
+        "stage": "Stage One",
+        "types": [
+          "Water"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Water Stone",
+        "note": "Intermediate Water stage. Body systems are reorganizing toward the final form and behavior may be unstable."
+      },
+      {
+        "name": "Poliwrath",
+        "stage": "Final",
+        "types": [
+          "Water",
+          "Fighting"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Water / Fighting species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "water",
+    "fighting",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "poliwrath"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aquafauna",
+    "order": "Hydriformes",
+    "family": "Aquatidae",
+    "genus": "Poliwrat",
+    "species": "poliwrath fieldensis"
+  },
+  "humanConflictRisk": "High",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to water-type warning signs"
+  ],
+  "territoryRange": "5 to 30 square miles or more for strong adults and apex forms",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to ponds, feeds heavily, defends shelter, and follows this first-151 evolution profile: Poliwag evolves into Poliwhirl by Level 25. Poliwhirl evolves into Poliwrath by Water Stone.",
+  "containmentRequirements": "Requires clean pools, drainage control, and slip-safe barriers, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a water-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a water hazard area. Do not attempt capture unless trained and equipped for Poliwrath.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "dominant adults with guarded ranges or stable colonies",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazard comes from body contact and species-specific attacks.",
+    "electricFieldRange": "No electric field. Maintain normal standoff based on speed, terrain, and behavior.",
+    "burstSpeed": "Field burst speed roughly 17 to 31 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Poliwrath's body supports Water / Fighting output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 4 ft 3 in",
+    "weight": "119.0 lbs",
+    "types": "Water / Fighting",
+    "lifestyle": "Final water-type field organism",
+    "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include high-protein meals, roots, fruit, grains, and mineral salts for muscle recovery",
+    "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "1 to 3"
+  },
+  "domesticationDifficulty": "High",
+  "physicalCharacteristics": "Recognizable as tadpole pokemon with water / fighting adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-poliwrath.json",
+  "officialBaseStats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "specialAttack": 70,
+    "specialDefense": 90,
+    "speed": 70,
+    "total": 510
+  },
+  "attacks": [
+    {
+      "name": "Submission",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 80,
+      "fieldUse": "amphibious grappling slam"
+    },
+    {
+      "name": "Water Gun",
+      "type": "Water",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "pressurized water jet"
+    },
+    {
+      "name": "Bubble Beam",
+      "type": "Water",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "foaming jet used to blind and push back"
+    },
+    {
+      "name": "Surf",
+      "type": "Water",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "mass water displacement that can swamp camps"
+    },
+    {
+      "name": "Hydro Pump",
+      "type": "Water",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 80,
+      "fieldUse": "high-pressure water blast from mature specimens"
+    },
+    {
+      "name": "Karate Chop",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "focused chopping strike"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Water Stone evolution in lakes, old martial wetlands, river mouths, and training pools built for amphibious combat"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Poliwag evolves into Poliwhirl by Level 25. Poliwhirl evolves into Poliwrath by Water Stone.",
+    "currentStage": "Final",
+    "methodFromPrevious": "Water Stone"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

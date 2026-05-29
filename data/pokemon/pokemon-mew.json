@@ -1,0 +1,267 @@
+{
+  "id": "pokemon-mew",
+  "entryId": "PKMN-0151",
+  "pokedexNumber": "#0151",
+  "name": "Mew",
+  "category": "animals",
+  "type": "Psychic Creature",
+  "elementType": "psychic",
+  "dangerLevel": "Extreme",
+  "rarity": "Mythic",
+  "region": "Kanto",
+  "route": "Faraway Island myths, ancient jungle ruins, deep genetic archives, and unverified global sightings",
+  "habitat": "quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges. Field anchors: Faraway Island myths, ancient jungle ruins, deep genetic archives, and unverified global sightings",
+  "classification": "New Species Pokemon / Ancient Psychic Ancestor",
+  "height": "1 ft 4 in",
+  "weight": "8.8 lbs",
+  "behaviorTemperament": "Mew is best treated as a single stage field organism with psychic-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "activityPattern": "Crepuscular and low-noise active. Sudden disappearances or staring episodes occur during stress.",
+  "bestTimeToFind": "Quiet dawn or late evening in low-noise fields, ruins, labs, or old settlement edges",
+  "observationDifficulty": "High. Record from cover and avoid pursuit.",
+  "conservationStatus": "Strictly protected mythic or legendary species",
+  "populationStatus": "Unknown. Records are rare, restricted, or disputed. Do not treat sightings as ordinary wildlife encounters.",
+  "description": "A Psychic Pokemon listed as New Species Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Field records for Mew are fragmentary because every credible encounter became a restricted incident. Rangers describe the first reliable reports as less like animal sightings and more like weather, power, fire, or psychic events that happened to have a living center. The locations most often tied to Mew include Faraway Island myths, ancient jungle ruins, deep genetic archives, and unverified global sightings. Local stories grew around missing tools, strange lights, sudden silence, and terrain altered after the creature passed. Modern protocol is simple: log the sighting, protect civilians, do not pursue, and never assume a legendary or mythic Pokemon is behaving according to ordinary predator logic.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to psychic activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Mew, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are mind pressure, sleep effects, confusion, and containment failure. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Lower noise, avoid direct staring contests, keep a partner in sight, and leave if headaches, missing time, or sudden drowsiness starts.",
+  "firstAid": "For confusion, fainting, or panic, remove the person from the site, reduce stimuli, and monitor until fully oriented.",
+  "companionSuitability": "Not suitable for private companionship; observation only under elite research or ranger authority",
+  "abilities": [
+    "Synchronize"
+  ],
+  "fieldBehaviors": [
+    "Stares before teleporting or attacking",
+    "Avoids loud groups",
+    "Responds to emotional stress nearby"
+  ],
+  "weaknesses": [
+    "Bug",
+    "Ghost",
+    "Dark",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fighting",
+    "Psychic"
+  ],
+  "signsOfPresence": [
+    "Headaches near site",
+    "Bent spoons or tools",
+    "Repeated dreams",
+    "Quiet animal behavior",
+    "Objects moved from shelves",
+    "Missing-time reports"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Partner observer",
+    "Low-noise headset",
+    "Clock check card",
+    "Calming light"
+  ],
+  "stats": {
+    "power": 5,
+    "speed": 3,
+    "stealth": 4,
+    "danger": 5,
+    "usefulness": 4,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 2,
+    "resourceCost": 5,
+    "speedOfOnset": 4,
+    "detectability": 2,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Mew usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a psychic-type response.",
+  "visualSymbol": "🔮",
+  "image": "images/pokemon/pokemon-mew.png",
+  "audio": "audio/pokemon/pokemon-mew.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Mew sits outside ordinary field evolution. Records connect it to Faraway Island myths, ancient jungle ruins, deep genetic archives, and unverified global sightings. In a real-world survival context, its biology is treated as a living disaster profile rather than a normal animal profile. The current theory is that its Psychic traits were stabilized by rare energy conditions, extreme isolation, or direct genetic history. Sightings are therefore logged as restricted events, not routine wildlife observations.",
+  "evolutionLine": [
+    {
+      "name": "Mew",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Psychic species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Mew Evolution Family",
+    "subtitle": "Evolution Tree - Psychic Type",
+    "mainLine": [
+      {
+        "name": "Mew",
+        "stage": "Single Stage",
+        "types": [
+          "Psychic"
+        ],
+        "symbol": "🔮",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Psychic species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "psychic",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "mew"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Neurofauna",
+    "order": "Psyformes",
+    "family": "Mentidae",
+    "genus": "Mew",
+    "species": "mew fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Not domesticated; restricted legendary observation only",
+  "prey": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to psychic-type warning signs"
+  ],
+  "territoryRange": "Unknown and not safely measurable",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to quiet fields, feeds heavily, defends shelter, and follows this first-151 evolution profile: Mew has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires low-stimulation rooms, observation protocols, and paired handlers, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a psychic-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to confusion, sleep, panic, lost time, memory gaps, and containment failure",
+  "reproductionNesting": "Breeding details are restricted, unknown, or mythic; do not disturb suspected nests or lairs.",
+  "predators": "Few known predators. Main threats are humans, habitat damage, rival apex Pokemon, and containment errors.",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a psychic hazard area. Do not attempt capture unless trained and equipped for Mew.",
+  "legalStatus": "Restricted or prohibited to capture without high-level authority",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: legendary or mythic longevity may be decades to centuries or biologically abnormal.",
+  "socialStructure": "Unknown; treat as solitary unless clear evidence says otherwise.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Psychic pressure can affect perception, balance, and memory.",
+    "electricFieldRange": "Mental-effect range varies from line of sight to room-scale depending on stress and maturity.",
+    "burstSpeed": "Field burst speed roughly 25 to 45 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes confusion, sleep, panic, lost time, memory gaps, and containment failure. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Mew's body supports Psychic output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 1 ft 4 in",
+    "weight": "8.8 lbs",
+    "types": "Psychic",
+    "lifestyle": "Single Stage psychic-type field organism",
+    "diet": "soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+    "habitat": "quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "1 to 3"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as new species pokemon with psychic adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-mew.json",
+  "officialBaseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "specialAttack": 100,
+    "specialDefense": 100,
+    "speed": 100,
+    "total": 600
+  },
+  "attacks": [
+    {
+      "name": "Ancient Power",
+      "type": "Rock",
+      "category": "Special",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "old-energy pulse observed in mythic records"
+    },
+    {
+      "name": "Confusion",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "minor psychic shock causing dizziness"
+    },
+    {
+      "name": "Psybeam",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "colored mental beam used to disrupt balance"
+    },
+    {
+      "name": "Psychic",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "direct telekinetic pressure against body and mind"
+    },
+    {
+      "name": "Teleport",
+      "type": "Psychic",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "instant relocation that makes containment difficult"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Faraway Island myths, ancient jungle ruins, deep genetic archives, and unverified global sightings"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Mew has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

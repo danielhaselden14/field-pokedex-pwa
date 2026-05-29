@@ -1,0 +1,61 @@
+{
+  "id": "ivysaur-dossier",
+  "title": "Ivysaur Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "High-risk transitional symbiotic species. Primary hazard: pre-bloom spores, rooting behavior, and partial plant control.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Ivysaur is what happens when the garden starts answering before the animal does.\n\nA Bulbasaur may follow a human voice. An Ivysaur listens, but it pauses first, as if waiting for permission from something rooted deeper inside its own body. Rangers call that pause the “second silence.” It is the moment between command and obedience where the creature’s eyes soften, its body stills, and the flower-bud on its back tilts almost imperceptibly toward the speaker.\n\nSome handlers say Ivysaur becomes calmer after evolution. That is only partly true. It becomes quieter, heavier, and less wasteful in movement. The playful urgency of Bulbasaur gives way to long periods of watchful stillness, especially in damp forests, abandoned gardens, and disturbed soil. It will stand for hours with its feet sunk into mud, breathing slowly while its bulb drinks sunlight, moisture, and whatever minerals the earth will surrender.\n\nDuring this stage the bulb is no longer cargo. It is an organ. Its roots lace into the spine, ribs, shoulders, and upper limbs. When Ivysaur moves, the plant moves with it. When the plant hungers, the animal body lowers itself closer to the ground. When the animal tires, the plant keeps it standing.\n\nThere are reports of Ivysaur continuing to walk after tranquilizer darts should have dropped it. One ranger described a sedated specimen dragging itself across a laboratory floor while fully unconscious, its legs jerking unevenly as the vines pulled against tile. The animal’s eyes were closed. The flower-bud was turned toward a cracked window where moonlight touched the floor.\n\nIvysaur is most dangerous when it appears sick. A healthy Ivysaur maintains tension between animal and plant. It resists rooting too deeply. It sleeps lightly. It wakes when approached. But when starving, injured, or kept too long away from living soil, the plant takes more control. The creature becomes gentle in a terrible way. It stops biting. It stops fleeing. It tries to draw warm bodies close.\n\nLost hikers have reported finding Ivysaur in quiet clearings surrounded by sleeping animals. Birds, rodents, insects, and even young fire-types have been found lying in rings around the Pokémon, breathing shallowly beneath a haze of sweet pollen. The Ivysaur did not eat them in the ordinary sense. Its vines entered the soil beneath them, feeding on warmth, waste, and the slow chemical panic of trapped prey.\n\nThe victims usually wake if removed early. Usually.\n\nOlder Kanto villages believed Ivysaur were forest judges. If a person entered their territory with honest grief, the Ivysaur would guide them out. If they came with an axe, trap, or stolen egg, the forest would “remember their weight.” Bodies were rarely found above ground. Searchers found depressions in moss shaped like kneeling people, filled with new flowers.\n\nThe worst incidents occur during pre-bloom. Before becoming Venusaur, Ivysaur enters a period of unbearable biological pressure. The bud swells. The leaves widen. The animal body becomes irritable, exhausted, and desperate for food. It may hunt, but not cleanly. It pins prey beneath its weight, drains nutrients through vine contact, and releases spores that keep the victim still while the plant feeds.\n\nThis is not cruelty. The Ivysaur is afraid. Evolution hurts it. The flower is opening from the inside, and every instinct in the animal body knows that something familiar is ending.\n\nA bonded Ivysaur may seek out its handler during this stage, pressing its head into their chest the way it did as a Bulbasaur. It is affection, but it is also anchoring behavior. The creature is trying to remember the shape of trust before the bloom changes what trust means.\n\nIf an Ivysaur leans against you, comfort it. If its vines wrap around you, stay calm. If the bud begins to open, do not let it fall asleep beside you."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Ivysaur was not accepted as a separate life stage until **1819**, twelve years after Bulbasaur’s formal documentation.\n\nThe delay was not because Ivysaur was rare. Early researchers kept misclassifying it as an old, diseased Bulbasaur. The first preserved specimens had swollen back-growths, cracked skin around the shoulders, stiffened limbs, and abnormal root penetration through the torso. Naturalists assumed these were signs of parasitic failure. They believed the plant was killing the animal. They were half right.\n\nThe first confirmed Ivysaur record came from a tagged Bulbasaur released into the western Kanto forest belt in 1816. The specimen had been part of an early recovery program after several captive Bulbasaur died in sterile enclosures. Researchers marked its shell, recorded its measurements, and returned it to a protected grove. For three years, it vanished.\n\nIn spring of 1819, villagers reported a “low blue beast carrying a closed flower” near the same grove. When researchers found it, the tag was still visible beneath layers of scar tissue and plant growth. The Bulbasaur had not been replaced. It had become something heavier, slower, and far less willing to be handled.\n\nThis discovery changed the entire understanding of the species. Before Ivysaur, researchers believed the bulb grew because the animal aged. After Ivysaur, they realized the animal aged because the bulb demanded it. Evolution was not simply maturity. It was a negotiated takeover.\n\nThe 1819 specimen was observed for forty-three days. It refused cut food but rooted nightly in rich soil. It ignored most humans, but responded to the voice of the keeper who had raised it as a Bulbasaur. On the final week of observation, it began dragging dead leaves, feathers, and small bones into a circle around its sleeping place. Researchers thought it was nest-building.\n\nThen the local insect population disappeared.\n\nBy the end of the season, the grove around the Ivysaur was unnaturally lush. Plants grew too quickly. Mushrooms bloomed in daylight. Tree roots cracked stone markers that had stood for decades. The Ivysaur itself gained mass without eating enough visible food to explain the change. One assistant wrote that the creature looked less like an animal feeding on the forest and more like the forest choosing to have a mouth.\n\nThat assistant later vanished during a night survey. His boots were found beside the grove, upright and neatly filled with soil. No blood was recorded. The official explanation was exposure, animal disturbance, and poor field discipline. Unofficial ranger manuals still mark the site as the first known Ivysaur bloom-territory.\n\nThe evolutionary line now follows this chronology: Bulbasaur was formally recorded in 1807. Ivysaur was confirmed in 1819 after a marked Bulbasaur evolved in the wild. Venusaur would not be formally documented until later, because most early Ivysaur either died before full bloom or disappeared into old-growth zones where researchers could not safely track them.\n\nIvysaur remains the middle truth of the line. Bulbasaur is the promise. Venusaur is the conclusion. Ivysaur is the struggle in between: one body, two hungers, and a shrinking space where the animal still remembers being called by name."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        [
+          "1807",
+          "Bulbasaur formally recorded."
+        ],
+        [
+          "1816",
+          "A tagged Bulbasaur was released into protected western Kanto forest."
+        ],
+        [
+          "1819",
+          "Ivysaur confirmed when the tagged juvenile was found evolved, heavier, and carrying a closed flower."
+        ],
+        [
+          "After 1819",
+          "The grove became the first known Ivysaur bloom-territory after unnatural plant growth and a vanished assistant."
+        ]
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Watch for the second silence before obedience.",
+        "Do not keep Ivysaur away from living soil for long periods.",
+        "If it appears gentle while sick or starving, increase distance rather than relax.",
+        "Do not sleep beside an Ivysaur whose bud has begun opening.",
+        "If vines wrap around you, stay calm and avoid panic movement."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Older villages called Ivysaur forest judges.",
+        "The phrase “the forest remembered their weight” came from bodies disappearing into mossy depressions.",
+        "Ivysaur became a symbol of the struggle between companion memory and plant hunger."
+      ]
+    }
+  ]
+}

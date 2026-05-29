@@ -1,0 +1,34 @@
+﻿<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hard Refresh Field Pokedex</title>
+</head>
+<body style="background:#07180f;color:#d9ffd0;font-family:Arial,sans-serif;padding:32px;">
+  <h1>Hard Refreshing Field Pokedex...</h1>
+  <p>Clearing service worker, browser cache, and old CSS files.</p>
+
+  <script>
+    (async function () {
+      try {
+        if ("caches" in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(key => caches.delete(key)));
+        }
+
+        if ("serviceWorker" in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(reg => reg.unregister()));
+        }
+
+        localStorage.removeItem("field-pokedex-cache");
+        sessionStorage.clear();
+      } catch (error) {
+        console.error(error);
+      }
+
+      window.location.href = "./index.html?hardfresh=20260520174017";
+    })();
+  </script>
+</body>
+</html>

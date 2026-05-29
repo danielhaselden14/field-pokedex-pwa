@@ -1,0 +1,58 @@
+{
+  "id": "butterfree-dossier",
+  "title": "Butterfree Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Powder-bearing pollinator. Primary hazard: sleep, paralysis, confusion, and grief-associated swarm behavior.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Butterfree is the reason some villages covered their mirrors during spring. Not because the Pokémon was ugly. Because it was beautiful enough to make grief answer.\n\nAfter Caterpie’s hunger and Metapod’s stillness, Butterfree feels like mercy. It rises from the split shell wet, trembling, and fragile, then opens wings too large for the small body. Children cheer when they see the first one of the season. Farmers take it as a good sign. Old people smile because a flying Butterfree means at least one helpless Metapod survived the waiting.\n\nThe cruel part is that Butterfree does not emerge empty. It carries the forest with it.\n\nIts wings are covered in microscopic scales and chemical powders. These can soothe, stun, poison, confuse, or put living things to sleep depending on season, diet, and stress. A calm Butterfree in a flower patch is harmless to most people. A frightened Butterfree trapped in a bedroom can turn the air into a soft glittering hazard.\n\nVictims usually become calm before they panic. Eyelids lower. Sound feels distant. Pain softens. Memory loosens. Many smell childhood gardens, fresh bread, dead relatives’ clothing, or flowers that never grew nearby. Some laugh. Some cry. Some follow the Butterfree with outstretched hands. This is how wing-led sleepwalker stories began.\n\nA person under heavy powder influence may walk into roads, rivers, wells, hearths, or open windows. The Butterfree is not leading them in a human sense. It is flying toward moonlight, nectar, migration paths, or other Butterfree. The poisoned human follows because the powder has made everything gentle.\n\nButterfree are drawn to flowers, fruit, tree sap, sweat, tears, and medicinal herbs. During heavy bloom years they gather around sickrooms, funeral houses, battlefields, and plague tents because those places contain cut flowers, exposed bodies, sweet medicines, damp cloth, and salt from grief. This created the old belief that when Butterfree gathers at a window, someone inside is leaving.\n\nScience explains the attraction. It does not make the sight less terrible.\n\nMating flights are beautiful and dangerous. Hundreds gather in fields, valleys, orchards, or grave meadows, filling the air with wingbeats and drifting powder. Unprotected humans may experience euphoria, paralysis, temporary blindness, hallucinations, or memory gaps. Several disappearance accounts describe people entering Butterfree clouds at dusk and returning at sunrise convinced they danced with the dead. Rangers classify this as neurochemical hallucination. Local families call it borrowed funerals.\n\nButterfree is not malevolent. It seeks nectar, warmth, mates, and egg-laying sites. It pollinates forests, restores orchards after infestation years, and carries life from place to place on powdered wings. Caterpie takes. Metapod endures. Butterfree returns something, but not always safely.\n\nDo not chase Butterfree indoors. Do not sleep in a closed room where wing powder has settled. Do not follow one at dusk unless you know the ground ahead. Do not enter a mating flight without a mask and guide rope. If many land on you, sit down before your legs forget they belong to you."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Butterfree was formally linked to the Caterpie line in **1802**, six years after Caterpie was recorded and five years after Metapod was confirmed.\n\nThe delay was caused by scientific impatience and beauty. Early researchers saw Caterpie become Metapod but failed to prove Metapod became Butterfree because too many specimens died in jars, cabinets, heated rooms, and transport boxes. When winged forms appeared after mass Metapod seasons, naturalists argued Butterfree were separate pollinators attracted by damaged orchards. Local villagers knew better. They had watched the shells split.\n\nCarrow spent five years proving the line cleanly. He stopped removing Metapod from chosen sites, marked nearby bark instead of shells, sketched positions and anchoring threads, and hired villagers to watch at dawn. The final proof came in 1802 during the Second Veil Bloom. A marked Caterpie transformed into Metapod on a chapel gate. The area was watched continuously. On the twelfth morning, the shell split under observation and a Butterfree emerged bearing a trace of mineral dye near one leg.\n\nThe line became complete: Caterpie in 1796, Metapod in 1797, Butterfree in 1802.\n\nOnce linked, authorities realized the entire cycle had to be managed together. Killing Caterpie reduced Metapod. Disturbing Metapod reduced Butterfree. Reducing Butterfree harmed pollination, weakened orchards, and made the next Caterpie outbreak worse. The species was not a pest. It was a cycle that punished anyone who understood only one stage.\n\nButterfree’s powder likely began as loose wing scales that irritated predators, then evolved into chemically active compounds causing numbness, drowsiness, confusion, or paralysis. This explains why Butterfree became both blessing and omen: it saved orchards, haunted sickrooms, pollinated graves, and made mourning feel like chemistry with wings."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1796",
+          "text": "Caterpie formally recorded during the Green Veil Summer."
+        },
+        {
+          "date": "1797",
+          "text": "Metapod confirmed as Caterpie’s living chrysalis."
+        },
+        {
+          "date": "1802",
+          "text": "Butterfree formally linked during the Second Veil Bloom."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not chase Butterfree indoors.",
+        "Do not sleep in a closed room where wing powder has settled.",
+        "Do not follow one at dusk unless you know the ground ahead.",
+        "Do not enter a mating flight without a mask and guide rope.",
+        "If many land on you, sit down before your legs forget they belong to you."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Villages covered mirrors during spring.",
+        "Butterfree at sickroom windows became an omen of someone leaving.",
+        "Mating flight hallucinations were called borrowed funerals.",
+        "Butterfree became a symbol of release after stillness."
+      ]
+    }
+  ]
+}

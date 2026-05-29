@@ -1,0 +1,283 @@
+{
+  "id": "pokemon-moltres",
+  "entryId": "PKMN-0146",
+  "pokedexNumber": "#0146",
+  "name": "Moltres",
+  "category": "animals",
+  "type": "Fire / Flying Creature",
+  "elementType": "fire-flying",
+  "dangerLevel": "Extreme",
+  "rarity": "Legendary",
+  "region": "Kanto restricted legendary records",
+  "route": "Victory Road, Mt. Ember records, volcanic peaks, and wildfire thermals",
+  "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands; also uses open fields, cliffs, route corridors, tall trees, rooftops, and thermal ridges. Field anchors: Victory Road, Mt. Ember records, volcanic peaks, and wildfire thermals",
+  "classification": "Flame Pokemon / Legendary Fire Bird",
+  "height": "6 ft 7 in",
+  "weight": "132.3 lbs",
+  "behaviorTemperament": "Moltres is best treated as a single stage field organism with fire-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "activityPattern": "Diurnal to crepuscular. Often basks in morning warmth and becomes active again near dusk.",
+  "bestTimeToFind": "Warm mornings near sunlit rocks, vents, dry dens, old mansions, or volcanic scrub",
+  "observationDifficulty": "High. Record from cover and avoid pursuit.",
+  "conservationStatus": "Strictly protected mythic or legendary species",
+  "populationStatus": "Unknown. Records are rare, restricted, or disputed. Do not treat sightings as ordinary wildlife encounters.",
+  "description": "A Fire / Flying Pokemon listed as Flame Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Field records for Moltres are fragmentary because every credible encounter became a restricted incident. Rangers describe the first reliable reports as less like animal sightings and more like weather, power, fire, or psychic events that happened to have a living center. The locations most often tied to Moltres include Victory Road, Mt. Ember records, volcanic peaks, and wildfire thermals. Local stories grew around missing tools, strange lights, sudden silence, and terrain altered after the creature passed. Modern protocol is simple: log the sighting, protect civilians, do not pursue, and never assume a legendary or mythic Pokemon is behaving according to ordinary predator logic.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to fire activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Moltres, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are heat. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Clear dry fuel, approach from bare ground, keep water for people and structures, and retreat if flames intensify or breathing becomes smoky.",
+  "firstAid": "For burns, cool with clean running water for 20 minutes and do not apply grease.",
+  "companionSuitability": "Not suitable for private companionship; observation only under elite research or ranger authority",
+  "abilities": [
+    "Pressure",
+    "Flame Body"
+  ],
+  "fieldBehaviors": [
+    "Basks on warm stone",
+    "Avoids soaked bedding",
+    "Flares when cornered",
+    "Uses high perches",
+    "Watches open routes",
+    "Retreats upward when threatened"
+  ],
+  "weaknesses": [
+    "Water",
+    "Electric",
+    "Rock",
+    "Restricted knowledge",
+    "Provocation",
+    "Crowd panic"
+  ],
+  "resistances": [
+    "Fire",
+    "Grass",
+    "Fighting",
+    "Bug",
+    "Steel",
+    "Fairy",
+    "Ground immunity"
+  ],
+  "signsOfPresence": [
+    "Warm stones",
+    "Ash traces",
+    "Singed grass",
+    "Sulfur or smoke scent",
+    "Heat shimmer",
+    "Charred nesting material"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Fire blanket",
+    "ABC extinguisher",
+    "Burn kit",
+    "Bare-ground retreat path",
+    "Helmet",
+    "Arm guard",
+    "Covered food container",
+    "Whistle deterrent"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 1,
+    "resourceCost": 5,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 5
+  },
+  "fieldNote": "A calm Moltres usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a fire-type response.",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/pokemon-moltres.png",
+  "audio": "audio/pokemon/pokemon-moltres.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Moltres sits outside ordinary field evolution. Records connect it to Victory Road, Mt. Ember records, volcanic peaks, and wildfire thermals. In a real-world survival context, its biology is treated as a living disaster profile rather than a normal animal profile. The current theory is that its Fire / Flying traits were stabilized by rare energy conditions, extreme isolation, or direct genetic history. Sightings are therefore logged as restricted events, not routine wildlife observations.",
+  "evolutionLine": [
+    {
+      "name": "Moltres",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Fire / Flying species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Moltres Evolution Family",
+    "subtitle": "Evolution Tree - Fire / Flying Type",
+    "mainLine": [
+      {
+        "name": "Moltres",
+        "stage": "Single Stage",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Fire / Flying species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "fire",
+    "flying",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "moltres"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Pyrofauna",
+    "order": "Igniformes",
+    "family": "Thermoferidae",
+    "genus": "Moltres",
+    "species": "moltres fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Not domesticated; restricted legendary observation only",
+  "prey": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to fire-type warning signs"
+  ],
+  "territoryRange": "Unknown and not safely measurable",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to dry foothills, feeds heavily, defends shelter, and follows this first-151 evolution profile: Moltres has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires dry shelters, stone floors, firebreaks, and ventilation, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a fire-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to burns, smoke inhalation, brush ignition, panic fire, and heat stress",
+  "reproductionNesting": "Breeding details are restricted, unknown, or mythic; do not disturb suspected nests or lairs.",
+  "predators": "Few known predators. Main threats are humans, habitat damage, rival apex Pokemon, and containment errors.",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a fire hazard area. Do not attempt capture unless trained and equipped for Moltres.",
+  "legalStatus": "Restricted or prohibited to capture without high-level authority",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: legendary or mythic longevity may be decades to centuries or biologically abnormal.",
+  "socialStructure": "Unknown; treat as solitary unless clear evidence says otherwise.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Heat output and flame chemistry are the main hazards.",
+    "electricFieldRange": "Flame and radiant heat hazard from 3 to 30 ft depending on size and fuel.",
+    "burstSpeed": "Field burst speed roughly 22 to 40 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes burns, smoke inhalation, brush ignition, panic fire, and heat stress. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Moltres's body supports Fire / Flying output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 6 ft 7 in",
+    "weight": "132.3 lbs",
+    "types": "Fire / Flying",
+    "lifestyle": "Single Stage fire-type field organism",
+    "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+    "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "Unknown or solitary"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as flame pokemon with fire / flying adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-moltres.json",
+  "officialBaseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "specialAttack": 125,
+    "specialDefense": 85,
+    "speed": 90,
+    "total": 580
+  },
+  "attacks": [
+    {
+      "name": "Fire Blast",
+      "type": "Fire",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 85,
+      "fieldUse": "legendary flame burst"
+    },
+    {
+      "name": "Ember",
+      "type": "Fire",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "small flame burst used for warning and ignition"
+    },
+    {
+      "name": "Flamethrower",
+      "type": "Fire",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "sustained breath or chemical flame jet"
+    },
+    {
+      "name": "Fire Spin",
+      "type": "Fire",
+      "category": "Special",
+      "power": 35,
+      "accuracy": 85,
+      "fieldUse": "circling flame used to trap prey or clear brush"
+    },
+    {
+      "name": "Gust",
+      "type": "Flying",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "wing-driven dust and wind burst"
+    },
+    {
+      "name": "Wing Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "close-range wing strike"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Victory Road, Mt. Ember records, volcanic peaks, and wildfire thermals"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Moltres has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

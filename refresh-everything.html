@@ -1,0 +1,32 @@
+﻿<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Refresh Field Pokedex</title>
+</head>
+<body style="background:#07180f;color:#d9ffd0;font-family:Arial,sans-serif;padding:32px;">
+  <h1>Refreshing Field Pokedex...</h1>
+  <p>Applying Animals tab numerical order.</p>
+  <script>
+    (async function () {
+      try {
+        if ("caches" in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(key => caches.delete(key)));
+        }
+
+        if ("serviceWorker" in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(reg => reg.unregister()));
+        }
+
+        sessionStorage.clear();
+      } catch (error) {
+        console.error(error);
+      }
+
+      window.location.href = "./index.html?fresh=20260520204125";
+    })();
+  </script>
+</body>
+</html>

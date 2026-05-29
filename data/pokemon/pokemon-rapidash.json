@@ -1,0 +1,289 @@
+{
+  "id": "pokemon-rapidash",
+  "entryId": "PKMN-0078",
+  "pokedexNumber": "#0078",
+  "name": "Rapidash",
+  "category": "animals",
+  "type": "Fire Creature",
+  "elementType": "fire",
+  "dangerLevel": "Extreme",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "High plains, volcanic roads, cavalry route records, and open grass where Ponyta can run safely",
+  "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands. Field anchors: High plains, volcanic roads, cavalry route records, and open grass where Ponyta can run safely",
+  "classification": "Fire Horse Pokemon / Full-Speed Flame Equine",
+  "height": "5 ft 7 in",
+  "weight": "209.4 lbs",
+  "behaviorTemperament": "Rapidash is best treated as a final field organism with fire-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+  "activityPattern": "Diurnal to crepuscular. Often basks in morning warmth and becomes active again near dusk.",
+  "bestTimeToFind": "Warm mornings near sunlit rocks, vents, dry dens, old mansions, or volcanic scrub",
+  "observationDifficulty": "Moderate to high. It may be obvious in ideal habitat, but safe identification requires distance and attention to warning signs.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Fire Pokemon listed as Fire Horse Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Rapidash was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to High plains, volcanic roads, cavalry route records, and open grass where Ponyta can run safely. The species is now handled as a Fire field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Rapidash into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to fire activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Rapidash, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are heat. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Clear dry fuel, approach from bare ground, keep water for people and structures, and retreat if flames intensify or breathing becomes smoky.",
+  "firstAid": "For burns, cool with clean running water for 20 minutes and do not apply grease.",
+  "companionSuitability": "Poor for general companionship; expert permit and specialized containment required",
+  "abilities": [
+    "Run Away",
+    "Flash Fire",
+    "Flame Body"
+  ],
+  "fieldBehaviors": [
+    "Basks on warm stone",
+    "Avoids soaked bedding",
+    "Flares when cornered"
+  ],
+  "weaknesses": [
+    "Water",
+    "Ground",
+    "Rock",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fire",
+    "Grass",
+    "Ice",
+    "Bug",
+    "Steel",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Warm stones",
+    "Ash traces",
+    "Singed grass",
+    "Sulfur or smoke scent",
+    "Heat shimmer",
+    "Charred nesting material"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Fire blanket",
+    "ABC extinguisher",
+    "Burn kit",
+    "Bare-ground retreat path"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 4,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 2,
+    "resourceCost": 5,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 5
+  },
+  "fieldNote": "A calm Rapidash usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a fire-type response.",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/pokemon-rapidash.png",
+  "audio": "audio/pokemon/pokemon-rapidash.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Ponyta Evolution Family appears to have adapted around Pokemon Mansion, grassland tracks, volcanic foothills, and warm plains near old roads. Its line favors survival through heat, specialized shelter choice, and rapid behavioral changes during maturity. Ponyta becomes Rapidash by Level 40. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Ponyta",
+      "stage": "Base",
+      "method": "Level 40",
+      "note": "Base-stage Fire species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Rapidash",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Fire species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Ponyta Evolution Family",
+    "subtitle": "Evolution Tree - Fire Type",
+    "mainLine": [
+      {
+        "name": "Ponyta",
+        "stage": "Base",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Level 40",
+        "note": "Base-stage Fire species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Rapidash",
+        "stage": "Final",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Fire species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "fire",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "rapidash"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Pyrofauna",
+    "order": "Igniformes",
+    "family": "Thermoferidae",
+    "genus": "Rapidash",
+    "species": "rapidash fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to fire-type warning signs"
+  ],
+  "territoryRange": "5 to 30 square miles or more for strong adults and apex forms",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to dry foothills, feeds heavily, defends shelter, and follows this first-151 evolution profile: Ponyta evolves into Rapidash by Level 40.",
+  "containmentRequirements": "Requires dry shelters, stone floors, firebreaks, and ventilation, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a fire-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to burns, smoke inhalation, brush ignition, panic fire, and heat stress",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a fire hazard area. Do not attempt capture unless trained and equipped for Rapidash.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Heat output and flame chemistry are the main hazards.",
+    "electricFieldRange": "Flame and radiant heat hazard from 3 to 30 ft depending on size and fuel.",
+    "burstSpeed": "Field burst speed roughly 26 to 47 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes burns, smoke inhalation, brush ignition, panic fire, and heat stress. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Rapidash's body supports Fire output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 5 ft 7 in",
+    "weight": "209.4 lbs",
+    "types": "Fire",
+    "lifestyle": "Final fire-type field organism",
+    "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+    "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "1 to 3"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as fire horse pokemon with fire adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-rapidash.json",
+  "officialBaseStats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "specialAttack": 80,
+    "specialDefense": 80,
+    "speed": 105,
+    "total": 500
+  },
+  "attacks": [
+    {
+      "name": "Megahorn",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 120,
+      "accuracy": 85,
+      "fieldUse": "horn charge capable of punching through barriers"
+    },
+    {
+      "name": "Ember",
+      "type": "Fire",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "small flame burst used for warning and ignition"
+    },
+    {
+      "name": "Flamethrower",
+      "type": "Fire",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "sustained breath or chemical flame jet"
+    },
+    {
+      "name": "Fire Spin",
+      "type": "Fire",
+      "category": "Special",
+      "power": 35,
+      "accuracy": 85,
+      "fieldUse": "circling flame used to trap prey or clear brush"
+    },
+    {
+      "name": "Fire Blast",
+      "type": "Fire",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 85,
+      "fieldUse": "high-output fireburst used only by strong adults"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "High plains, volcanic roads, cavalry route records, and open grass where Ponyta can run safely"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Ponyta evolves into Rapidash by Level 40.",
+    "currentStage": "Final",
+    "methodFromPrevious": "Level 40"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

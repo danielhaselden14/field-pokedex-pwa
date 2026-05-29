@@ -298,7 +298,7 @@ function makeEvolutionConnector(methodText) {
 
   const arrow = document.createElement("div");
   arrow.className = "evolution-arrow";
-  arrow.textContent = "âžœ";
+  arrow.textContent = "Evolve";
 
   connector.appendChild(method);
   connector.appendChild(arrow);
@@ -425,7 +425,7 @@ function makeEvolutionConnector(methodText) {
 
   const arrow = document.createElement("div");
   arrow.className = "evolution-arrow";
-  arrow.textContent = "âžœ";
+  arrow.textContent = "Evolve";
 
   connector.appendChild(method);
   connector.appendChild(arrow);
@@ -1110,20 +1110,71 @@ async function openEntryDetail(entry) {
       }
     });
 
-    if (entry.elementType) {
-      const safeType = entry.elementType.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const officialTypes = getOfficialTypesForEntry(entry);
+    const preferredThemeType = getPreferredDetailThemeType(officialTypes);
+    const themeTypes = preferredThemeType ? [preferredThemeType] : officialTypes;
+
+    themeTypes.forEach((typeName) => {
+      const safeType = normalizeElementType(typeName);
+
+      if (!safeType) {
+        return;
+      }
+
       detailScreen.classList.add("type-" + safeType);
       document.body.classList.add("entry-type-" + safeType);
 
       if (safeType === "electric") {
         document.body.classList.add("electric-page-mode");
       }
-    }
+    });
   }
 
+  // V44_RUN_UNIVERSAL_IMAGES_BEFORE_SHOW_DETAIL
+  applyUniversalPokemonImages(entry);
   showScreen("detail");
 }
 
+// ANIMAL_NUMERICAL_SORT_HELPER_START
+function getEntryNumberForSort(entry) {
+  const possibleValues = [
+    entry.pokedexNumber,
+    entry.number,
+    entry.entryNumber,
+    entry.nationalNumber,
+    entry.dexNumber,
+    entry.id,
+    entry.entryId
+  ];
+
+  for (const value of possibleValues) {
+    if (value === null || value === undefined) {
+      continue;
+    }
+
+    const match = String(value).match(/\d+/);
+
+    if (match) {
+      return Number(match[0]);
+    }
+  }
+
+  return 999999;
+}
+
+function sortAnimalsAndCreatures(entries) {
+  return [...entries].sort((a, b) => {
+    const aNumber = getEntryNumberForSort(a);
+    const bNumber = getEntryNumberForSort(b);
+
+    if (aNumber !== bNumber) {
+      return aNumber - bNumber;
+    }
+
+    return String(a.name || a.title || "").localeCompare(String(b.name || b.title || ""));
+  });
+}
+// ANIMAL_NUMERICAL_SORT_HELPER_END
 function renderEntries(entries) {
   categories.forEach((category) => {
     const screen = document.querySelector("#" + category + "-screen");
@@ -1141,7 +1192,11 @@ function renderEntries(entries) {
     const list = document.createElement("section");
     list.className = "card-grid entry-list";
 
-    const matchingEntries = entries.filter((entry) => entry.category === category);
+    let matchingEntries = entries.filter((entry) => entry.category === category);
+
+    if (category === "animals") {
+      matchingEntries = sortAnimalsAndCreatures(matchingEntries);
+    }
 
     if (matchingEntries.length === 0) {
       const emptyCard = document.createElement("article");
@@ -1158,6 +1213,120 @@ function renderEntries(entries) {
   });
 }
 
+// OFFICIAL_TYPE_HELPER_START
+const OFFICIAL_POKEMON_TYPES = [
+  "Normal", "Fire", "Water", "Electric", "Grass", "Ice",
+  "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug",
+  "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"
+];
+
+const OFFICIAL_TYPE_ALIASES = {
+  cold: "Ice",
+  frost: "Ice",
+  frozen: "Ice",
+  nature: "Grass",
+  plant: "Grass",
+  plants: "Grass",
+  flora: "Grass",
+  venom: "Poison",
+  toxic: "Poison",
+  shadow: "Dark",
+  wind: "Flying",
+  air: "Flying",
+  lightning: "Electric",
+  thunder: "Electric",
+  metal: "Steel",
+  earth: "Ground",
+  stone: "Rock"
+};
+
+function collectOfficialTypeText(value, output) {
+  if (value === null || value === undefined) {
+    return output;
+  }
+
+  if (Array.isArray(value)) {
+    value.forEach((item) => collectOfficialTypeText(item, output));
+    return output;
+  }
+
+  if (typeof value === "object") {
+    Object.values(value).forEach((item) => collectOfficialTypeText(item, output));
+    return output;
+  }
+
+  output.push(String(value));
+  return output;
+}
+
+function getOfficialTypesForEntry(entry) {
+  const texts = [];
+
+  [
+    "officialTypes",
+    "types",
+    "type",
+    "elementType",
+    "elementalType",
+    "elementalTypes",
+    "elements",
+    "fieldType",
+    "fieldTypes",
+    "tags",
+    "category",
+    "classification"
+  ].forEach((key) => {
+    if (entry && entry[key] !== undefined) {
+      collectOfficialTypeText(entry[key], texts);
+    }
+  });
+
+  const found = new Set();
+
+  texts.forEach((rawText) => {
+    const text = String(rawText || "")
+      .replace(/[\/|,+;&:_-]+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    if (!text) {
+      return;
+    }
+
+    OFFICIAL_POKEMON_TYPES.forEach((typeName) => {
+      const pattern = new RegExp("(^|[^a-z])" + typeName + "([^a-z]|$)", "i");
+
+      if (pattern.test(text)) {
+        found.add(typeName);
+      }
+    });
+
+    Object.keys(OFFICIAL_TYPE_ALIASES).forEach((alias) => {
+      const pattern = new RegExp("(^|[^a-z])" + alias + "([^a-z]|$)", "i");
+
+      if (pattern.test(text)) {
+        found.add(OFFICIAL_TYPE_ALIASES[alias]);
+      }
+    });
+  });
+
+  return OFFICIAL_POKEMON_TYPES.filter((typeName) => found.has(typeName));
+}
+
+function getPreferredDetailThemeType(officialTypes) {
+  if (!officialTypes || officialTypes.length === 0) {
+    return "";
+  }
+
+  if (window.currentSelectedOfficialType && officialTypes.includes(window.currentSelectedOfficialType)) {
+    return window.currentSelectedOfficialType;
+  }
+
+  const firstNonNormal = officialTypes.find((typeName) => typeName !== "Normal");
+
+  return firstNonNormal || officialTypes[0];
+}
+// OFFICIAL_TYPE_HELPER_END
 function formatTypeName(typeName) {
   if (!typeName) {
     return "Unknown";
@@ -1177,15 +1346,22 @@ function renderTypes(entries, selectedType) {
     return;
   }
 
-  const availableTypes = Array.from(
-    new Set(
-      entries
-        .map((entry) => entry.elementType)
-        .filter((typeName) => typeName && typeName.trim().length > 0)
-    )
-  ).sort();
+  entries.forEach((entry) => {
+    entry.officialTypes = getOfficialTypesForEntry(entry);
+  });
 
-  const activeType = selectedType || availableTypes[0];
+  const availableTypes = OFFICIAL_POKEMON_TYPES.filter((typeName) => {
+    return entries.some((entry) => {
+      return entry.officialTypes && entry.officialTypes.includes(typeName);
+    });
+  });
+
+  const activeType =
+    selectedType && availableTypes.includes(selectedType)
+      ? selectedType
+      : availableTypes[0];
+
+  window.currentSelectedOfficialType = activeType || "";
 
   typePanel.innerHTML = "";
   typeResultsList.innerHTML = "";
@@ -1193,7 +1369,7 @@ function renderTypes(entries, selectedType) {
   availableTypes.forEach((typeName) => {
     const typeButton = document.createElement("button");
     typeButton.className = "type-filter-button";
-    typeButton.textContent = formatTypeName(typeName);
+    typeButton.textContent = typeName;
 
     if (typeName === activeType) {
       typeButton.classList.add("active");
@@ -1206,7 +1382,9 @@ function renderTypes(entries, selectedType) {
     typePanel.appendChild(typeButton);
   });
 
-  const matchingEntries = entries.filter((entry) => entry.elementType === activeType);
+  const matchingEntries = entries.filter((entry) => {
+    return entry.officialTypes && entry.officialTypes.includes(activeType);
+  });
 
   if (matchingEntries.length === 0) {
     const emptyCard = document.createElement("article");
@@ -1325,7 +1503,7 @@ function setupSearch(entries) {
     if (matches.length === 0) {
       const emptyCard = document.createElement("article");
       emptyCard.className = "entry-card";
-      emptyCard.innerHTML = "<h3>No matches</h3><p>Try searching for Pikachu, electric, water, shelter, cold, plant, or hazard.</p>";
+      emptyCard.innerHTML = "<h3>No matches</h3><p>Try searching for Pikachu, electric, water, shelter, Ice, plant, or hazard.</p>";
       resultsList.appendChild(emptyCard);
       return;
     }
@@ -1392,7 +1570,7 @@ if (backButton) {
   });
 }
 
-fetch("./data/entries-index.json?v=20260517-145247")
+fetch("./data/entries-index.json?v=20260520-112943")
   .then((response) => response.json())
   .then((entries) => {
     allEntries = entries;
@@ -1415,6 +1593,470 @@ fetch("./data/entries-index.json?v=20260517-145247")
 
 
 
+
+
+
+
+
+
+
+/* ===== v43 AUTOMATIC NAME-BASED POKEMON IMAGE SYSTEM ===== */
+
+function fieldPokedexImageSlug(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim()
+    .toLowerCase()
+    .replace(/♀/g, "-female")
+    .replace(/♂/g, "-male")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function normalizeFieldPokedexImagePath(path) {
+  return String(path || "")
+    .trim()
+    .replace(/\\/g, "/")
+    .replace(/^\.\//, "");
+}
+
+function uniqueFieldPokedexPaths(paths) {
+  const seen = new Set();
+
+  return paths
+    .map(normalizeFieldPokedexImagePath)
+    .filter((path) => {
+      if (!path || seen.has(path)) {
+        return false;
+      }
+
+      seen.add(path);
+      return true;
+    });
+}
+
+function automaticPokemonImagePath(nameOrEntry, imageType) {
+  const rawName = typeof nameOrEntry === "string"
+    ? nameOrEntry
+    : (nameOrEntry && (nameOrEntry.name || nameOrEntry.id || nameOrEntry.entryId));
+
+  const slug = fieldPokedexImageSlug(rawName);
+
+  if (!slug) {
+    return "";
+  }
+
+  return "assets/images/pokemon/" + slug + "/" + slug + "-" + imageType + ".png";
+}
+
+function pokemonDisplayImageCandidates(entry) {
+  return uniqueFieldPokedexPaths([
+    automaticPokemonImagePath(entry, "display"),
+    entry ? entry.image : "",
+    entry ? entry.imagePath : "",
+    entry ? entry.sprite : ""
+  ]);
+}
+
+function pokemonAnatomyImageCandidates(entry) {
+  return uniqueFieldPokedexPaths([
+    automaticPokemonImagePath(entry, "anatomy"),
+    entry ? entry.anatomyImage : "",
+    entry ? entry.anatomyImagePath : "",
+    entry ? entry.anatomy : ""
+  ]);
+}
+
+function imageCacheSafeSource(path) {
+  const cleanPath = normalizeFieldPokedexImagePath(path);
+
+  if (!cleanPath) {
+    return "";
+  }
+
+  return cleanPath + (cleanPath.includes("?") ? "&" : "?") + "v=" + Date.now();
+}
+
+function loadFirstWorkingImage(img, candidates, onSuccess, onFailure) {
+  const cleanCandidates = uniqueFieldPokedexPaths(candidates);
+  let index = 0;
+
+  function tryNext() {
+    if (index >= cleanCandidates.length) {
+      if (onFailure) {
+        onFailure();
+      }
+      return;
+    }
+
+    const candidate = cleanCandidates[index];
+    index += 1;
+
+    img.onload = () => {
+      if (onSuccess) {
+        onSuccess(candidate);
+      }
+    };
+
+    img.onerror = () => {
+      tryNext();
+    };
+
+    img.src = imageCacheSafeSource(candidate);
+  }
+
+  tryNext();
+}
+
+function renderDetailMainImage(entry) {
+  const detailVisual = document.querySelector("#detail-visual");
+
+  if (!detailVisual) {
+    return;
+  }
+
+  detailVisual.innerHTML = "";
+
+  const image = document.createElement("img");
+
+  loadFirstWorkingImage(
+    image,
+    pokemonDisplayImageCandidates(entry),
+    () => {
+      image.alt = (entry && entry.name ? entry.name : "Entry") + " image";
+      detailVisual.innerHTML = "";
+      detailVisual.appendChild(image);
+      detailVisual.classList.add("has-image");
+    },
+    () => {
+      detailVisual.innerHTML = "";
+      detailVisual.textContent = entry && entry.visualSymbol ? entry.visualSymbol : "?";
+      detailVisual.classList.remove("has-image");
+    }
+  );
+}
+
+function renderAnatomyImage(entry) {
+  const anatomyCard = document.querySelector("#detail-anatomy-card");
+  const anatomyImg = document.querySelector("#detail-anatomy-image");
+  const anatomyLink = document.querySelector("#detail-anatomy-link");
+  const anatomyCaption = document.querySelector("#detail-anatomy-caption");
+
+  if (!anatomyCard || !anatomyImg) {
+    return;
+  }
+
+  loadFirstWorkingImage(
+    anatomyImg,
+    pokemonAnatomyImageCandidates(entry),
+    (workingPath) => {
+      anatomyImg.alt = (entry && entry.name ? entry.name : "Entry") + " anatomy plate";
+
+      if (anatomyLink) {
+        anatomyLink.href = normalizeFieldPokedexImagePath(workingPath);
+        anatomyLink.title = "Open full-size anatomy image";
+      }
+
+      if (anatomyCaption) {
+        anatomyCaption.textContent = (entry && entry.name ? entry.name : "Entry") + " biological anatomy reference. Tap or click the image to open it full-size.";
+      }
+
+      anatomyCard.classList.remove("hidden");
+    },
+    () => {
+      anatomyImg.removeAttribute("src");
+
+      if (anatomyLink) {
+        anatomyLink.href = "#";
+      }
+
+      anatomyCard.classList.add("hidden");
+    }
+  );
+}
+
+function evolutionImageCandidates(evolution, matchingEntry) {
+  return uniqueFieldPokedexPaths([
+    automaticPokemonImagePath(evolution ? evolution.name : "", "display"),
+    evolution ? evolution.image : "",
+    evolution ? evolution.imagePath : "",
+    evolution ? evolution.sprite : "",
+    matchingEntry ? matchingEntry.image : "",
+    matchingEntry ? matchingEntry.imagePath : "",
+    matchingEntry ? matchingEntry.sprite : ""
+  ]);
+}
+
+function makeEvolutionNode(evolution, currentEntryName) {
+  const node = document.createElement("div");
+  node.className = "evolution-family-node";
+
+  if (evolution.name === currentEntryName) {
+    node.classList.add("current-evolution");
+  }
+
+  const matchingEntry = findEntryByNameOrId(evolution.name);
+
+  if (matchingEntry) {
+    node.classList.add("clickable-evolution-node");
+    node.setAttribute("role", "button");
+    node.setAttribute("tabindex", "0");
+    node.title = "Open " + matchingEntry.name;
+
+    const openMatchingEntry = async () => {
+      try {
+        await openEntryDetail(matchingEntry);
+      } catch (error) {
+        console.error("Could not open evolution entry:", error);
+        alert("Could not open this evolution entry. Check that the matching JSON file exists and the index has been rebuilt.");
+      }
+    };
+
+    node.addEventListener("click", (event) => {
+      event.stopPropagation();
+      openMatchingEntry();
+    });
+
+    node.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        openMatchingEntry();
+      }
+    });
+  }
+
+  const symbol = document.createElement("div");
+  symbol.className = "evolution-symbol";
+
+  const evolutionImage = document.createElement("img");
+
+  loadFirstWorkingImage(
+    evolutionImage,
+    evolutionImageCandidates(evolution, matchingEntry),
+    () => {
+      evolutionImage.alt = (evolution && evolution.name ? evolution.name : "Evolution") + " image";
+      symbol.innerHTML = "";
+      symbol.appendChild(evolutionImage);
+      symbol.classList.add("has-image");
+    },
+    () => {
+      symbol.innerHTML = "";
+      symbol.textContent = evolution.symbol || "◆";
+      symbol.classList.remove("has-image");
+    }
+  );
+
+  const name = document.createElement("h4");
+  name.textContent = evolution.name;
+
+  const stage = document.createElement("p");
+  stage.className = "evolution-stage";
+  stage.textContent = evolution.stage || "Unknown Stage";
+
+  const types = document.createElement("div");
+  types.className = "evolution-type-pills";
+
+  if (evolution.types && evolution.types.length > 0) {
+    evolution.types.forEach((typeName) => {
+      const pill = document.createElement("span");
+      pill.textContent = typeName;
+      types.appendChild(pill);
+    });
+  }
+
+  const note = document.createElement("p");
+  note.className = "evolution-note";
+  note.textContent = evolution.note || "";
+
+  node.appendChild(symbol);
+  node.appendChild(name);
+  node.appendChild(stage);
+  node.appendChild(types);
+  node.appendChild(note);
+
+  return node;
+}
+
+
+/* ===== v44 UNIVERSAL DETAIL IMAGE AND ANATOMY OVERRIDE ===== */
+
+function universalPokemonImageSlug(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim()
+    .toLowerCase()
+    .replace(/♀/g, "-female")
+    .replace(/♂/g, "-male")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function universalCleanImagePath(path) {
+  return String(path || "")
+    .trim()
+    .replace(/\\/g, "/")
+    .replace(/^\.\//, "");
+}
+
+function universalUniqueImagePaths(paths) {
+  const seen = new Set();
+
+  return paths
+    .map(universalCleanImagePath)
+    .filter((path) => {
+      if (!path || seen.has(path)) {
+        return false;
+      }
+
+      seen.add(path);
+      return true;
+    });
+}
+
+function universalAutoPokemonImagePath(entryOrName, imageType) {
+  const rawName = typeof entryOrName === "string"
+    ? entryOrName
+    : (entryOrName && (entryOrName.name || entryOrName.id || entryOrName.entryId));
+
+  const slug = universalPokemonImageSlug(rawName);
+
+  if (!slug) {
+    return "";
+  }
+
+  return "assets/images/pokemon/" + slug + "/" + slug + "-" + imageType + ".png";
+}
+
+function universalCacheSafeImagePath(path) {
+  const cleanPath = universalCleanImagePath(path);
+
+  if (!cleanPath) {
+    return "";
+  }
+
+  return cleanPath + (cleanPath.includes("?") ? "&" : "?") + "v=" + Date.now();
+}
+
+function universalTryImages(img, paths, onSuccess, onFailure) {
+  const candidates = universalUniqueImagePaths(paths);
+  let index = 0;
+
+  function tryNext() {
+    if (index >= candidates.length) {
+      if (onFailure) {
+        onFailure();
+      }
+      return;
+    }
+
+    const path = candidates[index];
+    index += 1;
+
+    img.onload = () => {
+      if (onSuccess) {
+        onSuccess(path);
+      }
+    };
+
+    img.onerror = () => {
+      tryNext();
+    };
+
+    img.src = universalCacheSafeImagePath(path);
+  }
+
+  tryNext();
+}
+
+function universalPokemonDisplayCandidates(entry) {
+  return universalUniqueImagePaths([
+    universalAutoPokemonImagePath(entry, "display"),
+    entry ? entry.image : "",
+    entry ? entry.imagePath : "",
+    entry ? entry.sprite : ""
+  ]);
+}
+
+function universalPokemonAnatomyCandidates(entry) {
+  return universalUniqueImagePaths([
+    universalAutoPokemonImagePath(entry, "anatomy"),
+    entry ? entry.anatomyImage : "",
+    entry ? entry.anatomyImagePath : "",
+    entry ? entry.anatomy : ""
+  ]);
+}
+
+function applyUniversalDetailImage(entry) {
+  const detailVisual = document.querySelector("#detail-visual");
+
+  if (!detailVisual) {
+    return;
+  }
+
+  const image = document.createElement("img");
+
+  universalTryImages(
+    image,
+    universalPokemonDisplayCandidates(entry),
+    () => {
+      detailVisual.innerHTML = "";
+      image.alt = (entry && entry.name ? entry.name : "Entry") + " image";
+      detailVisual.appendChild(image);
+      detailVisual.classList.add("has-image");
+    },
+    () => {
+      detailVisual.innerHTML = "";
+      detailVisual.textContent = entry && entry.visualSymbol ? entry.visualSymbol : "?";
+      detailVisual.classList.remove("has-image");
+    }
+  );
+}
+
+function applyUniversalAnatomyImage(entry) {
+  const anatomyCard = document.querySelector("#detail-anatomy-card");
+  const anatomyImg = document.querySelector("#detail-anatomy-image");
+  const anatomyLink = document.querySelector("#detail-anatomy-link");
+  const anatomyCaption = document.querySelector("#detail-anatomy-caption");
+
+  if (!anatomyCard || !anatomyImg) {
+    return;
+  }
+
+  universalTryImages(
+    anatomyImg,
+    universalPokemonAnatomyCandidates(entry),
+    (workingPath) => {
+      anatomyImg.alt = (entry && entry.name ? entry.name : "Entry") + " anatomy plate";
+
+      if (anatomyLink) {
+        anatomyLink.href = universalCleanImagePath(workingPath);
+        anatomyLink.title = "Open full-size anatomy image";
+      }
+
+      if (anatomyCaption) {
+        anatomyCaption.textContent = (entry && entry.name ? entry.name : "Entry") + " biological anatomy reference. Tap or click the image to open it full-size.";
+      }
+
+      anatomyCard.classList.remove("hidden");
+    },
+    () => {
+      anatomyImg.removeAttribute("src");
+
+      if (anatomyLink) {
+        anatomyLink.href = "#";
+      }
+
+      anatomyCard.classList.add("hidden");
+    }
+  );
+}
+
+function applyUniversalPokemonImages(entry) {
+  applyUniversalDetailImage(entry);
+  applyUniversalAnatomyImage(entry);
+}
 
 
 

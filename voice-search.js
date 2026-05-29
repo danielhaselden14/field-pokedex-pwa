@@ -551,3 +551,4 @@
   const observer = new MutationObserver(() => attachVoiceSearch());
   observer.observe(document.body, { childList: true, subtree: true });
 })();
+

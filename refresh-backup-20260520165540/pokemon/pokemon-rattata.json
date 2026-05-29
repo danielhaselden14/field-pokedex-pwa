@@ -1,0 +1,353 @@
+{
+  "id": "pokemon-rattata",
+  "entryId": "PKMN-0019",
+  "pokedexNumber": "#0019",
+  "name": "Rattata",
+  "category": "animals",
+  "type": "Normal Creature",
+  "elementType": "normal",
+  "dangerLevel": "Low to Medium",
+  "rarity": "Common",
+  "region": "Kanto, Johto, Sinnoh, Unova, Alola, and related settled corridors",
+  "route": "Kanto Routes 1, 2, 4, 9, 16, 21, and 22; Johto routes and old towers such as Sprout Tower, Burned Tower, Bell Tower, Union Cave, Mt. Mortar, and Tohjo Falls; Sinnoh Routes 225 and 226; Unova Dreamyard and Relic Passage records; Alolan settlement edges, farms, ports, and night food routes",
+  "habitat": "Urban edges, grain stores, barns, hedgerows, abandoned buildings, riverbanks, dry wall cavities, cave mouths, old towers, ship holds, alleys, farms, and any food-rich habitat with small gaps for nesting",
+  "classification": "Mouse Pokemon / Base Stage Survival Rodent",
+  "height": "1 ft 0 in",
+  "weight": "7.7 lbs",
+  "behaviorTemperament": "Restless, bold around food, and extremely cautious when cornered. Wild Rattata rely on speed, scent, hearing, gnawing, and rapid reproduction. They bite first when trapped and often appear alone even when many more are nearby.",
+  "diet": "Seeds, grain, fruit, roots, insects, eggs, carrion scraps, stored food, refuse, leather, bark, mushrooms, and nearly any edible settlement waste",
+  "activityPattern": "Nocturnal to crepuscular in settlements and towers, but active at any hour when food is scarce or a nest has been disturbed.",
+  "bestTimeToFind": "Dusk near grain stores, old walls, hedgerows, wharves, barns, cave entrances, burned structures, and tower stairwells marked by fresh tooth grooves",
+  "observationDifficulty": "Easy. Rattata are common and noisy around food, but individuals vanish quickly into cracks and can be hard to count accurately.",
+  "conservationStatus": "Common nuisance species with local control restrictions near protected heritage towers and natural predator corridors",
+  "populationStatus": "Abundant and able to expand explosively wherever food waste, grain, berry crops, or abandoned structures are available. Local declines occur only where predators, sanitation, and sealed storage are consistent.",
+  "description": "A small Normal-type mouse Pokemon known for extreme vitality, fast breeding, sharp incisors, and the ability to live almost anywhere food can be found.",
+  "lore": "Early Kanto settlements did not treat Rattata as monsters at all. They were just the sound in the walls after harvest and the purple blur under a pantry shelf. That mistake lasted until entire grain rooms began losing structural beams to tooth marks. Field surveyors later discovered that Rattata were not merely eating stored food. They were testing every surface around it: rope, wood, bone, cloth, doors, baskets, and soft stone. In Johto, records from Sprout Tower and the Burned Tower describe night watchmen hearing hundreds of tiny feet above them before the floor beams failed. In Alola, the same lineage adapted to urban food chains, moving under cover of darkness and following dominant nest leaders toward fresher food. In a real-world field guide, the main danger is not one Rattata. It is assuming there is only one. A single sighting often means a hidden colony has mapped the building, located food, and begun cutting new routes through anything its teeth can wear down.",
+  "survivalUse": "Can reveal hidden food stores, structural gaps, low crawlspaces, old tunnel routes, and nearby water by their travel lanes. In survival settings, their alarm movement can warn of larger predators entering a settlement.",
+  "handlingWarning": "Do not grab barehanded, corner in a small room, or block every exit at once. A trapped Rattata can bite through gloves, wiring, light containers, and soft wood. Control food first, then guide the animal out.",
+  "encounterAdvice": "Stand still, remove exposed food, and open one escape route. If multiple animals appear or squeaking comes from walls, leave the area and treat it as a nest site rather than a single animal encounter.",
+  "firstAid": "Wash bites immediately with soap and clean water, control bleeding, cover with a sterile dressing, and seek medical care for deep punctures, tendon pain, swelling, fever, or suspected contamination.",
+  "companionSuitability": "Poor for casual handlers but useful for trained scent, tunnel, and pest-detection programs",
+  "abilities": [
+    "Run Away",
+    "Guts",
+    "Hustle"
+  ],
+  "fieldBehaviors": [
+    "Gnaws constantly to wear down incisors",
+    "Freezes when listening through walls",
+    "Runs along edges instead of open floor",
+    "Caches food in dry wall voids",
+    "Squeaks alarm signals from cover",
+    "Bites when trapped",
+    "Breeds quickly near stable food sources"
+  ],
+  "weaknesses": [
+    "Fighting",
+    "Large raptors",
+    "Snakes",
+    "Sealed food storage",
+    "Low food availability",
+    "Tooth overgrowth"
+  ],
+  "resistances": [
+    "Ghost immunity",
+    "High disease tolerance",
+    "Dirty habitat tolerance",
+    "Food scarcity resilience"
+  ],
+  "signsOfPresence": [
+    "Paired incisor grooves",
+    "Small purple or grey hairs",
+    "Droppings near food sacks",
+    "Gnawed door corners",
+    "Wall scratching after dusk",
+    "Seed husks in hidden piles",
+    "Chewed rope or wiring",
+    "Nesting cloth in tight gaps"
+  ],
+  "equipment": [
+    "Thick bite-resistant gloves",
+    "Eye protection",
+    "Small animal crate",
+    "Bite-wound kit",
+    "Food-safe storage bins",
+    "Metal trash container",
+    "Flashlight",
+    "Sealant for wall gaps",
+    "Respirator for dirty nest cleanup"
+  ],
+  "stats": {
+    "power": 1,
+    "speed": 4,
+    "stealth": 4,
+    "danger": 2,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 2,
+    "resourceCost": 2,
+    "speedOfOnset": 3,
+    "detectability": 4,
+    "preventability": 4,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "If you see one Rattata crossing open ground in daylight, assume stress, nest crowding, or food shortage. Healthy colonies prefer edges, gaps, shadows, and repeated hidden paths.",
+  "visualSymbol": "🐾",
+  "image": "images/pokemon/pokemon-rattata.png",
+  "audio": "audio/pokemon/pokemon-rattata.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Rattata line likely began as small edge-dwelling rodents that survived by eating anything, breeding rapidly, and wearing down their teeth on hard surfaces. Human routes through Kanto and Johto accidentally created perfect corridors: farms, towers, ports, cave rest stops, and berry routes. Evolution at Level 20 reflects the point where a juvenile can no longer survive by speed alone. Its teeth, muscles, whiskers, and hind feet enlarge into the Raticate form, allowing river crossing, direct combat, wall damage, and command over a broader feeding range. Alolan forms show how the same survival engine can shift under island urban pressure, becoming more nocturnal, food-selective, and socially organized around dominant nest animals.",
+  "evolutionLine": [
+    {
+      "name": "Rattata",
+      "stage": "Base",
+      "method": "Level 20",
+      "note": "Base stage mouse Pokemon. Evolves through rapid growth once its teeth, senses, and food drive can support adult territory competition."
+    },
+    {
+      "name": "Raticate",
+      "stage": "Final",
+      "method": "Final stage; regional forms only",
+      "note": "Adult stage mouse Pokemon. Larger fangs, stronger jaws, webbed hind feet, and broader range let it cross water and claim food corridors."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Rattata Evolution Family",
+    "subtitle": "Evolution Tree - Normal Type",
+    "mainLine": [
+      {
+        "name": "Rattata",
+        "stage": "Base",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "🐾",
+        "methodToNext": "Level 20",
+        "note": "Small, fast, highly adaptable gnawing rodent. Lives wherever food, cover, and nesting gaps exist."
+      },
+      {
+        "name": "Raticate",
+        "stage": "Final",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "🐾",
+        "methodToNext": "Final stage; regional form variants only",
+        "note": "Large adult river-crossing rodent. Strong fangs, webbed hind feet, and aggressive territory defense make it a serious settlement pest."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Rattata",
+        "method": "Alolan regional form lineage",
+        "target": {
+          "name": "Alolan Rattata",
+          "stage": "Regional Base",
+          "types": [
+            "Dark",
+            "Normal"
+          ],
+          "symbol": "🌑",
+          "note": "Night-active urban forager adapted to settlement raiding, fresh food theft, and boss-led nest behavior."
+        }
+      },
+      {
+        "from": "Alolan Rattata",
+        "method": "Level 20 at night",
+        "target": {
+          "name": "Alolan Raticate",
+          "stage": "Regional Final",
+          "types": [
+            "Dark",
+            "Normal"
+          ],
+          "symbol": "🌑",
+          "note": "Large command animal of night-raiding nests. Directs groups of Rattata toward food sources and defends stored food aggressively."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "rodent",
+    "mouse",
+    "gnawing-risk",
+    "settlement-pest",
+    "kanto",
+    "johto",
+    "alola",
+    "survival-guide"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Mammalia-like Monstrofauna",
+    "order": "Rodentia Vitalis",
+    "family": "Rattatidae",
+    "genus": "Rattus minor",
+    "species": "Rattus minor vorax"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Not truly domesticated; tolerated in controlled research, scent work, and pest-detection settings",
+  "prey": "Insects, eggs, grubs, small nestlings, carrion scraps, and food caches; also scavenges human stores aggressively",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Food removal",
+    "Nest disturbance",
+    "Whisker grabbing",
+    "Bright light at night",
+    "Predator scent",
+    "Blocked escape route",
+    "Tooth pain"
+  ],
+  "territoryRange": "Usually a building cluster, hedgerow, barn, or 0.1 to 0.3 square miles around stable food. Colonies expand along walls, ditches, routes, and tunnels.",
+  "lifeCycle": "Born in hidden nests of shredded plant fiber, cloth, and dry refuse. Juveniles begin gnawing early, follow adult scent trails, and evolve into Raticate starting at Level 20 when jaw strength, body mass, and territorial behavior mature.",
+  "containmentRequirements": "Escape-proof metal enclosure, chew-proof food bowls, double-door handling box, deep bedding, hard gnawing blocks, sealed feed storage, and strict sanitation to prevent colony smells from drawing wild animals",
+  "ecologicalRole": "Consumes waste, spreads seeds, feeds raptors and snakes, opens micro-tunnels used by insects, and rapidly converts unsecured food into scavenger population growth.",
+  "diseaseParasiteRisk": "Moderate. Dirty nests may carry mites, fleas, fungal spores, contaminated droppings, and bite-wound bacteria. Respiratory protection is recommended during nest cleanup.",
+  "reproductionNesting": "Builds hidden nests in walls, brush piles, barns, towers, ship holds, and tunnel edges. Litters are frequent when food is steady, and young disperse through tight gaps before humans notice the full colony.",
+  "predators": "Spearow, Fearow, Pidgeotto, Pidgeot, Ekans, Arbok, Meowth, Persian, larger Raticate, owls, fox-like fire types, and humans",
+  "emergencyResponse": "If a colony erupts from a wall or storage room, do not chase scattered animals. Remove people, secure food, open controlled exits, and call trained pest or Pokemon control handlers.",
+  "legalStatus": "Observation is generally unrestricted, but live capture, relocation, and colony destruction may be regulated in cities, protected towers, and ecological reserves.",
+  "stressSicknessSigns": [
+    "Overgrown incisors",
+    "Drooling",
+    "Circling in open light",
+    "Patchy fur",
+    "Labored breathing",
+    "Repeated wall biting without feeding",
+    "Swollen bite wounds",
+    "Failure to flee"
+  ],
+  "lifespan": "Wild: 1 to 3 years, often shorter due to predation and control efforts. Managed care: 4 to 7 years with tooth care and clean housing.",
+  "socialStructure": "Loose colonies based around food routes rather than stable family groups. Individuals forage alone but use shared trails, scent marks, alarm squeaks, and hidden nest chambers.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazards are speed, teeth, contamination, and nest density.",
+    "electricFieldRange": "No electric field. Bite range is close contact, but colony disturbance can create a 10 to 30 ft scatter hazard.",
+    "burstSpeed": "Very fast short runs, roughly 18 to 25 mph in cluttered terrain",
+    "dodgeSpeed": "Excellent at edge turns, wall gaps, and sudden reversals",
+    "jumpingHeight": "About 1 to 2 ft when startled",
+    "balance": "Whiskers and tail help navigate walls, pipes, rafters, and narrow ledges"
+  },
+  "trainingRisk": "Bites, escape, chewing through equipment, contamination, stress breeding, and attraction of wild colony members",
+  "physiology": "Rattata has continuously growing incisors, sensitive whiskers, sharp hearing, a compact digestive system, and high tolerance for poor environments. Its survival advantage is not strength. It is speed, appetite, tooth growth, reproduction, and constant environmental testing through chewing.",
+  "keyFacts": {
+    "size": "Height: 1 ft 0 in",
+    "weight": "7.7 lbs",
+    "tailLength": "Approx. 0.7 to 1 ft",
+    "lifestyle": "Nocturnal to crepuscular scavenger",
+    "diet": "Extreme opportunistic omnivore",
+    "habitat": "Settlements, routes, towers, fields, barns, caves, and ports",
+    "lifespan": "Wild: 1 to 3 years. Managed: 4 to 7 years.",
+    "groupSize": "One visible animal often signals 10 to 40 nearby individuals in food-rich areas"
+  },
+  "domesticationDifficulty": "High. Small size makes handling look easy, but chewing, disease risk, escape skill, and colony attraction make long-term care difficult.",
+  "physicalCharacteristics": "Small purple rodent-like Pokemon with cream underside, large ears, long whiskers, red eyes, sharp incisors, clawed feet, and a curled tail used for balance.",
+  "dietRestrictions": "Avoid unlimited grain, moldy food, sugary waste, soft-only diets, salty scraps, and low-fiber feeding that fails to wear the teeth naturally.",
+  "detailPath": "./data/pokemon/pokemon-rattata.json",
+  "officialBaseStats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "specialAttack": 25,
+    "specialDefense": 35,
+    "speed": 72,
+    "total": 253
+  },
+  "attacks": [
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Close body hit used when fleeing through tight ground lanes."
+    },
+    {
+      "name": "Tail Whip",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Threat and distraction display before escape or bite."
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Sudden lunge from cover or fast escape strike."
+    },
+    {
+      "name": "Bite",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Contaminating fang bite used when trapped or feeding."
+    },
+    {
+      "name": "Assurance",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Follow-up strike against injured prey or distracted enemies."
+    },
+    {
+      "name": "Crunch",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Adult-level jaw behavior foreshadowed in older juveniles with severe bite risk."
+    },
+    {
+      "name": "Super Fang",
+      "type": "Normal",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "Powerful gnawing attack that can disable prey or damage barriers."
+    },
+    {
+      "name": "Endeavor",
+      "type": "Normal",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Last-effort survival behavior when injured but still mobile."
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Routes 1, 2, 4, 9, 16, 21, and 22 in classic records",
+      "Pokemon Mansion and settlement-edge structures",
+      "Common early-route grass and building margins"
+    ],
+    "Johto": [
+      "Routes 1, 3, 4, 7, 9, 11, 22, 29, 30, 31, 32, 33, 34, 38, 39, and 46 in various records",
+      "Sprout Tower, Burned Tower, Bell Tower, Union Cave, Mt. Mortar, and Tohjo Falls",
+      "Old tower floors, cave edges, and route-side food corridors"
+    ],
+    "Sinnoh": [
+      "Routes 225 and 226 in later records"
+    ],
+    "Unova": [
+      "Dreamyard, Relic Passage, and Strange House records through the line"
+    ],
+    "Alola": [
+      "Urban and route records connected to the Alolan form, especially nighttime food routes"
+    ]
+  },
+  "officialEvolutionSummary": {
+    "rattataToRaticate": "Rattata evolves into Raticate starting at Level 20.",
+    "regionalForm": "Alolan Rattata is Dark / Normal and evolves into Alolan Raticate starting at Level 20 at night.",
+    "finalStage": "Raticate is the final standard stage of the line."
+  },
+  "sourceUseNote": "Core typing, height, weight, abilities, base stats, evolution levels, game location anchors, and move names are based on official-style Pokedex and game database records. Lifespan, ecology, first aid, containment, and real-world field behavior are interpretive survival-guide material for this passion project."
+}

@@ -1,0 +1,356 @@
+{
+  "id": "pokemon-raticate",
+  "entryId": "PKMN-0020",
+  "pokedexNumber": "#0020",
+  "name": "Raticate",
+  "category": "animals",
+  "type": "Normal Creature",
+  "elementType": "normal",
+  "dangerLevel": "Medium",
+  "rarity": "Common to Uncommon",
+  "region": "Kanto, Johto, Sinnoh, Unova, Alola, and food-rich settlement corridors",
+  "route": "Kanto Routes 16, 17, 18, 21 and Pokemon Mansion records; Johto Routes 7, 9, 10, 26, 27, 38, 39, 42, 43, 47, Burned Tower, Mt. Mortar, Tohjo Falls, and Union Cave; Sinnoh Routes 225 and 226 with spacious cave habitats; Unova Dreamyard, Relic Passage, and Strange House records; Alolan routes, cities, beaches, and outskirts tied to the regional line",
+  "habitat": "Riverbanks, sewers, barns, grain stores, abandoned mansions, ruined towers, cave passages, ferry ports, old mills, bridge supports, coastal villages, and field edges with both food and hard material for tooth wear",
+  "classification": "Mouse Pokemon / Final Stage River-Crossing Gnawer",
+  "height": "2 ft 4 in",
+  "weight": "40.8 lbs",
+  "behaviorTemperament": "Aggressive, food-driven, and more confident than Rattata. Raticate will bluff, hiss, lunge, and bite if its whiskers, nest, young, or food cache are threatened. Its swimming ability lets it escape across rivers and raid islands or ships.",
+  "diet": "Grain, fruit, roots, insects, eggs, fish, small mammals, carrion, stored food, refuse, bark, hard seeds, and anything that helps grind its teeth",
+  "activityPattern": "Nocturnal to crepuscular, with daytime movement near water, ruins, and heavy cover. Adults become bold in quiet buildings or during food shortage.",
+  "bestTimeToFind": "Late evening near river crossings, gnawed beams, food stores, ferry docks, old mansion walls, cave pools, and ruined tower floors with thick tooth marks",
+  "observationDifficulty": "Moderate. Large enough to detect by tracks and damage, but smart enough to avoid open contact unless guarding food or a nest.",
+  "conservationStatus": "Common nuisance and infrastructure-damage species; managed rather than protected in many settled areas",
+  "populationStatus": "Stable to high near farms, ports, and routes. Adults decline where sanitation, predators, and hard exclusion barriers are maintained.",
+  "description": "A large Normal-type mouse Pokemon with constantly growing fangs, balance-sensitive whiskers, webbed hind feet, and enough bite force to damage wood, wall material, and soft stone.",
+  "lore": "Raticate became infamous in Kanto when early road crews realized that bridge damage near Routes 16 through 18 was not weathering. The beams had been tested from below, shaved night after night by adults crossing between food corridors. Johto temple records describe a different problem. Raticate in old towers did not merely feed. They changed the building, cutting hidden routes through floors, nesting between shrine walls, and using the noise of wind bells to cover movement. The most dangerous adult is not the loudest one. It is the quiet animal that has already mapped exits, water, food, and the human schedule. In Alola, the regional line sharpened this behavior into organized night foraging under dominant adults. Standard Raticate are less ceremonial but just as practical. They gnaw, swim, breed, and survive. A settlement that ignores one adult may inherit a colony.",
+  "survivalUse": "Can indicate hidden water routes, structural weakness, food contamination, and old tunnels. In wilderness survival, a Raticate trail can lead to grain caches, river exits, or sheltered crawlways.",
+  "handlingWarning": "Never touch the whiskers, offer fingers near the mouth, or assume a friendly posture means safe handling. Even calm Raticate may bite if their facial whiskers are brushed or their food cache is moved.",
+  "encounterAdvice": "Do not challenge at a nest entrance. Back away slowly, keep packs closed, avoid kneeling near its face, and watch for smaller Rattata moving behind you toward food.",
+  "firstAid": "Treat bites as high-risk punctures. Flush, disinfect, bandage, and seek medical care for deep wounds, hand bites, tendon pain, numbness, fever, or signs of infection.",
+  "companionSuitability": "Poor for homes, useful only for experienced handlers with secure gnaw-proof containment and pest-control training",
+  "abilities": [
+    "Run Away",
+    "Guts",
+    "Hustle"
+  ],
+  "fieldBehaviors": [
+    "Gnaws logs, rocks, walls, and pipes",
+    "Swims across rivers with webbed hind feet",
+    "Commands or displaces smaller Rattata around food",
+    "Balances with whiskers",
+    "Bites when whiskers are touched",
+    "Moves food to hidden caches",
+    "Expands dens through walls and soft stone"
+  ],
+  "weaknesses": [
+    "Fighting",
+    "Powerful raptors",
+    "Large snakes",
+    "Food denial",
+    "Whisker injury",
+    "Dental disease",
+    "Steel barriers"
+  ],
+  "resistances": [
+    "Ghost immunity",
+    "Swimming escape ability",
+    "High scavenger adaptability",
+    "Strong contamination tolerance"
+  ],
+  "signsOfPresence": [
+    "Deep paired tooth marks",
+    "Chewed cinder block edges",
+    "Webbed hind-foot tracks in mud",
+    "Large droppings near caches",
+    "Gnawed riverbank roots",
+    "Food dragged into holes",
+    "Whisker rub marks on dusty wall gaps",
+    "Heavy scratching behind walls"
+  ],
+  "equipment": [
+    "Bite-resistant gauntlets",
+    "Face shield",
+    "Metal transport crate",
+    "Catch pole or barrier board",
+    "Bite-wound kit",
+    "Disinfectant",
+    "Respirator for nest cleanup",
+    "Steel food bins",
+    "Hard exclusion mesh"
+  ],
+  "stats": {
+    "power": 3,
+    "speed": 4,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 2,
+    "resourceCost": 3,
+    "speedOfOnset": 4,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "Whiskers are not decorative. If damaged, balance and temperament worsen quickly. A Raticate that lets you near its face may still bite reflexively if a whisker is brushed.",
+  "visualSymbol": "🐾",
+  "image": "images/pokemon/pokemon-raticate.png",
+  "audio": "audio/pokemon/pokemon-raticate.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Raticate is the adult answer to the Rattata strategy. Where the base form survives by speed and numbers, the evolved form survives by access. Bigger teeth open barriers. Webbed hind feet cross rivers. Stronger jaws defend caches. Whiskers maintain balance in darkness and tight spaces. Level 20 evolution marks the shift from scattered juvenile scavenger to adult route-maker. In real-world terms, this line evolved beside human movement: roads, barns, towers, ships, caves, bridges, and waste streams. Every human shortcut became a Rattata corridor, and every corridor eventually produced Raticate large enough to defend it.",
+  "evolutionLine": [
+    {
+      "name": "Rattata",
+      "stage": "Base",
+      "method": "Level 20",
+      "note": "Base stage mouse Pokemon. Evolves through rapid growth once its teeth, senses, and food drive can support adult territory competition."
+    },
+    {
+      "name": "Raticate",
+      "stage": "Final",
+      "method": "Final stage; regional forms only",
+      "note": "Adult stage mouse Pokemon. Larger fangs, stronger jaws, webbed hind feet, and broader range let it cross water and claim food corridors."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Rattata Evolution Family",
+    "subtitle": "Evolution Tree - Normal Type",
+    "mainLine": [
+      {
+        "name": "Rattata",
+        "stage": "Base",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "🐾",
+        "methodToNext": "Level 20",
+        "note": "Small, fast, highly adaptable gnawing rodent. Lives wherever food, cover, and nesting gaps exist."
+      },
+      {
+        "name": "Raticate",
+        "stage": "Final",
+        "types": [
+          "Normal"
+        ],
+        "symbol": "🐾",
+        "methodToNext": "Final stage; regional form variants only",
+        "note": "Large adult river-crossing rodent. Strong fangs, webbed hind feet, and aggressive territory defense make it a serious settlement pest."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Rattata",
+        "method": "Alolan regional form lineage",
+        "target": {
+          "name": "Alolan Rattata",
+          "stage": "Regional Base",
+          "types": [
+            "Dark",
+            "Normal"
+          ],
+          "symbol": "🌑",
+          "note": "Night-active urban forager adapted to settlement raiding, fresh food theft, and boss-led nest behavior."
+        }
+      },
+      {
+        "from": "Alolan Rattata",
+        "method": "Level 20 at night",
+        "target": {
+          "name": "Alolan Raticate",
+          "stage": "Regional Final",
+          "types": [
+            "Dark",
+            "Normal"
+          ],
+          "symbol": "🌑",
+          "note": "Large command animal of night-raiding nests. Directs groups of Rattata toward food sources and defends stored food aggressively."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "rodent",
+    "mouse",
+    "gnawing-risk",
+    "river-crossing",
+    "settlement-pest",
+    "kanto",
+    "johto",
+    "alola",
+    "survival-guide"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Mammalia-like Monstrofauna",
+    "order": "Rodentia Vitalis",
+    "family": "Rattatidae",
+    "genus": "Rattus major",
+    "species": "Rattus major vorax"
+  },
+  "humanConflictRisk": "Medium to High",
+  "domesticationStatus": "Undomesticated nuisance species with limited trained use in controlled pest-detection programs",
+  "prey": "Insects, eggs, fish, small mammals, young birds, carrion scraps, grain pests, and smaller Pokemon when food is scarce",
+  "temperamentTriggers": [
+    "Whisker contact",
+    "Food-cache disturbance",
+    "Young nearby",
+    "Being trapped in waterless rooms",
+    "Tooth pain",
+    "Predator scent",
+    "Competing adult Raticate",
+    "Sudden hand movement near face"
+  ],
+  "territoryRange": "Usually 0.5 to 2 square miles around food, water crossings, nest chambers, and hard gnawing surfaces. Urban adults may hold several buildings or an entire dockside lane.",
+  "lifeCycle": "Rattata evolves into Raticate starting at Level 20. Adults claim routes, caches, river crossings, and nest cavities, then breed where food and gnawing surfaces can support young.",
+  "containmentRequirements": "Large chew-proof metal enclosure, lockable service doors, concrete or steel-lined edges, tooth-wear blocks, water basin, covered hide, double food containment, and strict waste removal",
+  "ecologicalRole": "Consumes carrion and waste, controls insects and small pests, disperses some seeds, feeds large predators, and opens den routes that smaller scavengers later use.",
+  "diseaseParasiteRisk": "Moderate to high. Adults move between refuse, water, walls, and food stores. Main concerns are contaminated bites, fleas, mites, droppings, and airborne dust from old nests.",
+  "reproductionNesting": "Builds deeper chambers than Rattata, often near water or food caches. Adults defend young violently and may relocate nests through wall voids, riverbank roots, or abandoned foundations.",
+  "predators": "Fearow, Pidgeot, Arbok, Persian, larger carnivorous Pokemon, humans, and rival Raticate in dense feeding territory",
+  "emergencyResponse": "For an indoor adult, remove food, close side rooms, protect hands, and create one dark exit. For an attacking Raticate, use a barrier board rather than attempting a grab.",
+  "legalStatus": "Often classified as a managed pest around food storage and infrastructure. Transport and release are usually restricted because relocation can start new colonies.",
+  "stressSicknessSigns": [
+    "Whisker breakage",
+    "Uneven gnaw marks",
+    "Overgrown fangs",
+    "Head tilting",
+    "Refusal to chew",
+    "Aggression while eating",
+    "Patchy coat",
+    "Labored swimming or dragging hind feet"
+  ],
+  "lifespan": "Wild: 2 to 5 years. Managed care: 6 to 10 years if dental wear, sanitation, and stress are controlled.",
+  "socialStructure": "Adults may be solitary around prime food, but tolerate or dominate clusters of Rattata. In dense settlements, one adult often anchors several juvenile routes and hidden caches.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Major hazards are bite trauma, contamination, infrastructure damage, and colony defense.",
+    "electricFieldRange": "No electric field. Lunge and bite hazard within 3 to 5 ft; colony scatter can affect an entire room.",
+    "burstSpeed": "Fast sprint roughly 20 to 28 mph over short cluttered paths",
+    "dodgeSpeed": "High, especially around walls, beams, and water edges",
+    "jumpingHeight": "About 2 to 3 ft when startled",
+    "balance": "Whiskers are critical for ledges, pipes, rafters, and riverbank roots"
+  },
+  "trainingRisk": "Severe bites, escape, equipment destruction, food guarding, nest aggression, and disease exposure",
+  "physiology": "Raticate is built around teeth, whiskers, and hind-foot mobility. The fangs grow continuously and require hard wear. The whiskers serve as balance organs and close-range navigation tools. Webbed hind feet turn water into an escape route rather than a barrier.",
+  "keyFacts": {
+    "size": "Height: 2 ft 4 in",
+    "weight": "40.8 lbs",
+    "tailLength": "Approx. 1.5 to 2 ft",
+    "lifestyle": "Nocturnal scavenger and route defender",
+    "diet": "Opportunistic omnivore with strong gnawing need",
+    "habitat": "Riverbanks, barns, food stores, ruins, docks, caves, and old towers",
+    "lifespan": "Wild: 2 to 5 years. Managed: 6 to 10 years.",
+    "groupSize": "Usually solitary adult or dominant animal with nearby Rattata colony"
+  },
+  "domesticationDifficulty": "High. Needs gnaw-proof housing, bite-safe procedures, and constant sanitation. Best handled as a working animal, not a pet.",
+  "physicalCharacteristics": "Large tawny rodent-like Pokemon with cream underside, ragged ears, narrow eyes, long whiskers, powerful incisors, short forelimbs, webbed hind feet, and a long scaly tail.",
+  "dietRestrictions": "Avoid soft-only diets, unsecured grain, moldy refuse, sugary scraps, high-salt food, and diets that do not support natural tooth wear.",
+  "detailPath": "./data/pokemon/pokemon-raticate.json",
+  "officialBaseStats": {
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "specialAttack": 50,
+    "specialDefense": 70,
+    "speed": 97,
+    "total": 413
+  },
+  "attacks": [
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Fast opening lunge used from wall edges or food cover."
+    },
+    {
+      "name": "Scary Face",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Threat display with raised fur, exposed incisors, and warning hiss."
+    },
+    {
+      "name": "Swords Dance",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Heightened battle posture that makes bites more precise and dangerous."
+    },
+    {
+      "name": "Bite",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Deep fang strike used in close defense or predation."
+    },
+    {
+      "name": "Crunch",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Full-force jaw compression capable of breaking hard materials."
+    },
+    {
+      "name": "Sucker Punch",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 70,
+      "accuracy": 100,
+      "fieldUse": "Ambush bite against approaching handlers or predators."
+    },
+    {
+      "name": "Super Fang",
+      "type": "Normal",
+      "category": "Physical",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "Signature severe gnawing attack that can cripple prey or barriers."
+    },
+    {
+      "name": "Double-Edge",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 120,
+      "accuracy": 100,
+      "fieldUse": "Desperate body charge used when escape routes are cut."
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Routes 16, 17, 18, and 21 in classic records",
+      "Pokemon Mansion and related abandoned structures",
+      "Cycling Road and river-adjacent route corridors"
+    ],
+    "Johto": [
+      "Routes 7, 9, 10, 26, 27, 38, 39, 42, 43, 47, and 48 in various records",
+      "Burned Tower, Mt. Mortar, Tohjo Falls, and Union Cave",
+      "Old tower and cave habitat connected to Rattata corridors"
+    ],
+    "Sinnoh": [
+      "Routes 225 and 226",
+      "Spacious Cave, Grassland Cave, Riverbank Cave, Still-Water Cavern, and Sunlit Cavern records"
+    ],
+    "Unova": [
+      "Dreamyard, Relic Passage, and Strange House records"
+    ],
+    "Alola": [
+      "Routes 10, 11, 14, 15, 16, 17, Akala Outskirts, Malie City, Poni Wilds, Ancient Poni Path, Poni Grove, Poni Plains, and Poni Gauntlet records for the Alolan line"
+    ]
+  },
+  "officialEvolutionSummary": {
+    "rattataToRaticate": "Rattata evolves into Raticate starting at Level 20.",
+    "regionalForm": "Alolan Rattata evolves into Alolan Raticate starting at Level 20 at night.",
+    "finalStage": "Raticate is the final standard stage of the line."
+  },
+  "sourceUseNote": "Core typing, height, weight, abilities, base stats, evolution levels, game location anchors, and move names are based on official-style Pokedex and game database records. Lifespan, ecology, first aid, containment, and real-world field behavior are interpretive survival-guide material for this passion project."
+}

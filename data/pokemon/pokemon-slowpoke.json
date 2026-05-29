@@ -1,0 +1,316 @@
+{
+  "id": "pokemon-slowpoke",
+  "entryId": "PKMN-0079",
+  "pokedexNumber": "#0079",
+  "name": "Slowpoke",
+  "category": "animals",
+  "type": "Water / Psychic Creature",
+  "elementType": "water-psychic",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Slowpoke Well, rivers, lakes, Seafoam records, quiet beaches, and warm mud banks",
+  "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves; also uses quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges. Field anchors: Slowpoke Well, rivers, lakes, Seafoam records, quiet beaches, and warm mud banks",
+  "classification": "Dopey Pokemon / Slow Water Psychic",
+  "height": "3 ft 11 in",
+  "weight": "79.4 lbs",
+  "behaviorTemperament": "Slowpoke is best treated as a base field organism with water-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "activityPattern": "Crepuscular around shorelines; active at night in clear water or during rain.",
+  "bestTimeToFind": "Dawn or dusk near quiet water, tide pools, river bends, docks, or rain-fed channels",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Water / Psychic Pokemon listed as Dopey Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Slowpoke was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Slowpoke Well, rivers, lakes, Seafoam records, quiet beaches, and warm mud banks. The species is now handled as a Water / Psychic field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Slowpoke into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to water activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Slowpoke, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are water pressure. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Stay out of the water, watch footing, keep children away from banks, and never reach into dark pools where Slowpoke is sheltering.",
+  "firstAid": "For near-drowning, move to safe ground, clear the airway, warm the victim, and seek emergency care. For confusion, fainting, or panic, remove the person from the site, reduce stimuli, and monitor until fully oriented.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regenerator"
+  ],
+  "fieldBehaviors": [
+    "Shelters below the surface",
+    "Uses water to break pursuit",
+    "Feeds at dawn and dusk",
+    "Stares before teleporting or attacking",
+    "Avoids loud groups",
+    "Responds to emotional stress nearby"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Grass",
+    "Bug",
+    "Ghost",
+    "Dark",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fire",
+    "Water",
+    "Ice",
+    "Fighting",
+    "Psychic",
+    "Steel"
+  ],
+  "signsOfPresence": [
+    "Wet drag marks",
+    "Fish scales",
+    "Foam trails",
+    "Muddy slides",
+    "Unusual ripples",
+    "Shell fragments"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Life vest",
+    "Throw rope",
+    "Waterproof boots",
+    "Clean rinse water",
+    "Partner observer",
+    "Low-noise headset",
+    "Clock check card",
+    "Calming light"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 1,
+    "stealth": 3,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 2,
+    "identificationDifficulty": 3,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 3,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Slowpoke usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a water-type response.",
+  "visualSymbol": "💧",
+  "image": "images/pokemon/pokemon-slowpoke.png",
+  "audio": "audio/pokemon/pokemon-slowpoke.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Slowpoke Evolution Family appears to have adapted around Slowpoke Well, rivers, lakes, Seafoam records, quiet beaches, and warm mud banks. Its line favors survival through water pressure, specialized shelter choice, and rapid behavioral changes during maturity. Slowpoke becomes Slowbro by Level 37. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Slowpoke",
+      "stage": "Base",
+      "method": "Level 37",
+      "note": "Base-stage Water / Psychic species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Slowbro",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Water / Psychic species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Slowpoke Evolution Family",
+    "subtitle": "Evolution Tree - Water / Psychic Type",
+    "mainLine": [
+      {
+        "name": "Slowpoke",
+        "stage": "Base",
+        "types": [
+          "Water",
+          "Psychic"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Level 37",
+        "note": "Base-stage Water / Psychic species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Slowbro",
+        "stage": "Final",
+        "types": [
+          "Water",
+          "Psychic"
+        ],
+        "symbol": "💧",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Water / Psychic species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Slowbro",
+        "method": "Slowbronite / Mega Evolution",
+        "target": {
+          "name": "Mega Slowbro",
+          "stage": "Mega Form",
+          "types": [
+            "Water",
+            "Psychic"
+          ],
+          "symbol": "💧",
+          "note": "Temporary form where the shell symbiont becomes a full-body armored hazard."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "water",
+    "psychic",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "slowpoke"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aquafauna",
+    "order": "Hydriformes",
+    "family": "Aquatidae",
+    "genus": "Slowpoke",
+    "species": "slowpoke fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to water-type warning signs"
+  ],
+  "territoryRange": "Less than 1 square mile around shelter and feeding sites",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to ponds, feeds heavily, defends shelter, and follows this first-151 evolution profile: Slowpoke evolves into Slowbro by Level 37.",
+  "containmentRequirements": "Requires clean pools, drainage control, and slip-safe barriers, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a water-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a water hazard area. Do not attempt capture unless trained and equipped for Slowpoke.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Psychic pressure can affect perception, balance, and memory.",
+    "electricFieldRange": "Mental-effect range varies from line of sight to room-scale depending on stress and maturity.",
+    "burstSpeed": "Field burst speed roughly 6 to 10 mph depending on terrain and age",
+    "dodgeSpeed": "Low to moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes drowning, impact from jets, slick footing, hypothermia, and contaminated water wounds. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Slowpoke's body supports Water / Psychic output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 3 ft 11 in",
+    "weight": "79.4 lbs",
+    "types": "Water / Psychic",
+    "lifestyle": "Base water-type field organism",
+    "diet": "fish, aquatic insects, algae, shellfish, and shoreline scraps; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+    "habitat": "ponds, rivers, tide pools, cold lakes, reefs, and coastal caves",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as dopey pokemon with water / psychic adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-slowpoke.json",
+  "officialBaseStats": {
+    "hp": 90,
+    "attack": 65,
+    "defense": 65,
+    "specialAttack": 40,
+    "specialDefense": 40,
+    "speed": 15,
+    "total": 315
+  },
+  "attacks": [
+    {
+      "name": "Water Gun",
+      "type": "Water",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "pressurized water jet"
+    },
+    {
+      "name": "Bubble Beam",
+      "type": "Water",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "foaming jet used to blind and push back"
+    },
+    {
+      "name": "Surf",
+      "type": "Water",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "mass water displacement that can swamp camps"
+    },
+    {
+      "name": "Hydro Pump",
+      "type": "Water",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 80,
+      "fieldUse": "high-pressure water blast from mature specimens"
+    },
+    {
+      "name": "Confusion",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "minor psychic shock causing dizziness"
+    },
+    {
+      "name": "Psybeam",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "colored mental beam used to disrupt balance"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Slowpoke Well, rivers, lakes, Seafoam records, quiet beaches, and warm mud banks"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Slowpoke evolves into Slowbro by Level 37.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Level 37"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

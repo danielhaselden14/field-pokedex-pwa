@@ -1,0 +1,422 @@
+{
+  "id": "pokemon-pidgey",
+  "entryId": "PKMN-0016",
+  "pokedexNumber": "#0016",
+  "name": "Pidgey",
+  "category": "animals",
+  "type": "Normal / Flying Creature",
+  "elementType": "normal",
+  "dangerLevel": "Low",
+  "rarity": "Common",
+  "region": "Kanto, Johto, and Kalos",
+  "route": "Kanto and Johto beginner-route tall grass, Viridian Forest edges, Ilex Forest, National Park meadows, Kalos Route 2 and Route 3 woodlots, Santalune Forest margins, farm hedges, berry thickets, and urban-edge parks",
+  "habitat": "Temperate grass, low brush, young forest, field margins, orchard edges, fence lines, and sheltered nesting shrubs with dry dust or sand patches nearby",
+  "classification": "Tiny Bird Pokemon / Base Stage Directional Field Bird",
+  "height": "1 ft 0 in",
+  "weight": "4.0 lbs",
+  "behaviorTemperament": "Usually docile, watchful, and conflict-avoidant. Wild Pidgey hide in grass and use wing-thrown dust or sand to blind attackers long enough to escape. Cornered nest birds can still strike back with pecks and wing slaps.",
+  "diet": "Seeds, berries, tender shoots, insects, worms, loose grain, orchard pests, and occasional settlement scraps",
+  "activityPattern": "Diurnal. Most active in morning and late afternoon, with midday rest in shrubs or low branches.",
+  "bestTimeToFind": "Morning light in tall grass, field paths, berry hedges, forest road edges, and quiet park margins where dry dust shows small three-toed tracks",
+  "observationDifficulty": "Easy. Common, vocal, and visible in open grass, but resting birds blend well with leaf litter.",
+  "conservationStatus": "Common but protected from large-scale nest clearing in many settled regions",
+  "populationStatus": "Stable around farms, parks, and lowland forest. Local groups decline when hedgerows are removed or feral predators pressure nest sites.",
+  "description": "A small Normal and Flying-type field bird known for homing instinct, docile behavior, and defensive dust-flinging wingbeats.",
+  "lore": "Old Kanto trail wardens once treated sudden dust clouds in grass as a weather sign until they found neat circular scatter marks around berry shrubs and empty insect burrows. The birds responsible were so plain that most travelers ignored them, but messenger handlers soon learned that a Pidgey released far from home could return with unsettling accuracy. Villages trained flocks for messages and weather warnings, while predators learned to follow those same routes back to human food stores. A calm Pidgey is a sign of healthy habitat. A silent cluster of hidden Pidgey often means a larger hunter is already nearby.",
+  "survivalUse": "Can help locate trails, flush insects, warn of predators, carry light message tags, and reveal wind direction through flock movement.",
+  "handlingWarning": "Do not grab from above, squeeze the chest, or hold the wings shut. Keep eyes protected when handling because dust bursts can blind humans briefly.",
+  "encounterAdvice": "Crouch low, approach from the side, and leave a clear escape path. If multiple Pidgey go silent at once, stop and scan for a larger predator or evolved form.",
+  "firstAid": "Flush dust or grit from eyes with clean water. Treat scratches as contaminated bird wounds. Check for eye abrasion after repeated dust bursts.",
+  "companionSuitability": "Good for beginner handlers, message work, and low-risk field observation",
+  "abilities": [
+    "Keen Eye",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "fieldBehaviors": [
+    "Hides in tall grass",
+    "Kicks up dust with rapid wingbeats",
+    "Returns to familiar nests from long distance",
+    "Forages around berry shrubs",
+    "Alarm calls at overhead shadows",
+    "Flushes insects from grass",
+    "Dust-bathes in dry patches"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Ice",
+    "Rock",
+    "Wing injury",
+    "Freezing rain",
+    "High crosswinds"
+  ],
+  "resistances": [
+    "Grass",
+    "Bug",
+    "Ground immunity",
+    "Ghost immunity",
+    "Low brush disturbance",
+    "Short falls during flight"
+  ],
+  "signsOfPresence": [
+    "Small three-toed tracks",
+    "Feather down on thorn bushes",
+    "Circular scuffed grass patches",
+    "Loose sand sprayed outward from cover",
+    "Small nest cups in shrubs",
+    "Berry skins below low branches",
+    "Soft cooing before sunrise"
+  ],
+  "equipment": [
+    "Eye protection",
+    "Light leather gloves",
+    "Small ventilated carrier",
+    "Clean water for eye rinse",
+    "Soft towel",
+    "Seed and berry lure",
+    "Field notebook for homing release points"
+  ],
+  "stats": {
+    "power": 1,
+    "speed": 3,
+    "stealth": 4,
+    "danger": 1,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 4,
+    "resourceCost": 1,
+    "speedOfOnset": 2,
+    "detectability": 4,
+    "preventability": 4,
+    "medicalPriority": 2,
+    "warmth": 1
+  },
+  "fieldNote": "A Pidgey that hides but keeps calling is usually avoiding contact. A Pidgey flock that goes silent and points its attention upward is often warning of a larger flying predator.",
+  "visualSymbol": "🪶",
+  "image": "images/pokemon/pidgey.png",
+  "audio": "audio/pokemon/pidgey.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Pidgey line likely began as small forest-edge seed birds that survived by memorizing landmarks, returning to safe nests, and kicking dust into predator eyes. Human roads, farms, and berry hedges expanded its habitat. Raptor pressure favored stronger wings, sharper vision, and larger defended territories. Pidgey evolves into Pidgeotto starting at Level 18 when the body can support patrol flight and active prey capture. Pidgeotto evolves into Pidgeot starting at Level 36 when the chest, air sacs, heart, and flight feathers can support high-speed hunting.",
+  "evolutionLine": [
+    {
+      "name": "Pidgey",
+      "stage": "Base",
+      "method": "Level 18",
+      "note": "Small grass-edge bird. It survives by hiding, homing back to safe nests, and throwing sand or dust with rapid wingbeats."
+    },
+    {
+      "name": "Pidgeotto",
+      "stage": "Stage One",
+      "method": "Level 36",
+      "note": "Territorial patrol hunter. Stronger wings, sharper vision, and developed talons let it carry prey and defend a broad range."
+    },
+    {
+      "name": "Pidgeot",
+      "stage": "Final",
+      "method": "Final stage; Mega Evolution with Pidgeotite",
+      "note": "Final aerial predator. Large wings, extreme speed, and heavy talons make it a serious field and airspace hazard."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Pidgey Evolution Family",
+    "subtitle": "Evolution Tree - Normal / Flying Type",
+    "mainLine": [
+      {
+        "name": "Pidgey",
+        "stage": "Base",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Level 18",
+        "note": "Tiny field bird. Common in tall grass, forest edges, parks, farms, and early travel routes."
+      },
+      {
+        "name": "Pidgeotto",
+        "stage": "Stage One",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Level 36",
+        "note": "Large territorial bird. Patrols wide hunting lanes and attacks intruders near nests."
+      },
+      {
+        "name": "Pidgeot",
+        "stage": "Final",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Pidgeotite for Mega Evolution",
+        "note": "High-speed aerial predator. Rules large canopy, cliff, river, and coastal hunting territories."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Pidgeot",
+        "method": "Pidgeotite / Mega Evolution",
+        "target": {
+          "name": "Mega Pidgeot",
+          "stage": "Mega Form",
+          "types": [
+            "Normal",
+            "Flying"
+          ],
+          "symbol": "🪶",
+          "note": "Temporary form with greater speed, precision, and storm-force wing control. Treat as extreme aerial hazard."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "flying",
+    "bird",
+    "survival-guide",
+    "kanto",
+    "johto",
+    "kalos",
+    "forest-edge",
+    "tall-grass",
+    "aerial-hazard",
+    "early-route"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aves-like Aerofauna",
+    "order": "Aviformes Ventorum",
+    "family": "Pidgeotidae",
+    "genus": "Avicula venti",
+    "species": "Avicula venti minor"
+  },
+  "humanConflictRisk": "Low",
+  "domesticationStatus": "Common companion and field messenger species",
+  "prey": "Insects, worms, small grubs, berries, grain, and fallen fruit",
+  "temperamentTriggers": [
+    "Overhead grabbing",
+    "Nest disturbance",
+    "Predator eye contact",
+    "Sudden loud claps",
+    "Loose cats or dogs",
+    "Being trapped indoors",
+    "Feather pulling",
+    "Storm panic"
+  ],
+  "territoryRange": "Usually 0.1 to 0.5 square miles around a nest cluster, food patch, and dust-bathing area",
+  "lifeCycle": "Hatches in a shrub or low-tree nest, follows adults through grass, develops homing memory and dust-defense behavior, and evolves into Pidgeotto starting at Level 18 with adequate flight strength.",
+  "containmentRequirements": "Quiet aviary, low perches, clean dust-bath tray, soft flight netting, predator-proof nest box, fresh water, and enough room for short flight loops",
+  "ecologicalRole": "Controls insects, spreads berry seeds, warns small animals of predators, and serves as prey for larger raptors, snakes, and evolved bird Pokemon.",
+  "diseaseParasiteRisk": "Low to moderate. Feather mites, respiratory irritation from dirty dust baths, crop infection, and Salmonella-like contamination are the main concerns.",
+  "reproductionNesting": "Builds small nest cups in shrubs, hedges, low trees, and sheltered park plantings. Eggs need steady warmth, low disturbance, and protection from ground predators.",
+  "predators": "Spearow, Fearow, Ekans, Arbok, Persian, Meowth, larger Pidgeotto, humans, and nest-raiding Bug or Poison types",
+  "emergencyResponse": "For eye exposure, stop moving, rinse with clean water, and avoid rubbing. For trapped indoor Pidgey, darken the room, open one exit, and do not chase it.",
+  "legalStatus": "Generally legal to observe and keep in small numbers where bird-type permits allow. Nest removal is restricted during breeding season.",
+  "stressSicknessSigns": [
+    "Fluffed feathers",
+    "Closed or watery eyes",
+    "Repeated head tilting",
+    "Refusing seed",
+    "Labored breathing",
+    "Weak grip",
+    "Dust caked around nostrils"
+  ],
+  "lifespan": "Wild: 1 to 4 years, often shorter due to predation. Managed care: 8 to 12 years with clean housing and safe flight space.",
+  "socialStructure": "Loose flocks with pair bonds during nesting. Juveniles gather in grass clusters and use alarm calls for coordinated escape.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Air pressure and dust are the main hazards.",
+    "electricFieldRange": "No electric field. Dust burst hazard usually 3 to 8 ft.",
+    "burstSpeed": "Quick ground launch about 15 to 25 mph in short escape bursts",
+    "dodgeSpeed": "High for its size, especially through brush",
+    "jumpingHeight": "Low hop launch, usually under 2 ft before wing lift",
+    "balance": "Excellent branch and fence-line balance"
+  },
+  "trainingRisk": "Eye injury from dust, stress fractures from poor handling, escape loss, predator panic, and respiratory illness in dirty enclosures",
+  "physiology": "Pidgey has a lightweight avian body, strong homing sense, sharp eyes, and wings able to move loose grit with surprising force. It relies on warning, memory, dust defense, and flock awareness more than direct combat.",
+  "keyFacts": {
+    "size": "Height: 1 ft 0 in",
+    "weight": "4.0 lbs",
+    "wingspan": "Approx. 1.8 to 2.4 ft in field specimens",
+    "lifestyle": "Diurnal flock bird and grass-edge forager",
+    "diet": "Seeds, berries, insects, and small invertebrates",
+    "habitat": "Tall grass, forest edge, parks, hedges, and farms",
+    "lifespan": "Wild: 1 to 4 years. Managed: 8 to 12 years.",
+    "groupSize": "Usually pairs, small flocks, or loose grass clusters"
+  },
+  "domesticationDifficulty": "Easy to moderate. Friendly when raised young, but needs flight space and calm handling. Wild-caught birds panic easily in cages.",
+  "physicalCharacteristics": "Small brown bird with cream face and underside, dark eye markings, short beak, pinkish feet, compact wings, and soft feathering suited for brush camouflage.",
+  "dietRestrictions": "Avoid moldy grain, salty human food, smoke-filled rooms, oily seeds as a staple, and dusty bedding that irritates breathing.",
+  "detailPath": "./data/pokemon/pokemon-pidgey.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "specialAttack": 35,
+    "specialDefense": 35,
+    "speed": 56,
+    "total": 251
+  },
+  "attacks": [
+    {
+      "name": "Growl",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Threat display and flock communication that can interrupt a smaller animal before contact."
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Short body strike used at ground level or during low flight."
+    },
+    {
+      "name": "Gust",
+      "type": "Flying",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Wing-driven air burst that throws dust, leaves, loose grit, and small targets."
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Sudden low pass used to strike or break contact before a threat reacts."
+    },
+    {
+      "name": "Twister",
+      "type": "Dragon",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "Tight rotating air column produced by rapid wing coordination."
+    },
+    {
+      "name": "Wing Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Direct wing strike capable of bruising, knocking down, or stunning small creatures."
+    },
+    {
+      "name": "Whirlwind",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Powerful displacement burst used to drive intruders out of nesting space."
+    },
+    {
+      "name": "Agility",
+      "type": "Psychic",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Brief surge of coordination and flight speed."
+    },
+    {
+      "name": "Air Slash",
+      "type": "Flying",
+      "category": "Special",
+      "power": 75,
+      "accuracy": 95,
+      "fieldUse": "Compressed cutting air from a fast wing stroke."
+    },
+    {
+      "name": "Feather Dance",
+      "type": "Flying",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Distracting plumage display that disrupts a predator or rival."
+    },
+    {
+      "name": "Hurricane",
+      "type": "Flying",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 70,
+      "fieldUse": "Violent air vortex. Dangerous around loose gear, branches, and people."
+    },
+    {
+      "name": "Brave Bird",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 120,
+      "accuracy": 100,
+      "fieldUse": "High commitment dive impact with severe injury risk to target and user."
+    },
+    {
+      "name": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": null,
+      "fieldUse": "Accurate turning strike used against evasive targets."
+    },
+    {
+      "name": "Fly",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 90,
+      "accuracy": 95,
+      "fieldUse": "High climb followed by a descending strike or transport movement."
+    },
+    {
+      "name": "U-turn",
+      "type": "Bug",
+      "category": "Physical",
+      "power": 70,
+      "accuracy": 100,
+      "fieldUse": "Hit-and-leave maneuver used to retreat back toward cover or flock support."
+    },
+    {
+      "name": "Heat Wave",
+      "type": "Fire",
+      "category": "Special",
+      "power": 95,
+      "accuracy": 90,
+      "fieldUse": "Rare trained technique that pushes hot dry air through a wingbeat front."
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 24, and 25 in many Kanto records",
+      "Viridian Forest and nearby forest-edge grassland in related game records",
+      "Early travel corridors between Pallet Town, Viridian City, Pewter City, and Cerulean City"
+    ],
+    "Johto": [
+      "Routes 29, 30, 31, 32, 34, 35, 36, and 37",
+      "Ilex Forest",
+      "National Park north of Goldenrod City, especially morning and daytime grass"
+    ],
+    "Kalos": [
+      "Route 2",
+      "Route 3",
+      "Santalune Forest and nearby beginner-route woodland"
+    ],
+    "realWorldBlend": [
+      "Temperate oak, cedar, and maple woodland similar to Olympic foothill forests",
+      "Urban-edge parks, berry hedges, old farms, powerline cuts, river margins, and coastal forest edges"
+    ]
+  },
+  "officialEvolutionSummary": {
+    "pidgeyToPidgeotto": "Pidgey evolves into Pidgeotto starting at Level 18.",
+    "pidgeottoToPidgeot": "Pidgeotto evolves into Pidgeot starting at Level 36.",
+    "specialForm": "Pidgeot can Mega Evolve into Mega Pidgeot with Pidgeotite where Mega Evolution is available."
+  },
+  "sourceUseNote": "Core typing, height, weight, abilities, base stats, evolution levels, and move names are based on official-style Pokedex/game database records. Lifespan, field medicine, containment, habitat ecology, and real-world behavior are survival-guide extrapolations."
+}

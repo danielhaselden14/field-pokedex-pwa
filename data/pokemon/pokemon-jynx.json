@@ -1,0 +1,281 @@
+{
+  "id": "pokemon-jynx",
+  "entryId": "PKMN-0124",
+  "pokedexNumber": "#0124",
+  "name": "Jynx",
+  "category": "animals",
+  "type": "Ice / Psychic Creature",
+  "elementType": "ice-psychic",
+  "dangerLevel": "High",
+  "rarity": "Uncommon",
+  "region": "Kanto",
+  "route": "Seafoam Islands, icy caves, snowbound settlements, and cold theater traditions",
+  "habitat": "ice caves, cold seas, glaciers, snowfields, and winter mountain passes; also uses quiet fields, old towers, laboratories, caves, hospitals, and low-stimulation urban edges. Field anchors: Seafoam Islands, icy caves, snowbound settlements, and cold theater traditions",
+  "classification": "Human Shape Pokemon / Arctic Song Humanoid",
+  "height": "4 ft 7 in",
+  "weight": "89.5 lbs",
+  "behaviorTemperament": "Jynx is best treated as a single stage field organism with ice-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "activityPattern": "Crepuscular to nocturnal in cold seasons, with daytime activity inside caves or cold surf.",
+  "bestTimeToFind": "Quiet dawn or late evening in low-noise fields, ruins, labs, or old settlement edges",
+  "observationDifficulty": "Moderate to high. It may be obvious in ideal habitat, but safe identification requires distance and attention to warning signs.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Ice / Psychic Pokemon listed as Human Shape Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Jynx was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Seafoam Islands, icy caves, snowbound settlements, and cold theater traditions. The species is now handled as a Ice / Psychic field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Jynx into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to ice activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Jynx, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are freezing injury, slick ground, and cold fog. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Observe from cover, avoid food displays, do not block escape routes, and retreat if Jynx changes posture, sound, or breathing pattern.",
+  "firstAid": "For frostbite or cold shock, warm gradually and do not rub frozen skin. For confusion, fainting, or panic, remove the person from the site, reduce stimuli, and monitor until fully oriented.",
+  "companionSuitability": "Possible only for experienced handlers with species-specific housing",
+  "abilities": [
+    "Oblivious",
+    "Forewarn",
+    "Dry Skin"
+  ],
+  "fieldBehaviors": [
+    "Stares before teleporting or attacking",
+    "Avoids loud groups",
+    "Responds to emotional stress nearby",
+    "Seeks cold surfaces",
+    "Coats shelter with frost",
+    "Becomes sluggish in heat"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Bug",
+    "Rock",
+    "Ghost",
+    "Dark",
+    "Steel",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Ice",
+    "Psychic"
+  ],
+  "signsOfPresence": [
+    "Frost where it should not be",
+    "Slick stone",
+    "Cold fog",
+    "Frozen droplets",
+    "Fish flash-frozen near shore",
+    "Cracked ice patterns"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Cold-weather gloves",
+    "Traction cleats",
+    "Thermal blanket",
+    "Warm fluids",
+    "Partner observer",
+    "Low-noise headset",
+    "Clock check card",
+    "Calming light"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 4,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 3,
+    "reliability": 2,
+    "resourceCost": 4,
+    "speedOfOnset": 4,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Jynx usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a ice-type response.",
+  "visualSymbol": "❄️",
+  "image": "images/pokemon/pokemon-jynx.png",
+  "audio": "audio/pokemon/pokemon-jynx.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Jynx Evolution Family appears to have adapted around Seafoam Islands, icy caves, snowbound settlements, and cold theater traditions. Its line favors survival through freezing injury, slick ground, and cold fog, specialized shelter choice, and rapid behavioral changes during maturity. Jynx does not evolve within the first-151 field scope. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Jynx",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Ice / Psychic species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Jynx Evolution Family",
+    "subtitle": "Evolution Tree - Ice / Psychic Type",
+    "mainLine": [
+      {
+        "name": "Jynx",
+        "stage": "Single Stage",
+        "types": [
+          "Ice",
+          "Psychic"
+        ],
+        "symbol": "❄️",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Ice / Psychic species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "ice",
+    "psychic",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "jynx"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Cryofauna",
+    "order": "Glaciformes",
+    "family": "Frigidae",
+    "genus": "Jynx",
+    "species": "jynx fieldensis"
+  },
+  "humanConflictRisk": "High",
+  "domesticationStatus": "Mostly wild with licensed handling possible",
+  "prey": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to ice-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to ice caves, feeds heavily, defends shelter, and follows this first-151 evolution profile: Jynx has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires cold-rated PPE, traction mats, and temperature controls, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a ice-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to frostbite, hypothermia, slick ground, frozen gear, and cold shock",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a ice hazard area. Do not attempt capture unless trained and equipped for Jynx.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 5 to 15 years; managed care 15 to 35 years with expert habitat and medical support.",
+  "socialStructure": "solitary or small family groups",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Psychic pressure can affect perception, balance, and memory.",
+    "electricFieldRange": "Mental-effect range varies from line of sight to room-scale depending on stress and maturity.",
+    "burstSpeed": "Field burst speed roughly 23 to 42 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes frostbite, hypothermia, slick ground, frozen gear, and cold shock. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Jynx's body supports Ice / Psychic output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 4 ft 7 in",
+    "weight": "89.5 lbs",
+    "types": "Ice / Psychic",
+    "lifestyle": "Single Stage ice-type field organism",
+    "diet": "fish, cold-water prey, berries, fat-rich meals, and clean snow or ice water; secondary needs include soft fruit, nuts, fungi, prepared protein, and energy-rich meals during psychic exertion",
+    "habitat": "ice caves, cold seas, glaciers, snowfields, and winter mountain passes",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "High",
+  "physicalCharacteristics": "Recognizable as human shape pokemon with ice / psychic adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-jynx.json",
+  "officialBaseStats": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "specialAttack": 115,
+    "specialDefense": 95,
+    "speed": 95,
+    "total": 455
+  },
+  "attacks": [
+    {
+      "name": "Lovely Kiss",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 75,
+      "fieldUse": "contact or sound-based sleep induction"
+    },
+    {
+      "name": "Ice Shard",
+      "type": "Ice",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "fast shard flick used to stop approach"
+    },
+    {
+      "name": "Aurora Beam",
+      "type": "Ice",
+      "category": "Special",
+      "power": 65,
+      "accuracy": 100,
+      "fieldUse": "cold light beam that chills tissue"
+    },
+    {
+      "name": "Ice Beam",
+      "type": "Ice",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "freezing beam used by mature ice-adapted species"
+    },
+    {
+      "name": "Mist",
+      "type": "Ice",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "cold fog used to obscure movement"
+    },
+    {
+      "name": "Confusion",
+      "type": "Psychic",
+      "category": "Special",
+      "power": 50,
+      "accuracy": 100,
+      "fieldUse": "minor psychic shock causing dizziness"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Seafoam Islands, icy caves, snowbound settlements, and cold theater traditions"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Jynx has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

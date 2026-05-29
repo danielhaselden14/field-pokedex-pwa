@@ -1,0 +1,256 @@
+{
+  "id": "pokemon-bulbasaur",
+  "entryId": "PKMN-0001",
+  "pokedexNumber": "#0001",
+  "name": "Bulbasaur",
+  "category": "animals",
+  "type": "Grass / Poison Creature",
+  "elementType": "grass",
+  "dangerLevel": "Medium",
+  "rarity": "Rare",
+  "region": "Kanto",
+  "route": "Shaded forest margins, old orchards, wet meadows, abandoned farms, and protected research preserves",
+  "habitat": "Damp woodland floors with filtered sunlight, rich soil, leaf litter, moss beds, and reliable water",
+  "classification": "Seed Pokemon / Symbiotic Toad-Lizard",
+  "height": "2 ft 4 in",
+  "weight": "15.2 lbs",
+  "behaviorTemperament": "Cautious, watchful, and usually non-aggressive unless cornered or separated from its nest patch. Young Bulbasaur freeze before fleeing and may release powder if handled roughly.",
+  "diet": "Sunlight, mineral-rich water, soft shoots, berries, fungi, insects, and decomposing leaf matter absorbed through the bulb and mouth.",
+  "activityPattern": "Mostly diurnal with crepuscular feeding. Rests during hard midday sun and becomes still during drought.",
+  "bestTimeToFind": "Early morning after rain, near mossy logs or shaded water runoffs where the bulb can photosynthesize without drying out.",
+  "observationDifficulty": "Moderate. The bulb resembles young vegetation and the body blends into fern shadows.",
+  "conservationStatus": "Protected starter-class species in most managed regions",
+  "populationStatus": "Locally stable in preserves, uncommon outside guarded habitat",
+  "description": "A young quadrupedal seed Pokemon carrying a living plant bulb fused into its back. In a survival setting it is useful but unsafe to treat like a normal animal.",
+  "lore": "Old forest accounts describe Bulbasaur appearing after battlefields and burned farms, rooting in soil enriched by ash and bone. Villages once treated them as gentle grave-garden guardians.",
+  "survivalUse": "Can locate clean water, edible roots, damp shelter zones, and chemically damaged soil. Its bulb can shade a small wound but should not be harvested.",
+  "handlingWarning": "Do not pull the bulb or vines. Do not place face near the bud. Powder exposure can inflame eyes, lungs, and skin.",
+  "encounterAdvice": "Crouch low, keep hands visible, avoid fire, and let it smell your gear before moving closer. Back away if the bulb opens.",
+  "firstAid": "Flush powder from eyes and skin with clean water. Treat vine bruising as soft-tissue injury. Seek urgent care for breathing difficulty or spreading rash.",
+  "companionSuitability": "Good for patient handlers who can manage spores and habitat needs",
+  "abilities": [
+    "Overgrow",
+    "Chlorophyll"
+  ],
+  "fieldBehaviors": [
+    "Buries feet in damp soil",
+    "Opens bulb toward filtered sun",
+    "Whips vines at ankle height",
+    "Releases powders when trapped"
+  ],
+  "weaknesses": [
+    "Fire",
+    "Ice",
+    "Flying",
+    "Psychic",
+    "Strong herbicide exposure",
+    "Drought",
+    "Root rot"
+  ],
+  "resistances": [
+    "Water",
+    "Electric",
+    "Fighting",
+    "Fairy",
+    "Grass"
+  ],
+  "signsOfPresence": [
+    "Three-toed tracks",
+    "Freshly turned loam",
+    "Sweet compost odor",
+    "Circular leaf impressions",
+    "Green spore dust on bark"
+  ],
+  "equipment": [
+    "Nitrile gloves",
+    "P100 mask",
+    "Eye wash",
+    "Plant-safe disinfectant",
+    "Soft net",
+    "Moisture meter",
+    "Non-metal field crate"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 2,
+    "stealth": 3,
+    "danger": 2,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 3,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 2,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "If the bulb tracks your movement while the head stays still, the plant half has noticed you before the animal half has decided whether to run.",
+  "visualSymbol": "🌱",
+  "image": "images/pokemon/bulbasaur.png",
+  "audio": "audio/pokemon/bulbasaur.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The darkest origin theory claims the bulb symbiosis began when a forest amphibian survived famine by accepting a parasitic seed that fed on its blood. Over generations, the parasite stopped killing the host and became a second body.",
+  "evolutionLine": [
+    {
+      "name": "Bulbasaur",
+      "stage": "Base",
+      "method": "Level 16",
+      "note": "Seed-bearing juvenile. Handle as spore-capable even before the bulb opens."
+    },
+    {
+      "name": "Ivysaur",
+      "stage": "Stage One",
+      "method": "Level 32",
+      "note": "Flowering adolescent. Higher toxin and vine risk than Bulbasaur."
+    },
+    {
+      "name": "Venusaur",
+      "stage": "Final",
+      "method": "Special forms only",
+      "note": "Large keystone adult. Treat groves as respiratory hazard zones."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Bulbasaur Evolution Family",
+    "subtitle": "Evolution Tree - Grass / Poison Type",
+    "mainLine": [
+      {
+        "name": "Bulbasaur",
+        "stage": "Base",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌱",
+        "methodToNext": "Level 16",
+        "note": "Seed-bearing juvenile. Handle as spore-capable even before the bulb opens."
+      },
+      {
+        "name": "Ivysaur",
+        "stage": "Stage One",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌿",
+        "methodToNext": "Level 32",
+        "note": "Flowering adolescent. Higher toxin and vine risk than Bulbasaur."
+      },
+      {
+        "name": "Venusaur",
+        "stage": "Final",
+        "types": [
+          "Grass",
+          "Poison"
+        ],
+        "symbol": "🌺",
+        "methodToNext": "Special forms only",
+        "note": "Large keystone adult. Treat groves as respiratory hazard zones."
+      }
+    ],
+    "variants": [
+      {
+        "from": "Venusaur",
+        "method": "Venusaurite / Mega Evolution",
+        "target": {
+          "name": "Mega Venusaur",
+          "stage": "Mega Form",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "symbol": "🌺",
+          "note": "Temporary empowered form with greater bulk and spore density. Not a normal wild life stage."
+        }
+      },
+      {
+        "from": "Venusaur",
+        "method": "Gigantamax factor",
+        "target": {
+          "name": "Gigantamax Venusaur",
+          "stage": "Gigantamax Form",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "symbol": "🌺",
+          "note": "Rare battle phenomenon. Pollen and vine hazard should be treated as area-scale emergency."
+        }
+      }
+    ]
+  },
+  "tags": [
+    "pokemon",
+    "grass",
+    "poison",
+    "starter",
+    "survival-guide",
+    "spores",
+    "symbiosis",
+    "kanto"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia-Florafauna complex",
+    "class": "Reptilia-like Symbiotic Flora Fauna",
+    "order": "Anura-Sauria Symbiotica",
+    "family": "Bulbasauridae",
+    "genus": "Bufo",
+    "species": "Bufo ornatus"
+  },
+  "humanConflictRisk": "Moderate",
+  "domesticationStatus": "Semi-domesticated only under licensed starter programs",
+  "prey": "Soft-bodied insects, small grubs, berries, fallen fruit, fungal nodules, and nutrient-rich plant matter",
+  "temperamentTriggers": [
+    "Open flame",
+    "Dry air",
+    "Grabbing the bulb",
+    "Loud engines",
+    "Being separated from shade",
+    "Chemical fertilizer smell"
+  ],
+  "territoryRange": "Usually 0.2 to 1 square mile around a water source and shaded feeding lane",
+  "lifeCycle": "Hatches with a dormant seed-bulb, grows through photosynthesis and protein feeding, evolves into Ivysaur at level 16 when the bulb begins flowering.",
+  "containmentRequirements": "Humid terrarium pen with live soil, drainage, filtered sunlight, non-toxic plants, and spore ventilation. Do not use bare concrete.",
+  "ecologicalRole": "Seed disperser, insect regulator, soil aerator, and early warning species for herbicide contamination",
+  "diseaseParasiteRisk": "Moderate. Bulb rot, fungal mites, pollen allergy, and soil-borne bacterial exposure are the main concerns.",
+  "reproductionNesting": "Eggs are laid in warm compost-like nests under leaves. Adults bury nest sites in loam and defend them with powder clouds rather than direct bites.",
+  "predators": "Fearow, Arbok, larger fire-adapted predators, feral dogs, and humans seeking illegal starter specimens",
+  "emergencyResponse": "For spore release, move upwind, rinse eyes for 15 minutes, remove contaminated clothing, and isolate the animal in a dim humid space.",
+  "legalStatus": "Protected grass-poison species. Handling normally requires starter or botanical hazard certification.",
+  "stressSicknessSigns": [
+    "Bulb drooping",
+    "Blue skin paling",
+    "Sour rot smell",
+    "Powder leaking without threat",
+    "Refusal to root at rest"
+  ],
+  "lifespan": "Wild: 1 to 3 years before evolving or being displaced. Managed care: 8 to 12 years if evolution is delayed safely.",
+  "socialStructure": "Small juvenile clusters near an older Ivysaur or Venusaur territory. Individuals recognize scent marks from their own line.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Elemental output is spore, vine, and solar stored energy.",
+    "electricFieldRange": "Powder hazard usually 5 to 15 ft, farther in wind",
+    "burstSpeed": "Short ground burst about 10 to 15 mph",
+    "dodgeSpeed": "Moderate side-hop and vine-assisted bracing",
+    "jumpingHeight": "Low, about 2 ft",
+    "balance": "Very stable due to low body and bulb counterweight"
+  },
+  "trainingRisk": "Powder discharge, vine lash, accidental poisoning, and bulb infection if overtrained",
+  "physiology": "Bulbasaur functions as a paired organism: an animal host and a vascular plant bulb linked by root-like tendrils. The bulb gathers sunlight, stores sugars, and can release irritant spores. The host supplies water, minerals, warmth, and mobility.",
+  "keyFacts": {
+    "size": "Height: 2 ft 4 in",
+    "weight": "15.2 lbs",
+    "tailLength": "No external tail",
+    "lifestyle": "Diurnal, cautious, juvenile cluster or supervised starter",
+    "diet": "Omnivorous photosynthetic forager",
+    "habitat": "Damp forests, shaded meadows, orchards",
+    "lifespan": "Wild: 1 to 3 years. Managed: 8 to 12 years.",
+    "groupSize": "Usually 1 to 4 juveniles near a family territory"
+  },
+  "domesticationDifficulty": "Moderate. Trust is possible but humidity, diet, and stress control matter.",
+  "physicalCharacteristics": "Stocky blue-green body, red eyes, blunt claws, wide mouth, sturdy legs, and a green dorsal bulb with dark mottling. Skin is smooth but tougher than it appears and often smells of wet soil and crushed leaves.",
+  "dietRestrictions": "Avoid dry kibble, salted foods, herbicides, fertilizer salts, and pesticide-treated plants. Copper-based garden products can poison the bulb.",
+  "detailPath": "./data/pokemon/pokemon-bulbasaur.json"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "venusaur-dossier",
+  "title": "Venusaur Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Territory-scale ecological hazard. Primary hazard: pollen, root territory, and mature bloom control.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Venusaur is not feared because it is violent. It is feared because once it settles somewhere, the land itself begins behaving as though it belongs to something older than people.\n\nA Venusaur does not move often unless forced. By the time the Bulbasaur line reaches this stage, the struggle between animal and plant has ended—not because one side killed the other, but because the two have fused so completely that separating instinct from intention becomes impossible. The creature still breathes, still blinks, and may turn its head when spoken to. It may even recognize a former handler. But it no longer lives like an animal carrying a plant. It lives like a rooted force of ecology that has remembered how to walk.\n\nWitnesses often describe the first sighting the same way: silence, humidity, then flowers where flowers should not be. Bird calls stop first. Insect noise thins. The air grows warm and wet, carrying the scent of rainwater, crushed leaves, and something sweet beginning to spoil. A resting Venusaur can vanish into its own habitat so completely that travelers sometimes build camp within sight of one and do not realize it until dawn.\n\nThe flower is not decorative. It is a mature biochemical engine releasing pollen, scent compounds, spores, and vaporized plant hormones powerful enough to alter nearby wildlife. Smaller creatures become docile. Predators circle but do not attack. Injured animals crawl toward its shade and lie down beneath it as if responding to an ancient instinct to return to the garden. Some never rise again.\n\nRangers disagree on whether Venusaur intentionally kills in this way. Most believe it does not think of death the way predators do. It nourishes, stabilizes, shelters, and reclaims. If a wounded creature dies beneath it, the flower, roots, and surrounding soil use what is given. In recovered Venusaur territories, bones are often found beneath thick root mats, wrapped so tightly in living fiber that separating them without damage is nearly impossible.\n\nOld villages called these places green graves.\n\nThe strangest cases involve handlers who raised the line from Bulbasaur. A Venusaur may still show attachment, but attachment at this stage becomes territorial rather than companionable. It may protect a beloved person from weather, strangers, or predators with extraordinary care. It may also prevent that person from leaving during periods of bloom stress. Several nineteenth-century journals describe trusted Venusaur pinning keepers gently but immovably with vines during storms, dragging them beneath the canopy of the great flower and refusing to release them for hours or days.\n\nThe handlers survived. Most wrote that the creature saved them. A few wrote later that they were no longer certain whether they had been protected or kept.\n\nVenusaur nesting grounds are among the most unsettling natural sites in Kanto lore. The earth becomes dark, damp, and overfertile. Vines split stone. Fungi appear in daylight. Water near the territory may contain pollen dense enough to cause vivid dreams, memory loss, or passive euphoria in humans who drink it untreated. Lost travelers sometimes report hearing slow breathing beneath the forest floor, as if the roots themselves are asleep.\n\nNo one has proved the roots are connected between individuals. No one has fully disproved it either.\n\nDuring full bloom season, Venusaur becomes less mobile and more dangerous. The flower opens completely, heat radiates from the body, and pollen output rises sharply. Plants beneficial to the Venusaur thrive. Invasive threats wither. Parasites vanish. Carrion breaks down rapidly. Wild Pokémon gather at the territory edge in strange numbers, drawn by instinct, fear, or reverence.\n\nA calm Venusaur can heal a landscape. A distressed Venusaur can bury one.\n\nIf you find a Bulbasaur, observe it. If you find an Ivysaur, respect it. If you find a Venusaur, understand that you are already inside its decision."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Venusaur was formally documented in **1836**, seventeen years after Ivysaur was confirmed and twenty-nine years after the first official Bulbasaur record in 1807.\n\nThis late date does not mean Venusaur was unknown before then. Folk records describing immense flower-backed reptiles, walking orchards, moss toads, and garden kings appear in oral history centuries earlier. The problem was never absence of sightings. The problem was proof. Most early researchers who tracked Ivysaur lost them in old-growth zones where pollen, hallucinations, abnormal plant growth, and disappearance made ordinary observation dangerous.\n\nThe breakthrough came in 1836 with the Mosswell Basin Survey in southern Kanto. Flood years had driven settlements uphill. Survivors reported a moving hill of leaves in the drowned lower basin, where crops failed but wild vegetation exploded. Livestock returned dusted with yellow-green pollen. Hunters reported deer lying down in circles around a flowering mound that breathed steam in the morning cold.\n\nThe Crown Natural Society sent a five-person survey team, two guards, and former Bulbasaur keeper Elias Vane. Vane believed the reports described a fully mature evolution of Ivysaur. The other naturalists believed he romanticized folklore.\n\nThey entered the basin on the ninth day of the rain month. The first oddity was that no insects bit them. The second was that their boots sank into warm soil despite the cold. The third was that many plants showed impossible growth: roots too thick for their species, blossoms out of season, and tree bark split by internal pressure. At the center they found what they first recorded as a floral rise the size of a cottage.\n\nThen it opened an eye.\n\nThe team recorded a creature larger than any known Bulbasaur-line specimen, broad and low with scarred blue-green skin, pillar-like limbs, and a massive flowering structure rooted through shoulders and spine. Vane approached first and spoke to it as though it were still the Bulbasaur he once knew. The creature responded not with obedience, but recognition. It lowered its head, exhaled sweet vapor, and touched its brow to Vane’s chest. Beneath scar-thickened skin the team found a partial brass tag matching a juvenile Bulbasaur Vane had released in 1811.\n\nThe line’s early chronology was complete: 1807 Bulbasaur, 1819 Ivysaur, 1836 Venusaur.\n\nThe discovery nearly ended in catastrophe when a guard fired after vines shifted behind the team. The shot startled Venusaur into full defensive bloom. Pollen filled the basin. Two researchers fell unconscious. One began walking calmly into marsh water and had to be restrained. Vegetation changed over hours as flowers opened, reeds thickened, and roots surfaced through mud like fingers. Vane ordered weapons lowered and stillness maintained. The Venusaur eventually settled and dragged one unconscious researcher out of the water, placing him beneath the shelter of its flower canopy until the pollen cleared.\n\nThe Society’s official paper presented a zoological marvel. Ranger copies kept the colder lesson: Bulbasaur learns you. Ivysaur weighs you. Venusaur decides whether you are part of the garden.\n\nModern understanding suggests Venusaur evolved because the line’s symbiosis favored larger nutrient capture and environmental control. Bulbasaur could store energy. Ivysaur could direct growth. Venusaur could dominate a microhabitat, turning itself from an organism into a mobile ecological center. It no longer needed merely to survive in the forest. It could make the forest survive around it."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        [
+          "1807",
+          "Bulbasaur formally recorded."
+        ],
+        [
+          "1811",
+          "A juvenile Bulbasaur later tied to the Venusaur record was released by Elias Vane."
+        ],
+        [
+          "1819",
+          "Ivysaur confirmed."
+        ],
+        [
+          "1836",
+          "Venusaur formally documented during the Mosswell Basin Survey."
+        ]
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not camp in unnatural humid silence with out-of-season flowers.",
+        "Do not drink untreated water from Venusaur territory.",
+        "Do not fire weapons near a resting Venusaur.",
+        "If pollen thickens, lower weapons and move slowly upwind.",
+        "Assume you are already inside its territory before you see it."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Old villages called Venusaur territories green graves.",
+        "Offerings were once left at bloom-ground boundaries.",
+        "Venusaur became known as a forest sovereign or garden king in older folklore.",
+        "Some handlers survived after being restrained and later questioned whether they had been protected or kept."
+      ]
+    }
+  ]
+}

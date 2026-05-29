@@ -1,0 +1,289 @@
+{
+  "id": "pokemon-growlithe",
+  "entryId": "PKMN-0058",
+  "pokedexNumber": "#0058",
+  "name": "Growlithe",
+  "category": "animals",
+  "type": "Fire Creature",
+  "elementType": "fire",
+  "dangerLevel": "Medium",
+  "rarity": "Common",
+  "region": "Kanto",
+  "route": "Kanto Routes 7 and 8, Pokemon Mansion records, grassland edges, watch posts, and fire-warmed dens",
+  "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands. Field anchors: Kanto Routes 7 and 8, Pokemon Mansion records, grassland edges, watch posts, and fire-warmed dens",
+  "classification": "Puppy Pokemon / Loyal Fire Canid",
+  "height": "2 ft 4 in",
+  "weight": "41.9 lbs",
+  "behaviorTemperament": "Growlithe is best treated as a base field organism with fire-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+  "activityPattern": "Diurnal to crepuscular. Often basks in morning warmth and becomes active again near dusk.",
+  "bestTimeToFind": "Warm mornings near sunlit rocks, vents, dry dens, old mansions, or volcanic scrub",
+  "observationDifficulty": "Moderate. Common field signs are visible, but direct observation can still trigger flight or defense.",
+  "conservationStatus": "Monitored native Kanto species",
+  "populationStatus": "Stable where habitat remains intact, but local pressure increases near roads, farms, mines, labs, and tourist routes.",
+  "description": "A Fire Pokemon listed as Puppy Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Before Growlithe was treated as a cataloged species, travelers in its range reported small but repeatable hazards: disturbed camps, strange tracks, injured livestock, missing food, and warning signs that matched no ordinary animal. Later surveys tied those reports to Kanto Routes 7 and 8, Pokemon Mansion records, grassland edges, watch posts, and fire-warmed dens. The species is now handled as a Fire field organism whose powers are real but still shaped by habitat, food, breeding pressure, and fear. Old local accounts often exaggerate Growlithe into a monster. The safer interpretation is more practical: it is an animal with extraordinary biology, and most injuries happen when humans treat a warning display as curiosity instead of a boundary.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to fire activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Growlithe, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are heat. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Clear dry fuel, approach from bare ground, keep water for people and structures, and retreat if flames intensify or breathing becomes smoky.",
+  "firstAid": "For burns, cool with clean running water for 20 minutes and do not apply grease.",
+  "companionSuitability": "Moderate suitability with careful training, habitat control, and emergency planning",
+  "abilities": [
+    "Intimidate",
+    "Flash Fire",
+    "Justified"
+  ],
+  "fieldBehaviors": [
+    "Basks on warm stone",
+    "Avoids soaked bedding",
+    "Flares when cornered"
+  ],
+  "weaknesses": [
+    "Water",
+    "Ground",
+    "Rock",
+    "Habitat loss",
+    "Human overconfidence"
+  ],
+  "resistances": [
+    "Fire",
+    "Grass",
+    "Ice",
+    "Bug",
+    "Steel",
+    "Fairy"
+  ],
+  "signsOfPresence": [
+    "Warm stones",
+    "Ash traces",
+    "Singed grass",
+    "Sulfur or smoke scent",
+    "Heat shimmer",
+    "Charred nesting material"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Fire blanket",
+    "ABC extinguisher",
+    "Burn kit",
+    "Bare-ground retreat path"
+  ],
+  "stats": {
+    "power": 3,
+    "speed": 2,
+    "stealth": 2,
+    "danger": 3,
+    "usefulness": 4,
+    "food": 2,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 3,
+    "resourceCost": 3,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 5
+  },
+  "fieldNote": "A calm Growlithe usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a fire-type response.",
+  "visualSymbol": "🔥",
+  "image": "images/pokemon/pokemon-growlithe.png",
+  "audio": "audio/pokemon/pokemon-growlithe.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Growlithe Evolution Family appears to have adapted around Kanto Routes 7 and 8, Pokemon Mansion records, grassland edges, watch posts, and fire-warmed dens. Its line favors survival through heat, specialized shelter choice, and rapid behavioral changes during maturity. Growlithe becomes Arcanine by Fire Stone. In field terms, each stage is best read as a different ecological job: the youngest form survives by hiding, warning, or fleeing; intermediate forms defend territory and gather resources; final forms dominate the local niche or stabilize the colony. This dossier treats evolution as a real biological threshold triggered by growth, stress, energy reserves, and the listed game-derived method.",
+  "evolutionLine": [
+    {
+      "name": "Growlithe",
+      "stage": "Base",
+      "method": "Fire Stone",
+      "note": "Base-stage Fire species. Growth, training, survival stress, and the listed method lead toward the next form."
+    },
+    {
+      "name": "Arcanine",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Final-stage Fire species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Growlithe Evolution Family",
+    "subtitle": "Evolution Tree - Fire Type",
+    "mainLine": [
+      {
+        "name": "Growlithe",
+        "stage": "Base",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Fire Stone",
+        "note": "Base-stage Fire species. Growth, training, survival stress, and the listed method lead toward the next form."
+      },
+      {
+        "name": "Arcanine",
+        "stage": "Final",
+        "types": [
+          "Fire"
+        ],
+        "symbol": "🔥",
+        "methodToNext": "Final stage",
+        "note": "Final-stage Fire species within the first-151 field scope. Manage as a mature adult, not a juvenile."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "fire",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "growlithe"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Pyrofauna",
+    "order": "Igniformes",
+    "family": "Thermoferidae",
+    "genus": "Growlith",
+    "species": "growlithe fieldensis"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Semi-domesticated in specialized programs",
+  "prey": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to fire-type warning signs"
+  ],
+  "territoryRange": "1 to 5 square miles depending on food, nesting sites, and competition",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to dry foothills, feeds heavily, defends shelter, and follows this first-151 evolution profile: Growlithe evolves into Arcanine by Fire Stone.",
+  "containmentRequirements": "Requires dry shelters, stone floors, firebreaks, and ventilation, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a fire-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to burns, smoke inhalation, brush ignition, panic fire, and heat stress",
+  "reproductionNesting": "Nests or shelters in protected parts of its habitat. Eggs or young are usually guarded more strongly during storms, drought, cold snaps, food shortage, or evolution season.",
+  "predators": "Larger birds, snakes, aquatic predators, stronger territorial Pokemon, humans, disease, and habitat loss",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a fire hazard area. Do not attempt capture unless trained and equipped for Growlithe.",
+  "legalStatus": "Permit recommended or required in settled areas, especially for transport, breeding, public display, or combat training",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: wild 2 to 6 years; managed care 10 to 20 years depending on species size and evolution stage.",
+  "socialStructure": "pairs, loose colonies, or defended territories",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Heat output and flame chemistry are the main hazards.",
+    "electricFieldRange": "Flame and radiant heat hazard from 3 to 30 ft depending on size and fuel.",
+    "burstSpeed": "Field burst speed roughly 15 to 27 mph depending on terrain and age",
+    "dodgeSpeed": "Moderate",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes burns, smoke inhalation, brush ignition, panic fire, and heat stress. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Growlithe's body supports Fire output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 2 ft 4 in",
+    "weight": "41.9 lbs",
+    "types": "Fire",
+    "lifestyle": "Base fire-type field organism",
+    "diet": "small prey, eggs, high-energy protein, mineral salts, and dry plant matter",
+    "habitat": "dry foothills, volcanic scrub, warm caves, old stone shelters, and sunlit badlands",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "small groups, pairs, or local colonies depending on habitat"
+  },
+  "domesticationDifficulty": "Moderate",
+  "physicalCharacteristics": "Recognizable as puppy pokemon with fire adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-growlithe.json",
+  "officialBaseStats": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "specialAttack": 70,
+    "specialDefense": 50,
+    "speed": 60,
+    "total": 350
+  },
+  "attacks": [
+    {
+      "name": "Ember",
+      "type": "Fire",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "small flame burst used for warning and ignition"
+    },
+    {
+      "name": "Flamethrower",
+      "type": "Fire",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "sustained breath or chemical flame jet"
+    },
+    {
+      "name": "Fire Spin",
+      "type": "Fire",
+      "category": "Special",
+      "power": 35,
+      "accuracy": 85,
+      "fieldUse": "circling flame used to trap prey or clear brush"
+    },
+    {
+      "name": "Fire Blast",
+      "type": "Fire",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 85,
+      "fieldUse": "high-output fireburst used only by strong adults"
+    },
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "direct body impact"
+    },
+    {
+      "name": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short explosive lunge"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Kanto Routes 7 and 8, Pokemon Mansion records, grassland edges, watch posts, and fire-warmed dens"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Growlithe evolves into Arcanine by Fire Stone.",
+    "currentStage": "Base",
+    "methodFromPrevious": "Fire Stone"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

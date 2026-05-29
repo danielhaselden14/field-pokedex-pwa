@@ -1,0 +1,57 @@
+{
+  "id": "caterpie-dossier",
+  "title": "Caterpie Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Low-to-moderate swarm hazard. Primary hazard: silk entanglement, defensive odor, and mass pre-evolution nesting.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Caterpie is the first thing children are allowed to catch. That should tell you how little adults understand forests.\n\nIt looks harmless because it is small. It moves slowly, eats leaves, clings to branches, and raises its red antenna when frightened. It does not have claws worth fearing, teeth meant for meat, or the strength to drag livestock away. Caterpie survives by being overlooked.\n\nA single Caterpie is almost pathetic. Its body is soft enough that a careless boot can end it. Birds eat them by the dozen. Rattata raid their nesting leaves. Children scoop them into jars. Farmers brush them from crops. Trainers catch them early because they seem like living practice. But Caterpie is not dangerous as one creature. Caterpie is dangerous as a season.\n\nThe first sign is leaf lace: wide green leaves chewed into delicate veins, still hanging from trees like tiny skeletons. Then comes the silk. Thin white threads appear between branches, fence posts, roof beams, window latches, and tool handles. At first the threads seem harmless. Dew catches on them. Children run sticks through them. Farmers wipe them away.\n\nBy the third week, doors begin sticking. By the fourth, barn rafters look wrapped for burial.\n\nCaterpie silk is stronger than it appears. Young specimens use it to anchor themselves, slow falls, block predators, and prepare for evolution. When many gather, silk becomes architecture. It binds leaves into tents, seals hollows, suspends eggs, and turns ordinary forest edges into soft green nurseries. Small animals caught in fresh silk usually escape. Old silk tightens when wet, shrinks in cold dawn air, and clings to fur, feathers, eyelashes, fingers, and breathing mouths.\n\nRangers have found Pidgey hanging upside down in Caterpie trees, not killed by venom or hunger, but by panic. The bird struggled, tangled its own wings, and exhausted itself while dozens of soft green larvae fed quietly around it on leaves. Caterpie did not kill the bird. The silk did.\n\nIts red antenna releases a sharp bitter odor. In small doses it repels birds and small mammals. In enclosed spaces it causes nausea, watering eyes, headaches, confusion, and a crawling sensation under the skin. Old farm records describe families waking at night convinced insects were moving through their bedding, only to find Caterpie clustered above the rafters with antennae raised, filling the room with defensive musk called green rot.\n\nCaterpie infestations are feared in nurseries, grain lofts, schoolhouses, and sickrooms because they seek warmth, quiet, and high places before molting. Several historical suffocation cases involved blankets threaded internally with silk. Rural midwives checked swaddling cloth by candlelight; if the flame bent toward the cloth without wind, they burned it.\n\nCaterpie are also known for following grief. Houses in mourning often leave food untouched, windows closed, bedding undisturbed, and lamps burning late. Those conditions attract insects, then Caterpie, then more silk. People began saying Caterpie came to measure the dead.\n\nA Caterpie near evolution becomes restless. It climbs higher, stops feeding, dulls in color, increases silk output, and fastens itself obsessively as if terrified of falling before the change begins. A healthy Caterpie chooses bark, stone, beam, or branch. A stressed Caterpie may choose a backpack, horse tack, bedpost, or a sleeping person’s hair.\n\nDo not crush Caterpie without reason. Do not let them nest above where people sleep. Do not ignore silk indoors. If many climb upward at once, leave the grove before they begin fastening themselves. If the trees go quiet except for chewing, cover your mouth and do not look up with open eyes."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Caterpie was formally recorded in **1796**, one of the earliest Bug-type Pokémon accepted into Kanto natural history.\n\nIt had lived beside humans for so long that most communities did not consider it worth scientific attention. It was a garden pest, a child’s first catch, a bird’s meal, a silk nuisance, and a seasonal fact of life. Science ignored it because everyone already knew it.\n\nThat changed during the Green Veil Summer of 1796. Warm wet spring conditions produced a massive increase in leaf-eating larvae across the eastern Kanto mulberry districts. Farmers expected crop loss. They did not expect coordination. Caterpie gathered in numbers too large to dismiss, stripped mulberry rows, sealed irrigation gates, nested in thatched roofs, and moved along hedgerows in slow green bands.\n\nAt first the infestation was agricultural. Then the first house was found sealed. The family inside survived barely. Silk had thickened over shutters, chimney screen, and door latch. When neighbors cut them free, hundreds of Caterpie dropped from roof beams like soft fruit.\n\nNaturalist Iven Carrow arrived expecting a caterpillar plague. He observed that Caterpie followed humidity gradients, gathered where leaves were richest, climbed before storms, silked over gaps exposed to birds, and spread chemical warnings through antenna odor. Most important, he realized the Green Veil Summer was a mass pre-evolution event. Caterpie were not trying to destroy villages. They were feeding hard enough to become Metapod.\n\nThe 1796 record led to the early line chronology: Caterpie in 1796, Metapod in 1797, and Butterfree in 1802. Caterpie’s origin is understood as a survival strategy based on rapid feeding, silk production, camouflage, and sensory warning. Its true advantage was not strength, but becoming something else quickly enough that predators could not eat them all."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1796",
+          "text": "Caterpie formally recorded during the Green Veil Summer."
+        },
+        {
+          "date": "1797",
+          "text": "Metapod confirmed after marked Caterpie hardened into chrysalis forms."
+        },
+        {
+          "date": "1802",
+          "text": "Butterfree formally linked after emergence from tagged Metapod shells."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "Do not crush Caterpie without reason.",
+        "Do not let them nest above where people sleep.",
+        "Do not ignore silk indoors.",
+        "Remove one calmly if it climbs onto you before sunset.",
+        "If many climb upward at once, leave the grove."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "The Green Veil Summer gave Caterpie its scientific record.",
+        "Little promises, green cords on cradles and doors, asked Caterpie to pass over a house.",
+        "Midwives checked cloth by candlelight for hidden silk."
+      ]
+    }
+  ]
+}

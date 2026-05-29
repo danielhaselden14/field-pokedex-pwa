@@ -58,6 +58,8 @@
   }
 
   function enhanceCard(card) {
+    // DOSSIER_SKIP_LORE_ORIGIN_COLLAPSE_PATCH
+    if (card && card.closest && card.closest("#dossier-screen")) return;
     if (!card || card.dataset.loreOriginEnhanced === "true") return;
     if (card.closest("nav, header, footer")) return;
 
@@ -131,3 +133,5 @@
     subtree: true
   });
 })();
+
+

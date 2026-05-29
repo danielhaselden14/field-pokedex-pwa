@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Field PokÃƒÂ©dex</title>
+  <title>Field Pokedex</title>
   <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="styles.css?v=20260517-190822" />
+  <link rel="stylesheet" href="styles.css?v=20260528-195553" />
   <meta name="theme-color" content="#1f3d2b" />
   <style>
     .screen {
@@ -21,13 +21,14 @@
     }
   </style>
   <link rel="stylesheet" href="css/pokemon-detail-polish.css?v=20260517-185301">
+  <link rel="stylesheet" href="css/dossier-system.css?v=20260520181942">
 </head>
 <body>
   <div class="app-shell">
     <header class="app-header">
       <div>
         <p class="eyebrow">Offline Survival Guide</p>
-        <h1>Field PokÃƒÂ©dex</h1>
+        <h1>field pokedex</h1>
       </div>
     </header>
 
@@ -162,7 +163,29 @@
           <h2>Medical</h2>
           <p>Medical entries will go here.</p>
         </section>
+      </section>      <section class="screen" id="dossier-screen">
+        <button class="dossier-back-button" type="button" data-dossier-back="true">Back to Field Page</button>
+
+        <section class="dossier-hero" id="dossier-hero">
+          <p class="eyebrow">Field Dossier</p>
+          <h2>Entry Dossier</h2>
+          <p>Expanded record will appear here.</p>
+        </section>
+
+        <section class="dossier-layout">
+          <section class="dossier-media-grid" id="dossier-media"></section>
+
+          <article class="dossier-evolution-card" id="dossier-evolution">
+            <h3>Evolution Record</h3>
+            <p class="dossier-empty">No evolution record loaded.</p>
+          </article>
+
+          <section id="dossier-sections"></section>
+        </section>
+
+        <button class="dossier-back-button" type="button" data-dossier-back="true">Back to Field Page</button>
       </section>
+
 
       <section class="screen" id="detail-screen">
         <button class="back-button" id="back-to-home">? Back</button>
@@ -434,7 +457,7 @@
             <section class="card-grid related-entry-list" id="detail-related-entries"></section>
           </article>
 
-                    <article class="entry-card hidden" id="detail-media"><h3>Media / Source</h3>
+                                        <article class="entry-card hidden" id="detail-media"><h3>Media / Source</h3>
             <p id="detail-image-path"></p>
             <p id="detail-audio-path"></p>
             <p id="detail-author"></p>
@@ -452,11 +475,26 @@
     </main>
   </div>
 
-  <script src="app.js?v=20260517-190822"></script>
+  <script src="app.js?v=20260528-195553"></script>
+  <script src="js/dossier-system.js?v=20260520174017"></script>
   <script src="voice-search.js"></script>
-  <script src="js/pokemon-detail-polish.js?v=20260517-185301" defer></script>
+  <script src="js/pokemon-detail-polish.js?v=20260520181942" defer></script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

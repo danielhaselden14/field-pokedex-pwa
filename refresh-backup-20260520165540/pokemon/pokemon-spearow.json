@@ -1,0 +1,323 @@
+{
+  "id": "pokemon-spearow",
+  "entryId": "PKMN-0021",
+  "pokedexNumber": "#0021",
+  "name": "Spearow",
+  "category": "animals",
+  "type": "Normal / Flying Creature",
+  "elementType": "normal-flying",
+  "dangerLevel": "Low to Medium",
+  "rarity": "Common",
+  "region": "Kanto, Johto, Sinnoh, Alola, and dry open-route habitats",
+  "route": "Kanto Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23; Johto Routes 3, 4, 7, 9, 10, 22, 29, 30, 31, 32, 33, 35, 42, 43, 44, 45, 46, 47, Azalea Town, and Vermilion records; Sevii Island roads including Kindle Road and Mt. Ember; Sinnoh Routes 225 and 226; Alola Routes 2 and 3 with grassland and farm-edge records",
+  "habitat": "Tall grass, dry fields, canyon paths, rocky route edges, orchard borders, town outskirts, pasture fences, scrubland, low cliffs, and bug-rich farm margins",
+  "classification": "Tiny Bird Pokemon / Base Stage Territorial Grass Raptor",
+  "height": "1 ft 0 in",
+  "weight": "4.4 lbs",
+  "behaviorTemperament": "Short-tempered, territorial, loud, and far more reckless than its size suggests. Spearow use harsh cries, fast wingbeats, and stabbing beak strikes to defend grass patches and nest shrubs from intruders.",
+  "diet": "Bugs, grubs, beetles, worms, small berries, seeds, field insects, crop pests, and occasional scraps from roads or farmyards",
+  "activityPattern": "Diurnal. Most active shortly after sunrise and again before dusk, when insects move through grass and territory calls carry across open routes.",
+  "bestTimeToFind": "Morning in tall grass, dry route edges, fields troubled by Bug-type Pokemon, rocky fence lines, and sunlit canyon paths where repeated harsh calls echo",
+  "observationDifficulty": "Easy to moderate. Calls are obvious, but the bird is small, quick, and often hidden low in grass until it attacks or flees.",
+  "conservationStatus": "Common route bird with local protection during nesting season",
+  "populationStatus": "Stable where grassland, insects, and edge habitat remain. Declines where pesticides remove prey or larger raptors claim nesting lanes.",
+  "description": "A small Normal and Flying-type bird Pokemon known for loud alarm calls, aggressive territorial behavior, short wings, and quick low-altitude flight.",
+  "lore": "Kanto travelers learned to respect Spearow before they learned to name it. The warning was not the bird itself but the sound: one sharp cry, then several more answering from grass and fence posts. Early route builders treated these calls as nuisance noise until pack animals began bolting from sudden pecking attacks. Spearow rarely kill anything large, but their courage is disproportionate to their size. A flock defending a nesting patch will strike eyes, ears, hands, and exposed food until the intruder retreats. Johto farmers came to tolerate them because they devour crop pests, especially Bug-type swarms that trouble fields near Azalea and the open routes. The problem is that Spearow do not know the difference between a threat and a passerby who walked too close to the wrong grass. In real-world field use, the call is valuable. If every Spearow in a field screams at once, something moved through the grass before you did.",
+  "survivalUse": "Can warn of predators, reveal insect-rich grass, indicate open route edges, and help control crop pests. Their alarm calls can mark movement through tall grass before humans see it.",
+  "handlingWarning": "Do not grab from above, expose eyes, approach nests, or assume small size means low risk. Beak strikes to the face and hands are common in defensive encounters.",
+  "encounterAdvice": "Keep hands low, protect eyes, and avoid walking straight into repeated warning calls. If Spearow dive from both sides, lower your posture and retreat from the nest zone.",
+  "firstAid": "Clean peck wounds with soap and water. Flush eye contact immediately. Seek care for deep punctures, eyelid injury, infection signs, or repeated strikes around the face.",
+  "companionSuitability": "Moderate for experienced bird handlers; poor for children or anyone needing a calm companion",
+  "abilities": [
+    "Keen Eye",
+    "Sniper"
+  ],
+  "fieldBehaviors": [
+    "Cries loudly to warn others",
+    "Pecks insects in tall grass",
+    "Flaps short wings rapidly",
+    "Dives at intruders near nests",
+    "Perches on fences and route signs",
+    "Mob-harasses larger threats",
+    "Chases small bug Pokemon out of crops"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Ice",
+    "Rock",
+    "Nest disturbance",
+    "Long-distance flight fatigue",
+    "Large raptors"
+  ],
+  "resistances": [
+    "Grass",
+    "Bug",
+    "Ground immunity",
+    "Ghost immunity"
+  ],
+  "signsOfPresence": [
+    "Sharp repeated cries",
+    "Small three-toed tracks",
+    "Tiny feathers on fence wire",
+    "Peck marks in soft fruit",
+    "Bug shells scattered in grass",
+    "Low nest cups in shrubs",
+    "Dust bursts from short takeoffs"
+  ],
+  "equipment": [
+    "Eye protection",
+    "Light leather gloves",
+    "Wide-brim hat",
+    "Small bird crate",
+    "Towel for safe capture",
+    "Wound wash",
+    "Binoculars",
+    "Insect survey net"
+  ],
+  "stats": {
+    "power": 2,
+    "speed": 4,
+    "stealth": 2,
+    "danger": 2,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 1,
+    "reliability": 2,
+    "resourceCost": 2,
+    "speedOfOnset": 4,
+    "detectability": 4,
+    "preventability": 3,
+    "medicalPriority": 3,
+    "warmth": 1
+  },
+  "fieldNote": "A lone Spearow call is a warning. Multiple answering calls usually mean the whole territory is awake and tracking your movement.",
+  "visualSymbol": "🪶",
+  "image": "images/pokemon/pokemon-spearow.png",
+  "audio": "audio/pokemon/pokemon-spearow.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "The Spearow line likely split from gentler field birds through pressure from open-route living. Grasslands, canyons, farms, and rocky roads favored birds that reacted first and questioned later. Short wings gave Spearow quick bursts but poor endurance, so territorial calls and aggression replaced long-distance escape. Evolution at Level 20 produces Fearow, a form that solves the endurance problem with broad wings, a longer neck, a spear-like beak, and the ability to patrol much larger food ranges. In survival terms, Spearow is the alarm wire and Fearow is the aerial enforcer.",
+  "evolutionLine": [
+    {
+      "name": "Spearow",
+      "stage": "Base",
+      "method": "Level 20",
+      "note": "Base stage tiny bird Pokemon. Evolves when wing endurance, beak strength, and territorial drive become strong enough for long patrols."
+    },
+    {
+      "name": "Fearow",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Adult beak Pokemon. Built for distance flight, high dives, riverbank hunting, and aggressive aerial territory defense."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Spearow Evolution Family",
+    "subtitle": "Evolution Tree - Normal / Flying Type",
+    "mainLine": [
+      {
+        "name": "Spearow",
+        "stage": "Base",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Level 20",
+        "note": "Small territorial grassland bird. Loud alarm calls, rapid wingbeats, and reckless pecking protect its range."
+      },
+      {
+        "name": "Fearow",
+        "stage": "Final",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Final stage",
+        "note": "Long-beaked endurance raptor. Patrols roads, cliffs, fields, and coastlines while hunting insects, fish, and small prey."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "flying",
+    "bird",
+    "territorial",
+    "alarm-call",
+    "crop-pest-control",
+    "kanto",
+    "johto",
+    "alola",
+    "survival-guide"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aves-like Aerofauna",
+    "order": "Aviformes Acuti",
+    "family": "Spearowidae",
+    "genus": "Aves rostrum",
+    "species": "Aves rostrum minor"
+  },
+  "humanConflictRisk": "Low to Medium",
+  "domesticationStatus": "Semi-tame in farm pest-control programs but not a gentle household bird",
+  "prey": "Grubs, beetles, caterpillars, worms, field insects, small Bug-type Pokemon, and exposed scraps",
+  "temperamentTriggers": [
+    "Nest approach",
+    "Eye contact at close range",
+    "Raised hands",
+    "Sudden movement through grass",
+    "Predator silhouettes overhead",
+    "Food competition",
+    "Other bird calls",
+    "Intrusion by Pidgey or Rattata"
+  ],
+  "territoryRange": "Usually 0.1 to 0.5 square miles around a nest shrub, fence line, bug-rich field, or rocky route edge",
+  "lifeCycle": "Hatches in low shrubs or grass-edge nests, follows adult alarm calls, learns rapid pecking and bug hunting, and evolves into Fearow starting at Level 20 when wing strength and hunting range increase.",
+  "containmentRequirements": "Secure aviary with covered sides, low perches, visual barriers, nest privacy, insect feeding enrichment, room for fast short flights, and safe handling doors that protect eyes and hands",
+  "ecologicalRole": "Controls crop insects, warns other animals of movement, spreads small seeds, and serves as prey or rival to larger bird Pokemon.",
+  "diseaseParasiteRisk": "Low to moderate. Feather mites, crop infection, respiratory irritation, and contaminated peck wounds are the main issues.",
+  "reproductionNesting": "Builds low, guarded nests in shrubs, route grasses, fence tangles, and farm edges. Adults use loud calls and repeated dive strikes to keep intruders away.",
+  "predators": "Fearow, Pidgeotto, Pidgeot, Arbok, Persian, larger raptors, nest-raiding rodents, and humans near farms",
+  "emergencyResponse": "For a defensive flock, cover eyes, leave the nest zone, and avoid swinging at birds. For indoor capture, dim lights, close curtains, open one exit, and use a towel only if trained.",
+  "legalStatus": "Generally legal to observe. Nest disturbance may be restricted during breeding season, especially near farms that rely on them for insect control.",
+  "stressSicknessSigns": [
+    "Silent crouching",
+    "Drooped wings",
+    "Refusing insects",
+    "Head shaking",
+    "Crust around eyes",
+    "Broken flight feathers",
+    "Overgrown beak tip",
+    "Repeated cage striking"
+  ],
+  "lifespan": "Wild: 2 to 4 years. Managed care: 8 to 12 years with safe flight space and proper diet.",
+  "socialStructure": "Pairs or loose territorial clusters. Groups coordinate warning calls, but individuals compete aggressively for nest sites and insect-rich grass.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazards are beak strikes, eye injury, and flock alarm behavior.",
+    "electricFieldRange": "No electric field. Dive and peck hazard usually within 3 to 12 ft of the defended area.",
+    "burstSpeed": "Fast low flight roughly 30 to 40 mph in short bursts",
+    "dodgeSpeed": "Excellent in grass and around fences, weaker in long open pursuit",
+    "jumpingHeight": "Short ground hop and rapid takeoff from grass",
+    "balance": "Good perch grip on fences, branches, and route signs"
+  },
+  "trainingRisk": "Face pecks, eye injury, stress from confinement, territorial biting, cage striking, and escape during feeding",
+  "physiology": "Spearow has compact flight muscles, short rapid-beating wings, a hooked stabbing beak, keen sight, and a loud call system. It is not built for graceful soaring. It is built to explode from grass, attack, warn others, and disappear into cover.",
+  "keyFacts": {
+    "size": "Height: 1 ft 0 in",
+    "weight": "4.4 lbs",
+    "wingspan": "Approx. 1.2 to 1.8 ft",
+    "lifestyle": "Diurnal territorial field bird",
+    "diet": "Insect-heavy omnivore",
+    "habitat": "Tall grass, dry routes, farms, scrubland, cliffs, and fence lines",
+    "lifespan": "Wild: 2 to 4 years. Managed: 8 to 12 years.",
+    "groupSize": "Pairs, loose clusters, or alarm-calling flocks"
+  },
+  "domesticationDifficulty": "Moderate to high. Useful and hardy, but easily stressed, loud, and quick to strike faces or hands.",
+  "physicalCharacteristics": "Small brown bird Pokemon with rough head plumage, cream underside, narrow eyes, pink hooked beak, pinkish-red wings, black back feathers, and light feet with three forward-gripping toes.",
+  "dietRestrictions": "Avoid seed-only diets, spoiled insects, pesticide-exposed bugs, salty scraps, smoke, and cramped cages that damage flight feathers.",
+  "detailPath": "./data/pokemon/pokemon-spearow.json",
+  "officialBaseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "specialAttack": 31,
+    "specialDefense": 31,
+    "speed": 70,
+    "total": 262
+  },
+  "attacks": [
+    {
+      "name": "Growl",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Alarm call that warns the flock and discourages smaller threats."
+    },
+    {
+      "name": "Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 35,
+      "accuracy": 100,
+      "fieldUse": "Basic beak strike used against insects and hands."
+    },
+    {
+      "name": "Leer",
+      "type": "Normal",
+      "category": "Status",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "Fixed territorial stare before a dive or peck."
+    },
+    {
+      "name": "Assurance",
+      "type": "Dark",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Follow-up strike against an already disrupted target."
+    },
+    {
+      "name": "Fury Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 85,
+      "fieldUse": "Rapid repeated pecking used during nest defense."
+    },
+    {
+      "name": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": null,
+      "fieldUse": "Clean diving strike that is difficult to dodge at close range."
+    },
+    {
+      "name": "Wing Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Short wing-driven hit used in low flight."
+    },
+    {
+      "name": "Drill Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Developed piercing attack seen in older Spearow approaching evolution."
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23",
+      "Sevii Island records including Canyon Entrance, Cape Brink, Kindle Road, Mt. Ember, Ruin Valley, Treasure Beach, and Water Path",
+      "Dry route grass, canyon approaches, and road edges"
+    ],
+    "Johto": [
+      "Routes 3, 4, 7, 9, 10, 22, 29, 30, 31, 32, 33, 35, 42, 43, 44, 45, 46, and 47 in various records",
+      "Azalea Town and Vermilion City records",
+      "Farm edges and town grass where bug prey is common"
+    ],
+    "Sinnoh": [
+      "Routes 225 and 226"
+    ],
+    "Alola": [
+      "Routes 2 and 3",
+      "Poke Pelago records",
+      "Open fields and early-route grasslands"
+    ]
+  },
+  "officialEvolutionSummary": {
+    "spearowToFearow": "Spearow evolves into Fearow starting at Level 20.",
+    "finalStage": "Fearow is the final stage of the Spearow line.",
+    "specialForm": "No standard Mega Evolution or regional form is currently part of the main line."
+  },
+  "sourceUseNote": "Core typing, height, weight, abilities, base stats, evolution levels, game location anchors, and move names are based on official-style Pokedex and game database records. Lifespan, ecology, first aid, containment, and real-world field behavior are interpretive survival-guide material for this passion project."
+}

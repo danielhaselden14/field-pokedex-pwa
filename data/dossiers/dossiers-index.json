@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bulbasaur-dossier",
+    "title": "Bulbasaur Field Dossier",
+    "file": "bulbasaur-dossier.json"
+  },
+  {
+    "id": "ivysaur-dossier",
+    "title": "Ivysaur Field Dossier",
+    "file": "ivysaur-dossier.json"
+  },
+  {
+    "id": "venusaur-dossier",
+    "title": "Venusaur Field Dossier",
+    "file": "venusaur-dossier.json"
+  },
+  {
+    "id": "charmander-dossier",
+    "title": "Charmander Field Dossier",
+    "file": "charmander-dossier.json"
+  },
+  {
+    "id": "squirtle-dossier",
+    "title": "Squirtle Field Dossier",
+    "file": "squirtle-dossier.json"
+  },
+  {
+    "id": "wartortle-dossier",
+    "title": "Wartortle Field Dossier",
+    "file": "wartortle-dossier.json"
+  },
+  {
+    "id": "blastoise-dossier",
+    "title": "Blastoise Field Dossier",
+    "file": "blastoise-dossier.json"
+  },
+  {
+    "id": "caterpie-dossier",
+    "title": "Caterpie Field Dossier",
+    "file": "caterpie-dossier.json"
+  },
+  {
+    "id": "metapod-dossier",
+    "title": "Metapod Field Dossier",
+    "file": "metapod-dossier.json"
+  },
+  {
+    "id": "butterfree-dossier",
+    "title": "Butterfree Field Dossier",
+    "file": "butterfree-dossier.json"
+  },
+  {
+    "id": "weedle-dossier",
+    "title": "Weedle Field Dossier",
+    "file": "weedle-dossier.json"
+  },
+  {
+    "id": "kakuna-dossier",
+    "title": "Kakuna Field Dossier",
+    "file": "kakuna-dossier.json"
+  },
+  {
+    "id": "beedrill-dossier",
+    "title": "Beedrill Field Dossier",
+    "file": "beedrill-dossier.json"
+  },
+  {
+    "id": "pidgey-dossier",
+    "title": "Pidgey Field Dossier",
+    "file": "pidgey-dossier.json"
+  }
+]

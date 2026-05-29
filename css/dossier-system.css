@@ -1,0 +1,1351 @@
+﻿/* ===== DOSSIER SYSTEM : TYPE VIBE MEETS SCIENCE PAPER ===== */
+
+#dossier-screen {
+  position: relative;
+  isolation: isolate;
+  padding: 14px;
+  border-radius: 26px;
+  overflow: hidden;
+  background:
+    linear-gradient(160deg, #102116 0%, #0b1810 45%, #060d08 100%);
+  box-shadow:
+    0 16px 40px rgba(0, 0, 0, 0.35),
+    inset 0 0 24px rgba(216, 247, 184, 0.04);
+}
+
+#dossier-screen::before,
+#dossier-screen::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+#dossier-screen::before {
+  z-index: 0;
+  opacity: 0.34;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      rgba(255,255,255,0.02) 0px,
+      rgba(255,255,255,0.02) 1px,
+      transparent 1px,
+      transparent 24px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255,255,255,0.015) 0px,
+      rgba(255,255,255,0.015) 1px,
+      transparent 1px,
+      transparent 28px
+    ),
+    radial-gradient(circle at 12% 10%, rgba(255,255,255,0.05), transparent 22%),
+    radial-gradient(circle at 88% 82%, rgba(255,255,255,0.04), transparent 24%);
+  mix-blend-mode: screen;
+}
+
+#dossier-screen::after {
+  z-index: 0;
+  opacity: 0.18;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      transparent 0 16px,
+      rgba(0,0,0,0.06) 16px 18px
+    ),
+    radial-gradient(circle at 80% 8%, rgba(255,255,255,0.05), transparent 18%);
+}
+
+#dossier-screen > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== TYPE THEME BACKGROUNDS ===== */
+
+/* NORMAL — plain field notebook */
+#dossier-screen.type-normal {
+  background:
+    radial-gradient(circle at 82% 14%, rgba(255,255,255,0.10), transparent 22%),
+    radial-gradient(circle at 14% 80%, rgba(92, 76, 54, 0.14), transparent 24%),
+    linear-gradient(160deg, #e6dcc6 0%, #d8ccb2 38%, #c9b998 100%);
+  color: #2b2418;
+}
+
+/* FIRE — scorched, burnt edges, ember paper */
+#dossier-screen.type-fire {
+  background:
+    radial-gradient(circle at 50% 120%, rgba(255, 85, 20, 0.22), transparent 40%),
+    radial-gradient(circle at 86% 12%, rgba(255, 168, 56, 0.18), transparent 20%),
+    linear-gradient(160deg, #26120c 0%, #5a2411 25%, #8b4a1e 62%, #c9aa77 100%);
+}
+
+#dossier-screen.type-fire::after {
+  opacity: 0.28;
+  background:
+    radial-gradient(circle at 8% 4%, rgba(0,0,0,0.55), transparent 12%),
+    radial-gradient(circle at 92% 6%, rgba(0,0,0,0.45), transparent 12%),
+    radial-gradient(circle at 5% 96%, rgba(0,0,0,0.40), transparent 14%),
+    radial-gradient(circle at 96% 94%, rgba(0,0,0,0.48), transparent 14%),
+    repeating-linear-gradient(
+      135deg,
+      transparent 0 18px,
+      rgba(255, 176, 70, 0.05) 18px 21px
+    );
+}
+
+/* WATER — wet paper, tide stains */
+#dossier-screen.type-water {
+  background:
+    radial-gradient(circle at 22% 24%, rgba(255,255,255,0.16), transparent 14%),
+    radial-gradient(circle at 70% 78%, rgba(18, 132, 210, 0.24), transparent 22%),
+    radial-gradient(circle at 82% 14%, rgba(153, 227, 255, 0.24), transparent 16%),
+    linear-gradient(180deg, #d3ecef 0%, #9dc6d6 42%, #638ca8 100%);
+}
+
+#dossier-screen.type-water::after {
+  opacity: 0.26;
+  background:
+    radial-gradient(circle at 25% 25%, rgba(255,255,255,0.12), transparent 7%),
+    radial-gradient(circle at 67% 70%, rgba(255,255,255,0.10), transparent 8%),
+    radial-gradient(circle at 78% 18%, rgba(255,255,255,0.11), transparent 6%),
+    repeating-radial-gradient(circle at 20% 20%, rgba(0, 85, 140, 0.06) 0 10px, transparent 10px 24px);
+}
+
+/* ELECTRIC — lab paper with singe marks and charge flares */
+#dossier-screen.type-electric {
+  background:
+    radial-gradient(circle at 84% 18%, rgba(255, 241, 110, 0.34), transparent 18%),
+    radial-gradient(circle at 18% 82%, rgba(95, 210, 255, 0.18), transparent 20%),
+    linear-gradient(145deg, #fbf0b1 0%, #e6d77b 32%, #bca94b 100%);
+}
+
+#dossier-screen.type-electric::after {
+  opacity: 0.24;
+  background:
+    linear-gradient(120deg, transparent 0 28%, rgba(255,255,255,0.10) 28% 29%, transparent 29% 100%),
+    linear-gradient(300deg, transparent 0 58%, rgba(0,0,0,0.08) 58% 59%, transparent 59% 100%),
+    radial-gradient(circle at 85% 18%, rgba(255, 255, 255, 0.18), transparent 12%);
+}
+
+/* GRASS — old botanical paper with mold and pressed-plant feel */
+#dossier-screen.type-grass {
+  background:
+    radial-gradient(circle at 16% 18%, rgba(120, 170, 90, 0.20), transparent 18%),
+    radial-gradient(circle at 84% 84%, rgba(72, 102, 60, 0.18), transparent 20%),
+    linear-gradient(160deg, #d9d6ba 0%, #bcc69a 38%, #86946d 100%);
+}
+
+#dossier-screen.type-grass::after {
+  opacity: 0.30;
+  background:
+    radial-gradient(circle at 10% 16%, rgba(48, 86, 42, 0.18), transparent 9%),
+    radial-gradient(circle at 16% 82%, rgba(66, 102, 48, 0.14), transparent 8%),
+    radial-gradient(circle at 82% 18%, rgba(66, 102, 48, 0.15), transparent 8%),
+    radial-gradient(circle at 88% 78%, rgba(45, 72, 33, 0.18), transparent 10%);
+}
+
+/* ICE — frosted specimen page */
+#dossier-screen.type-ice {
+  background:
+    radial-gradient(circle at 80% 14%, rgba(255,255,255,0.28), transparent 18%),
+    radial-gradient(circle at 20% 78%, rgba(160, 220, 245, 0.22), transparent 20%),
+    linear-gradient(160deg, #edf6fb 0%, #cfe4ef 42%, #a6c3d3 100%);
+}
+
+#dossier-screen.type-ice::after {
+  opacity: 0.30;
+  background:
+    linear-gradient(130deg, transparent 0 36%, rgba(255,255,255,0.11) 36% 37%, transparent 37% 100%),
+    linear-gradient(40deg, transparent 0 62%, rgba(255,255,255,0.08) 62% 63%, transparent 63% 100%),
+    radial-gradient(circle at 82% 12%, rgba(255,255,255,0.12), transparent 10%);
+}
+
+/* FIGHTING — worn training manual / taped report */
+#dossier-screen.type-fighting {
+  background:
+    radial-gradient(circle at 84% 18%, rgba(160, 60, 48, 0.14), transparent 16%),
+    linear-gradient(160deg, #d4c4aa 0%, #b79a78 42%, #7d5d46 100%);
+}
+
+#dossier-screen.type-fighting::after {
+  opacity: 0.24;
+  background:
+    linear-gradient(15deg, transparent 0 82%, rgba(88, 64, 40, 0.16) 82% 100%),
+    linear-gradient(195deg, transparent 0 88%, rgba(255,255,255,0.07) 88% 100%);
+}
+
+/* POISON — stained toxic research file */
+#dossier-screen.type-poison {
+  background:
+    radial-gradient(circle at 84% 18%, rgba(168, 60, 180, 0.24), transparent 18%),
+    radial-gradient(circle at 20% 78%, rgba(80, 24, 94, 0.14), transparent 20%),
+    linear-gradient(160deg, #d2c5d9 0%, #b58fc1 38%, #7b568f 100%);
+}
+
+#dossier-screen.type-poison::after {
+  opacity: 0.30;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(78, 26, 84, 0.20), transparent 9%),
+    radial-gradient(circle at 82% 24%, rgba(96, 34, 112, 0.16), transparent 8%),
+    radial-gradient(circle at 68% 82%, rgba(66, 20, 80, 0.16), transparent 8%);
+}
+
+/* GROUND — dusty excavation notes */
+#dossier-screen.type-ground {
+  background:
+    radial-gradient(circle at 82% 16%, rgba(194, 154, 96, 0.18), transparent 18%),
+    radial-gradient(circle at 22% 82%, rgba(133, 92, 58, 0.16), transparent 22%),
+    linear-gradient(160deg, #dfcfb1 0%, #b8946a 42%, #836345 100%);
+}
+
+#dossier-screen.type-ground::after {
+  opacity: 0.22;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent 0 18px,
+      rgba(93, 68, 40, 0.04) 18px 21px
+    ),
+    radial-gradient(circle at 18% 76%, rgba(122, 91, 52, 0.12), transparent 10%);
+}
+
+/* FLYING — weathered sky chart / aerology page */
+#dossier-screen.type-flying {
+  background:
+    radial-gradient(circle at 80% 14%, rgba(255,255,255,0.18), transparent 18%),
+    radial-gradient(circle at 20% 80%, rgba(148, 176, 206, 0.18), transparent 20%),
+    linear-gradient(180deg, #e2ebf2 0%, #bfd2e2 42%, #8fa9bf 100%);
+}
+
+#dossier-screen.type-flying::after {
+  opacity: 0.22;
+  background:
+    radial-gradient(circle at 24% 24%, rgba(255,255,255,0.10), transparent 10%),
+    radial-gradient(circle at 72% 30%, rgba(255,255,255,0.09), transparent 11%),
+    linear-gradient(90deg, transparent 0 48%, rgba(255,255,255,0.05) 48% 49%, transparent 49% 100%);
+}
+
+/* PSYCHIC — annotated mind-study paper */
+#dossier-screen.type-psychic {
+  background:
+    radial-gradient(circle at 50% 18%, rgba(255, 175, 230, 0.20), transparent 18%),
+    radial-gradient(circle at 80% 74%, rgba(190, 130, 255, 0.16), transparent 22%),
+    linear-gradient(160deg, #f0d8e8 0%, #d0a9cf 40%, #9f76a4 100%);
+}
+
+#dossier-screen.type-psychic::after {
+  opacity: 0.24;
+  background:
+    radial-gradient(circle at 50% 50%, rgba(255,255,255,0.08), transparent 16%),
+    repeating-radial-gradient(circle at 50% 50%, transparent 0 18px, rgba(255,255,255,0.05) 18px 19px, transparent 19px 36px);
+}
+
+/* BUG — specimen card with pinboard vibe */
+#dossier-screen.type-bug {
+  background:
+    radial-gradient(circle at 84% 14%, rgba(168, 190, 78, 0.18), transparent 18%),
+    linear-gradient(160deg, #e0dfb8 0%, #bdc37d 42%, #7a8549 100%);
+}
+
+#dossier-screen.type-bug::after {
+  opacity: 0.26;
+  background:
+    radial-gradient(circle at 18% 16%, rgba(70, 80, 30, 0.18), transparent 4%),
+    radial-gradient(circle at 84% 20%, rgba(70, 80, 30, 0.14), transparent 4%),
+    radial-gradient(circle at 80% 78%, rgba(70, 80, 30, 0.14), transparent 4%),
+    radial-gradient(circle at 16% 80%, rgba(70, 80, 30, 0.16), transparent 4%);
+}
+
+/* ROCK — sediment and fossil report */
+#dossier-screen.type-rock {
+  background:
+    radial-gradient(circle at 82% 12%, rgba(160, 138, 116, 0.16), transparent 18%),
+    linear-gradient(160deg, #d5c8b8 0%, #b49b86 38%, #786758 100%);
+}
+
+#dossier-screen.type-rock::after {
+  opacity: 0.24;
+  background:
+    linear-gradient(25deg, transparent 0 72%, rgba(255,255,255,0.06) 72% 100%),
+    repeating-linear-gradient(
+      165deg,
+      transparent 0 14px,
+      rgba(82, 65, 51, 0.05) 14px 16px
+    );
+}
+
+/* GHOST — faded haunted archive document */
+#dossier-screen.type-ghost {
+  background:
+    radial-gradient(circle at 82% 12%, rgba(182, 178, 255, 0.16), transparent 18%),
+    radial-gradient(circle at 18% 84%, rgba(80, 76, 126, 0.18), transparent 24%),
+    linear-gradient(160deg, #cbc7df 0%, #8f8ab4 42%, #4d496a 100%);
+}
+
+#dossier-screen.type-ghost::after {
+  opacity: 0.26;
+  background:
+    radial-gradient(circle at 50% 50%, rgba(255,255,255,0.05), transparent 30%),
+    linear-gradient(90deg, transparent 0 24%, rgba(255,255,255,0.05) 24% 25%, transparent 25% 100%);
+}
+
+/* DRAGON — ancient draconic archive parchment */
+#dossier-screen.type-dragon {
+  background:
+    radial-gradient(circle at 84% 14%, rgba(102, 114, 208, 0.24), transparent 18%),
+    radial-gradient(circle at 20% 82%, rgba(70, 42, 24, 0.16), transparent 20%),
+    linear-gradient(160deg, #d6c5a8 0%, #a98f66 34%, #5b4a5d 100%);
+}
+
+#dossier-screen.type-dragon::after {
+  opacity: 0.24;
+  background:
+    linear-gradient(140deg, transparent 0 42%, rgba(255,255,255,0.07) 42% 43%, transparent 43% 100%),
+    radial-gradient(circle at 12% 88%, rgba(80, 44, 24, 0.12), transparent 12%);
+}
+
+/* DARK — soot, ink, black case file */
+#dossier-screen.type-dark {
+  background:
+    radial-gradient(circle at 84% 16%, rgba(140, 140, 140, 0.10), transparent 16%),
+    linear-gradient(160deg, #1b1a1a 0%, #2e2a27 35%, #4a4037 100%);
+}
+
+#dossier-screen.type-dark::after {
+  opacity: 0.24;
+  background:
+    radial-gradient(circle at 18% 82%, rgba(0,0,0,0.20), transparent 12%),
+    radial-gradient(circle at 86% 18%, rgba(255,255,255,0.06), transparent 10%);
+}
+
+/* STEEL — technical sheet / brushed lab plate */
+#dossier-screen.type-steel {
+  background:
+    radial-gradient(circle at 82% 12%, rgba(255,255,255,0.18), transparent 18%),
+    linear-gradient(160deg, #dfe5e7 0%, #b5c1c7 40%, #798893 100%);
+}
+
+#dossier-screen.type-steel::after {
+  opacity: 0.26;
+  background:
+    repeating-linear-gradient(
+      180deg,
+      transparent 0 12px,
+      rgba(255,255,255,0.04) 12px 13px,
+      transparent 13px 24px
+    ),
+    linear-gradient(90deg, transparent 0 88%, rgba(0,0,0,0.08) 88% 100%);
+}
+
+/* FAIRY — delicate field notes with iridescent/pollen vibe */
+#dossier-screen.type-fairy {
+  background:
+    radial-gradient(circle at 82% 16%, rgba(255, 214, 243, 0.22), transparent 16%),
+    radial-gradient(circle at 18% 76%, rgba(255, 246, 161, 0.16), transparent 20%),
+    linear-gradient(160deg, #f7e6ef 0%, #e7c5d8 40%, #c39cbc 100%);
+}
+
+#dossier-screen.type-fairy::after {
+  opacity: 0.26;
+  background:
+    radial-gradient(circle at 16% 20%, rgba(255,255,255,0.12), transparent 6%),
+    radial-gradient(circle at 72% 24%, rgba(255,255,255,0.10), transparent 6%),
+    radial-gradient(circle at 84% 72%, rgba(255,255,255,0.10), transparent 6%);
+}
+
+/* ===== CARDS / TEXT ===== */
+
+.dossier-open-button,
+.dossier-back-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 12px 10px 0 0;
+  padding: 12px 16px;
+  border: 1px solid rgba(216, 247, 184, 0.46);
+  border-radius: 999px;
+  color: #ecf7ef;
+  background: rgba(18, 42, 28, 0.95);
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
+}
+
+.dossier-open-button:hover,
+.dossier-back-button:hover {
+  color: #10200f;
+  background: #d8f7b8;
+  border-color: rgba(216, 247, 184, 0.9);
+  box-shadow: 0 0 16px rgba(216, 247, 184, 0.22);
+}
+
+.dossier-hero,
+.dossier-image-card,
+.dossier-evolution-card,
+.dossier-section-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 22px;
+  border: 1px solid rgba(216, 247, 184, 0.24);
+  background:
+    linear-gradient(145deg, rgba(22, 45, 31, 0.88), rgba(10, 23, 15, 0.88));
+  box-shadow:
+    0 12px 28px rgba(0, 0, 0, 0.22),
+    inset 0 0 18px rgba(130, 185, 136, 0.06);
+  color: #eef7f0;
+}
+
+.dossier-hero {
+  margin-bottom: 16px;
+  padding: 22px;
+}
+
+.dossier-hero::before,
+.dossier-image-card::before,
+.dossier-evolution-card::before,
+.dossier-section-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.08;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent 0 22px,
+      rgba(255,255,255,0.06) 22px 23px
+    );
+}
+
+.dossier-hero h2 {
+  margin: 0 0 8px;
+  color: #d8f7b8;
+  font-size: clamp(2rem, 8vw, 4.8rem);
+  line-height: 0.95;
+}
+
+.dossier-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.dossier-pill {
+  display: inline-flex;
+  padding: 6px 10px;
+  border-radius: 999px;
+  color: #10200f;
+  background: #d8f7b8;
+  font-size: 0.82rem;
+  font-weight: 900;
+}
+
+.dossier-layout {
+  display: grid;
+  gap: 16px;
+}
+
+.dossier-media-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.dossier-image-card,
+.dossier-evolution-card,
+.dossier-section-card {
+  padding: 18px;
+}
+
+.dossier-image-card img {
+  width: 100%;
+  max-height: 720px;
+  object-fit: contain;
+  display: block;
+  border-radius: 18px;
+  background: rgba(5, 14, 9, 0.72);
+  cursor: zoom-in;
+}
+
+.dossier-section-card h3,
+.dossier-image-card h3,
+.dossier-evolution-card h3 {
+  margin-bottom: 12px;
+  color: #d8f7b8;
+}
+
+.dossier-prose {
+  white-space: pre-wrap;
+  color: #eaf7ec;
+  font-size: 1.02rem;
+  line-height: 1.72;
+}
+
+.dossier-prose strong {
+  color: #ffd08a;
+}
+
+.dossier-timeline {
+  display: grid;
+  gap: 10px;
+}
+
+.dossier-timeline-item {
+  padding: 12px;
+  border-left: 4px solid #d8f7b8;
+  border-radius: 12px;
+  background: rgba(8, 18, 12, 0.42);
+}
+
+.dossier-timeline-date {
+  display: block;
+  color: #d8f7b8;
+  font-weight: 900;
+  margin-bottom: 4px;
+}
+
+.dossier-list {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 8px;
+}
+
+.dossier-empty {
+  color: #b8c9b7;
+  font-style: italic;
+}
+
+.dossier-evolution-line {
+  display: grid;
+  gap: 10px;
+}
+
+.dossier-evolution-node {
+  padding: 14px;
+  border: 1px solid rgba(216, 247, 184, 0.24);
+  border-radius: 16px;
+  background: rgba(8, 18, 12, 0.42);
+}
+
+.dossier-evolution-node h4 {
+  margin: 0 0 6px;
+  color: #d8f7b8;
+}
+
+.dossier-evolution-node p {
+  margin-bottom: 6px;
+}
+
+@media (min-width: 850px) {
+  .dossier-media-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* ===== FIRE DOSSIER PARCHMENT OVERRIDE ===== */
+/* Makes Fire dossiers look like burned scientific field papers, not green app cards */
+
+#dossier-screen.type-fire {
+  background:
+    radial-gradient(circle at 50% 0%, rgba(255, 95, 30, 0.22), transparent 34%),
+    radial-gradient(circle at 50% 100%, rgba(60, 18, 5, 0.72), transparent 42%),
+    linear-gradient(160deg, #120704 0%, #301108 38%, #5a2110 100%) !important;
+  padding: 20px !important;
+  border-radius: 28px !important;
+  border: 1px solid rgba(255, 130, 50, 0.32) !important;
+}
+
+#dossier-screen.type-fire .dossier-hero,
+#dossier-screen.type-fire .dossier-image-card,
+#dossier-screen.type-fire .dossier-evolution-card,
+#dossier-screen.type-fire .dossier-section-card {
+  position: relative !important;
+  overflow: hidden !important;
+  color: #2a160c !important;
+  background:
+    radial-gradient(circle at 18% 14%, rgba(112, 48, 17, 0.14), transparent 14%),
+    radial-gradient(circle at 88% 8%, rgba(70, 24, 8, 0.16), transparent 16%),
+    radial-gradient(circle at 12% 94%, rgba(52, 18, 6, 0.16), transparent 14%),
+    radial-gradient(circle at 92% 90%, rgba(42, 12, 4, 0.18), transparent 15%),
+    linear-gradient(180deg, #e7c98d 0%, #d8ad68 45%, #bd7f3e 100%) !important;
+  border: 2px solid rgba(75, 28, 9, 0.75) !important;
+  border-radius: 22px !important;
+  box-shadow:
+    inset 0 0 18px rgba(55, 18, 5, 0.28),
+    inset 0 0 48px rgba(85, 28, 8, 0.18),
+    0 14px 28px rgba(0, 0, 0, 0.36) !important;
+}
+
+#dossier-screen.type-fire .dossier-hero::before,
+#dossier-screen.type-fire .dossier-image-card::before,
+#dossier-screen.type-fire .dossier-evolution-card::before,
+#dossier-screen.type-fire .dossier-section-card::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  pointer-events: none !important;
+  opacity: 0.55 !important;
+  background:
+    radial-gradient(circle at 0% 0%, rgba(24, 8, 2, 0.85), transparent 16%),
+    radial-gradient(circle at 100% 0%, rgba(24, 8, 2, 0.75), transparent 15%),
+    radial-gradient(circle at 0% 100%, rgba(24, 8, 2, 0.70), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(24, 8, 2, 0.82), transparent 16%),
+    linear-gradient(90deg, rgba(34, 9, 2, 0.55), transparent 7%, transparent 93%, rgba(34, 9, 2, 0.55)),
+    linear-gradient(180deg, rgba(34, 9, 2, 0.55), transparent 8%, transparent 92%, rgba(34, 9, 2, 0.55)) !important;
+  z-index: 0 !important;
+}
+
+#dossier-screen.type-fire .dossier-hero::after,
+#dossier-screen.type-fire .dossier-image-card::after,
+#dossier-screen.type-fire .dossier-evolution-card::after,
+#dossier-screen.type-fire .dossier-section-card::after {
+  content: "" !important;
+  position: absolute !important;
+  inset: 7px !important;
+  pointer-events: none !important;
+  opacity: 0.34 !important;
+  border-radius: 16px !important;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      rgba(80, 37, 12, 0.05) 0px,
+      rgba(80, 37, 12, 0.05) 1px,
+      transparent 1px,
+      transparent 24px
+    ),
+    radial-gradient(circle at 25% 28%, rgba(80, 35, 10, 0.12), transparent 10%),
+    radial-gradient(circle at 78% 62%, rgba(80, 35, 10, 0.10), transparent 12%),
+    radial-gradient(circle at 44% 86%, rgba(80, 35, 10, 0.08), transparent 10%) !important;
+  z-index: 0 !important;
+}
+
+#dossier-screen.type-fire .dossier-hero > *,
+#dossier-screen.type-fire .dossier-image-card > *,
+#dossier-screen.type-fire .dossier-evolution-card > *,
+#dossier-screen.type-fire .dossier-section-card > * {
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+#dossier-screen.type-fire .dossier-hero h2,
+#dossier-screen.type-fire .dossier-section-card h3,
+#dossier-screen.type-fire .dossier-image-card h3,
+#dossier-screen.type-fire .dossier-evolution-card h3,
+#dossier-screen.type-fire .dossier-evolution-node h4 {
+  color: #351405 !important;
+  text-shadow:
+    0 1px 0 rgba(255, 225, 160, 0.55),
+    0 0 8px rgba(115, 38, 8, 0.16) !important;
+}
+
+#dossier-screen.type-fire .eyebrow {
+  color: #692407 !important;
+}
+
+#dossier-screen.type-fire .dossier-prose,
+#dossier-screen.type-fire .dossier-section-card,
+#dossier-screen.type-fire .dossier-section-card p,
+#dossier-screen.type-fire .dossier-list,
+#dossier-screen.type-fire .dossier-list li,
+#dossier-screen.type-fire .dossier-evolution-node,
+#dossier-screen.type-fire .dossier-timeline-item {
+  color: #2a160c !important;
+}
+
+#dossier-screen.type-fire .dossier-prose strong,
+#dossier-screen.type-fire .dossier-timeline-date {
+  color: #651f05 !important;
+}
+
+#dossier-screen.type-fire .dossier-pill {
+  color: #f7d59a !important;
+  background:
+    linear-gradient(180deg, #5a1b05, #2b0b02) !important;
+  border: 1px solid rgba(255, 177, 74, 0.35) !important;
+  box-shadow:
+    inset 0 0 10px rgba(255, 122, 28, 0.12),
+    0 3px 8px rgba(0, 0, 0, 0.22) !important;
+}
+
+#dossier-screen.type-fire .dossier-image-card img {
+  border: 2px solid rgba(55, 18, 5, 0.72) !important;
+  background: #100603 !important;
+  box-shadow:
+    0 0 0 6px rgba(96, 38, 10, 0.18),
+    0 12px 22px rgba(0, 0, 0, 0.36) !important;
+}
+
+#dossier-screen.type-fire .dossier-evolution-node,
+#dossier-screen.type-fire .dossier-timeline-item {
+  background:
+    linear-gradient(180deg, rgba(255, 226, 170, 0.30), rgba(120, 54, 16, 0.12)) !important;
+  border: 1px solid rgba(78, 28, 8, 0.42) !important;
+  border-left: 5px solid #5f1d05 !important;
+}
+
+#dossier-screen.type-fire .dossier-back-button,
+#dossier-screen.type-fire .dossier-open-button {
+  color: #f7d59a !important;
+  background:
+    linear-gradient(180deg, #5a1b05, #210802) !important;
+  border: 1px solid rgba(255, 177, 74, 0.48) !important;
+  box-shadow:
+    0 0 14px rgba(255, 92, 18, 0.24),
+    inset 0 0 14px rgba(255, 122, 28, 0.10) !important;
+}
+
+#dossier-screen.type-fire .dossier-back-button:hover,
+#dossier-screen.type-fire .dossier-open-button:hover {
+  color: #2a1003 !important;
+  background: #f1b35e !important;
+}
+
+/* Bigger document feel on desktop */
+@media (min-width: 850px) {
+  #dossier-screen.type-fire .dossier-section-card {
+    padding: 30px 34px !important;
+  }
+
+  #dossier-screen.type-fire .dossier-prose {
+    font-size: 1.06rem !important;
+    line-height: 1.82 !important;
+  }
+}
+
+
+/* ===== ALL TYPE DOSSIER PAPER OVERRIDES ===== */
+/* Type vibe + science paper / field report styling for all official types */
+
+/* ---------- DEFAULT SHARED PAPER SYSTEM ---------- */
+
+#dossier-screen[class*="type-"] {
+  --paper-text: #25180d;
+  --paper-heading: #351405;
+  --paper-strong: #651f05;
+  --paper-border: rgba(75, 28, 9, 0.75);
+  --paper-pill-bg: linear-gradient(180deg, #5a1b05, #2b0b02);
+  --paper-pill-text: #f7d59a;
+  --paper-line: rgba(80, 37, 12, 0.05);
+  --paper-card-bg:
+    radial-gradient(circle at 18% 14%, rgba(112, 48, 17, 0.14), transparent 14%),
+    radial-gradient(circle at 88% 8%, rgba(70, 24, 8, 0.16), transparent 16%),
+    radial-gradient(circle at 12% 94%, rgba(52, 18, 6, 0.16), transparent 14%),
+    radial-gradient(circle at 92% 90%, rgba(42, 12, 4, 0.18), transparent 15%),
+    linear-gradient(180deg, #e7c98d 0%, #d8ad68 45%, #bd7f3e 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 0%, rgba(255, 95, 30, 0.22), transparent 34%),
+    radial-gradient(circle at 50% 100%, rgba(60, 18, 5, 0.72), transparent 42%),
+    linear-gradient(160deg, #120704 0%, #301108 38%, #5a2110 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(24, 8, 2, 0.85), transparent 16%),
+    radial-gradient(circle at 100% 0%, rgba(24, 8, 2, 0.75), transparent 15%),
+    radial-gradient(circle at 0% 100%, rgba(24, 8, 2, 0.70), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(24, 8, 2, 0.82), transparent 16%),
+    linear-gradient(90deg, rgba(34, 9, 2, 0.55), transparent 7%, transparent 93%, rgba(34, 9, 2, 0.55)),
+    linear-gradient(180deg, rgba(34, 9, 2, 0.55), transparent 8%, transparent 92%, rgba(34, 9, 2, 0.55));
+  --paper-stains:
+    repeating-linear-gradient(
+      0deg,
+      var(--paper-line) 0px,
+      var(--paper-line) 1px,
+      transparent 1px,
+      transparent 24px
+    ),
+    radial-gradient(circle at 25% 28%, rgba(80, 35, 10, 0.12), transparent 10%),
+    radial-gradient(circle at 78% 62%, rgba(80, 35, 10, 0.10), transparent 12%),
+    radial-gradient(circle at 44% 86%, rgba(80, 35, 10, 0.08), transparent 10%);
+  --paper-shadow:
+    inset 0 0 18px rgba(55, 18, 5, 0.28),
+    inset 0 0 48px rgba(85, 28, 8, 0.18),
+    0 14px 28px rgba(0, 0, 0, 0.36);
+  --paper-image-bg: #100603;
+}
+
+#dossier-screen[class*="type-"] {
+  background: var(--paper-screen-bg) !important;
+  padding: 20px !important;
+  border-radius: 28px !important;
+  border: 1px solid rgba(255, 255, 255, 0.16) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-hero,
+#dossier-screen[class*="type-"] .dossier-image-card,
+#dossier-screen[class*="type-"] .dossier-evolution-card,
+#dossier-screen[class*="type-"] .dossier-section-card {
+  position: relative !important;
+  overflow: hidden !important;
+  color: var(--paper-text) !important;
+  background: var(--paper-card-bg) !important;
+  border: 2px solid var(--paper-border) !important;
+  border-radius: 22px !important;
+  box-shadow: var(--paper-shadow) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-hero::before,
+#dossier-screen[class*="type-"] .dossier-image-card::before,
+#dossier-screen[class*="type-"] .dossier-evolution-card::before,
+#dossier-screen[class*="type-"] .dossier-section-card::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  pointer-events: none !important;
+  opacity: 0.54 !important;
+  background: var(--paper-edge) !important;
+  z-index: 0 !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-hero::after,
+#dossier-screen[class*="type-"] .dossier-image-card::after,
+#dossier-screen[class*="type-"] .dossier-evolution-card::after,
+#dossier-screen[class*="type-"] .dossier-section-card::after {
+  content: "" !important;
+  position: absolute !important;
+  inset: 7px !important;
+  pointer-events: none !important;
+  opacity: 0.38 !important;
+  border-radius: 16px !important;
+  background: var(--paper-stains) !important;
+  z-index: 0 !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-hero > *,
+#dossier-screen[class*="type-"] .dossier-image-card > *,
+#dossier-screen[class*="type-"] .dossier-evolution-card > *,
+#dossier-screen[class*="type-"] .dossier-section-card > * {
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-hero h2,
+#dossier-screen[class*="type-"] .dossier-section-card h3,
+#dossier-screen[class*="type-"] .dossier-image-card h3,
+#dossier-screen[class*="type-"] .dossier-evolution-card h3,
+#dossier-screen[class*="type-"] .dossier-evolution-node h4 {
+  color: var(--paper-heading) !important;
+  text-shadow:
+    0 1px 0 rgba(255, 245, 210, 0.42),
+    0 0 8px rgba(0, 0, 0, 0.10) !important;
+}
+
+#dossier-screen[class*="type-"] .eyebrow {
+  color: var(--paper-strong) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-prose,
+#dossier-screen[class*="type-"] .dossier-section-card,
+#dossier-screen[class*="type-"] .dossier-section-card p,
+#dossier-screen[class*="type-"] .dossier-list,
+#dossier-screen[class*="type-"] .dossier-list li,
+#dossier-screen[class*="type-"] .dossier-evolution-node,
+#dossier-screen[class*="type-"] .dossier-timeline-item {
+  color: var(--paper-text) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-prose strong,
+#dossier-screen[class*="type-"] .dossier-timeline-date {
+  color: var(--paper-strong) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-pill {
+  color: var(--paper-pill-text) !important;
+  background: var(--paper-pill-bg) !important;
+  border: 1px solid rgba(0, 0, 0, 0.18) !important;
+  box-shadow:
+    inset 0 0 10px rgba(255, 255, 255, 0.10),
+    0 3px 8px rgba(0, 0, 0, 0.22) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-image-card img {
+  border: 2px solid var(--paper-border) !important;
+  background: var(--paper-image-bg) !important;
+  box-shadow:
+    0 0 0 6px rgba(0, 0, 0, 0.10),
+    0 12px 22px rgba(0, 0, 0, 0.32) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-evolution-node,
+#dossier-screen[class*="type-"] .dossier-timeline-item {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.22), rgba(0, 0, 0, 0.08)) !important;
+  border: 1px solid rgba(0, 0, 0, 0.22) !important;
+  border-left: 5px solid var(--paper-strong) !important;
+}
+
+#dossier-screen[class*="type-"] .dossier-back-button,
+#dossier-screen[class*="type-"] .dossier-open-button {
+  color: var(--paper-pill-text) !important;
+  background: var(--paper-pill-bg) !important;
+  border: 1px solid rgba(0, 0, 0, 0.18) !important;
+  box-shadow:
+    0 0 14px rgba(0, 0, 0, 0.20),
+    inset 0 0 14px rgba(255, 255, 255, 0.10) !important;
+}
+
+/* ---------- TYPE-SPECIFIC PAPER VARIABLES ---------- */
+
+/* NORMAL: clean naturalist notebook paper */
+#dossier-screen.type-normal {
+  --paper-text: #292318;
+  --paper-heading: #3a2c1b;
+  --paper-strong: #5c472b;
+  --paper-border: rgba(82, 65, 42, 0.62);
+  --paper-pill-bg: linear-gradient(180deg, #6c5b43, #33291d);
+  --paper-pill-text: #f4e6c9;
+  --paper-card-bg:
+    radial-gradient(circle at 15% 20%, rgba(105, 82, 48, 0.10), transparent 15%),
+    radial-gradient(circle at 88% 86%, rgba(80, 61, 39, 0.12), transparent 16%),
+    linear-gradient(180deg, #eadfca 0%, #dbccb2 48%, #c7b08e 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 84% 12%, rgba(255,255,255,0.10), transparent 22%),
+    linear-gradient(160deg, #3b3124 0%, #5b4933 42%, #1b1712 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(62, 46, 28, 0.45), transparent 16%),
+    radial-gradient(circle at 100% 0%, rgba(62, 46, 28, 0.40), transparent 15%),
+    linear-gradient(90deg, rgba(72, 52, 31, 0.26), transparent 8%, transparent 92%, rgba(72, 52, 31, 0.28)),
+    linear-gradient(180deg, rgba(72, 52, 31, 0.24), transparent 8%, transparent 92%, rgba(72, 52, 31, 0.28));
+}
+
+/* FIRE: scorched parchment */
+#dossier-screen.type-fire {
+  --paper-text: #2a160c;
+  --paper-heading: #351405;
+  --paper-strong: #651f05;
+  --paper-border: rgba(75, 28, 9, 0.75);
+  --paper-pill-bg: linear-gradient(180deg, #5a1b05, #2b0b02);
+  --paper-pill-text: #f7d59a;
+  --paper-card-bg:
+    radial-gradient(circle at 18% 14%, rgba(112, 48, 17, 0.14), transparent 14%),
+    radial-gradient(circle at 88% 8%, rgba(70, 24, 8, 0.16), transparent 16%),
+    radial-gradient(circle at 12% 94%, rgba(52, 18, 6, 0.16), transparent 14%),
+    radial-gradient(circle at 92% 90%, rgba(42, 12, 4, 0.18), transparent 15%),
+    linear-gradient(180deg, #e7c98d 0%, #d8ad68 45%, #bd7f3e 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 0%, rgba(255, 95, 30, 0.22), transparent 34%),
+    radial-gradient(circle at 50% 100%, rgba(60, 18, 5, 0.72), transparent 42%),
+    linear-gradient(160deg, #120704 0%, #301108 38%, #5a2110 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(24, 8, 2, 0.85), transparent 16%),
+    radial-gradient(circle at 100% 0%, rgba(24, 8, 2, 0.75), transparent 15%),
+    radial-gradient(circle at 0% 100%, rgba(24, 8, 2, 0.70), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(24, 8, 2, 0.82), transparent 16%),
+    linear-gradient(90deg, rgba(34, 9, 2, 0.55), transparent 7%, transparent 93%, rgba(34, 9, 2, 0.55)),
+    linear-gradient(180deg, rgba(34, 9, 2, 0.55), transparent 8%, transparent 92%, rgba(34, 9, 2, 0.55));
+}
+
+/* WATER: wet warped paper */
+#dossier-screen.type-water {
+  --paper-text: #102533;
+  --paper-heading: #073247;
+  --paper-strong: #005b7c;
+  --paper-border: rgba(30, 96, 126, 0.62);
+  --paper-pill-bg: linear-gradient(180deg, #17698d, #062b3c);
+  --paper-pill-text: #d9f7ff;
+  --paper-card-bg:
+    radial-gradient(circle at 18% 18%, rgba(35, 145, 180, 0.20), transparent 16%),
+    radial-gradient(circle at 76% 72%, rgba(13, 92, 135, 0.18), transparent 22%),
+    radial-gradient(circle at 88% 10%, rgba(255, 255, 255, 0.22), transparent 12%),
+    linear-gradient(180deg, #d8edf0 0%, #a9cfd9 48%, #79a7b9 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 82% 10%, rgba(84, 212, 255, 0.22), transparent 24%),
+    radial-gradient(circle at 50% 100%, rgba(10, 52, 105, 0.46), transparent 45%),
+    linear-gradient(180deg, #03111f 0%, #051b2d 38%, #021018 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(10, 54, 78, 0.46), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(10, 54, 78, 0.42), transparent 18%),
+    linear-gradient(90deg, rgba(8, 70, 95, 0.20), transparent 8%, transparent 92%, rgba(8, 70, 95, 0.24)),
+    linear-gradient(180deg, rgba(8, 70, 95, 0.18), transparent 9%, transparent 91%, rgba(8, 70, 95, 0.24));
+  --paper-stains:
+    repeating-linear-gradient(0deg, rgba(0, 85, 120, 0.04) 0px, rgba(0, 85, 120, 0.04) 1px, transparent 1px, transparent 24px),
+    radial-gradient(circle at 25% 25%, rgba(0, 102, 150, 0.16), transparent 12%),
+    radial-gradient(circle at 70% 68%, rgba(0, 80, 130, 0.14), transparent 14%),
+    repeating-radial-gradient(circle at 20% 20%, rgba(0, 85, 140, 0.05) 0 10px, transparent 10px 24px);
+  --paper-image-bg: #05141f;
+}
+
+/* ELECTRIC: charged lab sheet */
+#dossier-screen.type-electric {
+  --paper-text: #2d2708;
+  --paper-heading: #463900;
+  --paper-strong: #7a6200;
+  --paper-border: rgba(110, 90, 8, 0.68);
+  --paper-pill-bg: linear-gradient(180deg, #776000, #2b2300);
+  --paper-pill-text: #fff3a4;
+  --paper-card-bg:
+    radial-gradient(circle at 84% 18%, rgba(255, 241, 110, 0.30), transparent 18%),
+    radial-gradient(circle at 18% 82%, rgba(95, 210, 255, 0.16), transparent 20%),
+    linear-gradient(145deg, #fff0ab 0%, #e8d171 45%, #bba342 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 82% 18%, rgba(255, 231, 45, 0.26), transparent 19%),
+    radial-gradient(circle at 78% 18%, rgba(0, 190, 255, 0.18), transparent 26%),
+    linear-gradient(135deg, rgba(1, 8, 18, 0.98), rgba(3, 19, 34, 0.96) 45%, rgba(1, 7, 14, 0.98));
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(105, 84, 0, 0.42), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(105, 84, 0, 0.36), transparent 16%),
+    linear-gradient(118deg, transparent 0 55%, rgba(120, 96, 0, 0.24) 56%, transparent 58%),
+    linear-gradient(245deg, transparent 0 72%, rgba(0, 90, 120, 0.14) 73%, transparent 75%);
+  --paper-stains:
+    repeating-linear-gradient(0deg, rgba(95, 80, 0, 0.045) 0px, rgba(95, 80, 0, 0.045) 1px, transparent 1px, transparent 24px),
+    linear-gradient(120deg, transparent 0 28%, rgba(255,255,255,0.12) 28% 29%, transparent 29% 100%),
+    linear-gradient(300deg, transparent 0 58%, rgba(0,0,0,0.08) 58% 59%, transparent 59% 100%);
+  --paper-image-bg: #0c0b02;
+}
+
+/* GRASS: moldy botanical field paper */
+#dossier-screen.type-grass {
+  --paper-text: #1d2b15;
+  --paper-heading: #243d14;
+  --paper-strong: #3c6b1e;
+  --paper-border: rgba(55, 92, 35, 0.64);
+  --paper-pill-bg: linear-gradient(180deg, #47752b, #1a3211);
+  --paper-pill-text: #e7ffd0;
+  --paper-card-bg:
+    radial-gradient(circle at 14% 18%, rgba(50, 112, 42, 0.20), transparent 13%),
+    radial-gradient(circle at 84% 84%, rgba(72, 102, 60, 0.18), transparent 20%),
+    radial-gradient(circle at 72% 14%, rgba(60, 120, 46, 0.14), transparent 13%),
+    linear-gradient(160deg, #d9d6ba 0%, #bcc69a 46%, #87966d 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 78% 12%, rgba(105, 255, 126, 0.16), transparent 26%),
+    linear-gradient(160deg, #04140a 0%, #08210f 50%, #020805 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(20, 50, 16, 0.45), transparent 16%),
+    radial-gradient(circle at 100% 0%, rgba(20, 50, 16, 0.34), transparent 15%),
+    radial-gradient(circle at 0% 100%, rgba(20, 50, 16, 0.40), transparent 16%),
+    linear-gradient(90deg, rgba(20, 50, 16, 0.28), transparent 8%, transparent 92%, rgba(20, 50, 16, 0.28)),
+    linear-gradient(180deg, rgba(20, 50, 16, 0.24), transparent 8%, transparent 92%, rgba(20, 50, 16, 0.28));
+  --paper-stains:
+    repeating-linear-gradient(0deg, rgba(40, 78, 24, 0.05) 0px, rgba(40, 78, 24, 0.05) 1px, transparent 1px, transparent 24px),
+    radial-gradient(circle at 10% 16%, rgba(48, 86, 42, 0.20), transparent 9%),
+    radial-gradient(circle at 16% 82%, rgba(66, 102, 48, 0.16), transparent 8%),
+    radial-gradient(circle at 82% 18%, rgba(66, 102, 48, 0.17), transparent 8%),
+    radial-gradient(circle at 88% 78%, rgba(45, 72, 33, 0.20), transparent 10%);
+  --paper-image-bg: #071208;
+}
+
+/* ICE: frosted specimen sheet */
+#dossier-screen.type-ice {
+  --paper-text: #12303c;
+  --paper-heading: #12435b;
+  --paper-strong: #1b6b8b;
+  --paper-border: rgba(60, 110, 130, 0.58);
+  --paper-pill-bg: linear-gradient(180deg, #4b9ec0, #14394c);
+  --paper-pill-text: #e9fbff;
+  --paper-card-bg:
+    radial-gradient(circle at 80% 14%, rgba(255,255,255,0.36), transparent 18%),
+    radial-gradient(circle at 20% 78%, rgba(160, 220, 245, 0.24), transparent 20%),
+    linear-gradient(160deg, #edf6fb 0%, #cfe4ef 46%, #a6c3d3 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 72% 20%, rgba(210, 245, 255, 0.25), transparent 24%),
+    linear-gradient(160deg, #06151c 0%, #123040 48%, #031014 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(60, 110, 130, 0.34), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(60, 110, 130, 0.30), transparent 16%),
+    linear-gradient(130deg, transparent 0 36%, rgba(255,255,255,0.16) 36% 37%, transparent 37% 100%),
+    linear-gradient(40deg, transparent 0 62%, rgba(255,255,255,0.10) 62% 63%, transparent 63% 100%);
+  --paper-image-bg: #06151c;
+}
+
+/* FIGHTING: bruised training manual paper */
+#dossier-screen.type-fighting {
+  --paper-text: #2d1d16;
+  --paper-heading: #4b2217;
+  --paper-strong: #7a2e1d;
+  --paper-border: rgba(92, 46, 30, 0.68);
+  --paper-pill-bg: linear-gradient(180deg, #7b3224, #2c110d);
+  --paper-pill-text: #ffd8c4;
+  --paper-card-bg:
+    radial-gradient(circle at 20% 18%, rgba(150, 56, 48, 0.18), transparent 14%),
+    radial-gradient(circle at 78% 82%, rgba(92, 42, 26, 0.16), transparent 18%),
+    linear-gradient(160deg, #dbc6aa 0%, #bd9a76 42%, #8b654e 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 84% 18%, rgba(160, 60, 48, 0.14), transparent 16%),
+    linear-gradient(160deg, #2b1510 0%, #4a2119 42%, #130807 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(80, 28, 20, 0.48), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(80, 28, 20, 0.40), transparent 16%),
+    linear-gradient(15deg, transparent 0 82%, rgba(88, 64, 40, 0.20) 82% 100%);
+}
+
+/* POISON: toxic-stained lab report */
+#dossier-screen.type-poison {
+  --paper-text: #24142b;
+  --paper-heading: #3c1252;
+  --paper-strong: #721f8e;
+  --paper-border: rgba(86, 34, 106, 0.66);
+  --paper-pill-bg: linear-gradient(180deg, #762a92, #281033);
+  --paper-pill-text: #f4ddff;
+  --paper-card-bg:
+    radial-gradient(circle at 84% 18%, rgba(168, 60, 180, 0.22), transparent 18%),
+    radial-gradient(circle at 22% 78%, rgba(92, 140, 48, 0.14), transparent 20%),
+    linear-gradient(160deg, #d7c7dc 0%, #b990c5 42%, #86619a 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 78% 12%, rgba(190, 105, 255, 0.20), transparent 26%),
+    linear-gradient(160deg, #10051a 0%, #1b0827 50%, #07040a 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(48, 12, 62, 0.46), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(48, 12, 62, 0.38), transparent 16%),
+    linear-gradient(90deg, rgba(48, 12, 62, 0.22), transparent 8%, transparent 92%, rgba(48, 12, 62, 0.24));
+  --paper-stains:
+    repeating-linear-gradient(0deg, rgba(80, 26, 92, 0.05) 0px, rgba(80, 26, 92, 0.05) 1px, transparent 1px, transparent 24px),
+    radial-gradient(circle at 14% 18%, rgba(78, 26, 84, 0.22), transparent 9%),
+    radial-gradient(circle at 82% 24%, rgba(96, 34, 112, 0.18), transparent 8%),
+    radial-gradient(circle at 68% 82%, rgba(66, 20, 80, 0.18), transparent 8%),
+    radial-gradient(circle at 38% 70%, rgba(76, 124, 38, 0.14), transparent 9%);
+  --paper-image-bg: #10051a;
+}
+
+/* GROUND: dusty excavation field notes */
+#dossier-screen.type-ground {
+  --paper-text: #2d2115;
+  --paper-heading: #4a311a;
+  --paper-strong: #76502a;
+  --paper-border: rgba(94, 66, 36, 0.62);
+  --paper-pill-bg: linear-gradient(180deg, #7a562f, #2d1c0d);
+  --paper-pill-text: #f6dfba;
+  --paper-card-bg:
+    radial-gradient(circle at 82% 16%, rgba(194, 154, 96, 0.18), transparent 18%),
+    radial-gradient(circle at 22% 82%, rgba(133, 92, 58, 0.16), transparent 22%),
+    linear-gradient(160deg, #dfcfb1 0%, #b8946a 42%, #836345 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 100%, rgba(133, 92, 58, 0.35), transparent 36%),
+    linear-gradient(160deg, #2a1b10 0%, #51351f 48%, #130c07 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(82, 48, 22, 0.44), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(82, 48, 22, 0.38), transparent 16%),
+    linear-gradient(90deg, rgba(82, 48, 22, 0.20), transparent 8%, transparent 92%, rgba(82, 48, 22, 0.22));
+}
+
+/* FLYING: weathered sky-chart paper */
+#dossier-screen.type-flying {
+  --paper-text: #182632;
+  --paper-heading: #1a425f;
+  --paper-strong: #286c92;
+  --paper-border: rgba(54, 89, 115, 0.58);
+  --paper-pill-bg: linear-gradient(180deg, #3f779e, #162f44);
+  --paper-pill-text: #e5f5ff;
+  --paper-card-bg:
+    radial-gradient(circle at 80% 14%, rgba(255,255,255,0.22), transparent 18%),
+    radial-gradient(circle at 20% 80%, rgba(148, 176, 206, 0.18), transparent 20%),
+    linear-gradient(180deg, #e2ebf2 0%, #bfd2e2 42%, #8fa9bf 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 72% 12%, rgba(220, 245, 255, 0.18), transparent 26%),
+    linear-gradient(180deg, #07131d 0%, #163147 48%, #03090e 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(62, 92, 116, 0.30), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(62, 92, 116, 0.26), transparent 16%),
+    linear-gradient(90deg, rgba(62, 92, 116, 0.16), transparent 8%, transparent 92%, rgba(62, 92, 116, 0.18));
+}
+
+/* PSYCHIC: annotated mind-study paper */
+#dossier-screen.type-psychic {
+  --paper-text: #2e1931;
+  --paper-heading: #591c61;
+  --paper-strong: #952a96;
+  --paper-border: rgba(116, 42, 120, 0.58);
+  --paper-pill-bg: linear-gradient(180deg, #a13aa6, #351139);
+  --paper-pill-text: #ffe8fb;
+  --paper-card-bg:
+    radial-gradient(circle at 50% 18%, rgba(255, 175, 230, 0.22), transparent 18%),
+    radial-gradient(circle at 80% 74%, rgba(190, 130, 255, 0.16), transparent 22%),
+    linear-gradient(160deg, #f0d8e8 0%, #d0a9cf 40%, #9f76a4 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 78% 12%, rgba(255, 90, 205, 0.22), transparent 26%),
+    linear-gradient(160deg, #13051a 0%, #210a2b 50%, #07030b 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(78, 24, 82, 0.38), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(78, 24, 82, 0.34), transparent 16%),
+    repeating-radial-gradient(circle at 50% 50%, transparent 0 18px, rgba(105, 40, 120, 0.08) 18px 19px, transparent 19px 36px);
+}
+
+/* BUG: pinned specimen paper */
+#dossier-screen.type-bug {
+  --paper-text: #252a12;
+  --paper-heading: #3f4c13;
+  --paper-strong: #66761c;
+  --paper-border: rgba(73, 88, 24, 0.60);
+  --paper-pill-bg: linear-gradient(180deg, #707f25, #2c3310);
+  --paper-pill-text: #f2ffd0;
+  --paper-card-bg:
+    radial-gradient(circle at 84% 14%, rgba(168, 190, 78, 0.20), transparent 18%),
+    radial-gradient(circle at 15% 82%, rgba(96, 112, 40, 0.16), transparent 18%),
+    linear-gradient(160deg, #e0dfb8 0%, #bdc37d 42%, #7a8549 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 12%, rgba(168, 190, 78, 0.20), transparent 24%),
+    linear-gradient(160deg, #141b08 0%, #34400f 50%, #080b03 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(48, 58, 12, 0.40), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(48, 58, 12, 0.34), transparent 16%),
+    radial-gradient(circle at 18% 16%, rgba(48, 58, 12, 0.18), transparent 4%),
+    radial-gradient(circle at 84% 20%, rgba(48, 58, 12, 0.14), transparent 4%);
+}
+
+/* ROCK: sediment and fossil report */
+#dossier-screen.type-rock {
+  --paper-text: #2b2119;
+  --paper-heading: #463528;
+  --paper-strong: #6e513c;
+  --paper-border: rgba(84, 65, 51, 0.62);
+  --paper-pill-bg: linear-gradient(180deg, #725940, #2c2118);
+  --paper-pill-text: #ead8c4;
+  --paper-card-bg:
+    radial-gradient(circle at 82% 12%, rgba(160, 138, 116, 0.16), transparent 18%),
+    linear-gradient(160deg, #d5c8b8 0%, #b49b86 38%, #786758 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 100%, rgba(118, 94, 75, 0.24), transparent 34%),
+    linear-gradient(160deg, #211914 0%, #4b3c32 48%, #100c09 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(58, 43, 32, 0.38), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(58, 43, 32, 0.34), transparent 16%),
+    repeating-linear-gradient(165deg, transparent 0 14px, rgba(82, 65, 51, 0.07) 14px 16px);
+}
+
+/* GHOST: faded haunted archive paper */
+#dossier-screen.type-ghost {
+  --paper-text: #201d30;
+  --paper-heading: #342c5e;
+  --paper-strong: #5b4a94;
+  --paper-border: rgba(70, 61, 110, 0.58);
+  --paper-pill-bg: linear-gradient(180deg, #5a4a91, #201a34);
+  --paper-pill-text: #eee9ff;
+  --paper-card-bg:
+    radial-gradient(circle at 82% 12%, rgba(182, 178, 255, 0.18), transparent 18%),
+    radial-gradient(circle at 18% 84%, rgba(80, 76, 126, 0.18), transparent 24%),
+    linear-gradient(160deg, #cbc7df 0%, #8f8ab4 42%, #4d496a 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 50% 18%, rgba(182, 178, 255, 0.16), transparent 26%),
+    linear-gradient(160deg, #090615 0%, #140c28 50%, #03020a 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(38, 33, 70, 0.48), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(38, 33, 70, 0.42), transparent 18%),
+    linear-gradient(90deg, transparent 0 24%, rgba(255,255,255,0.07) 24% 25%, transparent 25% 100%);
+  --paper-image-bg: #090615;
+}
+
+/* DRAGON: ancient draconic parchment */
+#dossier-screen.type-dragon {
+  --paper-text: #2f1f13;
+  --paper-heading: #5a2f18;
+  --paper-strong: #85491f;
+  --paper-border: rgba(96, 52, 28, 0.66);
+  --paper-pill-bg: linear-gradient(180deg, #77401d, #2a1509);
+  --paper-pill-text: #ffe4c4;
+  --paper-card-bg:
+    radial-gradient(circle at 84% 14%, rgba(102, 114, 208, 0.18), transparent 18%),
+    radial-gradient(circle at 20% 82%, rgba(70, 42, 24, 0.16), transparent 20%),
+    linear-gradient(160deg, #d6c5a8 0%, #a98f66 34%, #6d5b5f 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 84% 14%, rgba(102, 114, 208, 0.24), transparent 18%),
+    linear-gradient(160deg, #120905 0%, #1e1008 45%, #050304 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(62, 28, 12, 0.50), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(62, 28, 12, 0.42), transparent 16%),
+    linear-gradient(140deg, transparent 0 42%, rgba(255,255,255,0.09) 42% 43%, transparent 43% 100%);
+}
+
+/* DARK: soot stained case file */
+#dossier-screen.type-dark {
+  --paper-text: #1c1815;
+  --paper-heading: #0f0d0c;
+  --paper-strong: #3b2017;
+  --paper-border: rgba(35, 28, 24, 0.72);
+  --paper-pill-bg: linear-gradient(180deg, #2a2522, #080706);
+  --paper-pill-text: #d9d0c4;
+  --paper-card-bg:
+    radial-gradient(circle at 84% 16%, rgba(80, 70, 62, 0.18), transparent 16%),
+    radial-gradient(circle at 18% 82%, rgba(0,0,0,0.20), transparent 12%),
+    linear-gradient(160deg, #8d806e 0%, #5d5147 42%, #2f2a26 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 84% 16%, rgba(140, 140, 140, 0.10), transparent 16%),
+    linear-gradient(160deg, #1b1a1a 0%, #2e2a27 35%, #4a4037 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(0,0,0,0.65), transparent 17%),
+    radial-gradient(circle at 100% 100%, rgba(0,0,0,0.58), transparent 18%),
+    linear-gradient(90deg, rgba(0,0,0,0.36), transparent 8%, transparent 92%, rgba(0,0,0,0.40)),
+    linear-gradient(180deg, rgba(0,0,0,0.28), transparent 8%, transparent 92%, rgba(0,0,0,0.34));
+  --paper-image-bg: #070707;
+}
+
+/* STEEL: technical lab sheet */
+#dossier-screen.type-steel {
+  --paper-text: #17242a;
+  --paper-heading: #203945;
+  --paper-strong: #3b6270;
+  --paper-border: rgba(65, 85, 94, 0.58);
+  --paper-pill-bg: linear-gradient(180deg, #617480, #1b272d);
+  --paper-pill-text: #e7f4f8;
+  --paper-card-bg:
+    radial-gradient(circle at 82% 12%, rgba(255,255,255,0.22), transparent 18%),
+    linear-gradient(160deg, #dfe5e7 0%, #b5c1c7 40%, #798893 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 82% 12%, rgba(255,255,255,0.18), transparent 18%),
+    linear-gradient(160deg, #141c20 0%, #354650 40%, #070b0d 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(58, 70, 76, 0.34), transparent 15%),
+    radial-gradient(circle at 100% 100%, rgba(58, 70, 76, 0.30), transparent 16%),
+    repeating-linear-gradient(180deg, transparent 0 12px, rgba(255,255,255,0.06) 12px 13px, transparent 13px 24px);
+}
+
+/* FAIRY: delicate iridescent field paper */
+#dossier-screen.type-fairy {
+  --paper-text: #321b2c;
+  --paper-heading: #642b55;
+  --paper-strong: #a03b82;
+  --paper-border: rgba(130, 65, 105, 0.54);
+  --paper-pill-bg: linear-gradient(180deg, #bd6fa5, #421a38);
+  --paper-pill-text: #fff1fa;
+  --paper-card-bg:
+    radial-gradient(circle at 82% 16%, rgba(255, 214, 243, 0.26), transparent 16%),
+    radial-gradient(circle at 18% 76%, rgba(255, 246, 161, 0.18), transparent 20%),
+    linear-gradient(160deg, #f7e6ef 0%, #e7c5d8 40%, #c39cbc 100%);
+  --paper-screen-bg:
+    radial-gradient(circle at 82% 16%, rgba(255, 150, 220, 0.28), transparent 20%),
+    linear-gradient(160deg, #160816 0%, #250f24 45%, #080407 100%);
+  --paper-edge:
+    radial-gradient(circle at 0% 0%, rgba(95, 38, 76, 0.32), transparent 16%),
+    radial-gradient(circle at 100% 100%, rgba(95, 38, 76, 0.28), transparent 16%),
+    radial-gradient(circle at 16% 20%, rgba(255,255,255,0.12), transparent 6%),
+    radial-gradient(circle at 72% 24%, rgba(255,255,255,0.10), transparent 6%);
+}
+
+@media (min-width: 850px) {
+  #dossier-screen[class*="type-"] .dossier-section-card {
+    padding: 30px 34px !important;
+  }
+
+  #dossier-screen[class*="type-"] .dossier-prose {
+    font-size: 1.06rem !important;
+    line-height: 1.82 !important;
+  }
+}
+
+
+/* ===== DOSSIER FULL TEXT OVERRIDE ===== */
+/* Dossier pages should show full lore/origin text without Show more buttons. */
+
+#dossier-screen .pokedex-collapse-content,
+#dossier-screen .pokedex-collapse-content.is-collapsed,
+#dossier-screen .pokedex-collapse-content.is-expanded,
+#dossier-screen .lore-origin-collapse-content,
+#dossier-screen .lore-origin-collapse-content.is-collapsed,
+#dossier-screen .lore-origin-collapse-content.is-expanded {
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+#dossier-screen .pokedex-collapse-content::after,
+#dossier-screen .lore-origin-collapse-content::after {
+  display: none !important;
+  content: none !important;
+}
+
+#dossier-screen .pokedex-collapse-toggle,
+#dossier-screen .lore-origin-toggle {
+  display: none !important;
+}
+
+#dossier-screen .dossier-prose {
+  max-height: none !important;
+  overflow: visible !important;
+}

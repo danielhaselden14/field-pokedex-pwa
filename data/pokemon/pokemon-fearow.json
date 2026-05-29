@@ -1,0 +1,330 @@
+{
+  "id": "pokemon-fearow",
+  "entryId": "PKMN-0022",
+  "pokedexNumber": "#0022",
+  "name": "Fearow",
+  "category": "animals",
+  "type": "Normal / Flying Creature",
+  "elementType": "normal-flying",
+  "dangerLevel": "Medium",
+  "rarity": "Uncommon",
+  "region": "Kanto, Johto, Sinnoh, Unova, Kalos, Alola, and long-route aerial corridors",
+  "route": "Kanto Routes 9, 16, 17, 18, 23 and Sevii Island paths; Johto Routes 9, 10, 16, 17, 18, 22, 42, 47, and 48; Sinnoh Routes 225, 226, 227, and Stark Mountain; Unova Route 15 records; Kalos Victory Road records; Alola Route 10, Route 17, Mount Hokulani, and Poni Plains",
+  "habitat": "Open grassland, canyon roads, riverbanks, coastlines, mountain slopes, cliff thermals, long route corridors, farms, rocky islands, and high perches overlooking prey movement",
+  "classification": "Beak Pokemon / Final Stage Endurance Raptor",
+  "height": "3 ft 11 in",
+  "weight": "83.8 lbs",
+  "behaviorTemperament": "Aggressive, watchful, and stamina-driven. Fearow patrol broad ranges, dive from height, snatch food, and retreat skyward when threatened. They are less noisy than Spearow but far more dangerous on contact.",
+  "diet": "Fish, insects, rodents, small birds, eggs, grubs, field prey, carrion, stolen food, and smaller Pokemon taken from grass, soil, or shallow water",
+  "activityPattern": "Diurnal with dawn patrols and long midday soaring. Coastal and mountain individuals may ride thermals for hours while scanning for prey.",
+  "bestTimeToFind": "Morning or late afternoon above long roads, cliffs, route signs, coastal shallows, river bends, and fields where small prey flushes into open air",
+  "observationDifficulty": "Moderate. Large silhouette is visible, but distance and altitude make age, intent, and target hard to judge until it dives.",
+  "conservationStatus": "Locally protected as an aerial predator, but controlled near airports, livestock, poultry yards, and heavily traveled route markets",
+  "populationStatus": "Stable in open country and route corridors. Less common than Spearow due to larger territory needs and competition with Pidgeot and other raptors.",
+  "description": "A Normal and Flying-type beak Pokemon with broad wings, strong stamina, and a long piercing beak used to strike prey from air, soil, and water.",
+  "lore": "Old route maps in Kanto marked certain cliffs not with warning signs for falling rock, but with painted beaks. Those were Fearow perches. Caravans learned not to carry uncovered food through Route 17 and Route 18 when high shadows circled overhead. Unlike Spearow, Fearow does not need a flock to make travelers retreat. It rises, watches, chooses a target, and drops. Johto records add another detail: Fearow remember profitable paths. A bird that steals fish from a bridge today may return tomorrow at the same hour. In Alola, fish Pokemon and coastline traffic made Fearow a problem around open markets and shore paths. Ancient murals resembling Fearow suggest humans have watched this body plan for a very long time. In real-world field terms, Fearow is not just a big Spearow. It is the line's answer to distance, altitude, and hunger. If Spearow is the alarm, Fearow is the spear falling from it.",
+  "survivalUse": "Can reveal prey movement, thermal columns, water edges, and unsafe open corridors. Following Fearow from a distance may lead to fish, carrion, or river shallows, but food theft risk is high.",
+  "handlingWarning": "Do not handle without raptor equipment. Keep food covered, protect eyes and face, and never stand under a low circling Fearow with exposed small animals or shiny objects.",
+  "encounterAdvice": "Move under cover, secure food, and avoid running in open ground. If it dives, crouch beside a tree, vehicle, rock, or pack frame rather than waving arms in open air.",
+  "firstAid": "For beak punctures, control bleeding, irrigate thoroughly, dress the wound, and seek urgent care for face, eye, neck, tendon, or deep muscle injuries. Treat falls caused by panic as secondary trauma.",
+  "companionSuitability": "Poor for casual companionship; suitable only for expert aerial handlers, conservation teams, or licensed long-range field scouts",
+  "abilities": [
+    "Keen Eye",
+    "Sniper"
+  ],
+  "fieldBehaviors": [
+    "Soars for long periods without landing",
+    "Dives from high altitude",
+    "Plucks prey from soil or shallow water",
+    "Snatches exposed food from travelers",
+    "Retreats skyward when threatened",
+    "Patrols cliffs and long roads",
+    "Uses a long beak for precise strikes"
+  ],
+  "weaknesses": [
+    "Electric",
+    "Ice",
+    "Rock",
+    "Wing injury",
+    "Storm winds",
+    "Dense canopy",
+    "Large electric predators"
+  ],
+  "resistances": [
+    "Grass",
+    "Bug",
+    "Ground immunity",
+    "Ghost immunity",
+    "Long-distance flight endurance"
+  ],
+  "signsOfPresence": [
+    "Large narrow-wing silhouette",
+    "Long feather shafts below roosts",
+    "Deep beak holes in mud",
+    "Fish scales under perches",
+    "White droppings on cliff ledges",
+    "Sudden silence among smaller birds",
+    "Food stolen from open packs"
+  ],
+  "equipment": [
+    "Helmet or hard hat",
+    "Eye protection",
+    "Thick raptor gloves",
+    "Arm guard",
+    "Covered food container",
+    "Field bandage kit",
+    "Binoculars",
+    "Whistle or noise deterrent",
+    "Shelter tarp"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 5,
+    "stealth": 2,
+    "danger": 4,
+    "usefulness": 3,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 2,
+    "reliability": 2,
+    "resourceCost": 4,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 3,
+    "medicalPriority": 4,
+    "warmth": 1
+  },
+  "fieldNote": "Fearow that circle high and wide are usually searching. Fearow that fly low, silent, and straight have already chosen a route or target.",
+  "visualSymbol": "🪶",
+  "image": "images/pokemon/pokemon-fearow.png",
+  "audio": "audio/pokemon/pokemon-fearow.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Fearow evolves from Spearow when short-winged territorial aggression becomes too costly for a growing bird. Evolution at Level 20 expands the wing area, lengthens the neck, sharpens the beak into a deep probing tool, and shifts the animal from grass defense to aerial patrol. The line likely thrived along old travel routes where insects, rodents, fish, and human food were concentrated. Cliff paths, canyon roads, river crossings, and islands all rewarded birds that could fly longer than rivals and strike from above before prey reached cover.",
+  "evolutionLine": [
+    {
+      "name": "Spearow",
+      "stage": "Base",
+      "method": "Level 20",
+      "note": "Base stage tiny bird Pokemon. Evolves when wing endurance, beak strength, and territorial drive become strong enough for long patrols."
+    },
+    {
+      "name": "Fearow",
+      "stage": "Final",
+      "method": "Final stage",
+      "note": "Adult beak Pokemon. Built for distance flight, high dives, riverbank hunting, and aggressive aerial territory defense."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Spearow Evolution Family",
+    "subtitle": "Evolution Tree - Normal / Flying Type",
+    "mainLine": [
+      {
+        "name": "Spearow",
+        "stage": "Base",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Level 20",
+        "note": "Small territorial grassland bird. Loud alarm calls, rapid wingbeats, and reckless pecking protect its range."
+      },
+      {
+        "name": "Fearow",
+        "stage": "Final",
+        "types": [
+          "Normal",
+          "Flying"
+        ],
+        "symbol": "🪶",
+        "methodToNext": "Final stage",
+        "note": "Long-beaked endurance raptor. Patrols roads, cliffs, fields, and coastlines while hunting insects, fish, and small prey."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "normal",
+    "flying",
+    "bird",
+    "raptor",
+    "beak-risk",
+    "food-theft",
+    "kanto",
+    "johto",
+    "alola",
+    "survival-guide"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Aves-like Aerofauna",
+    "order": "Aviformes Acuti",
+    "family": "Spearowidae",
+    "genus": "Aves rostrum",
+    "species": "Aves rostrum longus"
+  },
+  "humanConflictRisk": "Medium",
+  "domesticationStatus": "Mostly wild; licensed use in aerial scouting and pest control is possible but demanding",
+  "prey": "Fish, rodents, insects, grubs, small birds, Rattata, nestlings, eggs, carrion, and exposed traveler food",
+  "temperamentTriggers": [
+    "Food carried openly",
+    "Nest or roost approach",
+    "Small animals exposed in open routes",
+    "Direct pursuit",
+    "Wing injury",
+    "Rival raptors overhead",
+    "Bright shiny lures",
+    "Crowding at a perch"
+  ],
+  "territoryRange": "Usually 5 to 20 square miles depending on cliffs, food, and wind. Coastal or mountain birds may patrol longer corridors following thermals.",
+  "lifeCycle": "Spearow evolves into Fearow starting at Level 20. Adults claim high perches, broad hunting lanes, and nesting ledges, then patrol by sight over fields, rivers, roads, and shorelines.",
+  "containmentRequirements": "Large licensed aviary or mews, high perches, reinforced flight space, safe weathering area, raptor-grade gloves, controlled feeding stations, injury monitoring, and no public access to feeding zones",
+  "ecologicalRole": "Controls rodents, insects, fish overpopulation in shallow areas, and carrion waste. Also pressures smaller bird Pokemon and shapes open-route animal movement.",
+  "diseaseParasiteRisk": "Low to moderate. Main concerns are feather parasites, beak injuries, contaminated prey, and puncture wound infection after attacks.",
+  "reproductionNesting": "Nests on cliffs, tall trees, route bluffs, canyon ledges, and high human structures. Adults defend airspace with dives and may abandon nests if repeated human disturbance continues.",
+  "predators": "Pidgeot, large electric types, stronger aerial predators, humans, rock-type ambush predators near cliffs, and rival Fearow during territorial conflict",
+  "emergencyResponse": "For repeated dive attacks, move under cover, cover the head, secure food, and leave the territory. Do not fire projectiles upward unless legally authorized and necessary for immediate defense.",
+  "legalStatus": "Often protected as a native aerial predator, but controlled permits may apply around airports, food markets, poultry yards, and high-traffic route corridors.",
+  "stressSicknessSigns": [
+    "Drooping wing",
+    "Broken primaries",
+    "Refusing prey",
+    "Crooked beak closure",
+    "Repeated low perching",
+    "Cloudy eyes",
+    "Unusual silence",
+    "Loss of balance on high perch"
+  ],
+  "lifespan": "Wild: 6 to 12 years. Managed care: 18 to 25 years with expert raptor housing and flight conditioning.",
+  "socialStructure": "Mostly pairs or solitary hunters outside breeding season. Juveniles may linger near Spearow flocks, but adults defend separate hunting lanes.",
+  "fieldCapabilities": {
+    "chargeLevel": "No electric charge. Main hazards are dive force, beak puncture, talon grip, and food snatching.",
+    "electricFieldRange": "No electric field. Dive hazard can begin from hundreds of feet above, with contact risk at the final 3 to 10 ft.",
+    "burstSpeed": "Fast dive and pursuit flight, roughly 45 to 70 mph in field conditions",
+    "dodgeSpeed": "Excellent in open sky, weaker in dense brush or tight indoor spaces",
+    "jumpingHeight": "Ground jump is limited, but takeoff is powerful from perches and ledges",
+    "balance": "Strong perch grip and long tail control during dives and high wind"
+  },
+  "trainingRisk": "Severe puncture wounds, face strikes, food aggression, escape, wing injuries, stress from cramped housing, and handler overconfidence",
+  "physiology": "Fearow has a long neck, broad endurance wings, strong flight muscles, keen eyes, and a long beak shaped for probing soil or water and piercing prey. Its stamina allows all-day flight, making simple distance an unreliable safety measure.",
+  "keyFacts": {
+    "size": "Height: 3 ft 11 in",
+    "weight": "83.8 lbs",
+    "wingspan": "Approx. 5 to 7 ft in field specimens",
+    "lifestyle": "Diurnal aerial predator and route patrol bird",
+    "diet": "Carnivorous-leaning omnivore with fish and small prey focus",
+    "habitat": "Cliffs, open routes, rivers, coastlines, farms, canyons, and mountain roads",
+    "lifespan": "Wild: 6 to 12 years. Managed: 18 to 25 years.",
+    "groupSize": "Usually solitary adult or mated pair"
+  },
+  "domesticationDifficulty": "Very high. Requires expert raptor handling, large flight space, strict feeding control, and public-safety planning.",
+  "physicalCharacteristics": "Large brown bird Pokemon with broad wings, cream flight-feather tips, shaggy neck base, long pink spear-like beak, red head crest, narrow eyes, strong legs, and long tail feathers.",
+  "dietRestrictions": "Avoid spoiled fish, lead-contaminated prey, high-salt human food, excessive fatty scraps, cramped feeding cages, and sudden diet changes that reduce flight condition.",
+  "detailPath": "./data/pokemon/pokemon-fearow.json",
+  "officialBaseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "specialAttack": 61,
+    "specialDefense": 61,
+    "speed": 100,
+    "total": 442
+  },
+  "attacks": [
+    {
+      "name": "Drill Run",
+      "type": "Ground",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 95,
+      "fieldUse": "Diving beak-and-body attack used to strike grounded targets or dig prey from soft soil."
+    },
+    {
+      "name": "Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 35,
+      "accuracy": 100,
+      "fieldUse": "Precise beak strike for insects, fish, or warning jabs."
+    },
+    {
+      "name": "Pluck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Snatch attack used on exposed food, berries, and small prey."
+    },
+    {
+      "name": "Fury Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": 15,
+      "accuracy": 85,
+      "fieldUse": "Repeated stabbing strikes at close range."
+    },
+    {
+      "name": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": null,
+      "fieldUse": "Clean aerial cut from a sudden dive or side pass."
+    },
+    {
+      "name": "Wing Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 60,
+      "accuracy": 100,
+      "fieldUse": "Forceful wing blow during low passes."
+    },
+    {
+      "name": "Drill Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": 80,
+      "accuracy": 100,
+      "fieldUse": "Signature deep piercing attack from the long beak."
+    },
+    {
+      "name": "Roost",
+      "type": "Flying",
+      "category": "Status",
+      "power": null,
+      "accuracy": null,
+      "fieldUse": "Perch recovery behavior after long patrols or wing strain."
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Routes 9, 16, 17, 18, and 23 in various records",
+      "Sevii Island areas including Canyon Entrance, Cape Brink, Kindle Road, Mt. Ember, Ruin Valley, Sevault Canyon, Treasure Beach, and Water Path",
+      "Open roads and cliff-adjacent route corridors"
+    ],
+    "Johto": [
+      "Routes 9, 10, 16, 17, 18, 22, 42, 47, and 48",
+      "High route edges and open grassland hunting lanes"
+    ],
+    "Sinnoh": [
+      "Routes 225, 226, and 227",
+      "Stark Mountain records"
+    ],
+    "Unova": [
+      "Route 15 records"
+    ],
+    "Kalos": [
+      "Victory Road records"
+    ],
+    "Alola": [
+      "Routes 10 and 17, Mount Hokulani, and Poni Plains"
+    ]
+  },
+  "officialEvolutionSummary": {
+    "spearowToFearow": "Spearow evolves into Fearow starting at Level 20.",
+    "finalStage": "Fearow is the final stage of the Spearow line.",
+    "specialForm": "No standard Mega Evolution or regional form is currently part of the main line."
+  },
+  "sourceUseNote": "Core typing, height, weight, abilities, base stats, evolution levels, game location anchors, and move names are based on official-style Pokedex and game database records. Lifespan, ecology, first aid, containment, and real-world field behavior are interpretive survival-guide material for this passion project."
+}

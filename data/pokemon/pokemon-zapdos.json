@@ -1,0 +1,281 @@
+{
+  "id": "pokemon-zapdos",
+  "entryId": "PKMN-0145",
+  "pokedexNumber": "#0145",
+  "name": "Zapdos",
+  "category": "animals",
+  "type": "Electric / Flying Creature",
+  "elementType": "electric-flying",
+  "dangerLevel": "Extreme",
+  "rarity": "Legendary",
+  "region": "Kanto restricted legendary records",
+  "route": "Power Plant, storm cliffs, high-voltage towers, and thunderhead migration routes",
+  "habitat": "forests during storms, power plants, substations, magnetic ridges, and dry grass near wires; also uses open fields, cliffs, route corridors, tall trees, rooftops, and thermal ridges. Field anchors: Power Plant, storm cliffs, high-voltage towers, and thunderhead migration routes",
+  "classification": "Electric Pokemon / Legendary Storm Bird",
+  "height": "5 ft 3 in",
+  "weight": "116.0 lbs",
+  "behaviorTemperament": "Zapdos is best treated as a single stage field organism with electric-type instincts. In the wild it prioritizes food, shelter, breeding security, and escape routes before accepting contact. Stress signs usually appear before attack, but handlers often miss them because the Pokemon's powers look theatrical rather than biological.",
+  "diet": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "activityPattern": "Diurnal to crepuscular, with increased movement before storms or near power surges.",
+  "bestTimeToFind": "Before storms, near substations, power-plant edges, charged trees, or dry grass with static buildup",
+  "observationDifficulty": "High. Record from cover and avoid pursuit.",
+  "conservationStatus": "Strictly protected mythic or legendary species",
+  "populationStatus": "Unknown. Records are rare, restricted, or disputed. Do not treat sightings as ordinary wildlife encounters.",
+  "description": "A Electric / Flying Pokemon listed as Electric Pokemon. This real-world field profile keeps its game powers intact while treating them as biological hazards shaped by habitat, stress, and survival needs.",
+  "lore": "Field records for Zapdos are fragmentary because every credible encounter became a restricted incident. Rangers describe the first reliable reports as less like animal sightings and more like weather, power, fire, or psychic events that happened to have a living center. The locations most often tied to Zapdos include Power Plant, storm cliffs, high-voltage towers, and thunderhead migration routes. Local stories grew around missing tools, strange lights, sudden silence, and terrain altered after the creature passed. Modern protocol is simple: log the sighting, protect civilians, do not pursue, and never assume a legendary or mythic Pokemon is behaving according to ordinary predator logic.",
+  "survivalUse": "Can help a trained ranger locate habitat clues tied to electric activity, such as food sources, shelter, water, weather changes, or dangerous terrain. Usefulness ends quickly if the animal is frightened, hungry, nesting, injured, or evolving.",
+  "handlingWarning": "Do not corner Zapdos, handle it casually, or force contact during feeding, nesting, evolution stress, or injury. Main hazards are electric discharge. Maintain retreat space and use trained handlers for capture or care.",
+  "encounterAdvice": "Keep metal tools low, avoid wet ground, step back from arcing fur or glowing organs, and do not form a hand-to-hand chain near Zapdos.",
+  "firstAid": "For electric shock, break contact safely, check breathing, treat burns, and monitor for heart rhythm symptoms.",
+  "companionSuitability": "Not suitable for private companionship; observation only under elite research or ranger authority",
+  "abilities": [
+    "Pressure",
+    "Static"
+  ],
+  "fieldBehaviors": [
+    "Stores charge before storms",
+    "Discharges when startled",
+    "Chews mineral-rich food after heavy output",
+    "Uses high perches",
+    "Watches open routes",
+    "Retreats upward when threatened"
+  ],
+  "weaknesses": [
+    "Ice",
+    "Rock",
+    "Restricted knowledge",
+    "Provocation",
+    "Crowd panic"
+  ],
+  "resistances": [
+    "Grass",
+    "Fighting",
+    "Flying",
+    "Bug",
+    "Steel",
+    "Ground immunity"
+  ],
+  "signsOfPresence": [
+    "Static-crackling air",
+    "Scorched grass tips",
+    "Magnetized small metal",
+    "Flickering lights",
+    "Burned berry husks",
+    "Hair rising on arms"
+  ],
+  "equipment": [
+    "Field notebook",
+    "Binoculars",
+    "First-aid kit",
+    "Thick gloves",
+    "Eye protection",
+    "Insulated gloves",
+    "Nonconductive pole",
+    "Rubber boots",
+    "Ground-fault awareness",
+    "Helmet",
+    "Arm guard",
+    "Covered food container",
+    "Whistle deterrent"
+  ],
+  "stats": {
+    "power": 4,
+    "speed": 3,
+    "stealth": 2,
+    "danger": 5,
+    "usefulness": 2,
+    "food": 1,
+    "medicine": 1,
+    "identificationDifficulty": 4,
+    "reliability": 1,
+    "resourceCost": 5,
+    "speedOfOnset": 5,
+    "detectability": 3,
+    "preventability": 2,
+    "medicalPriority": 5,
+    "warmth": 1
+  },
+  "fieldNote": "A calm Zapdos usually gives space before contact. A sudden change in sound, posture, glow, scent, temperature, or eye focus should be treated as the final warning before a electric-type response.",
+  "visualSymbol": "⚡",
+  "image": "images/pokemon/pokemon-zapdos.png",
+  "audio": "audio/pokemon/pokemon-zapdos.mp3",
+  "entryAuthor": "Ranger Field Survival Office",
+  "originStory": "Zapdos sits outside ordinary field evolution. Records connect it to Power Plant, storm cliffs, high-voltage towers, and thunderhead migration routes. In a real-world survival context, its biology is treated as a living disaster profile rather than a normal animal profile. The current theory is that its Electric / Flying traits were stabilized by rare energy conditions, extreme isolation, or direct genetic history. Sightings are therefore logged as restricted events, not routine wildlife observations.",
+  "evolutionLine": [
+    {
+      "name": "Zapdos",
+      "stage": "Single Stage",
+      "method": "No standard evolution",
+      "note": "Single-stage Electric / Flying species. Does not evolve within the first-151 field scope."
+    }
+  ],
+  "evolutionTree": {
+    "familyName": "Zapdos Evolution Family",
+    "subtitle": "Evolution Tree - Electric / Flying Type",
+    "mainLine": [
+      {
+        "name": "Zapdos",
+        "stage": "Single Stage",
+        "types": [
+          "Electric",
+          "Flying"
+        ],
+        "symbol": "⚡",
+        "methodToNext": "No standard evolution",
+        "note": "Single-stage Electric / Flying species. Does not evolve within the first-151 field scope."
+      }
+    ],
+    "variants": []
+  },
+  "tags": [
+    "pokemon",
+    "electric",
+    "flying",
+    "kanto",
+    "first-151",
+    "survival-guide",
+    "zapdos"
+  ],
+  "scientificClassification": {
+    "kingdom": "Animalia",
+    "class": "Electrofauna",
+    "order": "Fulguriformes",
+    "family": "Voltidae",
+    "genus": "Zapdos",
+    "species": "zapdos fieldensis"
+  },
+  "humanConflictRisk": "Extreme",
+  "domesticationStatus": "Not domesticated; restricted legendary observation only",
+  "prey": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+  "temperamentTriggers": [
+    "Being cornered",
+    "Nest disturbance",
+    "Hunger",
+    "Injury",
+    "Sudden loud noise",
+    "Forced handling",
+    "Evolution stress",
+    "Improper response to electric-type warning signs"
+  ],
+  "territoryRange": "Unknown and not safely measurable",
+  "lifeCycle": "Hatches or emerges as a juvenile adapted to forests during storms, feeds heavily, defends shelter, and follows this first-151 evolution profile: Zapdos has no standard evolution within the first-151 field scope.",
+  "containmentRequirements": "Requires insulated rooms, grounded metal control, and dry approach paths, food control, shelter enrichment, double-door access, species-specific medical plan, and emergency standoff based on its listed attacks.",
+  "ecologicalRole": "Fills a electric-type niche by regulating prey, plants, waste, terrain, weather pressure, or predator behavior in its native habitat. Removing it can cause local imbalance even when the species is hazardous.",
+  "diseaseParasiteRisk": "Moderate. Concerns include wound infection, parasites from native habitat, stress illness, and secondary exposure related to shock, burns, involuntary muscle lock, equipment failure, and secondary falls",
+  "reproductionNesting": "Breeding details are restricted, unknown, or mythic; do not disturb suspected nests or lairs.",
+  "predators": "Few known predators. Main threats are humans, habitat damage, rival apex Pokemon, and containment errors.",
+  "emergencyResponse": "Secure bystanders, stop pursuit, move to cover, and treat the scene as a electric hazard area. Do not attempt capture unless trained and equipped for Zapdos.",
+  "legalStatus": "Restricted or prohibited to capture without high-level authority",
+  "stressSicknessSigns": [
+    "Refusing food",
+    "Unusual stillness",
+    "Repeated escape attempts",
+    "Discolored discharge or odor",
+    "Dull eyes",
+    "Unstable attack output",
+    "Aggression outside normal warning pattern",
+    "Collapse after exertion"
+  ],
+  "lifespan": "Official lifespan is not stated. Field estimate: legendary or mythic longevity may be decades to centuries or biologically abnormal.",
+  "socialStructure": "Unknown; treat as solitary unless clear evidence says otherwise.",
+  "fieldCapabilities": {
+    "chargeLevel": "Stores bioelectric charge capable of stunning humans and damaging electronics.",
+    "electricFieldRange": "Contact hazard at arm's length; arcing or ground-current risk expands in rain or around metal.",
+    "burstSpeed": "Field burst speed roughly 25 to 45 mph depending on terrain and age",
+    "dodgeSpeed": "High",
+    "jumpingHeight": "Variable by body plan; assume sudden lunges over short obstacles are possible",
+    "balance": "Strong in native habitat; reduced on slick artificial flooring or unfamiliar confinement"
+  },
+  "trainingRisk": "Training risk includes shock, burns, involuntary muscle lock, equipment failure, and secondary falls. Evolution-stage changes can make a formerly safe individual unsafe without warning.",
+  "physiology": "Zapdos's body supports Electric / Flying output through specialized organs, defensive tissues, and stress-responsive behavior. Its attacks are not magic tricks in this guide; they are treated as biological systems that consume energy, create waste heat or toxins, and fail when the animal is sick.",
+  "keyFacts": {
+    "size": "Height: 5 ft 3 in",
+    "weight": "116.0 lbs",
+    "types": "Electric / Flying",
+    "lifestyle": "Single Stage electric-type field organism",
+    "diet": "seeds, fruit, insects, mineral salts, and high-calorie foods to support charge organs; secondary needs include seeds, insects, fish, rodents, eggs, fruit, and carrion depending on beak shape",
+    "habitat": "forests during storms, power plants, substations, magnetic ridges, and dry grass near wires",
+    "lifespan": "Official lifespan not stated; see lifespan field for field estimate.",
+    "groupSize": "Unknown or solitary"
+  },
+  "domesticationDifficulty": "Extreme",
+  "physicalCharacteristics": "Recognizable as electric pokemon with electric / flying adaptations, field coloration, specialized attack structures, and body proportions matching its official Pokédex profile.",
+  "dietRestrictions": "Avoid human junk food, contaminated prey, unfamiliar supplements, forced fasting, and habitat-inappropriate foods. Diet changes should be gradual and matched to type biology.",
+  "detailPath": "./data/pokemon/pokemon-zapdos.json",
+  "officialBaseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "specialAttack": 125,
+    "specialDefense": 90,
+    "speed": 100,
+    "total": 580
+  },
+  "attacks": [
+    {
+      "name": "Thunder",
+      "type": "Electric",
+      "category": "Special",
+      "power": 110,
+      "accuracy": 70,
+      "fieldUse": "storm-channeling lightning strike"
+    },
+    {
+      "name": "Thunder Shock",
+      "type": "Electric",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "short-range stunning pulse"
+    },
+    {
+      "name": "Thunder Wave",
+      "type": "Electric",
+      "category": "Status",
+      "power": null,
+      "accuracy": 90,
+      "fieldUse": "paralyzing electrical field used for escape or capture"
+    },
+    {
+      "name": "Thunderbolt",
+      "type": "Electric",
+      "category": "Special",
+      "power": 90,
+      "accuracy": 100,
+      "fieldUse": "focused discharge that can arc through wet ground and metal"
+    },
+    {
+      "name": "Electro Ball",
+      "type": "Electric",
+      "category": "Special",
+      "power": null,
+      "accuracy": 100,
+      "fieldUse": "speed-based electric burst used by fast individuals"
+    },
+    {
+      "name": "Gust",
+      "type": "Flying",
+      "category": "Special",
+      "power": 40,
+      "accuracy": 100,
+      "fieldUse": "wing-driven dust and wind burst"
+    }
+  ],
+  "gameLocations": {
+    "Kanto": [
+      "Power Plant, storm cliffs, high-voltage towers, and thunderhead migration routes"
+    ],
+    "JohtoAndLater": [
+      "Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and later-region appearances vary by game version and habitat compatibility"
+    ],
+    "realWorldAnalog": [
+      "Use matching terrain analogs rather than real geography alone: old forests, caves, coasts, wetlands, mountains, power corridors, urban margins, or protected preserves depending on the species."
+    ]
+  },
+  "officialEvolutionSummary": {
+    "summary": "Zapdos has no standard evolution within the first-151 field scope.",
+    "currentStage": "Single Stage",
+    "methodFromPrevious": "No standard evolution"
+  },
+  "sourceUseNote": "Core names, numbering, typing, height, weight, base stats, and first-151 evolution methods are based on public Pokedex and game database references. Lifespan, ecology, first aid, containment, and real-world behavior are interpretive survival-guide material for this passion project."
+}

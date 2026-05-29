@@ -1,0 +1,62 @@
+{
+  "id": "blastoise-dossier",
+  "title": "Blastoise Field Dossier",
+  "subtitle": "Expanded lore and historical record",
+  "classification": "Historical Field Dossier",
+  "warning": "Disaster-scale aquatic siege species. Primary hazard: shell-mounted pressure cannons and historical territorial memory.",
+  "sections": [
+    {
+      "title": "Dark Lore",
+      "type": "prose",
+      "content": "Blastoise is why old sailors never trusted a calm harbor.\n\nStorms announce themselves. Sharp rocks wait where maps place them. Gyarados thrash, roar, and leave wreckage anyone can understand. Blastoise is quieter. It can sit beneath black water for hours without breaking the surface. Its shell collects silt. Barnacles gather on the upper plates. Seaweed catches along the cannon housings. From above, it looks like stone, wreckage, or a reef that was not there yesterday.\n\nThen the reef exhales.\n\nThe first sign is pressure. Wooden hulls groan. Dock chains tighten. Fish scatter. The water dips inward as if something has drawn a breath through the harbor. By the time the cannons rise, the target has usually already lost.\n\nBlastoise does not spray water like Squirtle or strike like Wartortle. It fires. Its blast is compressed force shaped through reinforced biological channels, shell reservoirs, and muscular pressure organs. A trained Blastoise can knock down stone walls, disable ships, break harbor gates, and punch holes through weaker hulls below the waterline. A wild Blastoise does not need to aim well. Against boats, bridges, docks, or people standing too close to shore, force alone is enough.\n\nOld Kanto ports called them harbor guns.\n\nA frightened Squirtle pulls you into water because it thinks water is safe. A frightened Wartortle restrains you because territory must be controlled. A frightened Blastoise removes the shape of the threat. That threat may be a predator, a boat, a building, or the dock your rescue team is standing on.\n\nMost people never see a Blastoise on land. That is lucky. A beached Blastoise is one of the most dangerous sights in coastal field work. Its weight makes it slow but not helpless. It digs into mud with heavy claws, anchors its shell, and becomes a living siege engine. If frightened, it braces. Then it clears everything in front of it.\n\nBlastoise colonies are rare, but when one claims a harbor, the city changes around it. Boats stop anchoring in certain channels. Children are forbidden from throwing stones off the quay. Bells are rung before dredging. Bodies lost to the water are not dragged near old shell grounds without offerings, permits, or trained Water-type handlers.\n\nA Blastoise may tolerate humans for years if boundaries are respected. Some old ports survived because of them. Blastoise have broken pirate ships, held floodgates closed with their bodies, carried drowning sailors to breakwaters, and defended coastal towns from larger sea predators. A bonded Blastoise is one of the most reliable protectors in the Pokémon world. But it does not protect gently.\n\nA Blastoise protecting a harbor may sink an unknown boat before anyone aboard understands they have crossed into protected water. It does not understand paperwork. It understands load, threat, angle, current, and consequence.\n\nOld Blastoise are terrifying because they defend history. There are records of attacks on boats built from wood salvaged from ships that raided nesting grounds decades earlier. Some specimens fired on uniforms matching old harbor militias long after the conflict ended. A coastal family claimed their dock was struck every spring for forty years because an ancestor stole a Wartortle egg. No one rebuilt the dock in the same place after the third strike.\n\nThe cannons are the center of most legends, but the shell may be worse. Old shells show scars, mineral deposits, dents, burns, embedded metal, and sometimes evidence of human modification: fitted rings, reinforcement collars, pressure scars, and healed tissue around artificial braces. Early harbor authorities wanted more range, more pressure, and more obedience. They turned a shoreline guardian into a weapon and acted surprised when the weapon remembered.\n\nIf a Squirtle steals from you, let it keep the thing. If a Wartortle blocks your path, find another path. If a Blastoise turns its shell toward you, stop moving. If the cannons rise, you are no longer negotiating with an animal. You are standing in front of a decision."
+    },
+    {
+      "title": "Origin Story",
+      "type": "prose",
+      "content": "Blastoise was formally documented in **1841**, seventeen years after Wartortle was confirmed and twenty-nine years after Squirtle was first recorded at Old Harrow Quay.\n\nSailors and harbor guards had described cannon-backed shell beasts for generations, but evidence was hard to recover. Ships sank. Docks broke. Witnesses saw a shape in rough water, heard a pressure boom, and spent the rest of the night trying not to drown. Early naturalists resisted linking such a creature to Squirtle because Blastoise seemed too heavy, too militarized, and too destructive.\n\nThe event that forced recognition was the Blackwake Sound Harbor-Pressure Incident. Blackwake Sound was a deep coastal harbor built over an older flooded river mouth, with submerged stonework, quiet side channels, and a history of flooding. In 1841, naval yard expansion required dredging the southern basin. Local fishermen warned that the lower channel belonged to “the shell guns.” The harbor master dismissed them and ordered work to continue.\n\nOn the fourth morning, the first barge split—not sank, but split. Its bottom buckled upward then burst outward as if struck by a submerged ram. Workers heard a cannon fire underwater. A second barge lost its rudder. A third was shoved sideways into the quay. Near noon, water between the barges began to boil. A large blue Pokémon surfaced, broad and scarred, with two cannon-like structures protruding from its upper shell. It placed itself between dredges and the old flooded channel, then fired a pressure blast that destroyed the main winch tower.\n\nThe harbor guard opened fire. It was remembered as a poor decision by everyone who survived. The Blastoise submerged, circled beneath the pier, and fired upward through support pilings. Half the military dock collapsed. The standoff lasted six hours.\n\nIt ended when Water-type handler Sella Morcant entered the basin with three Wartortle from a protected inland colony. The Blastoise did not attack them. It surfaced, lowered its cannons, and allowed them to approach. One Wartortle touched its shell near a crescent-shaped scar. Morcant recognized the scar from an 1824 sketch taken at Old Harrow Quay. The Blastoise had once belonged to the same known line.\n\nThe chronology became complete: 1812 Squirtle, 1824 Wartortle, 1841 Blastoise.\n\nLater examination suggested the cannon systems were biological but not untouched by human selection. Blackwake archives revealed old private harbor militias had captured Wartortle and attempted to breed heavier defensive forms against pirates. Some escaped or were abandoned. The 1841 Blastoise may have descended from those experiments—or may have been one of them.\n\nThe consensus among darker field circles remains uncomfortable: nature made the shell, the river made the guardian, humans made the artillery. Modern Blastoise are protected species and living historical hazards. Some suffer shell pressure fractures, reservoir infections, cannon misalignment, internal scarring, and chronic pain from overdeveloped pressure organs. A Blastoise may save a city from flood, sink its fleet, or carry a child to shore before breaking the rescue boat because its engine sounds too much like the dredges that came for its nest."
+    },
+    {
+      "title": "Historical Timeline",
+      "type": "timeline",
+      "items": [
+        {
+          "date": "1812",
+          "text": "Squirtle formally recorded at Old Harrow Quay."
+        },
+        {
+          "date": "1824",
+          "text": "Wartortle confirmed as the evolved guardian stage."
+        },
+        {
+          "date": "1841",
+          "text": "Blastoise formally documented during the Blackwake Sound Harbor-Pressure Incident."
+        },
+        {
+          "date": "After 1841",
+          "text": "Blackwake Sound marked the southern basin as claimed water and restricted dredging."
+        }
+      ]
+    },
+    {
+      "title": "Field Rules Background",
+      "type": "rules",
+      "items": [
+        "If a Blastoise turns its shell toward you, stop moving.",
+        "If the cannons rise, do not negotiate; withdraw.",
+        "Do not dredge old flooded channels without Water-type survey teams.",
+        "Do not fire weapons at harbor guardians.",
+        "Treat old shell grounds as claimed water."
+      ]
+    },
+    {
+      "title": "Cultural Notes",
+      "type": "list",
+      "items": [
+        "Old ports called Blastoise harbor guns.",
+        "Blackwake Sound installed bells before harbor construction after 1841.",
+        "The southern basin became marked as claimed water.",
+        "Some memorial names include Breakwater, Old Blue, Chapelback, Flood-Toll, and Blackwake Father."
+      ]
+    }
+  ]
+}

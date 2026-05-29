@@ -85,6 +85,8 @@
   }
 
   function enhanceLoreOrOrigin(heading) {
+    // DOSSIER_SKIP_COLLAPSE_PATCH
+    if (heading && heading.closest && heading.closest("#dossier-screen")) return;
     if (!isTargetHeading(heading.textContent)) return;
 
     const card = findCardForHeading(heading);
@@ -135,6 +137,8 @@
   }
 
   function hideRelatedEntries(heading) {
+    // DOSSIER_SKIP_RELATED_PATCH
+    if (heading && heading.closest && heading.closest("#dossier-screen")) return;
     if (!isRelatedHeading(heading.textContent)) return;
 
     const card = findCardForHeading(heading);
@@ -179,3 +183,5 @@
     subtree: true
   });
 })();
+
+
