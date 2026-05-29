@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = "field-pokedex-20260528-195553";
+﻿const CACHE_NAME = "field-pokedex-20260528-203858";
 
 const FILES_TO_CACHE = [
   "./",
